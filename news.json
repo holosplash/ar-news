@@ -1,0 +1,280 @@
+{
+ "version": 2,
+ "updated": "2026-10-06T06:25:18Z",
+ "fallback": "en",
+ "regions": [
+  {
+   "id": "de",
+   "source": "tagesschau",
+   "lang": "de",
+   "countries": [
+    "DE",
+    "AT",
+    "LI",
+    "LU"
+   ],
+   "items": [
+    {
+     "title": "Graureiher in Belgien, \"Schwanensee\" in Mexiko-Stadt, Haiskelett in Somalia",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10488.html",
+     "time": "2026-10-06T06:18:30Z"
+    },
+    {
+     "title": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
+     "time": "2026-10-06T05:30:33Z"
+    },
+    {
+     "title": "Marktbericht: Positive Vorzeichen könnten DAX beflügeln",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
+     "time": "2026-10-06T05:29:40Z"
+    },
+    {
+     "title": "Debatte über Meinungsfreiheit: Warum viele ihre Meinung lieber für sich behalten",
+     "url": "https://www.tagesschau.de/ausland/amerika/free-speech-usa-100.html",
+     "time": "2026-10-06T05:22:59Z"
+    },
+    {
+     "title": "11KM-Podcast: Schikanen und Übergriffe - Sexismus in der Medizin",
+     "url": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-medizin-machtmissbrauch-100.html",
+     "time": "2026-10-06T05:19:03Z"
+    },
+    {
+     "title": "\"Zentrale Rolle bei Vetternwirtschaftsaffäre der AfD\", Claudia Reiser, MDR, zum Landtagspräsidentkandidaten Tobias Rausch",
+     "url": "https://www.tagesschau.de/video/video-1661168.html",
+     "time": "2026-10-06T04:54:47Z"
+    },
+    {
+     "title": "Erste konstituierende Sitzung des Landtag in Sachsen-Anhalt",
+     "url": "https://www.tagesschau.de/video/video-1661156.html",
+     "time": "2026-10-06T04:47:35Z"
+    },
+    {
+     "title": "\"Hallo\" statt \"Privjet\": An Lettlands Schulen ist Russisch verboten",
+     "url": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
+     "time": "2026-10-06T04:46:48Z"
+    },
+    {
+     "title": "Warum ein Studium keine Jobgarantie mehr ist",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/ausbildung-oder-studium-was-lohnt-sich-100.html",
+     "time": "2026-10-06T04:23:54Z"
+    },
+    {
+     "title": "Frankfurter Buchmesse von Existenzangst und KI-Sorgen überschattet",
+     "url": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
+     "time": "2026-10-06T04:22:55Z"
+    },
+    {
+     "title": "Wie starre Hierarchien in Kliniken Machtmissbrauch ermöglichen",
+     "url": "https://www.tagesschau.de/investigativ/ndr/medtoo-machtmissbrauch-krankenhaus-100.html",
+     "time": "2026-10-06T04:21:58Z"
+    },
+    {
+     "title": "Neuer Marinehafen, Wildunfälle, \"Cat in the hat\"",
+     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/audio-neuer-marine-hafen-in-emden-100.html",
+     "time": "2026-10-06T03:55:21Z"
+    }
+   ]
+  },
+  {
+   "id": "ch",
+   "source": "SRF News",
+   "lang": "de",
+   "countries": [
+    "CH"
+   ],
+   "items": [
+    {
+     "title": "Teurere Fahrstunden? – Der hohe Benzinpreis belastet auch Fahrlehrer",
+     "url": "https://www.srf.ch/news/wirtschaft/teurere-fahrstunden-der-hohe-benzinpreis-belastet-auch-fahrlehrer",
+     "time": "2026-10-06T06:10:59Z"
+    },
+    {
+     "title": "Trockenheit und Futternot – Mehr Tiere im Ring: die Folgen des trockenen Sommers",
+     "url": "https://www.srf.ch/news/schweiz/trockenheit-und-futternot-mehr-tiere-im-ring-die-folgen-des-trockenen-sommers",
+     "time": "2026-10-06T05:08:35Z"
+    },
+    {
+     "title": "Konversionstherapien – Wenn der Glaube die sexuelle Orientierung «heilen» soll",
+     "url": "https://www.srf.ch/news/schweiz/konversionstherapien-wenn-der-glaube-die-sexuelle-orientierung-heilen-soll",
+     "time": "2026-10-06T05:04:33Z"
+    },
+    {
+     "title": "Zwischen Berlin und Nahost – «Die Linke hat ein strukturelles Antisemitismusproblem»",
+     "url": "https://www.srf.ch/news/international/nahost/zwischen-berlin-und-nahost-die-linke-hat-ein-strukturelles-antisemitismusproblem",
+     "time": "2026-10-06T04:59:52Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Selenski hofft auf Dreiertreffen im Oktober",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-hofft-auf-dreiertreffen-im-oktober",
+     "time": "2026-10-06T04:04:04Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Mekka-Allianz beschliesst Truppeneinsatz nach Huthi-Angriff",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-mekka-allianz-beschliesst-truppeneinsatz-nach-huthi-angriff",
+     "time": "2026-10-06T04:03:46Z"
+    },
+    {
+     "title": "Neues Beratungsangebot – Deshalb setzt die Dargebotene Hand neu auf einen KI-Chatbot",
+     "url": "https://www.srf.ch/news/schweiz/neues-beratungsangebot-deshalb-setzt-die-dargebotene-hand-neu-auf-einen-ki-chatbot",
+     "time": "2026-10-06T03:58:19Z"
+    },
+    {
+     "title": "Finanzen Opernhaus Zürich – Intendant: «Das Opernhaus ist wie ein Schwimmbad»",
+     "url": "https://www.srf.ch/news/wirtschaft/finanzen-opernhaus-zuerich-intendant-das-opernhaus-ist-wie-ein-schwimmbad",
+     "time": "2026-10-06T03:53:08Z"
+    },
+    {
+     "title": "Verdacht auf Geldwäscherei – Der wilde Westen der Schweizer Barbershops",
+     "url": "https://www.srf.ch/news/dialog/verdacht-auf-geldwaescherei-der-wilde-westen-der-schweizer-barbershops",
+     "time": "2026-10-06T03:51:36Z"
+    },
+    {
+     "title": "– Der wilde Westen der Schweizer Barbershops",
+     "url": "https://www.srf.ch/news/dialog/verdacht-auf-geldwaescherei-der-wilde-westen-der-schweizer-barbershops",
+     "time": "2026-10-06T03:51:36Z"
+    },
+    {
+     "title": "Laut ETH-Studie – Schlimmstes Klimaszenario für die Schweiz wird wahrscheinlicher",
+     "url": "https://www.srf.ch/news/dialog/laut-eth-studie-schlimmstes-klimaszenario-fuer-die-schweiz-wird-wahrscheinlicher",
+     "time": "2026-10-06T03:50:16Z"
+    },
+    {
+     "title": "Ben Gurion Airport – Flydubai-Copilot wollte laut Medien Flughafen in Tel Aviv treffen",
+     "url": "https://www.srf.ch/news/international/ben-gurion-airport-flydubai-copilot-wollte-laut-medien-flughafen-in-tel-aviv-treffen",
+     "time": "2026-10-06T02:31:04Z"
+    }
+   ]
+  },
+  {
+   "id": "it",
+   "source": "ANSA",
+   "lang": "it",
+   "countries": [
+    "IT",
+    "SM",
+    "VA"
+   ],
+   "items": [
+    {
+     "title": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/houthi-abbiamo-colpito-laeroporto-di-riad-e-una-raffineria-di-aramco_637eb0fd-e497-4481-9057-99c6bc63522f.html",
+     "time": "2026-10-05T21:33:42Z"
+    },
+    {
+     "title": "Nations League: Mancini 'sofferto all'inizio ma bravi a riprendere la partita'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/nations-league-mancini-sofferto-allinizio-ma-bravi-a-riprendere-la-partita_c4f0deaf-7f58-4579-a588-51bc09859c4f.html",
+     "time": "2026-10-05T20:50:38Z"
+    },
+    {
+     "title": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/da-domani-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_b79776ad-0865-4292-9ca1-0f880559675b.html",
+     "time": "2026-10-05T20:24:47Z"
+    },
+    {
+     "title": "Trump, il risultato di Bolsonaro in Brasile una 'grande vittoria'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/trump-il-risultato-di-bolsonaro-in-brasile-una-grande-vittoria_4f928575-3079-45a6-b4ae-0ea99dac62a1.html",
+     "time": "2026-10-05T20:21:18Z"
+    },
+    {
+     "title": "Turchia e Pakistan invieranno forze militari in Arabia Saudita",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/turchia-e-pakistan-invieranno-forze-militari-in-arabia-saudita_160ab548-9023-4a59-8046-279a1f95a0bf.html",
+     "time": "2026-10-05T19:09:07Z"
+    },
+    {
+     "title": "Il copilota, 'l'ho fatto per vendicare Gaza, volevo morire da martire'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/il-copilota-lho-fatto-per-vendicare-gaza-volevo-morire-da-martire_56884ce4-93a0-4a9a-86a3-918d6a034c8d.html",
+     "time": "2026-10-05T18:16:25Z"
+    },
+    {
+     "title": "Calcio: 6-2 alla Polonia, l'Italia Under 21 si qualifica agli Europei 2027",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/calcio-6-2-alla-polonia-litalia-under-21-si-qualifica-agli-europei-2027_e64702ac-3ef9-4425-9341-a079251c4762.html",
+     "time": "2026-10-05T18:08:50Z"
+    },
+    {
+     "title": "Luongo al Tg1, se qualcuno dell'Arma ha sbagliato su Garlasco pagherà",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/luongo-al-tg1-se-qualcuno-dellarma-ha-sbagliato-su-garlasco-paghera_64a0c1bb-8e52-4e4a-8542-764f7fbb349c.html",
+     "time": "2026-10-05T17:44:27Z"
+    },
+    {
+     "title": "Corte Bergamo rigetta la richiesta di nuove analisi sui reperti di Yara",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/corte-bergamo-rigetta-la-richiesta-di-nuove-analisi-sui-reperti-di-yara_f9b31511-dc4b-4a6e-8bf8-8dd1f40aa72b.html",
+     "time": "2026-10-05T16:27:57Z"
+    },
+    {
+     "title": "Lo spread tra Btp e Bund chiude stabile a 113 punti base",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/05/lo-spread-tra-btp-e-bund-chiude-stabile-a-113-punti-base_e326734e-ff2e-450e-a1d3-018f0f431959.html",
+     "time": "2026-10-05T16:09:19Z"
+    }
+   ]
+  },
+  {
+   "id": "en",
+   "source": "BBC News",
+   "lang": "en",
+   "countries": [],
+   "items": [
+    {
+     "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+     "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T06:00:53Z"
+    },
+    {
+     "title": "Yemeni military says it has 'secured' Red Sea waterway",
+     "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T04:29:53Z"
+    },
+    {
+     "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+     "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T04:25:22Z"
+    },
+    {
+     "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+     "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T02:37:46Z"
+    },
+    {
+     "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
+     "url": "https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T02:36:21Z"
+    },
+    {
+     "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T02:22:24Z"
+    },
+    {
+     "title": "A simple guide to the US midterms",
+     "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-05T23:40:58Z"
+    },
+    {
+     "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-05T23:07:08Z"
+    },
+    {
+     "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-05T22:58:25Z"
+    },
+    {
+     "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+     "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-05T22:28:02Z"
+    },
+    {
+     "title": "US 'watching closely' after plague researcher dies in Russia",
+     "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-05T21:33:49Z"
+    },
+    {
+     "title": "France braces for national day of school protests after injuries and mass arrests",
+     "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-05T21:18:10Z"
+    }
+   ]
+  }
+ ]
+}
