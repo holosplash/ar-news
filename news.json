@@ -1,6 +1,6 @@
 {
- "version": 2,
- "updated": "2026-10-06T06:25:18Z",
+ "version": 3,
+ "updated": "2026-10-06T06:29:24Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,11 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Nach mutmaßlicher Gruppenvergewaltigung an US-Uni solidarisieren sich viele mit dem Opfer",
+     "url": "https://www.tagesschau.de/video/video-1661186.html",
+     "time": "2026-10-06T06:26:10Z"
+    },
     {
      "title": "Graureiher in Belgien, \"Schwanensee\" in Mexiko-Stadt, Haiskelett in Somalia",
      "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10488.html",
@@ -68,11 +73,6 @@
      "title": "Wie starre Hierarchien in Kliniken Machtmissbrauch ermöglichen",
      "url": "https://www.tagesschau.de/investigativ/ndr/medtoo-machtmissbrauch-krankenhaus-100.html",
      "time": "2026-10-06T04:21:58Z"
-    },
-    {
-     "title": "Neuer Marinehafen, Wildunfälle, \"Cat in the hat\"",
-     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/audio-neuer-marine-hafen-in-emden-100.html",
-     "time": "2026-10-06T03:55:21Z"
     }
    ]
   },
