@@ -1,6 +1,6 @@
 {
- "version": 4,
- "updated": "2026-10-06T13:33:30Z",
+ "version": 5,
+ "updated": "2026-10-06T19:01:18Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Tankstellen: Verstöße gegen die 12-Uhr-Regel werden weniger",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/zwoelf-uhr-tank-regel-100.html",
-     "time": "2026-10-06T13:29:54Z"
+     "title": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
+     "url": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
+     "time": "2026-10-06T18:57:31Z"
     },
     {
-     "title": "Wahl Sachsen-Anhalt im Liveticker: AfD-Politiker Rausch mit mehr Ja-Stimmen gewählt als erwartet",
-     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/liveticker-erste-sitzung-landtagspraesident-rausch,landtag-sachsen-anhalt-338.html",
-     "time": "2026-10-06T13:28:08Z"
+     "title": "Wahl Sachsen-Anhalt im Liveticker: CDU stellt zweiten Landtags-Vizepräsidenten",
+     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/liveticker-erste-sitzung-vizepraesident-tillschneider,landtag-sachsen-anhalt-338.html",
+     "time": "2026-10-06T18:46:53Z"
     },
     {
-     "title": "Gericht weist Klage Hinterbliebener im Germanwings-Prozess ab",
-     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/prozess-um-germanwings-absturz-klage-von-angehoerigen-abgewiesen,germanwings-452.html",
-     "time": "2026-10-06T13:26:42Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81294.html",
+     "time": "2026-10-06T18:31:29Z"
     },
     {
-     "title": "Florian Flade, ARD Berlin, über den Spionageverdacht gegen Ex-BND-Chef Hanning",
-     "url": "https://www.tagesschau.de/video/video-1661422.html",
-     "time": "2026-10-06T13:08:33Z"
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12292.html",
+     "time": "2026-10-06T18:30:52Z"
     },
     {
-     "title": "Sabine Falk-Bartz, MDR, zur Wahl eines AfD-Landtagspräsidenten in Sachsen-Anhalt",
-     "url": "https://www.tagesschau.de/video/video-1661420.html",
-     "time": "2026-10-06T13:06:24Z"
+     "title": "Deutsche U21 fährt dank Sieg gegen Georgien zur EM 2027",
+     "url": "https://www.sportschau.de/fussball/u21/deutsche-u21-faehrt-dank-sieg-gegen-georgien-zur-em-2027,u21-em-qualifikation-100.html",
+     "time": "2026-10-06T18:26:55Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12906.html",
-     "time": "2026-10-06T13:03:52Z"
+     "title": "Reaktionen aus der Bundespolitik über die Wahl des Landtagspräsidenten in Sachsen-Anhalt",
+     "url": "https://www.tagesschau.de/video/video-1661692.html",
+     "time": "2026-10-06T18:09:16Z"
     },
     {
-     "title": "Christian Stichler, ARD Stockholm, zur Vergabe des Nobelpreises für Physik",
-     "url": "https://www.tagesschau.de/video/video-1661374.html",
-     "time": "2026-10-06T12:24:12Z"
+     "title": "AfD-Politiker Rausch zum neuen Landtagspräsidenten in Sachsen-Anhalt gewählt",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1661690.html",
+     "time": "2026-10-06T18:07:42Z"
     },
     {
-     "title": "Rheinmetall erschließt sich das Weltall",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-rheinmetall-weltall-100.html",
-     "time": "2026-10-06T12:09:30Z"
+     "title": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
+     "url": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
+     "time": "2026-10-06T18:01:14Z"
     },
     {
-     "title": "Sinners Saison-Aus vergrößert Zverevs Chancen",
-     "url": "https://www.sportschau.de/tennis/zverevs-weg-an-die-spitze-der-weltrangliste,zverevs-weg-weltrangliste-platz-eins-100.html",
-     "time": "2026-10-06T11:55:08Z"
+     "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
+     "time": "2026-10-06T17:43:36Z"
     },
     {
-     "title": "Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html",
-     "time": "2026-10-06T11:47:11Z"
+     "title": "Marktbericht: Neue Zuversicht an der Börse",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
+     "time": "2026-10-06T17:10:54Z"
     },
     {
-     "title": "Tarifabschluss für Beschäftigte in deutschen Seehäfen",
-     "url": "https://www.tagesschau.de/inland/regional/hamburg/streiks-in-deutschen-seehaefen-abgewendet,seehaefen-120.html",
-     "time": "2026-10-06T11:32:34Z"
+     "title": "Ärger in Berlin nach AfD-Erfolg in Sachsen-Anhalt",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
+     "time": "2026-10-06T17:05:00Z"
     },
     {
-     "title": "Ausstellung \"The 90s: Art and Fashion\" in der Tate Britain, Graureiher in Belgien, \"Schwanensee\" in Mexiko-Stadt",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10488.html",
-     "time": "2026-10-06T11:22:03Z"
+     "title": "Propaganda, Dementi und Unklarheit im Jemen-Krieg",
+     "url": "https://www.tagesschau.de/ausland/asien/jemen-propaganda-kaempfe-100.html",
+     "time": "2026-10-06T16:31:55Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Krieg in der Ukraine – Schweden will Patriot-Luftabwehr-Systeme nach Polen liefern",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-schweden-will-patriot-luftabwehr-systeme-nach-polen-liefern",
-     "time": "2026-10-06T13:28:32Z"
+     "title": "1:7 gegen Frankreich – Keine Chance, keine Schützenhilfe: U21-Nati verpasst EM",
+     "url": "https://www.srf.ch/sport/fussball/u21/1-7-gegen-frankreich-keine-chance-keine-schuetzenhilfe-u21-nati-verpasst-em",
+     "time": "2026-10-06T18:53:09Z"
     },
     {
-     "title": "Nobelpreis 2026 – Physik-Nobelpreis geht an Neutrinoforscher Francis Halzen",
-     "url": "https://www.srf.ch/wissen/nobelpreise/nobelpreis-2026-physik-nobelpreis-geht-an-neutrinoforscher-francis-halzen",
-     "time": "2026-10-06T13:14:33Z"
-    },
-    {
-     "title": "Neue Zahlen zum Arbeitsmarkt – Arbeitslosenquote verharrt im September auf 3 Prozent",
-     "url": "https://www.srf.ch/news/wirtschaft/neue-zahlen-zum-arbeitsmarkt-arbeitslosenquote-verharrt-im-september-auf-3-prozent",
-     "time": "2026-10-06T12:51:49Z"
-    },
-    {
-     "title": "Stimmen aus der Community – «dialog»-Community: Die gewaltfreie Erziehung polarisiert",
-     "url": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-dialog-community-die-gewaltfreie-erziehung-polarisiert",
-     "time": "2026-10-06T12:47:58Z"
+     "title": "EU-Erweiterung – Wie die EU-Kommission den Beitritt anpassen will",
+     "url": "https://www.srf.ch/news/international/eu-erweiterung-wie-die-eu-kommission-den-beitritt-anpassen-will",
+     "time": "2026-10-06T18:52:29Z"
     },
     {
      "title": "Krieg im Nahen Osten – Mekka-Allianz beschliesst Truppeneinsatz nach Huthi-Angriff",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-mekka-allianz-beschliesst-truppeneinsatz-nach-huthi-angriff",
-     "time": "2026-10-06T12:47:33Z"
+     "time": "2026-10-06T18:08:19Z"
     },
     {
-     "title": "Darts-Spektakel in Basel – Littler fehlt – Bellmont muss sich noch qualifizieren",
-     "url": "https://www.srf.ch/sport/mehr-sport/darts-spektakel-in-basel-littler-fehlt-bellmont-muss-sich-noch-qualifizieren",
-     "time": "2026-10-06T12:30:35Z"
+     "title": "Krieg in der Ukraine – Schweden will Patriot-Luftabwehr-Systeme nach Polen liefern",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-schweden-will-patriot-luftabwehr-systeme-nach-polen-liefern",
+     "time": "2026-10-06T17:36:37Z"
     },
     {
-     "title": "Separatistenführer Katalonien – Haftbefehl gegen Puigdemont aufgehoben – Rückkehr möglich",
-     "url": "https://www.srf.ch/news/international/separatistenfuehrer-katalonien-haftbefehl-gegen-puigdemont-aufgehoben-rueckkehr-moeglich",
-     "time": "2026-10-06T12:26:11Z"
+     "title": "Russische Atomdrohung – Die Drohung mit Atombomben nützt sich ab",
+     "url": "https://www.srf.ch/news/international/russische-atomdrohung-die-drohung-mit-atombomben-nuetzt-sich-ab",
+     "time": "2026-10-06T17:34:54Z"
     },
     {
-     "title": "Verbot von Böllern – Nein-Kampagne gegen Feuerwerksinitiative lanciert",
-     "url": "https://www.srf.ch/news/schweiz/verbot-von-boellern-nein-kampagne-gegen-feuerwerksinitiative-lanciert",
-     "time": "2026-10-06T12:25:23Z"
+     "title": "Nationaler Aktionstag – Schülerproteste in Frankreich erreichen neuen Höhepunkt",
+     "url": "https://www.srf.ch/news/international/nationaler-aktionstag-schuelerproteste-in-frankreich-erreichen-neuen-hoehepunkt",
+     "time": "2026-10-06T17:30:27Z"
     },
     {
-     "title": "Nachhaltigere Toiletten – «Es braucht ein Umdenken, vielleicht auch mehr Leidensdruck»",
-     "url": "https://www.srf.ch/radio-srf-1/nachhaltigere-toiletten-es-braucht-ein-umdenken-vielleicht-auch-mehr-leidensdruck",
-     "time": "2026-10-06T12:19:42Z"
+     "title": "Derzeit auf Playoff-Platz – Ajoies Super-Saisonstart: Viel Einsatzwille, Top-Ausländer",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/derzeit-auf-playoff-platz-ajoies-super-saisonstart-viel-einsatzwille-top-auslaender",
+     "time": "2026-10-06T17:23:31Z"
     },
     {
-     "title": "Jobs in Redaktionen gestrichen – 34 Stellen weg bei Tamedia – ohne Einfluss auf Qualität?",
-     "url": "https://www.srf.ch/news/wirtschaft/jobs-in-redaktionen-gestrichen-34-stellen-weg-bei-tamedia-ohne-einfluss-auf-qualitaet",
-     "time": "2026-10-06T11:47:42Z"
+     "title": "SP, Grüne, GLP, teils Mitte – Referendum gegen neue AKW in Bern eingereicht",
+     "url": "https://www.srf.ch/news/schweiz/sp-gruene-glp-teils-mitte-referendum-gegen-neue-akw-in-bern-eingereicht",
+     "time": "2026-10-06T17:10:56Z"
     },
     {
-     "title": "Zverev wird die Nummer 1 – Sinner muss die Saison vorzeitig beenden",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/zverev-wird-die-nummer-1-sinner-muss-die-saison-vorzeitig-beenden",
-     "time": "2026-10-06T11:40:44Z"
+     "title": "Gespritzte Muskeln – Im gefährlichen Rausch der Steroide",
+     "url": "https://www.srf.ch/wissen/mensch/gespritzte-muskeln-im-gefaehrlichen-rausch-der-steroide",
+     "time": "2026-10-06T17:00:18Z"
     },
     {
-     "title": "Infantino unter Beschuss – Wirbel um WM-Goalie Mpasi",
-     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/infantino-unter-beschuss-wirbel-um-wm-goalie-mpasi",
-     "time": "2026-10-06T11:27:56Z"
+     "title": "Nach Protesten in Frankreich – «Nicht weiterleiten» – Walliser Polizei warnt vor Schulprotesten",
+     "url": "https://www.srf.ch/news/schweiz/nach-protesten-in-frankreich-walliser-polizei-will-aufrufe-zu-schulprotesten-unterbinden",
+     "time": "2026-10-06T16:01:13Z"
+    },
+    {
+     "title": "Vorwürfe an US-Elite-Uni – Die «Cornell 7» am Pranger: Das Internet wird zum Gerichtssaal",
+     "url": "https://www.srf.ch/news/international/vorwuerfe-an-us-elite-uni-die-cornell-7-am-pranger-das-internet-wird-zum-gerichtssaal",
+     "time": "2026-10-06T15:59:07Z"
+    },
+    {
+     "title": "Brand in Oberwinterthur – Tote Person nach Brand in Oberwinterthur gefunden",
+     "url": "https://www.srf.ch/news/schweiz/brand-in-oberwinterthur-tote-person-nach-brand-in-oberwinterthur-gefunden",
+     "time": "2026-10-06T15:41:10Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Nel 2027 spesa pensioni a 366 miliardi, aumenta di 14,7 miliardi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/nel-2027-spesa-pensioni-a-366-miliardi-aumenta-di-147-miliardi_aaa9438c-d653-4cd4-a23f-26508b93894a.html",
-     "time": "2026-10-06T13:20:28Z"
+     "title": "Sempio, 'nessun errore giudiziario su Alberto Stasi, condanna giusta'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/sempio-nessun-errore-giudiziario-su-alberto-stasi-condanna-giusta_1e432088-a63b-4988-825a-885694495451.html",
+     "time": "2026-10-06T17:50:19Z"
     },
     {
-     "title": "Il petrolio cede terreno a New York, a 87,05 dollari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/il-petrolio-cede-terreno-a-new-york-a-8705-dollari_93cf951a-7560-46de-99f0-3116c3b4fba1.html",
-     "time": "2026-10-06T13:15:03Z"
+     "title": "Borsa: Milano in rialzo, banche sempre sotto i riflettori",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/borsa-milano-in-rialzo-banche-sempre-sotto-i-riflettori_3ee48ce1-d0cb-4db3-bbda-1a901dcf5f09.html",
+     "time": "2026-10-06T16:28:58Z"
     },
     {
-     "title": "Anci,'il bando per i balneari presenta criticità, rivedere il testo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/anciil-bando-per-i-balneari-presenta-criticita-rivedere-il-testo_8eb42a6e-0184-46d5-945d-7a9620de5985.html",
-     "time": "2026-10-06T13:12:51Z"
+     "title": "Trump, 'Islam e immigrazione responsabili di quanto accade in Francia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/trump-islam-e-immigrazione-responsabili-di-quanto-accade-in-francia_71ee15dc-5e7a-4dec-bc19-c488065e3c6d.html",
+     "time": "2026-10-06T16:18:12Z"
     },
     {
-     "title": "Leo, accise mobili? Ci stiamo ragionando, non c'è una decisione presa",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/leo-accise-mobili-ci-stiamo-ragionando-non-ce-una-decisione-presa_20092564-09dc-4bc4-b5c0-debfb289fac0.html",
-     "time": "2026-10-06T12:19:49Z"
+     "title": "Scontri al corteo degli studenti, barricate e lacrimogeni a Strasburgo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/scontri-al-corteo-degli-studenti-barricate-e-lacrimogeni-a-strasburgo_813a8b4d-3d2d-4597-98e3-c12546e0f9f3.html",
+     "time": "2026-10-06T16:17:21Z"
     },
     {
-     "title": "Via a manifestazioni studenti in Francia, tensione in diverse città",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/via-a-manifestazioni-studenti-in-francia-tensione-in-diverse-citta_96feb4c3-0c23-45dd-ae5b-c5374369caeb.html",
-     "time": "2026-10-06T12:11:50Z"
+     "title": "Una grande mostra e un museo aziendale per i 90 anni, l'Eur guarda al futuro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/una-grande-mostra-e-un-museo-aziendale-per-i-90-anni-leur-guarda-al-futuro_76ff1573-add7-4f5c-8272-ab7d91c52db6.html",
+     "time": "2026-10-06T16:06:43Z"
     },
     {
-     "title": "Petrolio in deciso ribasso, Brent -2% a 98,3 dollari al barile",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/petrolio-in-deciso-ribasso-brent-2-a-983-dollari-al-barile_0219e9a3-b2a2-4a98-8c42-9a2c1512f820.html",
-     "time": "2026-10-06T11:59:26Z"
+     "title": "Lo spread Btp-Bund a 105,3 punti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/lo-spread-btp-bund-a-1053-punti_1d004b19-684f-47a7-aebe-3218bc51eee8.html",
+     "time": "2026-10-06T15:57:30Z"
     },
     {
-     "title": "Borsa: Milano tiene con l'Europa in attesa di Wall street, spread a 104 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/borsa-milano-tiene-con-leuropa-in-attesa-di-wall-street-spread-a-104_482681ec-795e-4883-83e5-f19f774b5bb0.html",
-     "time": "2026-10-06T11:57:58Z"
+     "title": "Fonti, 'a Ecofin non atteso confronto su flessibilità, punto su extraprofitti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/fonti-a-ecofin-non-atteso-confronto-su-flessibilita-punto-su-extraprofitti_86ccfef0-37de-41f2-abd9-94128b62bc27.html",
+     "time": "2026-10-06T15:56:13Z"
     },
     {
-     "title": "Inflazione al 4,3% nell'Ocse ad agosto trainata dai prezzi dell'energia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/inflazione-al-43-nellocse-ad-agosto-trainata-dai-prezzi-dellenergia_e22668cc-48ab-431e-ba55-f1660e6ac645.html",
-     "time": "2026-10-06T11:48:43Z"
+     "title": "Ok della Camera alla fiducia sui primi due articoli della legge elettorale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/ok-della-camera-alla-fiducia-sui-primi-due-articoli-della-legge_eb322fae-ebde-4ee2-ab0f-4a96025a72af.html",
+     "time": "2026-10-06T15:53:02Z"
     },
     {
-     "title": "Rubio, Mosca condivida le informazioni sulla Siberia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/rubio-mosca-condivida-le-informazioni-sulla-siberia_93e8cc76-2051-4328-b5e8-7d7495bcc295.html",
-     "time": "2026-10-06T11:48:20Z"
+     "title": "Borsa: Milano chiude in rialzo, Ftse Mib +0,87%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/borsa-milano-chiude-in-rialzo-ftse-mib-087_8578779e-dff3-4efd-b570-8c6ec6370139.html",
+     "time": "2026-10-06T15:44:39Z"
     },
     {
-     "title": "Il Tribunale Supremo ha revocato l'ordine di arresto per Puigdemont",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/il-tribunale-supremo-ha-revocato-lordine-di-arresto-per-puigdemont_e95cfbac-ae2f-46f6-a480-e69ca5503647.html",
-     "time": "2026-10-06T11:20:14Z"
+     "title": "Nuovo incontro sull'ex Ilva l'8 ottobre a Palazzo Chigi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/nuovo-incontro-sullex-ilva-l8-ottobre-a-palazzo-chigi_4606a0d8-7594-4aa5-9f5c-fcf486148bc5.html",
+     "time": "2026-10-06T15:36:32Z"
     }
    ]
   },
@@ -215,9 +215,34 @@
    "countries": [],
    "items": [
     {
+     "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+     "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T18:05:53Z"
+    },
+    {
+     "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+     "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T16:51:59Z"
+    },
+    {
+     "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+     "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T16:22:37Z"
+    },
+    {
      "title": "Kenya confirms its first Ebola death as outbreak spreads",
      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T13:10:42Z"
+     "time": "2026-10-06T16:02:32Z"
+    },
+    {
+     "title": "AfD candidate elected speaker of German regional parliament for first time",
+     "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T14:44:03Z"
+    },
+    {
+     "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+     "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T13:31:56Z"
     },
     {
      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
@@ -235,11 +260,6 @@
      "time": "2026-10-06T11:53:21Z"
     },
     {
-     "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-     "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T11:42:52Z"
-    },
-    {
      "title": "'Ghost particles' from space telescope wins physics Nobel",
      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-06T11:24:19Z"
@@ -253,26 +273,6 @@
      "title": "Indian opposition MPs detained in protest against election chief",
      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-06T10:05:22Z"
-    },
-    {
-     "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-     "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T09:48:37Z"
-    },
-    {
-     "title": "US 'watching closely' after plague researcher dies in Russia",
-     "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T07:58:19Z"
-    },
-    {
-     "title": "Yemeni military says it has 'secured' Red Sea waterway",
-     "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T07:43:07Z"
-    },
-    {
-     "title": "Children brave snipers and mortars to go to school near Yemen front line",
-     "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T07:23:24Z"
     }
    ]
   }
