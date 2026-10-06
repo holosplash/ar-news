@@ -1,6 +1,6 @@
 {
- "version": 5,
- "updated": "2026-10-06T19:01:18Z",
+ "version": 6,
+ "updated": "2026-10-06T22:57:56Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,14 +15,39 @@
    ],
    "items": [
     {
+     "title": "Vorsitz des Parlamentarischen Kontrollgremiums Henrichmann im Interview",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/interview-pkgr-henrichmann-100.html",
+     "time": "2026-10-06T22:05:31Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12900.html",
+     "time": "2026-10-06T21:16:47Z"
+    },
+    {
+     "title": "Debatte um Abstimmungsverhalten nach Wahl von AfD-Politikern ins Landtagspräsidium in Sachsen-Anhalt",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1661748.html",
+     "time": "2026-10-06T20:34:02Z"
+    },
+    {
+     "title": "AfD-Politiker Tobias Rausch zum Landtagspräsidenten von Sachsen-Anhalt gewählt",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1661744.html",
+     "time": "2026-10-06T20:27:22Z"
+    },
+    {
+     "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
+     "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
+     "time": "2026-10-06T19:54:16Z"
+    },
+    {
+     "title": "Gericht weist Klage Hinterbliebener im Germanwings-Prozess ab",
+     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/prozess-um-germanwings-absturz-klage-von-angehoerigen-abgewiesen,germanwings-452.html",
+     "time": "2026-10-06T19:23:08Z"
+    },
+    {
      "title": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
      "url": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
      "time": "2026-10-06T18:57:31Z"
-    },
-    {
-     "title": "Wahl Sachsen-Anhalt im Liveticker: CDU stellt zweiten Landtags-Vizepräsidenten",
-     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/liveticker-erste-sitzung-vizepraesident-tillschneider,landtag-sachsen-anhalt-338.html",
-     "time": "2026-10-06T18:46:53Z"
     },
     {
      "title": "tagesschau",
@@ -40,16 +65,6 @@
      "time": "2026-10-06T18:26:55Z"
     },
     {
-     "title": "Reaktionen aus der Bundespolitik über die Wahl des Landtagspräsidenten in Sachsen-Anhalt",
-     "url": "https://www.tagesschau.de/video/video-1661692.html",
-     "time": "2026-10-06T18:09:16Z"
-    },
-    {
-     "title": "AfD-Politiker Rausch zum neuen Landtagspräsidenten in Sachsen-Anhalt gewählt",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1661690.html",
-     "time": "2026-10-06T18:07:42Z"
-    },
-    {
      "title": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
      "url": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
      "time": "2026-10-06T18:01:14Z"
@@ -58,21 +73,6 @@
      "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
      "url": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
      "time": "2026-10-06T17:43:36Z"
-    },
-    {
-     "title": "Marktbericht: Neue Zuversicht an der Börse",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
-     "time": "2026-10-06T17:10:54Z"
-    },
-    {
-     "title": "Ärger in Berlin nach AfD-Erfolg in Sachsen-Anhalt",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
-     "time": "2026-10-06T17:05:00Z"
-    },
-    {
-     "title": "Propaganda, Dementi und Unklarheit im Jemen-Krieg",
-     "url": "https://www.tagesschau.de/ausland/asien/jemen-propaganda-kaempfe-100.html",
-     "time": "2026-10-06T16:31:55Z"
     }
    ]
   },
@@ -85,6 +85,41 @@
    ],
    "items": [
     {
+     "title": "Hinrichtung in Tennessee – Fall Christa Pike: Zum Tode Verurteilte bei Bewusstsein",
+     "url": "https://www.srf.ch/news/international/hinrichtung-in-tennessee-fall-christa-pike-zum-tode-verurteilte-bei-bewusstsein",
+     "time": "2026-10-06T22:33:02Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Die Huthi-Milizen setzen ihre Angriffe gegen Saudi-Arabien fort",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-die-huthi-milizen-setzen-ihre-angriffe-gegen-saudi-arabien-fort",
+     "time": "2026-10-06T21:28:09Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Schweden will Patriot-Luftabwehr-Systeme nach Polen liefern",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-schweden-will-patriot-luftabwehr-systeme-nach-polen-liefern",
+     "time": "2026-10-06T21:27:39Z"
+    },
+    {
+     "title": "3:0 gegen Nordmazedonien – Drei Gastgeschenke bescheren der Nati den nächsten klaren Sieg",
+     "url": "https://www.srf.ch/sport/fussball/nations-league/3-0-gegen-nordmazedonien-drei-gastgeschenke-bescheren-der-nati-den-naechsten-klaren-sieg",
+     "time": "2026-10-06T20:37:28Z"
+    },
+    {
+     "title": "Langes Statement – Ronaldo wirft Trainer Wortbruch vor und will weiterspielen",
+     "url": "https://www.srf.ch/sport/fussball/nations-league/langes-statement-ronaldo-wirft-trainer-wortbruch-vor-und-will-weiterspielen",
+     "time": "2026-10-06T20:11:04Z"
+    },
+    {
+     "title": "Gemeinsame Erdbebenübung – EU-Rettungskräfte in Genf: Schweiz probt den Ernstfall",
+     "url": "https://www.srf.ch/news/schweiz/gemeinsame-erdbebenuebung-eu-rettungskraefte-in-genf-schweiz-probt-den-ernstfall",
+     "time": "2026-10-06T19:42:21Z"
+    },
+    {
+     "title": "Damen-Laufschuhe im Test – Dämpfung, Abrieb, Haltbarkeit – welcher Schuh überzeugt?",
+     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/tests/damen-laufschuhe-im-test-daempfung-abrieb-haltbarkeit-welcher-schuh-ueberzeugt",
+     "time": "2026-10-06T19:17:28Z"
+    },
+    {
      "title": "1:7 gegen Frankreich – Keine Chance, keine Schützenhilfe: U21-Nati verpasst EM",
      "url": "https://www.srf.ch/sport/fussball/u21/1-7-gegen-frankreich-keine-chance-keine-schuetzenhilfe-u21-nati-verpasst-em",
      "time": "2026-10-06T18:53:09Z"
@@ -93,16 +128,6 @@
      "title": "EU-Erweiterung – Wie die EU-Kommission den Beitritt anpassen will",
      "url": "https://www.srf.ch/news/international/eu-erweiterung-wie-die-eu-kommission-den-beitritt-anpassen-will",
      "time": "2026-10-06T18:52:29Z"
-    },
-    {
-     "title": "Krieg im Nahen Osten – Mekka-Allianz beschliesst Truppeneinsatz nach Huthi-Angriff",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-mekka-allianz-beschliesst-truppeneinsatz-nach-huthi-angriff",
-     "time": "2026-10-06T18:08:19Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Schweden will Patriot-Luftabwehr-Systeme nach Polen liefern",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-schweden-will-patriot-luftabwehr-systeme-nach-polen-liefern",
-     "time": "2026-10-06T17:36:37Z"
     },
     {
      "title": "Russische Atomdrohung – Die Drohung mit Atombomben nützt sich ab",
@@ -118,31 +143,6 @@
      "title": "Derzeit auf Playoff-Platz – Ajoies Super-Saisonstart: Viel Einsatzwille, Top-Ausländer",
      "url": "https://www.srf.ch/sport/eishockey/national-league/derzeit-auf-playoff-platz-ajoies-super-saisonstart-viel-einsatzwille-top-auslaender",
      "time": "2026-10-06T17:23:31Z"
-    },
-    {
-     "title": "SP, Grüne, GLP, teils Mitte – Referendum gegen neue AKW in Bern eingereicht",
-     "url": "https://www.srf.ch/news/schweiz/sp-gruene-glp-teils-mitte-referendum-gegen-neue-akw-in-bern-eingereicht",
-     "time": "2026-10-06T17:10:56Z"
-    },
-    {
-     "title": "Gespritzte Muskeln – Im gefährlichen Rausch der Steroide",
-     "url": "https://www.srf.ch/wissen/mensch/gespritzte-muskeln-im-gefaehrlichen-rausch-der-steroide",
-     "time": "2026-10-06T17:00:18Z"
-    },
-    {
-     "title": "Nach Protesten in Frankreich – «Nicht weiterleiten» – Walliser Polizei warnt vor Schulprotesten",
-     "url": "https://www.srf.ch/news/schweiz/nach-protesten-in-frankreich-walliser-polizei-will-aufrufe-zu-schulprotesten-unterbinden",
-     "time": "2026-10-06T16:01:13Z"
-    },
-    {
-     "title": "Vorwürfe an US-Elite-Uni – Die «Cornell 7» am Pranger: Das Internet wird zum Gerichtssaal",
-     "url": "https://www.srf.ch/news/international/vorwuerfe-an-us-elite-uni-die-cornell-7-am-pranger-das-internet-wird-zum-gerichtssaal",
-     "time": "2026-10-06T15:59:07Z"
-    },
-    {
-     "title": "Brand in Oberwinterthur – Tote Person nach Brand in Oberwinterthur gefunden",
-     "url": "https://www.srf.ch/news/schweiz/brand-in-oberwinterthur-tote-person-nach-brand-in-oberwinterthur-gefunden",
-     "time": "2026-10-06T15:41:10Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Christa Pike ha ripreso conoscenza e parla",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/christa-pike-ha-ripreso-conoscenza-e-parla_d382c5fa-d2b2-4535-9a37-3a42adda6df7.html",
+     "time": "2026-10-06T21:19:32Z"
+    },
+    {
+     "title": "Tensione Forza Italia in Sicilia, dura telefonata Tajani-Schifani",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/tensione-forza-italia-in-sicilia-dura-telefonata-tajani-schifani_871fecb0-0b9d-4ecb-95d1-8c54e5f3e10f.html",
+     "time": "2026-10-06T20:35:55Z"
+    },
+    {
+     "title": "Attentato di Modena, El Koudri tenta il suicidio in carcere",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/attentato-di-modena-el-koudri-tenta-il-suicidio-in-carcere_2b8658de-56e0-41e1-a715-dff2ba0ca09c.html",
+     "time": "2026-10-06T20:32:07Z"
+    },
     {
      "title": "Sempio, 'nessun errore giudiziario su Alberto Stasi, condanna giusta'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/sempio-nessun-errore-giudiziario-su-alberto-stasi-condanna-giusta_1e432088-a63b-4988-825a-885694495451.html",
@@ -190,21 +205,6 @@
      "title": "Fonti, 'a Ecofin non atteso confronto su flessibilità, punto su extraprofitti'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/fonti-a-ecofin-non-atteso-confronto-su-flessibilita-punto-su-extraprofitti_86ccfef0-37de-41f2-abd9-94128b62bc27.html",
      "time": "2026-10-06T15:56:13Z"
-    },
-    {
-     "title": "Ok della Camera alla fiducia sui primi due articoli della legge elettorale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/ok-della-camera-alla-fiducia-sui-primi-due-articoli-della-legge_eb322fae-ebde-4ee2-ab0f-4a96025a72af.html",
-     "time": "2026-10-06T15:53:02Z"
-    },
-    {
-     "title": "Borsa: Milano chiude in rialzo, Ftse Mib +0,87%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/borsa-milano-chiude-in-rialzo-ftse-mib-087_8578779e-dff3-4efd-b570-8c6ec6370139.html",
-     "time": "2026-10-06T15:44:39Z"
-    },
-    {
-     "title": "Nuovo incontro sull'ex Ilva l'8 ottobre a Palazzo Chigi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/nuovo-incontro-sullex-ilva-l8-ottobre-a-palazzo-chigi_4606a0d8-7594-4aa5-9f5c-fcf486148bc5.html",
-     "time": "2026-10-06T15:36:32Z"
     }
    ]
   },
@@ -215,19 +215,39 @@
    "countries": [],
    "items": [
     {
+     "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+     "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T22:17:56Z"
+    },
+    {
+     "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+     "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T22:00:43Z"
+    },
+    {
+     "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+     "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T20:15:31Z"
+    },
+    {
      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-06T18:05:53Z"
     },
     {
+     "title": "Tear gas in Paris and Marseille as school protests grow across France",
+     "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T18:03:19Z"
+    },
+    {
+     "title": "Finland orders halt to work on two Google data centres",
+     "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T17:15:46Z"
+    },
+    {
      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-06T16:51:59Z"
-    },
-    {
-     "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-     "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T16:22:37Z"
     },
     {
      "title": "Kenya confirms its first Ebola death as outbreak spreads",
@@ -253,26 +273,6 @@
      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
      "url": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-06T12:00:10Z"
-    },
-    {
-     "title": "Ship sinks and crew missing after Black Sea drone attack",
-     "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T11:53:21Z"
-    },
-    {
-     "title": "'Ghost particles' from space telescope wins physics Nobel",
-     "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T11:24:19Z"
-    },
-    {
-     "title": "Former German spy chief arrested for espionage and treason",
-     "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T10:05:42Z"
-    },
-    {
-     "title": "Indian opposition MPs detained in protest against election chief",
-     "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T10:05:22Z"
     }
    ]
   }
