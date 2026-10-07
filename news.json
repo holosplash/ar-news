@@ -1,6 +1,6 @@
 {
- "version": 9,
- "updated": "2026-10-07T16:51:57Z",
+ "version": 10,
+ "updated": "2026-10-07T21:55:42Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Themen im Koalitionsausschuss: Was Schwarz-Rot jetzt vor sich hat",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-106.html",
-     "time": "2026-10-07T16:38:29Z"
+     "title": "UEFA sucht nach Strategie für Sturz Infantinos",
+     "url": "https://www.sportschau.de/fussball/uefa-sucht-nach-strategie-fuer-sturz-infantinos,uefa-treffen-berlin-fifa-infantino-100.html",
+     "time": "2026-10-07T21:42:37Z"
     },
     {
-     "title": "EU plant Beitritt in Stufen - und Ende der Einstimmigkeit",
-     "url": "https://www.tagesschau.de/ausland/europa/eu-regeln-mitgliedschaft-100.html",
-     "time": "2026-10-07T16:33:03Z"
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12910.html",
+     "time": "2026-10-07T21:08:03Z"
     },
     {
-     "title": "DAX fällt wieder zurück",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
-     "time": "2026-10-07T16:30:44Z"
+     "title": "Politisierung des Hamas-Überfalls 2023 vor den Wahlen in Israel",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1662386.html",
+     "time": "2026-10-07T20:38:38Z"
     },
     {
-     "title": "VfL Bochum ordnet Hüpfverbot an",
-     "url": "https://www.sportschau.de/regional/wdr/wdr-vfl-bochum-ordnet-huepfverbot-fuer-die-ostkurve-an-100.html",
-     "time": "2026-10-07T16:18:00Z"
+     "title": "Gedenken an Opfer des Hamas-Überfalls auf Israel am dritten Jahrestag",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1662384.html",
+     "time": "2026-10-07T20:35:34Z"
     },
     {
-     "title": "Mutmaßliches Mitglied russischer Qilin-Hacker festgenommen",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/nordrhein-westfalen-russische-hackergruppe-festnahme-100.html",
-     "time": "2026-10-07T15:50:00Z"
+     "title": "Koalitionsausschuss: Diskussion über Abstimmung in Sachsen-Anhalt und Reformen",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1662382.html",
+     "time": "2026-10-07T20:32:18Z"
     },
     {
-     "title": "tagesschau in Einfacher Sprache",
-     "url": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1460.html",
-     "time": "2026-10-07T15:32:27Z"
+     "title": "CDU-Fraktion in Sachsen-Anhalt steht nach Abstimmung für Landtagspräsidium vor Zerreißprobe",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1662380.html",
+     "time": "2026-10-07T20:26:51Z"
     },
     {
-     "title": "Jahrestag des Hamas-Überfalls: Deutschlands schwieriger Balanceakt mit Israel",
-     "url": "https://www.tagesschau.de/inland/beziehungen-deutschland-israel-100.html",
-     "time": "2026-10-07T15:30:04Z"
+     "title": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
+     "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
+     "time": "2026-10-07T20:00:05Z"
     },
     {
-     "title": "Marcus Engert, MDR, zur Lage der CDU in Sachsen-Anhalt",
-     "url": "https://www.tagesschau.de/video/video-1662140.html",
-     "time": "2026-10-07T15:26:55Z"
+     "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
+     "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
+     "time": "2026-10-07T19:38:22Z"
     },
     {
-     "title": "Gedenken an Opfer des Hamas-Überfalls vor drei Jahren",
-     "url": "https://www.tagesschau.de/video/video-1662132.html",
-     "time": "2026-10-07T15:24:05Z"
+     "title": "Berlin: Hunderte Menschen gedenken der Opfer des Hamas-Anschlags",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html",
+     "time": "2026-10-07T19:24:39Z"
     },
     {
-     "title": "Ukraine: Viele Tote bei russischen Angriffen",
-     "url": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html",
-     "time": "2026-10-07T15:21:49Z"
+     "title": "Sachsen-Anhalt: CDU-Fraktion droht möglicherweise Spaltung",
+     "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/fraktion-droht-spaltung,cdu-landtag-mifri-100.html",
+     "time": "2026-10-07T18:57:39Z"
     },
     {
-     "title": "Benjamin Steinitz, Bundesverband Recherche- und Informationsstellen Antisemitismus, zum dritten Jahrestag des Hamas-Überfalls und zur Entwicklung von Antisemitismus",
-     "url": "https://www.tagesschau.de/video/video-1662116.html",
-     "time": "2026-10-07T15:21:41Z"
+     "title": "Neue Staatspräsidentin des Kosovos: Ein politischer Deal in letzter Minute",
+     "url": "https://www.tagesschau.de/ausland/europa/kosovo-staatspraesidentin-wahl-100.html",
+     "time": "2026-10-07T18:45:48Z"
     },
     {
-     "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html",
-     "time": "2026-10-07T15:19:43Z"
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12302.html",
+     "time": "2026-10-07T18:29:55Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
+     "title": "Nach Zwangsräumung – Spanische Seniorin Maricarmen Abascal mit 87 gestorben",
+     "url": "https://www.srf.ch/news/international/nach-zwangsraeumung-spanische-seniorin-maricarmen-abascal-mit-87-gestorben",
+     "time": "2026-10-07T21:25:05Z"
+    },
+    {
+     "title": "Wegen laufendem Strafverfahren – OK-Präsident der Ski-WM tritt zurück",
+     "url": "https://www.srf.ch/sport/ski-alpin/ski-alpin-allgemein/wegen-laufendem-strafverfahren-ok-praesident-der-ski-wm-tritt-zurueck",
+     "time": "2026-10-07T20:53:51Z"
+    },
+    {
+     "title": "Hinrichtung in Tennessee – So geht es im Fall Christa Pike weiter",
+     "url": "https://www.srf.ch/news/international/usa/hinrichtung-in-tennessee-so-geht-es-im-fall-christa-pike-weiter",
+     "time": "2026-10-07T19:42:46Z"
+    },
+    {
+     "title": "– So geht es im Fall Christa Pike weiter",
+     "url": "https://www.srf.ch/news/international/usa/hinrichtung-in-tennessee-so-geht-es-im-fall-christa-pike-weiter",
+     "time": "2026-10-07T19:42:46Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Gedenken an die Opfer des 7. Oktobers 2023",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-gedenken-an-die-opfer-des-7-oktobers-2023",
+     "time": "2026-10-07T19:18:04Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Mindestens 25 Tote nach massiven russischen Luftangriffen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-mindestens-25-tote-nach-massiven-russischen-luftangriffen",
+     "time": "2026-10-07T19:17:52Z"
+    },
+    {
+     "title": "Playoffs gegen Israel – Crnogorcevic: Mit Geduld und schnellem Spiel in die nächste Runde",
+     "url": "https://www.srf.ch/sport/fussball/frauen-nationalteam/playoffs-gegen-israel-crnogorcevic-mit-geduld-und-schnellem-spiel-in-die-naechste-runde",
+     "time": "2026-10-07T18:52:46Z"
+    },
+    {
+     "title": "Handball: Champions League – Der erste Sieg ist da: Kriens-Luzern zwingt Kolstad in die Knie",
+     "url": "https://www.srf.ch/sport/mehr-sport/handball/handball-champions-league-der-erste-sieg-ist-da-kriens-luzern-zwingt-kolstad-in-die-knie",
+     "time": "2026-10-07T18:21:18Z"
+    },
+    {
+     "title": "Nach Parmelin-Rücktritt – Wirtschaftsminister Beat Jans? SP vor einer historischen Chance",
+     "url": "https://www.srf.ch/news/schweiz/nach-parmelin-ruecktritt-wirtschaftsminister-beat-jans-sp-vor-einer-historischen-chance",
+     "time": "2026-10-07T17:45:26Z"
+    },
+    {
+     "title": "Drei Jahre nach Hamas-Angriff – Spitzendiplomatin Schmutz Kirgöz: «Es braucht Beharrlichkeit»",
+     "url": "https://www.srf.ch/news/international/drei-jahre-nach-hamas-angriff-spitzendiplomatin-schmutz-kirgoez-es-braucht-beharrlichkeit",
+     "time": "2026-10-07T16:54:27Z"
+    },
+    {
      "title": "Neuer Trainer vorgestellt – «Keine Angst vor Fehlern»: Janssen will mutiges GC sehen",
      "url": "https://www.srf.ch/sport/fussball/super-league/neuer-trainer-vorgestellt-keine-angst-vor-fehlern-janssen-will-mutiges-gc-sehen",
      "time": "2026-10-07T16:48:04Z"
     },
     {
-     "title": "Krieg in der Ukraine – Mindestens 24 Tote nach massiven russischen Luftangriffen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-mindestens-24-tote-nach-massiven-russischen-luftangriffen",
-     "time": "2026-10-07T16:39:01Z"
-    },
-    {
      "title": "Viehschau im Appenzellerland – Die kleinen Viehschauen und ihre grosse Bedeutung fürs Dorfleben",
      "url": "https://www.srf.ch/news/schweiz/viehschau-im-appenzellerland-die-kleinen-viehschauen-und-ihre-grosse-bedeutung-fuers-dorfleben",
      "time": "2026-10-07T16:02:48Z"
-    },
-    {
-     "title": "Abkühlung und Regen in Sicht – Kommt jetzt endlich der Herbst – und bleibt er auch?",
-     "url": "https://www.srf.ch/news/schweiz/abkuehlung-und-regen-in-sicht-kommt-jetzt-endlich-der-herbst-und-bleibt-er-auch",
-     "time": "2026-10-07T15:49:22Z"
-    },
-    {
-     "title": "Kulturnews in Kurzform – «67» ist nicht dabei: Die Top 3 Jugendwörter des Jahres",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-67-ist-nicht-dabei-die-top-3-jugendwoerter-des-jahres",
-     "time": "2026-10-07T15:47:48Z"
-    },
-    {
-     "title": "Rad-EM in Slowenien – Reusser zum 5. Mal Zeitfahr-Europameisterin",
-     "url": "https://www.srf.ch/sport/rad/rad-em-in-slowenien-reusser-zum-5-mal-zeitfahr-europameisterin",
-     "time": "2026-10-07T15:29:46Z"
-    },
-    {
-     "title": "Soforthilfe wegen Trockenheit – Freiburg spricht als erster Kanton 10 Millionen für Bauern in Not",
-     "url": "https://www.srf.ch/news/schweiz/soforthilfe-wegen-trockenheit-freiburg-spricht-als-erster-kanton-10-millionen-fuer-bauern-in-not",
-     "time": "2026-10-07T15:25:52Z"
-    },
-    {
-     "title": "Krieg im Nahen Osten – Gedenken an die Opfer des 7. Oktobers 2023",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-gedenken-an-die-opfer-des-7-oktobers-2023",
-     "time": "2026-10-07T15:22:36Z"
-    },
-    {
-     "title": "Kinderschutz – Waadt sagt Ja zu Register für Erziehungskräfte mit Berufsverbot",
-     "url": "https://www.srf.ch/news/dialog/kinderschutz-waadt-sagt-ja-zu-register-fuer-erziehungskraefte-mit-berufsverbot",
-     "time": "2026-10-07T15:14:03Z"
-    },
-    {
-     "title": "Mega-Fusion in Hollywood – Paramount übernimmt Warner Brothers: Was bedeutet das für uns?",
-     "url": "https://www.srf.ch/kultur/film-serien/mega-fusion-in-hollywood-paramount-uebernimmt-warner-brothers-was-bedeutet-das-fuer-uns",
-     "time": "2026-10-07T14:51:47Z"
-    },
-    {
-     "title": "Herausforderer für Infantino? – Ramon Vega will Fifa-Präsident werden",
-     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/herausforderer-fuer-infantino-ramon-vega-will-fifa-praesident-werden",
-     "time": "2026-10-07T14:41:56Z"
-    },
-    {
-     "title": "Nobelpreis 2026 – Der Nobelpreis für Chemie geht an Henri B. Kagan und Kenso Soai",
-     "url": "https://www.srf.ch/wissen/nobelpreise/nobelpreis-2026-der-nobelpreis-fuer-chemie-geht-an-henri-b-kagan-und-kenso-soai",
-     "time": "2026-10-07T14:37:09Z"
     }
    ]
   },
@@ -156,6 +156,36 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "È morta Maricarmen, il volto delle proteste per diritto alla casa in Spagna",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/e-morta-maricarmen-il-volto-delle-proteste-per-diritto-alla-casa-in-spagna_520564cc-e780-47f3-aa11-23469f410b06.html",
+     "time": "2026-10-07T18:44:33Z"
+    },
+    {
+     "title": "Zelensky, 'oggi 25 vittime in Ucraina, 5 i bimbi uccisi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/zelensky-oggi-25-vittime-in-ucraina-5-i-bimbi-uccisi_e382dc5c-e1ad-4b4e-885c-ec29b49c121a.html",
+     "time": "2026-10-07T17:43:37Z"
+    },
+    {
+     "title": "Trump, 'non pensiamo che la peste in Russia sia un'arma biologica'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/trump-non-pensiamo-che-la-peste-in-russia-sia-unarma-biologica_2f80e353-3184-4a01-ac9e-e805188c0fff.html",
+     "time": "2026-10-07T17:36:29Z"
+    },
+    {
+     "title": "Altri 2 georgiani fermati con falsi passaporti ad imbarco volo Tel Aviv",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/altri-2-georgiani-fermati-con-falsi-passaporti-ad-imbarco-volo-tel-aviv_fce988ba-508b-4c21-89c8-f4655d2d45e9.html",
+     "time": "2026-10-07T17:32:39Z"
+    },
+    {
+     "title": "Lecornu assicura, 'nessun ordine alla polizia di scontrarsi con i giovani'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/lecornu-assicura-nessun-ordine-alla-polizia-di-scontrarsi-con-i-giovani_15dba153-836a-41cd-8947-155288d67085.html",
+     "time": "2026-10-07T17:25:43Z"
+    },
+    {
+     "title": "Mattarella ha firmato tre grazie, c'è anche il gioielliere Guido Gianni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/mattarella-ha-firmato-tre-grazie-ce-anche-il-gioielliere-guido-gianni_2b55b98d-c318-4415-b138-98bfabc81d4c.html",
+     "time": "2026-10-07T17:02:17Z"
+    },
     {
      "title": "Sale a 5 morti il bilancio dei raid israeliani a Gaza nell'anniversario del 7 ottobre",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/sale-a-5-morti-il-bilancio-dei-raid-israeliani-a-gaza-nellanniversario-del-7-ottobre_739283ad-d66d-4f81-9994-d3721757241c.html",
@@ -175,36 +205,6 @@
      "title": "Borsa: Milano maglia nera in Europa, Unicredit e Intesa guidano i cali delle banche",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/borsa-milano-maglia-nera-in-europa-unicredit-e-intesa-guidano-i-cali-delle_acfdc3a4-a09a-4659-b4dc-85aba3d19205.html",
      "time": "2026-10-07T16:08:50Z"
-    },
-    {
-     "title": "La Francia convoca l'ambasciatore iraniano, 'fake news sulla protesta studentesca'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/la-francia-convoca-lambasciatore-iraniano-fake-news-sulla-protesta-studentesca_bf9fef4c-7339-4cd3-9cac-b948081042b9.html",
-     "time": "2026-10-07T16:07:53Z"
-    },
-    {
-     "title": "Media, il killer di Fort Hood davanti al plotone d'esecuzione il 3 dicembre",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/media-il-killer-di-fort-hood-davanti-al-plotone-desecuzione-il-3-dicembre_971dbc8a-2fbf-4c44-8046-6674dffd366b.html",
-     "time": "2026-10-07T16:04:31Z"
-    },
-    {
-     "title": "Borsa: l'Europa conclude in calo, Parigi -1,22%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/borsa-leuropa-conclude-in-calo-parigi-122_9c2ac7a2-e68c-4996-9531-957523a1df72.html",
-     "time": "2026-10-07T15:49:25Z"
-    },
-    {
-     "title": "Netanyahu, 'nostalgia per i nostri cari. Faremo i conti con tutti gli assassini'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/netanyahu-nostalgia-per-i-nostri-cari.-faremo-i-conti-con-tutti-gli_a5f9a9c2-9350-488d-ba6f-3babd14e8daa.html",
-     "time": "2026-10-07T15:45:00Z"
-    },
-    {
-     "title": "Borsa: Milano chiude in calo del 2,51% sotto la soglia dei 50.000 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/borsa-milano-chiude-in-calo-del-251-sotto-la-soglia-dei-50.000_42a84704-51bd-4694-9675-9e62efc783c5.html",
-     "time": "2026-10-07T15:44:04Z"
-    },
-    {
-     "title": "Sale a 24 morti il bilancio dei raid russi in Ucraina",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/sale-a-24-morti-il-bilancio-dei-raid-russi-in-ucraina_3f42653f-72c9-4a2c-ae41-b364610c8030.html",
-     "time": "2026-10-07T15:42:34Z"
     }
    ]
   },
@@ -215,29 +215,44 @@
    "countries": [],
    "items": [
     {
+     "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-07T21:40:24Z"
+    },
+    {
+     "title": "Chinese runner dropped by sponsor after riding bike during marathon",
+     "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-07T20:29:31Z"
+    },
+    {
+     "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+     "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-07T20:27:03Z"
+    },
+    {
      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-07T16:48:28Z"
+     "time": "2026-10-07T19:30:51Z"
+    },
+    {
+     "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+     "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-07T18:27:40Z"
+    },
+    {
+     "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+     "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-07T18:12:58Z"
     },
     {
      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-07T16:41:57Z"
+     "time": "2026-10-07T17:47:31Z"
     },
     {
      "title": "Israelis demand accountability over 7 October failures three years after attacks",
      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-07T16:00:18Z"
-    },
-    {
-     "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
-     "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-07T14:53:43Z"
-    },
-    {
-     "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-     "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-07T14:50:28Z"
     },
     {
      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
@@ -255,24 +270,9 @@
      "time": "2026-10-07T11:51:52Z"
     },
     {
-     "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+     "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-07T10:01:47Z"
-    },
-    {
-     "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-     "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-07T09:49:31Z"
-    },
-    {
-     "title": "California pair charged with abusing at least 14 surrogate-born children",
-     "url": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-07T09:38:00Z"
-    },
-    {
-     "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
-     "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-07T07:37:16Z"
     }
    ]
   }
