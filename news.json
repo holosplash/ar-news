@@ -1,6 +1,6 @@
 {
- "version": 6,
- "updated": "2026-10-06T22:57:56Z",
+ "version": 7,
+ "updated": "2026-10-07T02:14:55Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,26 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Anna Politkowskaja: Die Journalistin, die zu mächtige Feinde hatte",
+     "url": "https://www.tagesschau.de/ausland/europa/politkowskaja-journalistin-gedenken-100.html",
+     "time": "2026-10-07T01:49:47Z"
+    },
+    {
+     "title": "129 Tage in der Hand der Hamas: Das neue Leben des Luis Har",
+     "url": "https://www.tagesschau.de/ausland/asien/129-tage-hamas-har-100.html",
+     "time": "2026-10-07T01:01:01Z"
+    },
+    {
+     "title": "UN-Menschenrechtsrat: Der Versuch, Menschenrechte vor KI zu schützen",
+     "url": "https://www.tagesschau.de/ausland/europa/un-menschenrechte-ki-100.html",
+     "time": "2026-10-07T00:11:57Z"
+    },
+    {
+     "title": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
+     "url": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html",
+     "time": "2026-10-06T23:56:42Z"
+    },
     {
      "title": "Vorsitz des Parlamentarischen Kontrollgremiums Henrichmann im Interview",
      "url": "https://www.tagesschau.de/inland/innenpolitik/interview-pkgr-henrichmann-100.html",
@@ -53,26 +73,6 @@
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81294.html",
      "time": "2026-10-06T18:31:29Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12292.html",
-     "time": "2026-10-06T18:30:52Z"
-    },
-    {
-     "title": "Deutsche U21 fährt dank Sieg gegen Georgien zur EM 2027",
-     "url": "https://www.sportschau.de/fussball/u21/deutsche-u21-faehrt-dank-sieg-gegen-georgien-zur-em-2027,u21-em-qualifikation-100.html",
-     "time": "2026-10-06T18:26:55Z"
-    },
-    {
-     "title": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
-     "url": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
-     "time": "2026-10-06T18:01:14Z"
-    },
-    {
-     "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
-     "url": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
-     "time": "2026-10-06T17:43:36Z"
     }
    ]
   },
@@ -84,6 +84,16 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Neuwahlen abgewendet – Shiroka-Pula ist neue Staatspräsidentin des Kosovo",
+     "url": "https://www.srf.ch/news/international/neuwahlen-abgewendet-shiroka-pula-ist-neue-staatspraesidentin-des-kosovo",
+     "time": "2026-10-07T00:55:48Z"
+    },
+    {
+     "title": "Kulturnews in Kurzform – Oscarpreisträgerin Eva Marie Saint stirbt mit 102 Jahren",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-oscarpreistraegerin-eva-marie-saint-stirbt-mit-102-jahren",
+     "time": "2026-10-07T00:47:36Z"
+    },
     {
      "title": "Hinrichtung in Tennessee – Fall Christa Pike: Zum Tode Verurteilte bei Bewusstsein",
      "url": "https://www.srf.ch/news/international/hinrichtung-in-tennessee-fall-christa-pike-zum-tode-verurteilte-bei-bewusstsein",
@@ -133,16 +143,6 @@
      "title": "Russische Atomdrohung – Die Drohung mit Atombomben nützt sich ab",
      "url": "https://www.srf.ch/news/international/russische-atomdrohung-die-drohung-mit-atombomben-nuetzt-sich-ab",
      "time": "2026-10-06T17:34:54Z"
-    },
-    {
-     "title": "Nationaler Aktionstag – Schülerproteste in Frankreich erreichen neuen Höhepunkt",
-     "url": "https://www.srf.ch/news/international/nationaler-aktionstag-schuelerproteste-in-frankreich-erreichen-neuen-hoehepunkt",
-     "time": "2026-10-06T17:30:27Z"
-    },
-    {
-     "title": "Derzeit auf Playoff-Platz – Ajoies Super-Saisonstart: Viel Einsatzwille, Top-Ausländer",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/derzeit-auf-playoff-platz-ajoies-super-saisonstart-viel-einsatzwille-top-auslaender",
-     "time": "2026-10-06T17:23:31Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Wsj: 'Washington preme su Mosca, serve nota ufficiale sul decesso legato alla peste'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/wsj-washington-preme-su-mosca-serve-nota-ufficiale-sul-decesso-legato_ddb78e5a-f716-497f-a59c-721d9cd2ae2d.html",
+     "time": "2026-10-07T01:23:06Z"
+    },
+    {
+     "title": "Borsa: Tokyo, apertura poco mossa (-0,09%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/borsa-tokyo-apertura-poco-mossa-009_c22d5cd0-f4a9-4ebc-a02f-85feefec4b76.html",
+     "time": "2026-10-07T00:32:35Z"
+    },
     {
      "title": "Christa Pike ha ripreso conoscenza e parla",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/christa-pike-ha-ripreso-conoscenza-e-parla_d382c5fa-d2b2-4535-9a37-3a42adda6df7.html",
@@ -195,16 +205,6 @@
      "title": "Una grande mostra e un museo aziendale per i 90 anni, l'Eur guarda al futuro",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/una-grande-mostra-e-un-museo-aziendale-per-i-90-anni-leur-guarda-al-futuro_76ff1573-add7-4f5c-8272-ab7d91c52db6.html",
      "time": "2026-10-06T16:06:43Z"
-    },
-    {
-     "title": "Lo spread Btp-Bund a 105,3 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/lo-spread-btp-bund-a-1053-punti_1d004b19-684f-47a7-aebe-3218bc51eee8.html",
-     "time": "2026-10-06T15:57:30Z"
-    },
-    {
-     "title": "Fonti, 'a Ecofin non atteso confronto su flessibilità, punto su extraprofitti'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/06/fonti-a-ecofin-non-atteso-confronto-su-flessibilita-punto-su-extraprofitti_86ccfef0-37de-41f2-abd9-94128b62bc27.html",
-     "time": "2026-10-06T15:56:13Z"
     }
    ]
   },
@@ -215,19 +215,34 @@
    "countries": [],
    "items": [
     {
+     "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-07T02:06:23Z"
+    },
+    {
+     "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+     "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-07T00:56:59Z"
+    },
+    {
+     "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+     "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T23:07:44Z"
+    },
+    {
      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
      "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-06T22:17:56Z"
     },
     {
-     "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-     "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T22:00:43Z"
-    },
-    {
      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-06T20:15:31Z"
+    },
+    {
+     "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+     "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-06T18:42:58Z"
     },
     {
      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
@@ -258,21 +273,6 @@
      "title": "AfD candidate elected speaker of German regional parliament for first time",
      "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-06T14:44:03Z"
-    },
-    {
-     "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
-     "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T13:31:56Z"
-    },
-    {
-     "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
-     "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T12:51:05Z"
-    },
-    {
-     "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-06T12:00:10Z"
     }
    ]
   }
