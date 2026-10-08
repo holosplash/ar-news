@@ -1,6 +1,6 @@
 {
- "version": 13,
- "updated": "2026-10-08T16:22:27Z",
+ "version": 14,
+ "updated": "2026-10-08T21:27:37Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Steinmeier auf Abschiedsbesuch bei Macron: \"Hand in Hand\" durch die Stürme",
-     "url": "https://www.tagesschau.de/ausland/europa/steinmeier-paris-100.html",
-     "time": "2026-10-08T16:05:18Z"
+     "title": "Berngau in der Oberpfalz: Ein Toter nach Schüssen bei Waffenkontrolle",
+     "url": "https://www.tagesschau.de/inland/regional/bayern/schuesse-bei-waffenkontrolle-100.html",
+     "time": "2026-10-08T21:21:03Z"
     },
     {
-     "title": "Huthi greifen erneut Ziele in Saudi-Arabien an - auch Gegenangriffe gemeldet",
-     "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
-     "time": "2026-10-08T15:35:30Z"
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12904.html",
+     "time": "2026-10-08T20:51:56Z"
     },
     {
-     "title": "Berlin: Hunderte Menschen gedenken der Opfer des Hamas-Anschlags",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html",
-     "time": "2026-10-08T15:32:02Z"
+     "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
+     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
+     "time": "2026-10-08T20:01:59Z"
     },
     {
-     "title": "Ministerpräsidentin Meloni bringt umstrittene Wahlrechtsreform endgültig durchs Parlament",
-     "url": "https://www.tagesschau.de/video/video-1662780.html",
-     "time": "2026-10-08T15:18:09Z"
+     "title": "Down-Syndrom: Bundestag will Anwendung von Pränataltests prüfen",
+     "url": "https://www.tagesschau.de/inland/bundestag-schwangerschaft-diagnostik-100.html",
+     "time": "2026-10-08T19:32:04Z"
+    },
+    {
+     "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
+     "time": "2026-10-08T19:16:45Z"
+    },
+    {
+     "title": "Niedersachsens SPD-Fraktionschef legt Amt nieder",
+     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/ruecktritt-spd-fraktionschef-politze-legt-amt-nieder,politze-118.html",
+     "time": "2026-10-08T19:00:10Z"
+    },
+    {
+     "title": "Sondierungsgespräche in Berlin: Praxis-Test für die rot-grün-rote Theorie",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/sondierungsgespraeche-rot-gruen-rot-berlin-100.html",
+     "time": "2026-10-08T18:51:04Z"
+    },
+    {
+     "title": "Mindestens 30 Tote bei russischen Angriffen auf die Ukraine",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1662950.html",
+     "time": "2026-10-08T18:21:55Z"
     },
     {
      "title": "Markus Preiß, ARD Berlin, mit Informationen vom Koalitionsausschuss",
-     "url": "https://www.tagesschau.de/video/video-1662778.html",
-     "time": "2026-10-08T15:15:50Z"
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1662948.html",
+     "time": "2026-10-08T18:20:15Z"
     },
     {
-     "title": "Großbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an",
-     "url": "https://www.tagesschau.de/ausland/europa/burnham-besuch-berlin-kooperation-100.html",
-     "time": "2026-10-08T15:14:59Z"
+     "title": "Wirtschaftsministern Reiche legt neue Konjunktur-Prognose vor",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1662946.html",
+     "time": "2026-10-08T18:18:26Z"
     },
     {
-     "title": "Gericht: Fernverkehrsbeschluss der Netzagentur ist rechtswidrig",
-     "url": "https://www.tagesschau.de/wirtschaft/deutsche-bahn-netzagentur-klage-trassen-100.html",
-     "time": "2026-10-08T15:14:35Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81326.html",
+     "time": "2026-10-08T18:17:40Z"
     },
     {
-     "title": "Pläne der Bundesregierung zur Einkommensteuerreform",
-     "url": "https://www.tagesschau.de/video/video-1662774.html",
-     "time": "2026-10-08T15:13:50Z"
-    },
-    {
-     "title": "Eritreische Truppen rücken offenbar in Äthiopien ein",
-     "url": "https://www.tagesschau.de/ausland/afrika/eritrea-aethiopien-tigray-100.html",
-     "time": "2026-10-08T15:12:46Z"
-    },
-    {
-     "title": "Berlin-Wahl: Linke, Grüne und SPD kündigen Sondierungsgespräche an",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsgespraeche-100.html",
-     "time": "2026-10-08T14:44:21Z"
-    },
-    {
-     "title": "Literaturnobelpreis: Kanadierin Anne Carson wird von Ehrung überrascht",
-     "url": "https://www.tagesschau.de/video/video-1662736.html",
-     "time": "2026-10-08T14:16:44Z"
-    },
-    {
-     "title": "Reform der Kinder- und Jugendhilfe: Diskussion über Schulassistenzen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/jugend-kinder-hilfe-reform-100.html",
-     "time": "2026-10-08T13:50:06Z"
+     "title": "Finanzminister Klingbeil will mit der Einkommensteuerreform für Entlastung sorgen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1662944.html",
+     "time": "2026-10-08T18:14:16Z"
     }
    ]
   },
@@ -84,6 +84,41 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Proteste von Schülern – Wieder demonstrieren Zehntausende auf Frankreichs Strassen",
+     "url": "https://www.srf.ch/news/international/proteste-von-schuelern-wieder-demonstrieren-zehntausende-auf-frankreichs-strassen",
+     "time": "2026-10-08T19:35:15Z"
+    },
+    {
+     "title": "Handelsbeziehungen EU-China – Die EU will den Druck auf China erhöhen",
+     "url": "https://www.srf.ch/news/international/handelsbeziehungen-eu-china-die-eu-will-den-druck-auf-china-erhoehen",
+     "time": "2026-10-08T18:59:44Z"
+    },
+    {
+     "title": "Seit Misstrauensantrag im Mai – Regierungsloses Rumänien: «Die Menschen sind müde»",
+     "url": "https://www.srf.ch/news/international/seit-misstrauensantrag-im-mai-regierungsloses-rumaenien-die-menschen-sind-muede",
+     "time": "2026-10-08T17:37:48Z"
+    },
+    {
+     "title": "Darts: European Tour – Bellmont übersteht Quali für Basel hauchdünn",
+     "url": "https://www.srf.ch/sport/mehr-sport/darts-european-tour-bellmont-uebersteht-quali-fuer-basel-hauchduenn",
+     "time": "2026-10-08T17:15:06Z"
+    },
+    {
+     "title": "Stimmen aus der Community – Waffenexporte lockern? Die «dialog»-Community ist knapp dafür",
+     "url": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-waffenexporte-lockern-die-dialog-community-ist-knapp-dafuer",
+     "time": "2026-10-08T17:12:14Z"
+    },
+    {
+     "title": "Alltag im Team – Wie hält man seine Arbeitskollegen aus?",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/alltag-im-team-wie-haelt-man-seine-arbeitskollegen-aus",
+     "time": "2026-10-08T17:00:42Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Ukraine greift grösste russische Ölraffinerie in Sibirien an",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukraine-greift-groesste-russische-oelraffinerie-in-sibirien-an",
+     "time": "2026-10-08T16:26:34Z"
+    },
     {
      "title": "Kein Infantino-Gegenkandidat – Uefa-Präsident Ceferin stellt sich zur Wiederwahl",
      "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/kein-infantino-gegenkandidat-uefa-praesident-ceferin-stellt-sich-zur-wiederwahl",
@@ -108,41 +143,6 @@
      "title": "Fahren im Alter – Mehr Verkehr, mehr alte Menschen im Auto, mehr Unfälle?",
      "url": "https://www.srf.ch/news/schweiz/fahren-im-alter-mehr-verkehr-mehr-alte-menschen-im-auto-mehr-unfaelle",
      "time": "2026-10-08T15:09:43Z"
-    },
-    {
-     "title": "Nach den Wahlen in Berlin – Parteien räumen Hindernis für Sondierungen aus dem Weg",
-     "url": "https://www.srf.ch/news/international/nach-den-wahlen-in-berlin-parteien-raeumen-hindernis-fuer-sondierungen-aus-dem-weg",
-     "time": "2026-10-08T15:06:00Z"
-    },
-    {
-     "title": "Pest-Verdacht in Sibirien – Viele Mythen zur Pest: Was sagen die Fakten?",
-     "url": "https://www.srf.ch/news/international/pest-verdacht-in-sibirien-viele-mythen-zur-pest-was-sagen-die-fakten",
-     "time": "2026-10-08T14:48:10Z"
-    },
-    {
-     "title": "Kulturnews in Kurzform – Halleluja! Katholischer Priester unter den Top-DJs der Welt",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-halleluja-katholischer-priester-unter-den-top-djs-der-welt",
-     "time": "2026-10-08T14:43:46Z"
-    },
-    {
-     "title": "2030 könnte soweit sein – Rückkehr nach Afrika: Formel 1 vor Premiere in Ruanda",
-     "url": "https://www.srf.ch/sport/motorsport/formel-1/2030-koennte-soweit-sein-rueckkehr-nach-afrika-formel-1-vor-premiere-in-ruanda",
-     "time": "2026-10-08T14:20:23Z"
-    },
-    {
-     "title": "Nobelpreis 2026 – Der Literaturnobelpreis geht an Anne Carson",
-     "url": "https://www.srf.ch/kultur/literatur/nobelpreis-2026-der-literaturnobelpreis-geht-an-anne-carson",
-     "time": "2026-10-08T14:00:37Z"
-    },
-    {
-     "title": "Darts: European Tour – Bellmont übersteht Quali für Basel hauchdünn",
-     "url": "https://www.srf.ch/sport/mehr-sport/darts-european-tour-bellmont-uebersteht-quali-fuer-basel-hauchduenn",
-     "time": "2026-10-08T14:00:05Z"
-    },
-    {
-     "title": "Neues Wahlgesetz für Italien – Giorgia Meloni pokert mit den neuen Wahlregeln hoch",
-     "url": "https://www.srf.ch/news/international/neues-wahlgesetz-fuer-italien-giorgia-meloni-pokert-mit-den-neuen-wahlregeln-hoch",
-     "time": "2026-10-08T13:22:59Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Il gas è in rialzo (+1,8%) a 79,5 euro al Megawattora",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/il-gas-e-in-rialzo-18-a-795-euro-al-megawattora_cfea33ee-81dc-4b64-9b8e-338304d774ec.html",
-     "time": "2026-10-08T16:09:56Z"
+     "title": "Sindacati, da lunedì sciopero nazionale all'ex Ilva per 24 ore",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/sindacati-da-lunedi-sciopero-nazionale-allex-ilva-per-24-ore_87927253-962e-4e8b-b4d7-61737532b5c5.html",
+     "time": "2026-10-08T21:11:50Z"
     },
     {
-     "title": "Lo spread tra Btp e Bund chiude in calo a 111 punti base",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/lo-spread-tra-btp-e-bund-chiude-in-calo-a-111-punti-base_a13c50a2-39ca-4336-85b2-f4736ca2939c.html",
-     "time": "2026-10-08T16:09:52Z"
+     "title": "Hegseth, la fucilazione dell'autore della strage di Fort Hood sarà pubblica",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/hegseth-la-fucilazione-dellautore-della-strage-di-fort-hood-sara-pubblica_4f2f6f5a-098a-454b-8a56-06cd26246226.html",
+     "time": "2026-10-08T21:04:30Z"
     },
     {
-     "title": "Un'altra donna denuncia, 'spinta da una minicar mentre ero in bici'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/unaltra-donna-denuncia-spinta-da-una-minicar-mentre-ero-in-bici_1ba3b2b3-a759-477d-9d43-a5682f4ff818.html",
-     "time": "2026-10-08T15:59:59Z"
+     "title": "Nyt, 'Pentagono elabora nuovi piani di attacco contro l'Iran'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/nyt-pentagono-elabora-nuovi-piani-di-attacco-contro-liran_078abd15-24b4-48c6-9f75-81ffb595e63c.html",
+     "time": "2026-10-08T20:59:22Z"
     },
     {
-     "title": "Borsa: l'Europa conclude debole, Francoforte -1,2%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/borsa-leuropa-conclude-debole-francoforte-12_9c9d0b34-7e30-4769-8acf-a075fe2a5d41.html",
-     "time": "2026-10-08T15:46:10Z"
+     "title": "'Negoziatori Kiev domani a Miami, invitati Gb, Francia, Germania, Nato e Ue",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/negoziatori-kiev-domani-a-miami-invitati-gb-francia-germania-nato-e-ue_a6265b5e-f6b6-4bc0-a4ca-45fdda7178b2.html",
+     "time": "2026-10-08T20:02:48Z"
     },
     {
-     "title": "Borsa: Milano chiude in ampio calo, Ftse Mib -1,35%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/borsa-milano-chiude-in-ampio-calo-ftse-mib-135_a6fe7efc-5ce0-42cf-adc9-f812362286a5.html",
-     "time": "2026-10-08T15:42:29Z"
+     "title": "M5s, Camera \"dopo taglio vitalizi, oggi abolisce adeguamento Istat\"",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/m5s-camera-dopo-taglio-vitalizi-oggi-abolisce-adeguamento-istat_ad1809f2-6fd3-4eea-a126-94d105d210fb.html",
+     "time": "2026-10-08T19:07:24Z"
     },
     {
-     "title": "L'Eurogruppo avvia l'iter per il dopo Schnabel in Bce, candidature entro il 28 ottobre",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/leurogruppo-avvia-liter-per-il-dopo-schnabel-in-bce-candidature-entro-il-28-ottobre_53f331e7-1aa0-4dae-97c4-f855cd133b99.html",
-     "time": "2026-10-08T15:42:11Z"
+     "title": "Prorogata in Cina la lotteria per poter accedere agli incentivi sulle auto nuove",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/prorogata-in-cina-la-lotteria-per-poter-accedere-agli-incentivi-sulle-auto_459f63bd-f2d7-4ad2-843c-89c61c5bcbcb.html",
+     "time": "2026-10-08T19:04:50Z"
     },
     {
-     "title": "Uniqlo supera H&M e diventa il secondo gruppo mondiale dell'abbigliamento",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/uniqlo-supera-hm-e-diventa-il-secondo-gruppo-mondiale-dellabbigliamento_a2e30c5b-4b6a-487b-82ef-1759ceac7a06.html",
-     "time": "2026-10-08T15:23:43Z"
+     "title": "Il petrolio chiude in forte rialzo a New York a 91,49 dollari",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/il-petrolio-chiude-in-forte-rialzo-a-new-york-a-9149-dollari_8cfcdbf5-d678-4e85-8645-f37771dbe7f2.html",
+     "time": "2026-10-08T19:02:38Z"
     },
     {
-     "title": "Acciaierie d'Italia annuncia la fermata temporanea dell'ex Ilva a Genova e Novi Ligure",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/acciaierie-ditalia-annuncia-la-fermata-temporanea-dellex-ilva-a-genova-e-novi-ligure_06531499-3d39-4c30-88e4-58012f14ecd5.html",
-     "time": "2026-10-08T14:56:57Z"
+     "title": "Mantovano, nel prossimo cdm un decreto legge su tutele ex Ilva",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/mantovano-nel-prossimo-cdm-un-decreto-legge-su-tutele-ex-ilva_32d05686-00a2-4c00-ac55-bdb834342070.html",
+     "time": "2026-10-08T18:32:17Z"
     },
     {
-     "title": "Kallas, 'pronta la nuova missione Ue in Libano, non sostituirà Unifil'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/kallas-pronta-la-nuova-missione-ue-in-libano-non-sostituira-unifil_4b6006d4-6998-4bb8-8e6f-69304c1dac4d.html",
-     "time": "2026-10-08T14:55:58Z"
+     "title": "Conte, un attimo dopo l'assemblea Pd tavolo di programma e poi primarie",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/conte-un-attimo-dopo-lassemblea-pd-tavolo-di-programma-e-poi-primarie_2c036912-7091-494e-8859-a23115df8d81.html",
+     "time": "2026-10-08T18:24:39Z"
     },
     {
-     "title": "Acciaierie d'Italia annuncia fermata temporanea ex Ilva Genova e Novi Ligure",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/acciaierie-ditalia-annuncia-fermata-temporanea-ex-ilva-genova-e-novi-ligure_305b5823-8267-4761-bf14-a8106300a65b.html",
-     "time": "2026-10-08T14:55:36Z"
+     "title": "Attacco cyber alla Farnesina, autori gli hacker russi Noname",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/attacco-cyber-alla-farnesina-autori-gli-hacker-russi-noname_065d2efb-bb4e-4682-91a2-1b20e4955ff7.html",
+     "time": "2026-10-08T17:55:37Z"
     }
    ]
   },
@@ -215,19 +215,44 @@
    "countries": [],
    "items": [
     {
+     "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+     "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T20:38:11Z"
+    },
+    {
+     "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+     "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T19:10:06Z"
+    },
+    {
+     "title": "Adidas sues Australian label White Fox over four stripes design",
+     "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T18:17:28Z"
+    },
+    {
      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T16:11:28Z"
+     "time": "2026-10-08T17:38:59Z"
     },
     {
      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T15:44:02Z"
+     "time": "2026-10-08T17:16:32Z"
     },
     {
-     "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-     "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T15:43:45Z"
+     "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+     "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T16:31:29Z"
+    },
+    {
+     "title": "Zambia signs US health deal after disputes over data-sharing",
+     "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T16:24:05Z"
+    },
+    {
+     "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+     "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T16:23:09Z"
     },
     {
      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
@@ -245,34 +270,9 @@
      "time": "2026-10-08T14:10:58Z"
     },
     {
-     "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-     "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T12:43:56Z"
-    },
-    {
      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-08T12:32:12Z"
-    },
-    {
-     "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-     "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T12:11:31Z"
-    },
-    {
-     "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
-     "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T12:04:25Z"
-    },
-    {
-     "title": "Bear kills man in home attack near Mongolian capital",
-     "url": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T11:52:59Z"
-    },
-    {
-     "title": "Residents airlifted to safety after flooding in central Chile",
-     "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T11:31:22Z"
     }
    ]
   }
