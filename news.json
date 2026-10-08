@@ -1,6 +1,6 @@
 {
- "version": 10,
- "updated": "2026-10-07T21:55:42Z",
+ "version": 11,
+ "updated": "2026-10-08T01:47:50Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,34 @@
    ],
    "items": [
     {
+     "title": "Dritter Jahrestag des 7. Oktober: Ein emotionaler Gedenktag in Israel geht zu Ende",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-hamas-ueberfall-100.html",
+     "time": "2026-10-08T01:35:58Z"
+    },
+    {
+     "title": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?",
+     "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
+     "time": "2026-10-07T23:25:54Z"
+    },
+    {
+     "title": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
+     "url": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
+     "time": "2026-10-07T22:05:42Z"
+    },
+    {
+     "title": "Sozialdemokraten: Mit dem \"Projekt 2045\" für den Klimaschutz",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/spd-klimapolitik-100.html",
+     "time": "2026-10-07T22:01:18Z"
+    },
+    {
      "title": "UEFA sucht nach Strategie für Sturz Infantinos",
      "url": "https://www.sportschau.de/fussball/uefa-sucht-nach-strategie-fuer-sturz-infantinos,uefa-treffen-berlin-fifa-infantino-100.html",
      "time": "2026-10-07T21:42:37Z"
+    },
+    {
+     "title": "Vier Stunden - dann ist der Koalitionsausschuss zu Ende",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-108.html",
+     "time": "2026-10-07T21:32:31Z"
     },
     {
      "title": "tagesthemen",
@@ -48,31 +73,6 @@
      "title": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
      "time": "2026-10-07T20:00:05Z"
-    },
-    {
-     "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
-     "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
-     "time": "2026-10-07T19:38:22Z"
-    },
-    {
-     "title": "Berlin: Hunderte Menschen gedenken der Opfer des Hamas-Anschlags",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html",
-     "time": "2026-10-07T19:24:39Z"
-    },
-    {
-     "title": "Sachsen-Anhalt: CDU-Fraktion droht möglicherweise Spaltung",
-     "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/fraktion-droht-spaltung,cdu-landtag-mifri-100.html",
-     "time": "2026-10-07T18:57:39Z"
-    },
-    {
-     "title": "Neue Staatspräsidentin des Kosovos: Ein politischer Deal in letzter Minute",
-     "url": "https://www.tagesschau.de/ausland/europa/kosovo-staatspraesidentin-wahl-100.html",
-     "time": "2026-10-07T18:45:48Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12302.html",
-     "time": "2026-10-07T18:29:55Z"
     }
    ]
   },
@@ -85,9 +85,14 @@
    ],
    "items": [
     {
+     "title": "Krieg in der Ukraine – Mindestens 28 Tote nach massiven russischen Luftangriffen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-mindestens-28-tote-nach-massiven-russischen-luftangriffen",
+     "time": "2026-10-08T01:14:35Z"
+    },
+    {
      "title": "Nach Zwangsräumung – Spanische Seniorin Maricarmen Abascal mit 87 gestorben",
      "url": "https://www.srf.ch/news/international/nach-zwangsraeumung-spanische-seniorin-maricarmen-abascal-mit-87-gestorben",
-     "time": "2026-10-07T21:25:05Z"
+     "time": "2026-10-07T23:17:34Z"
     },
     {
      "title": "Wegen laufendem Strafverfahren – OK-Präsident der Ski-WM tritt zurück",
@@ -108,11 +113,6 @@
      "title": "Krieg im Nahen Osten – Gedenken an die Opfer des 7. Oktobers 2023",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-gedenken-an-die-opfer-des-7-oktobers-2023",
      "time": "2026-10-07T19:18:04Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Mindestens 25 Tote nach massiven russischen Luftangriffen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-mindestens-25-tote-nach-massiven-russischen-luftangriffen",
-     "time": "2026-10-07T19:17:52Z"
     },
     {
      "title": "Playoffs gegen Israel – Crnogorcevic: Mit Geduld und schnellem Spiel in die nächste Runde",
@@ -157,6 +157,11 @@
    ],
    "items": [
     {
+     "title": "Borsa: Tokyo, apertura in leggero ribasso (-0,26%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/borsa-tokyo-apertura-in-leggero-ribasso-026_763b3966-d739-4e46-a8da-54ca83b1aafa.html",
+     "time": "2026-10-08T00:50:57Z"
+    },
+    {
      "title": "È morta Maricarmen, il volto delle proteste per diritto alla casa in Spagna",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/e-morta-maricarmen-il-volto-delle-proteste-per-diritto-alla-casa-in-spagna_520564cc-e780-47f3-aa11-23469f410b06.html",
      "time": "2026-10-07T18:44:33Z"
@@ -200,11 +205,6 @@
      "title": "Lo spread Btp-Bund termina in crescita a 115,2 punti",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/lo-spread-btp-bund-termina-in-crescita-a-1152-punti_50049c0f-eb74-4074-99f5-f0a611f15607.html",
      "time": "2026-10-07T16:10:42Z"
-    },
-    {
-     "title": "Borsa: Milano maglia nera in Europa, Unicredit e Intesa guidano i cali delle banche",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/07/borsa-milano-maglia-nera-in-europa-unicredit-e-intesa-guidano-i-cali-delle_acfdc3a4-a09a-4659-b4dc-85aba3d19205.html",
-     "time": "2026-10-07T16:08:50Z"
     }
    ]
   },
@@ -215,9 +215,14 @@
    "countries": [],
    "items": [
     {
+     "title": "Japan beer giants raided over alleged price-fixing cartel",
+     "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T00:53:46Z"
+    },
+    {
      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-07T21:40:24Z"
+     "time": "2026-10-08T00:09:17Z"
     },
     {
      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
@@ -258,11 +263,6 @@
      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-07T12:46:39Z"
-    },
-    {
-     "title": "Japan beer giants raided over alleged price-fixing cartel",
-     "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-07T12:09:59Z"
     },
     {
      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
