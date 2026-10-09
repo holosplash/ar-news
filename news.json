@@ -1,6 +1,6 @@
 {
- "version": 16,
- "updated": "2026-10-09T07:57:47Z",
+ "version": 17,
+ "updated": "2026-10-09T15:13:33Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Mahmutovic will überzeugen",
-     "url": "https://www.ndr.de/sport/fussball/cleverer-und-erfahrener-mahmutovic-will-im-dfb-team-ueberzeugen,dfb-frauen-338.html",
-     "time": "2026-10-09T07:51:00Z"
+     "title": "Mecklenburg-Vorpommern: SPD, Linke und Grüne wollen über Koalition verhandeln",
+     "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/spd-linke-und-gruene-wollen-koalitionverhandlungen-in-mv-aufnehmen,mvwahl-492.html",
+     "time": "2026-10-09T14:50:03Z"
     },
     {
      "title": "Niedersachsens SPD-Fraktionschef legt Amt nieder",
      "url": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-ruecktritt-von-spd-fraktionschef-wer-folgt-auf-politze,politze-118.html",
-     "time": "2026-10-09T07:36:41Z"
+     "time": "2026-10-09T14:32:32Z"
     },
     {
-     "title": "Arbeiten für die ukrainische Bahn - in ständiger Gefahr",
-     "url": "https://www.tagesschau.de/ausland/ukraine-eisenbahn-100.html",
-     "time": "2026-10-09T07:00:09Z"
+     "title": "Christoph Mestmacher, ARD Berlin, zur Bundestagsdebatte über die Landtagswahl in Sachsen-Anhalt",
+     "url": "https://www.tagesschau.de/video/video-1663344.html",
+     "time": "2026-10-09T14:25:57Z"
     },
     {
-     "title": "KI-Firmen müssen sich nach KI-Angriff in Australien erklären",
-     "url": "https://www.tagesschau.de/ausland/ozeanien/ki-anhoerung-australien-100.html",
-     "time": "2026-10-09T06:59:55Z"
+     "title": "BMW zieht Dienstwagen-Angebot für AfD-Politiker Rausch zurück",
+     "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/tobias-rausch-dienstwagen,bmw-zieht-leasingvertrag-zurueck-100.html",
+     "time": "2026-10-09T14:23:25Z"
     },
     {
-     "title": "Schloss Neuschwanstein, Kunstausstellung \"Azure Galaxy\", New York Comic Con",
+     "title": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
+     "time": "2026-10-09T14:22:58Z"
+    },
+    {
+     "title": "Ist die Deutsche Bahn unter Konzernchefin Palla auf dem richtigen Weg?",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-palla-bilanz-100.html",
+     "time": "2026-10-09T14:17:27Z"
+    },
+    {
+     "title": "Teehaus mit Herbstlaub, Brückenbrunnen in Seoul, Schloss Neuschwanstein",
      "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10494.html",
-     "time": "2026-10-09T06:58:32Z"
+     "time": "2026-10-09T14:17:13Z"
     },
     {
-     "title": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html",
-     "time": "2026-10-09T06:43:59Z"
+     "title": "AfD-Politiker Tillschneider an Teilnahme an Halle-Gedenken gehindert",
+     "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/afd-gedenken-anschlag-attentat-synagoge-eklat,tillschneider-136.html",
+     "time": "2026-10-09T14:12:12Z"
     },
     {
-     "title": "\"Sind in schwierigem Zustand\", Thorsten Frei, CDU, Vorsitzender Union-Bundestagsfraktion, zur CDU-Krise",
-     "url": "https://www.tagesschau.de/video/video-1663066.html",
-     "time": "2026-10-09T05:56:23Z"
+     "title": "Bildungsministerin Prien stellt im Bundestag \"Startchancengesetz\" vor",
+     "url": "https://www.tagesschau.de/video/video-1663338.html",
+     "time": "2026-10-09T14:08:46Z"
     },
     {
-     "title": "Mann durch Schüsse während ICE-Einsatz in New York verletzt",
-     "url": "https://www.tagesschau.de/ausland/amerika/newyork-ice-schuesse-100.html",
-     "time": "2026-10-09T05:37:53Z"
+     "title": "Südafrikanische Menschenrechtlerin Navanethem Pillay erhält Friedensnobelpreis",
+     "url": "https://www.tagesschau.de/video/video-1663334.html",
+     "time": "2026-10-09T14:06:53Z"
     },
     {
-     "title": "Marktbericht: DAX könnte 25.000 Punkte zurückerobern",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
-     "time": "2026-10-09T05:36:49Z"
+     "title": "Bayerns Innenminister gibt Details über Schützen in Berngau bekannt",
+     "url": "https://www.tagesschau.de/inland/berngau-schuesse-100.html",
+     "time": "2026-10-09T13:55:03Z"
     },
     {
-     "title": "Werders Füllkrug heiß auf Wiedersehen mit BVB",
-     "url": "https://www.sportschau.de/regional/rb/rb-werders-fuellkrug-heiss-auf-wiedersehen-mit-bvb--trifft-er-endlich-100.html",
-     "time": "2026-10-09T05:36:01Z"
-    },
-    {
-     "title": "\"Fördern wir mit zehn Milliarden\", Karin Prien, CDU, Bildungsministerin, zum Startchancengesetz",
-     "url": "https://www.tagesschau.de/video/video-1663062.html",
-     "time": "2026-10-09T05:26:08Z"
-    },
-    {
-     "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
-     "url": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
-     "time": "2026-10-09T05:23:12Z"
+     "title": "Spritpreis-Entlastung: Was bringt der \"Tankrabatt\" den Autofahrern?",
+     "url": "https://www.tagesschau.de/wirtschaft/energie/tankrabatt-spritpreise-entlastung-autofahrer-100.html",
+     "time": "2026-10-09T13:29:55Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Nachfolge von Guy Parmelin – «Gmögig» vor kompetent: Wer schafft es eher in den Bundesrat?",
-     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-gmoegig-vor-kompetent-wer-schafft-es-eher-in-den-bundesrat",
-     "time": "2026-10-09T07:36:42Z"
+     "title": "Neues Sprachengesetz – Freiburg setzt ein Zeichen für die Zweisprachigkeit",
+     "url": "https://www.srf.ch/news/dialog/neues-sprachengesetz-freiburg-setzt-ein-zeichen-fuer-die-zweisprachigkeit",
+     "time": "2026-10-09T15:10:38Z"
     },
     {
-     "title": "Äthiopiens Premier – Abiy Ahmed: Vom Friedensnobelpreisträger zum Kriegstreiber?",
-     "url": "https://www.srf.ch/news/international/aethiopiens-premier-abiy-ahmed-vom-friedensnobelpreistraeger-zum-kriegstreiber",
-     "time": "2026-10-09T06:45:32Z"
+     "title": "Erhebliche Beeinträchtigungen – Westschweiz: Mutmassliche Brandstiftung legt Bahnverkehr lahm",
+     "url": "https://www.srf.ch/news/schweiz/erhebliche-beeintraechtigungen-westschweiz-mutmassliche-brandstiftung-legt-bahnverkehr-lahm",
+     "time": "2026-10-09T14:49:20Z"
     },
     {
-     "title": "Nobelpreis 2026 – Die Welt blickt nach Oslo: Wer bekommt den Friedensnobelpreis?",
-     "url": "https://www.srf.ch/news/international/nobelpreis-2026-die-welt-blickt-nach-oslo-wer-bekommt-den-friedensnobelpreis",
-     "time": "2026-10-09T06:43:30Z"
+     "title": "Hinrichtung im Livestream – Wie Pentagon-Chef Pete Hegseth die Aufmerksamkeit lenkt",
+     "url": "https://www.srf.ch/news/international/hinrichtung-im-livestream-wie-pentagon-chef-pete-hegseth-die-aufmerksamkeit-lenkt",
+     "time": "2026-10-09T14:46:45Z"
     },
     {
-     "title": "Fragwürdige Anlageberatung – Kundinnen und Kunden der VVK bangen um ihr Geld – Chef sagt Adieu",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/fragwuerdige-anlageberatung-kundinnen-und-kunden-der-vvk-bangen-um-ihr-geld-chef-sagt-adieu",
-     "time": "2026-10-09T06:39:17Z"
+     "title": "Online-Marktplatz gehackt – «Keine Erpressung» – Ricardo meldet Datenleck bei 890'000 Konten",
+     "url": "https://www.srf.ch/news/schweiz/online-marktplatz-gehackt-keine-erpressung-ricardo-meldet-datenleck-bei-890-000-konten",
+     "time": "2026-10-09T14:19:32Z"
     },
     {
-     "title": "Neu im Kino – «The Social Reckoning»: Mark Zuckerberg als Filmbösewicht",
-     "url": "https://www.srf.ch/kultur/film-serien/neu-im-kino-the-social-reckoning-mark-zuckerberg-als-filmboesewicht",
-     "time": "2026-10-09T06:14:39Z"
+     "title": "Lehrer, Vater, Sportler – Wenn andere aufgeben, fängt Giuseppe Palaia erst an",
+     "url": "https://www.srf.ch/radio-srf-1/lehrer-vater-sportler-wenn-andere-aufgeben-faengt-giuseppe-palaia-erst-an",
+     "time": "2026-10-09T14:08:52Z"
     },
     {
-     "title": "Vor Kunstturn-WM in Rotterdam – Seifert nach Sturz auf den Kopf wieder fit und motiviert",
-     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/vor-kunstturn-wm-in-rotterdam-seifert-nach-sturz-auf-den-kopf-wieder-fit-und-motiviert",
-     "time": "2026-10-09T06:11:18Z"
+     "title": "Formel 1: GP Singapur – Sprint Qualifying: Verstappen fährt nächste Pole heraus",
+     "url": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-gp-singapur-sprint-qualifying-verstappen-faehrt-naechste-pole-heraus",
+     "time": "2026-10-09T13:57:05Z"
     },
     {
-     "title": "Verkehr '45 – Parteien und Verbände wollen Nachbesserungen beim Verkehrsausbau",
-     "url": "https://www.srf.ch/news/schweiz/verkehr-45-parteien-und-verbaende-wollen-nachbesserungen-beim-verkehrsausbau",
-     "time": "2026-10-09T06:03:30Z"
+     "title": "Krieg in der Ukraine – Selenski: 78 Tote bei russischen Angriffen in letzten zwei Tagen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-78-tote-bei-russischen-angriffen-in-letzten-zwei-tagen",
+     "time": "2026-10-09T13:47:53Z"
     },
     {
-     "title": "NHL in der Nacht auf Freitag – Josi verhilft Nashville mit 2 Assists zum 2. Saisonsieg",
-     "url": "https://www.srf.ch/sport/eishockey/nhl/nhl-in-der-nacht-auf-freitag-josi-verhilft-nashville-mit-2-assists-zum-2-saisonsieg",
-     "time": "2026-10-09T05:46:04Z"
+     "title": "Druck von rechts und links – Die Mitte-Parteien in Deutschland werden zerrieben",
+     "url": "https://www.srf.ch/news/international/druck-von-rechts-und-links-die-mitte-parteien-in-deutschland-werden-zerrieben",
+     "time": "2026-10-09T13:32:22Z"
     },
     {
-     "title": "Meilenstein der Augenforschung – Licht für Blinde: Gentherapie zeigt erste Erfolge",
-     "url": "https://www.srf.ch/news/schweiz/meilenstein-der-augenforschung-licht-fuer-blinde-gentherapie-zeigt-erste-erfolge",
-     "time": "2026-10-09T05:41:45Z"
+     "title": "Britisches Königshaus – Prinz Harry spricht über depressive Phase",
+     "url": "https://www.srf.ch/news/gesellschaft/britisches-koenigshaus-prinz-harry-spricht-ueber-depressive-phase",
+     "time": "2026-10-09T13:09:37Z"
     },
     {
-     "title": "Fünfjähriges Kind im Auto – ICE-Beamter schiesst in New York auf Mann und verletzt ihn",
-     "url": "https://www.srf.ch/news/international/fuenfjaehriges-kind-im-auto-ice-beamter-schiesst-in-new-york-auf-mann-und-verletzt-ihn",
-     "time": "2026-10-09T05:31:17Z"
+     "title": "Kulturnews in Kurzform – Aus Renoir-Museum gestohlene Gemälde wieder da",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-aus-renoir-museum-gestohlene-gemaelde-wieder-da",
+     "time": "2026-10-09T12:59:18Z"
     },
     {
-     "title": "Ratgeber Gebrauchtware – Secondhand: Fünf Dinge, die rechtlich wichtig sind",
-     "url": "https://www.srf.ch/radio-srf-1/ratgeber-gebrauchtware-secondhand-fuenf-dinge-die-rechtlich-wichtig-sind",
-     "time": "2026-10-09T05:08:56Z"
+     "title": "Nach Gewalteskalation von 2025 – Aufruf zu unbewilligter Demo: Bern vor brenzligem Wochenende",
+     "url": "https://www.srf.ch/news/schweiz/nach-gewalteskalation-von-2025-aufruf-zu-unbewilligter-demo-bern-vor-brenzligem-wochenende",
+     "time": "2026-10-09T12:09:54Z"
     },
     {
-     "title": "Nach gescheiterter Hinrichtung – Christa Pike kann wieder laufen",
-     "url": "https://www.srf.ch/news/international/nach-gescheiterter-hinrichtung-christa-pike-kann-wieder-laufen",
-     "time": "2026-10-09T04:46:40Z"
+     "title": "Friedensnobelpreis 2026 – Navi Pillay: Eine überraschende, aber plausible Wahl",
+     "url": "https://www.srf.ch/news/international/friedensnobelpreis-2026-navi-pillay-eine-ueberraschende-aber-plausible-wahl",
+     "time": "2026-10-09T11:39:45Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Borsa: Milano sale con l'Europa (+0,9%), Eni cede col greggio, corre Banca Generali",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/borsa-milano-sale-con-leuropa-09-eni-cede-col-greggio-corre_d2bf1769-8a73-4c3f-adfc-9a792f09f48e.html",
-     "time": "2026-10-09T07:33:10Z"
+     "title": "Salgono a sei i casi della banda della minicar, uomo colpito in strada",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/salgono-a-sei-i-casi-della-banda-della-minicar-uomo-colpito-in-strada_c9695572-2823-4241-9957-d8a06269051d.html",
+     "time": "2026-10-09T15:01:58Z"
     },
     {
-     "title": "Eni taglia ancora il prezzo del gasolio, torna a 2,19 euro",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/eni-taglia-ancora-il-prezzo-del-gasolio-torna-a-219-euro_fa2f08f1-ac94-4b83-ad03-fe60c1e2e981.html",
-     "time": "2026-10-09T07:32:07Z"
+     "title": "'Rubio, Cpi corte canaglia, vieteremo le transazioni'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/rubio-cpi-corte-canaglia-vieteremo-le-transazioni_6a504d3f-ff7e-41b2-ae98-f749f87d32d8.html",
+     "time": "2026-10-09T14:41:34Z"
     },
     {
-     "title": "Scontri Askatasuna, perquisizioni in tutta Italia, chieste 19 misure",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/scontri-askatasuna-perquisizioni-in-tutta-italia-chieste-19-misure_e9631841-2d3c-4882-a3f7-b0ffdad04813.html",
-     "time": "2026-10-09T07:25:24Z"
+     "title": "Trump lancia commissione d'inchiesta contro componente board della Fed Lisa Cook",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/trump-lancia-commissione-dinchiesta-contro-componente-board-della-fed-lisa_6ff02afb-56ec-428e-b9e2-478f65c9bbd5.html",
+     "time": "2026-10-09T14:39:44Z"
     },
     {
-     "title": "Borsa per l'Europa avvio in crescita, Parigi +0,8%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/borsa-per-leuropa-avvio-in-crescita-parigi-08_e505ff6b-2876-47fc-bea1-b2d99fec814d.html",
-     "time": "2026-10-09T07:12:33Z"
+     "title": "Usa annunciano sanzioni alla Corte Penale Internazionale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/usa-annunciano-sanzioni-alla-corte-penale-internazionale_49338783-b7e8-43f7-ba78-b29f983be9e6.html",
+     "time": "2026-10-09T14:37:40Z"
     },
     {
-     "title": "Borsa: Milano apre in rialzo dello 0,82%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/borsa-milano-apre-in-rialzo-dello-082_7fe40892-eef2-48da-a922-2ba8a3b04e36.html",
-     "time": "2026-10-09T07:10:31Z"
+     "title": "Banfi, 'in cima alla lista dei morituri? Sono sempre il primo! Isoardi si è scusata'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/banfi-in-cima-alla-lista-dei-morituri-sono-sempre-il-primo-isoardi_d53e126c-7ea4-43d3-83c8-ebd716114264.html",
+     "time": "2026-10-09T14:27:47Z"
     },
     {
-     "title": "Lo spread Btp-Bund parte in flessione a 108 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/lo-spread-btp-bund-parte-in-flessione-a-108-punti_e7365307-1d8c-4fca-a0e8-0232ca243eff.html",
-     "time": "2026-10-09T06:41:08Z"
+     "title": "Senatore 5S passa al Misto, approda a componente Psi come mossa 'anti-firme'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/senatore-5s-passa-al-misto-approda-a-componente-psi-come-mossa-anti-firme_97daf82b-5d0e-4cd4-88b2-82394c7c67c6.html",
+     "time": "2026-10-09T14:11:42Z"
     },
     {
-     "title": "Il petrolio ritraccia, Brent scende sotto 103 dollari (-1,2%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/il-petrolio-ritraccia-brent-scende-sotto-103-dollari-12_9a99b29a-81ce-46b0-b9fd-444bd85dc944.html",
-     "time": "2026-10-09T06:18:48Z"
+     "title": "Trump condivide post, 'Nobel vergognoso, Pillay odia l'America e Israele'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/trump-condivide-post-nobel-vergognoso-pillay-odia-lamerica-e-israele_4aef2c59-672e-4779-951b-74906a448efd.html",
+     "time": "2026-10-09T14:07:20Z"
     },
     {
-     "title": "Otto civili uccisi in Guatemala, il governo indaga l'esercito",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/otto-civili-uccisi-in-guatemala-il-governo-indaga-lesercito_e657ae32-ee4c-4f49-9eab-20f125be0fd5.html",
-     "time": "2026-10-09T03:09:32Z"
+     "title": "Borsa: l'Europa prosegue in rialzo dopo Wall Street, Milano +1,2%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/borsa-leuropa-prosegue-in-rialzo-dopo-wall-street-milano-12_289166cf-29b2-495b-aca9-23d52e6c02d0.html",
+     "time": "2026-10-09T13:56:18Z"
     },
     {
-     "title": "Toyota e big cinesi dell'auto: alleanza per l'elettrificazione",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/toyota-e-big-cinesi-dellauto-alleanza-per-lelettrificazione_52ff7dff-f7da-4545-9ed1-b845f7f0f5d8.html",
-     "time": "2026-10-09T01:32:00Z"
+     "title": "Dombrovskis, 'extraprofitti sono in capo agli Stati, da Ue gruppo di lavoro'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/dombrovskis-extraprofitti-sono-in-capo-agli-stati-da-ue-gruppo-di-lavoro_90ba2431-ad1e-4129-8761-75059b21a4d6.html",
+     "time": "2026-10-09T13:27:52Z"
     },
     {
-     "title": "Cuba, 'Agli Usa manca l'autorità morale per decidere chi commercia con noi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/cuba-agli-usa-manca-lautorita-morale-per-decidere-chi-commercia_3b8dfe5e-e632-43aa-a860-9067b8ab5170.html",
-     "time": "2026-10-09T01:25:03Z"
+     "title": "Pechino, raggiunta intesa con Ue sul commercio delle auto ibride",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/pechino-raggiunta-intesa-con-ue-sul-commercio-delle-auto-ibride_84073571-4b8d-4eec-9f6a-834d2a8e0087.html",
+     "time": "2026-10-09T13:09:39Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
+     "title": "Two Renoir paintings stolen from French museum are recovered",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T14:25:18Z"
+    },
+    {
+     "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+     "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T14:00:47Z"
+    },
+    {
+     "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+     "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T13:50:25Z"
+    },
+    {
+     "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T13:31:07Z"
+    },
+    {
      "title": "Firing squad execution to be livestreamed, Pentagon says",
      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T07:05:05Z"
-    },
-    {
-     "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
-     "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T04:53:50Z"
-    },
-    {
-     "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-     "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T04:44:22Z"
+     "time": "2026-10-09T12:24:58Z"
     },
     {
      "title": "ICE agent shoots man in New York City",
      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T04:26:19Z"
+     "time": "2026-10-09T12:18:52Z"
     },
     {
-     "title": "Adidas sues Australian label White Fox over four stripes design",
-     "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T03:36:41Z"
+     "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+     "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T11:44:49Z"
     },
     {
-     "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-     "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T23:14:02Z"
+     "title": "France promises 3,000 extra teachers in first step to calm student protests",
+     "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T11:35:00Z"
     },
     {
-     "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-     "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T23:11:10Z"
+     "title": "Crazy Rich Asians to return as TV show with original film's stars",
+     "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T10:54:21Z"
     },
     {
-     "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
-     "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T22:26:10Z"
+     "title": "Fleeing Kyiv for the countryside ahead of winter",
+     "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T10:00:49Z"
     },
     {
-     "title": "What Americans think about the death penalty",
-     "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T21:49:14Z"
+     "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+     "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T09:43:22Z"
     },
     {
-     "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-     "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T20:38:11Z"
-    },
-    {
-     "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-     "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T19:10:06Z"
-    },
-    {
-     "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-     "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T17:38:59Z"
+     "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
+     "url": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T09:37:56Z"
     }
    ]
   }
