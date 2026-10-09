@@ -1,6 +1,6 @@
 {
- "version": 14,
- "updated": "2026-10-08T21:27:37Z",
+ "version": 15,
+ "updated": "2026-10-09T01:22:19Z",
  "fallback": "en",
  "regions": [
   {
@@ -17,7 +17,22 @@
     {
      "title": "Berngau in der Oberpfalz: Ein Toter nach Schüssen bei Waffenkontrolle",
      "url": "https://www.tagesschau.de/inland/regional/bayern/schuesse-bei-waffenkontrolle-100.html",
-     "time": "2026-10-08T21:21:03Z"
+     "time": "2026-10-09T01:12:08Z"
+    },
+    {
+     "title": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
+     "url": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html",
+     "time": "2026-10-09T00:09:09Z"
+    },
+    {
+     "title": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
+     "time": "2026-10-08T22:08:21Z"
+    },
+    {
+     "title": "USA klagen venezolanischen Ex-Präsidenten Maduro wegen Folter an",
+     "url": "https://www.tagesschau.de/ausland/amerika/maduro-wegen-folter-angeklagt-100.html",
+     "time": "2026-10-08T22:00:28Z"
     },
     {
      "title": "tagesthemen",
@@ -58,21 +73,6 @@
      "title": "Markus Preiß, ARD Berlin, mit Informationen vom Koalitionsausschuss",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1662948.html",
      "time": "2026-10-08T18:20:15Z"
-    },
-    {
-     "title": "Wirtschaftsministern Reiche legt neue Konjunktur-Prognose vor",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1662946.html",
-     "time": "2026-10-08T18:18:26Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81326.html",
-     "time": "2026-10-08T18:17:40Z"
-    },
-    {
-     "title": "Finanzminister Klingbeil will mit der Einkommensteuerreform für Entlastung sorgen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1662944.html",
-     "time": "2026-10-08T18:14:16Z"
     }
    ]
   },
@@ -84,6 +84,21 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Krieg in der Ukraine – Selenski: 78 Tote bei russischen Angriffen in letzten zwei Tagen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-78-tote-bei-russischen-angriffen-in-letzten-zwei-tagen",
+     "time": "2026-10-09T01:21:11Z"
+    },
+    {
+     "title": "Durch Erschiessungskommando – Militärhinrichtung in Texas: Pentagon plant offenbar Livestream",
+     "url": "https://www.srf.ch/news/international/usa/durch-erschiessungskommando-militaerhinrichtung-in-texas-pentagon-plant-offenbar-livestream",
+     "time": "2026-10-09T00:41:27Z"
+    },
+    {
+     "title": "Brandkatastrophe Crans-Montana – 1.5 Millionen Franken Spitalkosten für italienische Brandopfer",
+     "url": "https://www.srf.ch/news/schweiz/brandkatastrophe-crans-montana-1-5-millionen-franken-spitalkosten-fuer-italienische-brandopfer",
+     "time": "2026-10-08T23:12:04Z"
+    },
     {
      "title": "Proteste von Schülern – Wieder demonstrieren Zehntausende auf Frankreichs Strassen",
      "url": "https://www.srf.ch/news/international/proteste-von-schuelern-wieder-demonstrieren-zehntausende-auf-frankreichs-strassen",
@@ -115,11 +130,6 @@
      "time": "2026-10-08T17:00:42Z"
     },
     {
-     "title": "Krieg in der Ukraine – Ukraine greift grösste russische Ölraffinerie in Sibirien an",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukraine-greift-groesste-russische-oelraffinerie-in-sibirien-an",
-     "time": "2026-10-08T16:26:34Z"
-    },
-    {
      "title": "Kein Infantino-Gegenkandidat – Uefa-Präsident Ceferin stellt sich zur Wiederwahl",
      "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/kein-infantino-gegenkandidat-uefa-praesident-ceferin-stellt-sich-zur-wiederwahl",
      "time": "2026-10-08T16:05:10Z"
@@ -133,16 +143,6 @@
      "title": "Husten und Schnupfen – Mit dem Herbst beginnt die Saison der Atemwegsinfekte",
      "url": "https://www.srf.ch/news/schweiz/husten-und-schnupfen-mit-dem-herbst-beginnt-die-saison-der-atemwegsinfekte",
      "time": "2026-10-08T15:58:09Z"
-    },
-    {
-     "title": "Blattverfärbung – Der goldene Herbst steht vor der Tür",
-     "url": "https://www.srf.ch/meteo/meteo-stories/blattverfaerbung-der-goldene-herbst-steht-vor-der-tuer",
-     "time": "2026-10-08T15:27:44Z"
-    },
-    {
-     "title": "Fahren im Alter – Mehr Verkehr, mehr alte Menschen im Auto, mehr Unfälle?",
-     "url": "https://www.srf.ch/news/schweiz/fahren-im-alter-mehr-verkehr-mehr-alte-menschen-im-auto-mehr-unfaelle",
-     "time": "2026-10-08T15:09:43Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Brasile, Flávio Bolsonaro attacca Moraes dopo il mandato d'arresto per il fratello",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/brasile-flavio-bolsonaro-attacca-moraes-dopo-il-mandato-darresto-per-il-fratello_d08839fd-27ad-4658-baa9-f7769bc5c861.html",
+     "time": "2026-10-09T00:37:48Z"
+    },
+    {
+     "title": "Borsa: Tokyo, apertura in calo (-0,61%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/borsa-tokyo-apertura-in-calo-061_1a262f85-f722-4a7f-99de-cb352ea0c45c.html",
+     "time": "2026-10-09T00:25:43Z"
+    },
+    {
+     "title": "'La fucilazione dell'autore della strage di Fort Hood sarà in diretta streaming'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/la-fucilazione-dellautore-della-strage-di-fort-hood-sara-in-diretta-streaming_de23eaa0-a00e-4705-9d78-946f03a9528c.html",
+     "time": "2026-10-08T21:44:15Z"
+    },
     {
      "title": "Sindacati, da lunedì sciopero nazionale all'ex Ilva per 24 ore",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/sindacati-da-lunedi-sciopero-nazionale-allex-ilva-per-24-ore_87927253-962e-4e8b-b4d7-61737532b5c5.html",
@@ -190,21 +205,6 @@
      "title": "Il petrolio chiude in forte rialzo a New York a 91,49 dollari",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/il-petrolio-chiude-in-forte-rialzo-a-new-york-a-9149-dollari_8cfcdbf5-d678-4e85-8645-f37771dbe7f2.html",
      "time": "2026-10-08T19:02:38Z"
-    },
-    {
-     "title": "Mantovano, nel prossimo cdm un decreto legge su tutele ex Ilva",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/mantovano-nel-prossimo-cdm-un-decreto-legge-su-tutele-ex-ilva_32d05686-00a2-4c00-ac55-bdb834342070.html",
-     "time": "2026-10-08T18:32:17Z"
-    },
-    {
-     "title": "Conte, un attimo dopo l'assemblea Pd tavolo di programma e poi primarie",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/conte-un-attimo-dopo-lassemblea-pd-tavolo-di-programma-e-poi-primarie_2c036912-7091-494e-8859-a23115df8d81.html",
-     "time": "2026-10-08T18:24:39Z"
-    },
-    {
-     "title": "Attacco cyber alla Farnesina, autori gli hacker russi Noname",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/08/attacco-cyber-alla-farnesina-autori-gli-hacker-russi-noname_065d2efb-bb4e-4682-91a2-1b20e4955ff7.html",
-     "time": "2026-10-08T17:55:37Z"
     }
    ]
   },
@@ -215,9 +215,34 @@
    "countries": [],
    "items": [
     {
+     "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T23:35:57Z"
+    },
+    {
+     "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+     "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T23:14:02Z"
+    },
+    {
+     "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T23:11:10Z"
+    },
+    {
+     "title": "What Americans think about the death penalty",
+     "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T21:49:14Z"
+    },
+    {
      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-08T20:38:11Z"
+    },
+    {
+     "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+     "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-08T19:39:32Z"
     },
     {
      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
@@ -248,31 +273,6 @@
      "title": "Zambia signs US health deal after disputes over data-sharing",
      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-08T16:24:05Z"
-    },
-    {
-     "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-     "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T16:23:09Z"
-    },
-    {
-     "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-     "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T15:21:46Z"
-    },
-    {
-     "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T15:02:32Z"
-    },
-    {
-     "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-     "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T14:10:58Z"
-    },
-    {
-     "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-     "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-08T12:32:12Z"
     }
    ]
   }
