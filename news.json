@@ -1,6 +1,6 @@
 {
- "version": 22,
- "updated": "2026-10-10T17:46:29Z",
+ "version": 23,
+ "updated": "2026-10-10T21:32:49Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
+     "time": "2026-10-10T20:44:04Z"
+    },
+    {
      "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
-     "time": "2026-10-10T16:44:22Z"
+     "time": "2026-10-10T20:08:55Z"
+    },
+    {
+     "title": "\"Ragebait\" ist Jugendwort des Jahres 2026",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664088.html",
+     "time": "2026-10-10T18:29:33Z"
+    },
+    {
+     "title": "Weg frei für Koalitionsverhandlungen in Schwerin",
+     "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/gruene-in-mv-stimmen-fuer-koalitionsverhandlungen-mit-spd-und-linke,mvwahl-494.html",
+     "time": "2026-10-10T18:28:58Z"
+    },
+    {
+     "title": "Bundeskunsthalle Bonn zeigt Ausstellung \"Nie wieder! Gegen das Vergessen der NS-Verbrechen\"",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664084.html",
+     "time": "2026-10-10T18:27:19Z"
+    },
+    {
+     "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
+     "time": "2026-10-10T18:26:35Z"
+    },
+    {
+     "title": "Drei Jahre Krieg im Gazastreifen und erster Jahrestag der Waffenruhe: Wie geht es den Menschen vor Ort?",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664082.html",
+     "time": "2026-10-10T18:24:08Z"
+    },
+    {
+     "title": "Ukrainischer Präsident Selenskyj kritisiert US-Deal zu den russischen Diesellieferungen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664080.html",
+     "time": "2026-10-10T18:21:51Z"
+    },
+    {
+     "title": "Vereinbarung mit Putin: US-Präsident Trump kündigt russische Diesellieferungen an",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664078.html",
+     "time": "2026-10-10T18:19:37Z"
+    },
+    {
+     "title": "Erste ostdeutsche Künstlerin Gabriele Stötzer erhält weltweit anerkannte Auszeichnung für Moderne Kunst",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664086.html",
+     "time": "2026-10-10T18:17:29Z"
+    },
+    {
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81370.html",
+     "time": "2026-10-10T18:16:35Z"
     },
     {
      "title": "Serie von Messerattacken an Schulen in Polen",
      "url": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
      "time": "2026-10-10T16:33:42Z"
-    },
-    {
-     "title": "Nina Amin, ARD Kairo, über den geplanten Selbstmordanschlag des Co-Piloten der Flydubai-Maschine",
-     "url": "https://www.tagesschau.de/video/video-1663968.html",
-     "time": "2026-10-10T16:30:38Z"
-    },
-    {
-     "title": "Bernd Rasem, ARD-aktuell, über den Raketenangriff auf das Passagierterminal am Flughafen von Riad",
-     "url": "https://www.tagesschau.de/video/video-1663972.html",
-     "time": "2026-10-10T16:27:09Z"
-    },
-    {
-     "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
-     "time": "2026-10-10T16:05:24Z"
-    },
-    {
-     "title": "Portugals Verband suspendiert Ronaldo vorläufig",
-     "url": "https://www.sportschau.de/fussball/portugals-verband-suspendiert-ronaldo-vorlaeufig,portugal-suspendirt-ronaldo-vorlaeufig-100.html",
-     "time": "2026-10-10T15:58:49Z"
-    },
-    {
-     "title": "Neuer kassiert schnellstes Tor der Bundesliga-Geschichte",
-     "url": "https://www.sportschau.de/regional/br/br-nach-neuer-klops-fc-bayern-patzt-erneut-gegen-angstgegner-fca-102.html",
-     "time": "2026-10-10T15:53:09Z"
-    },
-    {
-     "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
-     "url": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-     "time": "2026-10-10T15:49:44Z"
-    },
-    {
-     "title": "Vereinbarung mit Putin: US-Präsident Trump kündigt russische Diesellieferungen an",
-     "url": "https://www.tagesschau.de/video/video-1663940.html",
-     "time": "2026-10-10T15:45:07Z"
-    },
-    {
-     "title": "Ukrainischer Präsident Selenskyj kritisiert US-Deal zu den russischen Diesellieferungen",
-     "url": "https://www.tagesschau.de/video/video-1663944.html",
-     "time": "2026-10-10T15:42:25Z"
-    },
-    {
-     "title": "CDU diskutiert über Umgang mit der AfD",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
-     "time": "2026-10-10T15:34:39Z"
-    },
-    {
-     "title": "Weg frei für Koalitionsverhandlungen in Schwerin",
-     "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/gruene-in-mv-stimmen-fuer-koalitionsverhandlungen-mit-spd-und-linke,mvwahl-494.html",
-     "time": "2026-10-10T15:23:30Z"
     }
    ]
   },
@@ -85,6 +85,51 @@
    ],
    "items": [
     {
+     "title": "Golfküste der USA – Sturm «Isaias» kein Hurrikan mehr – trotzdem Lebensgefahr",
+     "url": "https://www.srf.ch/news/international/golfkueste-der-usa-sturm-isaias-kein-hurrikan-mehr-trotzdem-lebensgefahr",
+     "time": "2026-10-10T19:54:28Z"
+    },
+    {
+     "title": "Fast ein Jahr nach Unfall – Dettwiler feiert sein Renn-Comeback",
+     "url": "https://www.srf.ch/sport/motorsport/motorrad/fast-ein-jahr-nach-unfall-dettwiler-feiert-sein-renn-comeback",
+     "time": "2026-10-10T19:29:31Z"
+    },
+    {
+     "title": "Gesundheitszustand unklar – Christa Pike verlässt Spital und ist wieder im Gefängnis",
+     "url": "https://www.srf.ch/news/international/gesundheitszustand-unklar-christa-pike-verlaesst-spital-und-ist-wieder-im-gefaengnis",
+     "time": "2026-10-10T18:53:17Z"
+    },
+    {
+     "title": "Proteste gegen Wahlkommission – Polizei in Indien nimmt Gründer der «Kakerlaken»-Bewegung fest",
+     "url": "https://www.srf.ch/news/international/proteste-gegen-wahlkommission-polizei-in-indien-nimmt-gruender-der-kakerlaken-bewegung-fest",
+     "time": "2026-10-10T18:14:33Z"
+    },
+    {
+     "title": "Esther Friedli verzichtet – Der Rückzug eröffnet neue Möglichkeiten",
+     "url": "https://www.srf.ch/news/schweiz/esther-friedli-verzichtet-der-rueckzug-eroeffnet-neue-moeglichkeiten",
+     "time": "2026-10-10T18:10:32Z"
+    },
+    {
+     "title": "– Der Rückzug eröffnet neue Möglichkeiten",
+     "url": "https://www.srf.ch/news/schweiz/esther-friedli-verzichtet-der-rueckzug-eroeffnet-neue-moeglichkeiten",
+     "time": "2026-10-10T18:10:32Z"
+    },
+    {
+     "title": "Super League: 10. Runde – FCZ trotzt dem strömenden Regen und dreht Partie gegen Thun",
+     "url": "https://www.srf.ch/sport/fussball/super-league/super-league-10-runde-fcz-trotzt-dem-stroemenden-regen-und-dreht-partie-gegen-thun",
+     "time": "2026-10-10T17:59:11Z"
+    },
+    {
+     "title": "4:0 gegen Luzern – Lange Pause ohne Folgen: 9. Sieg im 10. Spiel für Lugano",
+     "url": "https://www.srf.ch/sport/fussball/super-league/4-0-gegen-luzern-lange-pause-ohne-folgen-9-sieg-im-10-spiel-fuer-lugano",
+     "time": "2026-10-10T17:55:29Z"
+    },
+    {
+     "title": "10. Runde der Super League – Servette lässt Sion im Rhone-Derby erneut keine Chance",
+     "url": "https://www.srf.ch/sport/fussball/super-league/10-runde-der-super-league-servette-laesst-sion-im-rhone-derby-erneut-keine-chance",
+     "time": "2026-10-10T17:51:16Z"
+    },
+    {
      "title": "Autoren publizieren selbst – Bücher herausgeben ist einfach – Erfolg haben weniger",
      "url": "https://www.srf.ch/news/wirtschaft/autoren-publizieren-selbst-buecher-herausgeben-ist-einfach-erfolg-haben-weniger",
      "time": "2026-10-10T16:02:27Z"
@@ -95,54 +140,9 @@
      "time": "2026-10-10T15:20:54Z"
     },
     {
-     "title": "Erstes Monument geholt – Jungstar Seixas triumphiert erstmals bei der Lombardei-Rundfahrt",
-     "url": "https://www.srf.ch/sport/rad/rad-strasse/erstes-monument-geholt-jungstar-seixas-triumphiert-erstmals-bei-der-lombardei-rundfahrt",
-     "time": "2026-10-10T15:17:39Z"
-    },
-    {
      "title": "Krieg im Nahen Osten – Flughafen in Riad erneut angegriffen",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-flughafen-in-riad-erneut-angegriffen",
      "time": "2026-10-10T14:49:17Z"
-    },
-    {
-     "title": "Polen – 76 Festnahmen nach Messerangriffen an Schulen",
-     "url": "https://www.srf.ch/news/international/polen-76-festnahmen-nach-messerangriffen-an-schulen",
-     "time": "2026-10-10T14:43:51Z"
-    },
-    {
-     "title": "F1-Qualifying in Singapur – Verstappen doppelt nach und holt sich die Pole Position",
-     "url": "https://www.srf.ch/sport/motorsport/formel-1/f1-qualifying-in-singapur-verstappen-doppelt-nach-und-holt-sich-die-pole-position",
-     "time": "2026-10-10T14:36:38Z"
-    },
-    {
-     "title": "Biodiversitätsförderung – Artenvielfalt: In Mehrfamilienhausgärten liegt Potenzial brach",
-     "url": "https://www.srf.ch/news/schweiz/biodiversitaetsfoerderung-artenvielfalt-in-mehrfamilienhausgaerten-liegt-potenzial-brach",
-     "time": "2026-10-10T14:31:38Z"
-    },
-    {
-     "title": "Proteste gegen Wahlkommission – Polizei in Indien nimmt Gründer der «Kakerlaken»-Bewegung fest",
-     "url": "https://www.srf.ch/news/international/proteste-gegen-wahlkommission-polizei-in-indien-nimmt-gruender-der-kakerlaken-bewegung-fest",
-     "time": "2026-10-10T14:08:48Z"
-    },
-    {
-     "title": "Bessere Entscheidungen treffen – «Wir überlassen Entscheidungen gerne unserem Zukunfts-Ich»",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/bessere-entscheidungen-treffen-wir-ueberlassen-entscheidungen-gerne-unserem-zukunfts-ich",
-     "time": "2026-10-10T13:53:58Z"
-    },
-    {
-     "title": "Nach vorzeitiger Abreise – Portugals Verband suspendiert Ronaldo vorläufig",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-vorzeitiger-abreise-portugals-verband-suspendiert-ronaldo-vorlaeufig",
-     "time": "2026-10-10T13:27:06Z"
-    },
-    {
-     "title": "Hilfsprojekt in Lateinamerika – Profitieren Perus Familien vom CO₂‑Ausgleich aus der Schweiz?",
-     "url": "https://www.srf.ch/news/dialog/hilfsprojekt-in-lateinamerika-profitieren-perus-familien-vom-co2-ausgleich-aus-der-schweiz",
-     "time": "2026-10-10T13:09:47Z"
-    },
-    {
-     "title": "«Routine beenden» – Zürcher FDP-Nationalrat Portmann tritt 2027 nicht mehr an",
-     "url": "https://www.srf.ch/news/schweiz/routine-beenden-zuercher-fdp-nationalrat-portmann-tritt-2027-nicht-mehr-an",
-     "time": "2026-10-10T12:56:28Z"
     }
    ]
   },
@@ -156,6 +156,36 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Nyt, 'almeno 12 morti nell'attacco degli houthi all'aeroporto di Riad'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/nyt-almeno-12-morti-nellattacco-degli-houthi-allaeroporto-di-riad_7e8efeb4-54e3-4793-94f5-69d256ffb480.html",
+     "time": "2026-10-10T20:59:00Z"
+    },
+    {
+     "title": "'Almeno due morti in attacco Houthi su scalo Riad, anche un'assistente di volo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/almeno-due-morti-in-attacco-houthi-su-scalo-riad-anche-unassistente-di-volo_c52a4c90-11da-459b-bef2-6c7fff5dd87b.html",
+     "time": "2026-10-10T20:31:00Z"
+    },
+    {
+     "title": "Burnham, 'piena solidarietà a Zelensky dopo le parole di Trump'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/burnham-piena-solidarieta-a-zelensky-dopo-le-parole-di-trump_374e4bce-c08c-4fd0-85b1-68a8ecc97138.html",
+     "time": "2026-10-10T19:29:43Z"
+    },
+    {
+     "title": "Kiev, 'dichiarazioni dall'estero confermano che Zelensky svolge bene il suo lavoro'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/kiev-dichiarazioni-dallestero-confermano-che-zelensky-svolge-bene-il-suo-lavoro_9bf5760b-309b-483f-b04c-18e965397268.html",
+     "time": "2026-10-10T19:02:40Z"
+    },
+    {
+     "title": "Dmitriev, 'Trump vuole una leadership di pace in Ucraina, è iconico e storico'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/dmitriev-trump-vuole-una-leadership-di-pace-in-ucraina-e-iconico-e-storico_0c2c9211-23c5-436e-8a9c-f39ebdd9eed7.html",
+     "time": "2026-10-10T18:01:08Z"
+    },
+    {
+     "title": "Ranucci, 'i colleghi di Report potevano mandare un messaggio un po' prima'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/ranucci-i-colleghi-di-report-potevano-mandare-un-messaggio-un-po-prima_eb3b8a17-3395-4a6b-a6cd-b66eaf93d662.html",
+     "time": "2026-10-10T17:54:24Z"
+    },
     {
      "title": "Procura di Sion apre inchiesta per fuga notizie su Crans-Montana",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/procura-di-sion-apre-inchiesta-per-fuga-notizie-su-crans-montana_767b6e7c-a53b-4d33-b78c-02751b19077a.html",
@@ -175,36 +205,6 @@
      "title": "Sospese le operazioni all'aeroporto di Riad dopo l'attacco degli Houthi",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/sospese-le-operazioni-allaeroporto-di-riad-dopo-lattacco-degli-houthi_ea732c19-1698-4d13-9d0e-3d5d39ec1f1c.html",
      "time": "2026-10-10T17:05:23Z"
-    },
-    {
-     "title": "Trump, Zelensky vuole creare problemi al mondo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/trump-zelensky-vuole-creare-problemi-al-mondo_f4bb8f9c-3a09-478a-a417-e52305a60e83.html",
-     "time": "2026-10-10T16:55:18Z"
-    },
-    {
-     "title": "Trump, 'è il momento di un nuovo presidente per l'Ucraina'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/trump-e-il-momento-di-un-nuovo-presidente-per-lucraina_b9bf75a8-01cc-4207-adf1-a367425f01fa.html",
-     "time": "2026-10-10T16:53:58Z"
-    },
-    {
-     "title": "Schlein agli alleati, sono certa che troveremo accordo e sintesi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/schlein-agli-alleati-sono-certa-che-troveremo-accordo-e-sintesi_24cd9ca7-7cd1-411f-8622-861d6e7b07e8.html",
-     "time": "2026-10-10T16:31:47Z"
-    },
-    {
-     "title": "Renzi, se qualcuno mette veto noi comunque corriamo ma meglio stare insieme",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/renzi-se-qualcuno-mette-veto-noi-comunque-corriamo-ma-meglio-stare-insieme_52659887-c0f5-4c49-97c1-d457750896f6.html",
-     "time": "2026-10-10T16:26:38Z"
-    },
-    {
-     "title": "La squadra di Report, 'mai sfiduciato Ranucci né chiesta la sua rimozione'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/la-squadra-di-report-mai-sfiduciato-ranucci-ne-chiesta-la-sua-rimozione_10ba9371-216f-42ce-b5a6-16c46f02bea9.html",
-     "time": "2026-10-10T15:10:38Z"
-    },
-    {
-     "title": "Media India, 'migliaia le persone fermate alla protesta a New Delhi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/media-india-migliaia-le-persone-fermate-alla-protesta-a-new-delhi_4d444625-3bef-48bb-9228-4b5afe4a6c39.html",
-     "time": "2026-10-10T14:28:01Z"
     }
    ]
   },
@@ -215,19 +215,34 @@
    "countries": [],
    "items": [
     {
-     "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-     "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T17:44:26Z"
+     "title": "Several injured in attack on airport in Saudi capital Riyadh",
+     "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T21:27:10Z"
+    },
+    {
+     "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T20:51:12Z"
     },
     {
      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T17:31:24Z"
+     "time": "2026-10-10T19:28:28Z"
     },
     {
-     "title": "Several injured in attack on airport in Saudi capital Riyadh",
-     "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T16:56:32Z"
+     "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+     "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T19:08:17Z"
+    },
+    {
+     "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+     "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T18:22:29Z"
+    },
+    {
+     "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T17:44:26Z"
     },
     {
      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
@@ -245,11 +260,6 @@
      "time": "2026-10-10T14:49:32Z"
     },
     {
-     "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-     "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T14:16:50Z"
-    },
-    {
      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-10T12:29:31Z"
@@ -263,16 +273,6 @@
      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-10T10:06:23Z"
-    },
-    {
-     "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-     "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T09:17:36Z"
-    },
-    {
-     "title": "How the trial of murdered Australian brothers and US friend unfolded",
-     "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T06:04:35Z"
     }
    ]
   }
