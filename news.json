@@ -1,6 +1,6 @@
 {
- "version": 18,
- "updated": "2026-10-09T20:18:10Z",
+ "version": 19,
+ "updated": "2026-10-10T00:17:15Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,46 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Schweres Erdbeben erschüttert Panama",
+     "url": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
+     "time": "2026-10-09T23:58:47Z"
+    },
+    {
+     "title": "China sagt EU weniger Exporte von Hybridautos zu",
+     "url": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
+     "time": "2026-10-09T22:54:50Z"
+    },
+    {
+     "title": "Trump kündigt russische Diesel-Lieferungen an",
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+     "time": "2026-10-09T22:19:16Z"
+    },
+    {
+     "title": "Start in die WM-Saison geglückt: Deutschland besiegt Australien",
+     "url": "https://www.ndr.de/sport/fussball/start-in-die-wm-saison-geglueckt-deutschland-besiegt-australien,dfb-frauen-344.html",
+     "time": "2026-10-09T21:23:56Z"
+    },
+    {
+     "title": "Fußball-Bundesliga: Werder Bremen punktet dank Füllkrug bei Borussia Dortmund",
+     "url": "https://www.sportschau.de/fussball/bundesliga/fuellkrug-schockiert-seinen-ex-verein-in-der-nachspielzeit,spielbericht-borussia-dortmund-werder-bremen-104.html",
+     "time": "2026-10-09T21:17:49Z"
+    },
+    {
+     "title": "Samuel Jackisch, ARD Washington, zu Trumps Ankündigung von Dieselimporten aus Russland",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1663670.html",
+     "time": "2026-10-09T21:05:16Z"
+    },
+    {
+     "title": "Nobelpreisträgerin Pillay in den tagesthemen: \"Die Nürnberger Prozesse haben mich inspiriert\"",
+     "url": "https://www.tagesschau.de/ausland/afrika/tagesthemen-interview-friedensnobelpreis-pillay-100.html",
+     "time": "2026-10-09T20:35:39Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12912.html",
+     "time": "2026-10-09T20:24:08Z"
+    },
     {
      "title": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
      "url": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
@@ -33,46 +73,6 @@
      "title": "EU-Handelskommissar Sefcovic gelingt Durchbruch bei Verhandlungen mit China",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663598.html",
      "time": "2026-10-09T18:14:31Z"
-    },
-    {
-     "title": "\"Startchancengesetz\": Bildungsministerin Prien will frühkindliche Bildung stärken",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663600.html",
-     "time": "2026-10-09T18:14:10Z"
-    },
-    {
-     "title": "Aktuelle Stunde im Bundestag zur Wahl von AfD-Politikern ins Landtagspräsidium von Sachsen-Anhalt",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663592.html",
-     "time": "2026-10-09T18:12:05Z"
-    },
-    {
-     "title": "Gedenken zum 7. Jahrestag des antisemitischen Anschlags in Halle",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663590.html",
-     "time": "2026-10-09T18:11:25Z"
-    },
-    {
-     "title": "USA verschärfen Sanktionen gegen Internationalen Strafgerichtshof",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663584.html",
-     "time": "2026-10-09T18:10:55Z"
-    },
-    {
-     "title": "Friedensnobelpreis für südafrikanische Menschenrechtlerin Navanethem Pillay",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663586.html",
-     "time": "2026-10-09T18:09:11Z"
-    },
-    {
-     "title": "Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht",
-     "url": "https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html",
-     "time": "2026-10-09T18:06:06Z"
-    },
-    {
-     "title": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
-     "time": "2026-10-09T17:50:26Z"
-    },
-    {
-     "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
-     "time": "2026-10-09T17:47:36Z"
     }
    ]
   },
@@ -87,7 +87,32 @@
     {
      "title": "Tsunami-Warnung – Schweres Erdbeben der Stärke 7.6 erschüttert Panama",
      "url": "https://www.srf.ch/news/international/tsunami-warnung-schweres-erdbeben-der-staerke-7-6-erschuettert-panama",
-     "time": "2026-10-09T20:07:56Z"
+     "time": "2026-10-09T22:14:01Z"
+    },
+    {
+     "title": "– Schweres Erdbeben der Stärke 7.6 erschüttert Panama",
+     "url": "https://www.srf.ch/news/international/tsunami-warnung-schweres-erdbeben-der-staerke-7-6-erschuettert-panama",
+     "time": "2026-10-09T22:14:01Z"
+    },
+    {
+     "title": "Bundesratswahl – Parmelin-Nachfolge: Esther Friedli verzichtet",
+     "url": "https://www.srf.ch/news/schweiz/bundesratswahl-parmelin-nachfolge-esther-friedli-verzichtet",
+     "time": "2026-10-09T21:38:29Z"
+    },
+    {
+     "title": "National League am Freitag – ZSC knackt Startrekord – SCB und Kloten beenden Negativserien",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-zsc-knackt-startrekord-scb-und-kloten-beenden-negativserien",
+     "time": "2026-10-09T21:02:11Z"
+    },
+    {
+     "title": "«Arena» zu Verkehr – Politik streitet über Röstis Ausbaupläne für Schiene und Strasse",
+     "url": "https://www.srf.ch/news/schweiz/arena-zu-verkehr-politik-streitet-ueber-roestis-ausbauplaene-fuer-schiene-und-strasse",
+     "time": "2026-10-09T20:59:22Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Selenski kritisiert russische Diesellieferungden scharf",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-kritisiert-russische-diesellieferungden-scharf",
+     "time": "2026-10-09T20:58:03Z"
     },
     {
      "title": "Int. Justiz im Visier – USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
@@ -118,31 +143,6 @@
      "title": "Atomares Tiefenlager – Die deutsche Wut über das Schweizer Atom-Endlager",
      "url": "https://www.srf.ch/news/schweiz/atomares-tiefenlager-die-deutsche-wut-ueber-das-schweizer-atom-endlager",
      "time": "2026-10-09T18:22:52Z"
-    },
-    {
-     "title": "Botschafter zurückgerufen – Darum herrscht Krisenstimmung zwischen Südkorea und der Ukraine",
-     "url": "https://www.srf.ch/news/international/botschafter-zurueckgerufen-darum-herrscht-krisenstimmung-zwischen-suedkorea-und-der-ukraine",
-     "time": "2026-10-09T18:17:46Z"
-    },
-    {
-     "title": "Wettbewerbsvorteil verschafft – «ManCity droht der Ausschluss aus der Premier League»",
-     "url": "https://www.srf.ch/news/international/wettbewerbsvorteil-verschafft-mancity-droht-der-ausschluss-aus-der-premier-league",
-     "time": "2026-10-09T18:05:47Z"
-    },
-    {
-     "title": "Unwetter in Italien – Heftige Wasserhosen auf Sizilien sorgen für Verwüstung",
-     "url": "https://www.srf.ch/news/international/unwetter-in-italien-heftige-wasserhosen-auf-sizilien-sorgen-fuer-verwuestung",
-     "time": "2026-10-09T16:54:05Z"
-    },
-    {
-     "title": "Lehren aus dem Crash von 1929 – Schulden und FOMO bringen Börsen öfter ins Schlingern – seit 1929",
-     "url": "https://www.srf.ch/news/wirtschaft/lehren-aus-dem-crash-von-1929-schulden-und-fomo-bringen-boersen-oefter-ins-schlingern-seit-1929",
-     "time": "2026-10-09T16:52:04Z"
-    },
-    {
-     "title": "Internationale Fussball-News – Montella nicht mehr Trainer der Türkei",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-montella-nicht-mehr-trainer-der-tuerkei",
-     "time": "2026-10-09T16:25:13Z"
     }
    ]
   },
@@ -156,6 +156,26 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "La rimonta di Lula online, exploit di contatti per battere Bolsonaro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/la-rimonta-di-lula-online-exploit-di-contatti-per-battere-bolsonaro_0938d579-a9f7-4fa3-be7c-8b82835bab88.html",
+     "time": "2026-10-09T22:45:55Z"
+    },
+    {
+     "title": "Trump, 'grande rapporto con Meloni, andiamo d'accordo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/trump-grande-rapporto-con-meloni-andiamo-daccordo_cfade861-f73f-408a-b776-7a4dba971f90.html",
+     "time": "2026-10-09T21:41:39Z"
+    },
+    {
+     "title": "Trump, l'accordo con la Russia sul diesel importante, voglio ringraziare Putin",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/trump-laccordo-con-la-russia-sul-diesel-importante-voglio-ringraziare-putin_56df6b85-da9d-4ac3-a4d5-14def7ada2d7.html",
+     "time": "2026-10-09T21:17:12Z"
+    },
+    {
+     "title": "Zelensky, 'dagli Usa una decisione indegna e disonesta'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/zelensky-dagli-usa-una-decisione-indegna-e-disonesta_7b12bc36-20c1-43d8-8d04-571a5467abbe.html",
+     "time": "2026-10-09T20:40:33Z"
+    },
     {
      "title": "Axios, Ucraina sorpresa dall'annuncio di Trump per il diesel russo",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/axios-ucraina-sorpresa-dallannuncio-di-trump-per-il-diesel-russo_2a0d833b-8f93-4c1e-b9c8-7cff31280406.html",
@@ -185,26 +205,6 @@
      "title": "Sisma a Panama, agenzia Usa dirama allerta tsunami per l'est Pacifico",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/sisma-a-panama-agenzia-usa-dirama-allerta-tsunami-per-lest-pacifico_f08cd4d8-f152-40a0-87e0-aeef5b42b7ad.html",
      "time": "2026-10-09T18:34:45Z"
-    },
-    {
-     "title": "Terremoto di magnitudo 8 a Panama, panico nella capitale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/terremoto-di-magnitudo-8-a-panama-panico-nella-capitale_6825fed4-5b8e-49c4-9435-3e77af63912a.html",
-     "time": "2026-10-09T18:28:51Z"
-    },
-    {
-     "title": "Nyt, 'Katie Zacharia sarà la nuova portavoce della Casa Bianca'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/nyt-katie-zacharia-sara-la-nuova-portavoce-della-casa-bianca_9f447afe-eaad-4ab1-a035-4ef301609aeb.html",
-     "time": "2026-10-09T18:12:36Z"
-    },
-    {
-     "title": "Il tribunale rigetta il ricorso di Ranucci per il reintegro a Report",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/il-tribunale-rigetta-il-ricorso-di-ranucci-per-il-reintegro-a-report_553c8878-d41b-4a07-b168-8cc2a30b58d1.html",
-     "time": "2026-10-09T17:47:32Z"
-    },
-    {
-     "title": "Procura Emirati, 'copilota FlyDubai voleva colpire Ben Gurion, si è ispirato a 11/9'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/09/procura-emirati-copilota-flydubai-voleva-colpire-ben-gurion-si-e-ispirato-a-119_b9c71364-d627-4c90-adae-8647c0bb289b.html",
-     "time": "2026-10-09T17:46:43Z"
     }
    ]
   },
@@ -215,14 +215,54 @@
    "countries": [],
    "items": [
     {
-     "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T20:13:23Z"
+     "title": "US immigration officials defend ICE agents who shot man in same car as child",
+     "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T00:13:12Z"
+    },
+    {
+     "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+     "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T00:00:08Z"
+    },
+    {
+     "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+     "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T23:24:33Z"
+    },
+    {
+     "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T23:02:07Z"
     },
     {
      "title": "Commentator Katie Zacharia picked as new White House press secretary",
      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T19:58:27Z"
+     "time": "2026-10-09T22:41:21Z"
+    },
+    {
+     "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+     "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T22:30:22Z"
+    },
+    {
+     "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+     "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T21:55:51Z"
+    },
+    {
+     "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T21:54:28Z"
+    },
+    {
+     "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+     "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T21:50:47Z"
+    },
+    {
+     "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+     "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-09T21:26:30Z"
     },
     {
      "title": "Thai Queen makes first solo flight in fighter jet",
@@ -230,49 +270,9 @@
      "time": "2026-10-09T19:48:26Z"
     },
     {
-     "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-     "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T19:39:52Z"
-    },
-    {
      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-09T18:40:10Z"
-    },
-    {
-     "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-     "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T18:40:05Z"
-    },
-    {
-     "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-     "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T17:37:10Z"
-    },
-    {
-     "title": "US immigration officials defend ICE agents who shot man in same car as child",
-     "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T17:36:09Z"
-    },
-    {
-     "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-     "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T17:14:44Z"
-    },
-    {
-     "title": "Man named Hitler Mussolini elected mayor in Peru",
-     "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T16:32:22Z"
-    },
-    {
-     "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-     "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T15:24:43Z"
-    },
-    {
-     "title": "Two Renoir paintings stolen from French museum are recovered",
-     "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-09T14:25:18Z"
     }
    ]
   }
