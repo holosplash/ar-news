@@ -1,6 +1,6 @@
 {
- "version": 27,
- "updated": "2026-10-11T18:24:13Z",
+ "version": 28,
+ "updated": "2026-10-11T22:23:39Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "Kinotipp „Heimsuchung“ von Schlöndorff: 100 Jahre Deutschland in zwei Stunden Kino",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1664614.html",
+     "time": "2026-10-11T21:15:50Z"
+    },
+    {
+     "title": "Angriffe auf Saudi-Arabien: Warum eskaliert der Huthi-Konflikt gerade jetzt?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1664612.html",
+     "time": "2026-10-11T21:14:19Z"
+    },
+    {
+     "title": "CDU-Klausur: Wie verarbeitet die Parteiführung die Wahlniederlagen?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1664610.html",
+     "time": "2026-10-11T21:11:46Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12902.html",
+     "time": "2026-10-11T21:06:40Z"
+    },
+    {
+     "title": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
+     "time": "2026-10-11T20:11:44Z"
+    },
+    {
+     "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+     "url": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+     "time": "2026-10-11T20:11:03Z"
+    },
+    {
+     "title": "Krieg in der Golfregion: Tote bei Angriff auf Flughafen von Riad",
+     "url": "https://www.tagesschau.de/video/video-1664552.html",
+     "time": "2026-10-11T18:39:29Z"
+    },
+    {
+     "title": "CDU berät in Präsidiumsklausur über Wege aus der Krise",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664560.html",
+     "time": "2026-10-11T18:37:14Z"
+    },
+    {
+     "title": "Jurist und Autor Philippe Sands erhält den Friedenspreis des Deutschen Buchhandels",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664562.html",
+     "time": "2026-10-11T18:35:10Z"
+    },
+    {
+     "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
+     "url": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
+     "time": "2026-10-11T18:26:55Z"
+    },
+    {
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81318.html",
      "time": "2026-10-11T18:19:41Z"
     },
     {
-     "title": "\"Die Stromsteuer muss für alle gesenkt werden\"",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
-     "time": "2026-10-11T18:05:00Z"
-    },
-    {
-     "title": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
-     "url": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
-     "time": "2026-10-11T17:50:11Z"
-    },
-    {
-     "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
-     "url": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
-     "time": "2026-10-11T17:41:21Z"
-    },
-    {
-     "title": "Ina Ruck, ARD Warschau, zu Polen meldet Festnahme nach Anschlagsdrohung",
-     "url": "https://www.tagesschau.de/video/video-1664488.html",
-     "time": "2026-10-11T17:40:53Z"
-    },
-    {
-     "title": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
-     "time": "2026-10-11T17:36:32Z"
-    },
-    {
-     "title": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
-     "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
-     "time": "2026-10-11T17:31:38Z"
-    },
-    {
-     "title": "Ministerpräsident Schnieder kritisiert SPD und Grüne für Umgang mit der Linken",
-     "url": "https://www.tagesschau.de/video/video-1664454.html",
-     "time": "2026-10-11T17:16:10Z"
-    },
-    {
-     "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
-     "url": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
-     "time": "2026-10-11T17:05:13Z"
-    },
-    {
-     "title": "Bernd Rasem, ARD-aktuell, über die von Trumps gemeldete \"Energie-Waffenruhe\" zwischen Russland und der Ukraine",
-     "url": "https://www.tagesschau.de/video/video-1664346.html",
-     "time": "2026-10-11T17:03:59Z"
-    },
-    {
-     "title": "Krieg in der Golfregion: Tote bei Angriff auf Flughafen von Riad",
-     "url": "https://www.tagesschau.de/video/video-1664408.html",
-     "time": "2026-10-11T16:31:21Z"
-    },
-    {
-     "title": "Friedenspreisträger Sands kritisiert deutsches Schweigen zu Vorgehen Israels",
-     "url": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
-     "time": "2026-10-11T15:38:17Z"
+     "title": "US-Präsident Trump teilt angebliche \"Energie-Waffenruhe\" zwischen Ukraine und Russland mit",
+     "url": "https://www.tagesschau.de/video/video-1664554.html",
+     "time": "2026-10-11T18:10:17Z"
     }
    ]
   },
@@ -84,6 +84,21 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "10. Runde der Super League – Für Lausanne gibt es auch in St. Gallen nichts zu holen",
+     "url": "https://www.srf.ch/sport/fussball/super-league/10-runde-der-super-league-fuer-lausanne-gibt-es-auch-in-st-gallen-nichts-zu-holen",
+     "time": "2026-10-11T19:23:02Z"
+    },
+    {
+     "title": "Menschenrechte in Nicaragua – Wer in Nicaragua Kritik übt, verschwindet",
+     "url": "https://www.srf.ch/news/international/menschenrechte-in-nicaragua-wer-in-nicaragua-kritik-uebt-verschwindet",
+     "time": "2026-10-11T19:19:44Z"
+    },
+    {
+     "title": "«Es ist alles grösser» – Reuteler: In der Nati unbestritten, bei Arsenal noch aussen vor",
+     "url": "https://www.srf.ch/sport/fussball/frauen-nationalteam/es-ist-alles-groesser-reuteler-in-der-nati-unbestritten-bei-arsenal-noch-aussen-vor",
+     "time": "2026-10-11T19:11:27Z"
+    },
     {
      "title": "Angriffe auf Flughafen in Riad – Die Huthi greifen das Geschäftsmodell Saudi-Arabiens an",
      "url": "https://www.srf.ch/news/international/angriffe-auf-flughafen-in-riad-die-huthi-greifen-das-geschaeftsmodell-saudi-arabiens-an",
@@ -115,6 +130,11 @@
      "time": "2026-10-11T17:06:12Z"
     },
     {
+     "title": "– Rund tausend Personen an unbewilligter Demo in Bern",
+     "url": "https://www.srf.ch/news/schweiz/kundgebung-in-bern-rund-tausend-personen-an-unbewilligter-demo-in-bern",
+     "time": "2026-10-11T17:06:12Z"
+    },
+    {
      "title": "Krieg im Nahen Osten – Anschlag auf den Flughafen in Riad: Huthi-Rebellen bekennen sich",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-anschlag-auf-den-flughafen-in-riad-huthi-rebellen-bekennen-sich",
      "time": "2026-10-11T16:53:36Z"
@@ -123,26 +143,6 @@
      "title": "Super League: 10. Runde – Bei Jokanovic-Debüt: Basler Baisse hält auch in Vaduz an",
      "url": "https://www.srf.ch/sport/fussball/super-league/super-league-10-runde-bei-jokanovic-debuet-basler-baisse-haelt-auch-in-vaduz-an",
      "time": "2026-10-11T16:30:52Z"
-    },
-    {
-     "title": "10. Runde der Super League – Für Lausanne gibt es auch in St. Gallen nichts zu holen",
-     "url": "https://www.srf.ch/sport/fussball/super-league/10-runde-der-super-league-fuer-lausanne-gibt-es-auch-in-st-gallen-nichts-zu-holen",
-     "time": "2026-10-11T16:22:42Z"
-    },
-    {
-     "title": "Bieler Gratiszeitung am Ende – 86-jähriger Zeitungsgründer: «Ich bin natürlich ein Dinosaurier»",
-     "url": "https://www.srf.ch/news/schweiz/bieler-gratiszeitung-am-ende-86-jaehriger-zeitungsgruender-ich-bin-natuerlich-ein-dinosaurier",
-     "time": "2026-10-11T16:02:03Z"
-    },
-    {
-     "title": "Schweizer Doppelsieg – Hug in Chicago nicht zu schlagen – Debrunner mit Weltrekord",
-     "url": "https://www.srf.ch/sport/leichtathletik/schweizer-doppelsieg-hug-in-chicago-nicht-zu-schlagen-debrunner-mit-weltrekord",
-     "time": "2026-10-11T15:57:54Z"
-    },
-    {
-     "title": "Bereitschaftsdienst – Wie das Spital Sitten seine Notaufnahme entlasten will",
-     "url": "https://www.srf.ch/news/dialog/bereitschaftsdienst-wie-das-spital-sitten-seine-notaufnahme-entlasten-will",
-     "time": "2026-10-11T15:57:44Z"
     }
    ]
   },
@@ -215,14 +215,29 @@
    "countries": [],
    "items": [
     {
-     "title": "Poland detains man suspected of planning assassination of PM Tusk",
-     "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T17:27:24Z"
+     "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+     "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T21:36:40Z"
     },
     {
      "title": "Saudi capital airport hit by second Houthi strike in two days",
      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T16:41:37Z"
+     "time": "2026-10-11T21:30:11Z"
+    },
+    {
+     "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+     "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T21:12:44Z"
+    },
+    {
+     "title": "Orangutans released back into Borneo forest after devastating fires",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T19:08:04Z"
+    },
+    {
+     "title": "Poland detains man suspected of planning assassination of PM Tusk",
+     "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T17:27:24Z"
     },
     {
      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
@@ -258,21 +273,6 @@
      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-11T11:11:42Z"
-    },
-    {
-     "title": "Buildings swept away as flash floods hit central Nepal",
-     "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T10:34:02Z"
-    },
-    {
-     "title": "US justice department investigates TV networks over Trump pool coverage",
-     "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T05:05:43Z"
-    },
-    {
-     "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-     "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T23:31:35Z"
     }
    ]
   }
