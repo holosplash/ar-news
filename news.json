@@ -1,6 +1,6 @@
 {
- "version": 23,
- "updated": "2026-10-10T21:32:49Z",
+ "version": 24,
+ "updated": "2026-10-11T00:24:42Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,19 +15,44 @@
    ],
    "items": [
     {
+     "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+     "url": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+     "time": "2026-10-10T23:56:54Z"
+    },
+    {
+     "title": "Tröten im Trend: Jagdhornblasen für Anfänger",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1664144.html",
+     "time": "2026-10-10T22:10:17Z"
+    },
+    {
+     "title": "Drei Jahre Krieg im Gazastreifen und erster Jahrestag der Waffenruhe: Wie geht es den Menschen vor Ort?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1664142.html",
+     "time": "2026-10-10T22:08:15Z"
+    },
+    {
+     "title": "Tag gegen Todesstrafe: USA debattiert über Hinrichtungen",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1664140.html",
+     "time": "2026-10-10T22:06:17Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12908.html",
+     "time": "2026-10-10T22:00:37Z"
+    },
+    {
+     "title": "US-Präsident Trump kündigt russische Diesellieferungen an: Was bedeutet das für die Ukraine?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1664138.html",
+     "time": "2026-10-10T21:56:29Z"
+    },
+    {
      "title": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
      "url": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
      "time": "2026-10-10T20:44:04Z"
     },
     {
-     "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
-     "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
-     "time": "2026-10-10T20:08:55Z"
-    },
-    {
-     "title": "\"Ragebait\" ist Jugendwort des Jahres 2026",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664088.html",
-     "time": "2026-10-10T18:29:33Z"
+     "title": "Nkunkus Hattrick düpiert ganz schwache Eintracht",
+     "url": "https://www.sportschau.de/fussball/bundesliga/nkunkus-hattrick-duepiert-eine-ganz-schwache-eintracht,spielbericht-rb-leipzig-eintracht-frankfurt-106.html",
+     "time": "2026-10-10T19:55:46Z"
     },
     {
      "title": "Weg frei für Koalitionsverhandlungen in Schwerin",
@@ -45,34 +70,9 @@
      "time": "2026-10-10T18:26:35Z"
     },
     {
-     "title": "Drei Jahre Krieg im Gazastreifen und erster Jahrestag der Waffenruhe: Wie geht es den Menschen vor Ort?",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664082.html",
-     "time": "2026-10-10T18:24:08Z"
-    },
-    {
      "title": "Ukrainischer Präsident Selenskyj kritisiert US-Deal zu den russischen Diesellieferungen",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664080.html",
      "time": "2026-10-10T18:21:51Z"
-    },
-    {
-     "title": "Vereinbarung mit Putin: US-Präsident Trump kündigt russische Diesellieferungen an",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664078.html",
-     "time": "2026-10-10T18:19:37Z"
-    },
-    {
-     "title": "Erste ostdeutsche Künstlerin Gabriele Stötzer erhält weltweit anerkannte Auszeichnung für Moderne Kunst",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664086.html",
-     "time": "2026-10-10T18:17:29Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81370.html",
-     "time": "2026-10-10T18:16:35Z"
-    },
-    {
-     "title": "Serie von Messerattacken an Schulen in Polen",
-     "url": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
-     "time": "2026-10-10T16:33:42Z"
     }
    ]
   },
@@ -84,6 +84,11 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Krieg im Nahen Osten – Hunderte Verletzte bei erneutem Angriff auf Flughafen in Riad",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-hunderte-verletzte-bei-erneutem-angriff-auf-flughafen-in-riad",
+     "time": "2026-10-11T00:23:25Z"
+    },
     {
      "title": "Golfküste der USA – Sturm «Isaias» kein Hurrikan mehr – trotzdem Lebensgefahr",
      "url": "https://www.srf.ch/news/international/golfkueste-der-usa-sturm-isaias-kein-hurrikan-mehr-trotzdem-lebensgefahr",
@@ -138,11 +143,6 @@
      "title": "Netflix-Hit aus Afrika – Autorin: «Polygamie wird Frauen heute oft aufgezwungen»",
      "url": "https://www.srf.ch/news/international/netflix-hit-aus-afrika-autorin-polygamie-wird-frauen-heute-oft-aufgezwungen",
      "time": "2026-10-10T15:20:54Z"
-    },
-    {
-     "title": "Krieg im Nahen Osten – Flughafen in Riad erneut angegriffen",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-flughafen-in-riad-erneut-angegriffen",
-     "time": "2026-10-10T14:49:17Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "'Il Dipartimento di Giustizia Usa indaga sui network tv per la copertura del presidente'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/il-dipartimento-di-giustizia-usa-indaga-sui-network-tv-per-la-copertura-del-presidente_3b58dac9-4865-4023-99e0-0d7a24654fba.html",
+     "time": "2026-10-10T23:24:22Z"
+    },
+    {
+     "title": "Autorità, almeno 309 i feriti nell'attacco degli Houthi all'aeroporto di Riad",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/autorita-almeno-309-i-feriti-nellattacco-degli-houthi-allaeroporto-di-riad_fe551111-739b-435f-8bfb-b81180b34725.html",
+     "time": "2026-10-10T22:09:05Z"
+    },
+    {
+     "title": "Coalizione saudita, attaccato l'aeroporto di Dammam",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/coalizione-saudita-attaccato-laeroporto-di-dammam_414bdc69-7888-48d1-9c78-5521c970d523.html",
+     "time": "2026-10-10T21:33:09Z"
+    },
     {
      "title": "Nyt, 'almeno 12 morti nell'attacco degli houthi all'aeroporto di Riad'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/nyt-almeno-12-morti-nellattacco-degli-houthi-allaeroporto-di-riad_7e8efeb4-54e3-4793-94f5-69d256ffb480.html",
@@ -190,21 +205,6 @@
      "title": "Procura di Sion apre inchiesta per fuga notizie su Crans-Montana",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/procura-di-sion-apre-inchiesta-per-fuga-notizie-su-crans-montana_767b6e7c-a53b-4d33-b78c-02751b19077a.html",
      "time": "2026-10-10T17:34:42Z"
-    },
-    {
-     "title": "Trump non esclude di unirsi ai raid sauditi, 'decideremo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/trump-non-esclude-di-unirsi-ai-raid-sauditi-decideremo_6444c4eb-5e4b-444f-b049-5b1b572c70b9.html",
-     "time": "2026-10-10T17:10:34Z"
-    },
-    {
-     "title": "Trump, Zelensky la smetta di colpire le raffinerie russe",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/trump-zelensky-la-smetta-di-colpire-le-raffinerie-russe_da68d571-7b7a-43c0-a67d-e4d18dc28d57.html",
-     "time": "2026-10-10T17:06:17Z"
-    },
-    {
-     "title": "Sospese le operazioni all'aeroporto di Riad dopo l'attacco degli Houthi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/sospese-le-operazioni-allaeroporto-di-riad-dopo-lattacco-degli-houthi_ea732c19-1698-4d13-9d0e-3d5d39ec1f1c.html",
-     "time": "2026-10-10T17:05:23Z"
     }
    ]
   },
@@ -215,9 +215,24 @@
    "countries": [],
    "items": [
     {
-     "title": "Several injured in attack on airport in Saudi capital Riyadh",
+     "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T21:27:10Z"
+     "time": "2026-10-11T00:21:52Z"
+    },
+    {
+     "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+     "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T23:31:35Z"
+    },
+    {
+     "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+     "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T23:19:55Z"
+    },
+    {
+     "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+     "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T22:13:08Z"
     },
     {
      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
@@ -228,11 +243,6 @@
      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-10T19:28:28Z"
-    },
-    {
-     "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-     "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T19:08:17Z"
     },
     {
      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
@@ -260,19 +270,9 @@
      "time": "2026-10-10T14:49:32Z"
     },
     {
-     "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T12:29:31Z"
-    },
-    {
-     "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-     "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T12:28:51Z"
-    },
-    {
-     "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-     "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T10:06:23Z"
+     "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+     "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-10T14:13:13Z"
     }
    ]
   }
