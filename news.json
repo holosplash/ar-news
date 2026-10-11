@@ -1,6 +1,6 @@
 {
- "version": 26,
- "updated": "2026-10-11T13:25:14Z",
+ "version": 27,
+ "updated": "2026-10-11T18:24:13Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-     "url": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-     "time": "2026-10-11T13:12:05Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81318.html",
+     "time": "2026-10-11T18:19:41Z"
     },
     {
-     "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
-     "url": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
-     "time": "2026-10-11T12:04:34Z"
+     "title": "\"Die Stromsteuer muss für alle gesenkt werden\"",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
+     "time": "2026-10-11T18:05:00Z"
     },
     {
-     "title": "Tim Kukral, ARD Kairo, über die Attacke auf den Flughafen Riad",
-     "url": "https://www.tagesschau.de/video/video-1664264.html",
-     "time": "2026-10-11T11:50:56Z"
+     "title": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
+     "url": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
+     "time": "2026-10-11T17:50:11Z"
+    },
+    {
+     "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
+     "url": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
+     "time": "2026-10-11T17:41:21Z"
+    },
+    {
+     "title": "Ina Ruck, ARD Warschau, zu Polen meldet Festnahme nach Anschlagsdrohung",
+     "url": "https://www.tagesschau.de/video/video-1664488.html",
+     "time": "2026-10-11T17:40:53Z"
+    },
+    {
+     "title": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
+     "time": "2026-10-11T17:36:32Z"
+    },
+    {
+     "title": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
+     "time": "2026-10-11T17:31:38Z"
+    },
+    {
+     "title": "Ministerpräsident Schnieder kritisiert SPD und Grüne für Umgang mit der Linken",
+     "url": "https://www.tagesschau.de/video/video-1664454.html",
+     "time": "2026-10-11T17:16:10Z"
+    },
+    {
+     "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-koeln-vergroessert-gladbachs-sorgen-bei-blessins-debuet-100.html",
+     "time": "2026-10-11T17:05:13Z"
+    },
+    {
+     "title": "Bernd Rasem, ARD-aktuell, über die von Trumps gemeldete \"Energie-Waffenruhe\" zwischen Russland und der Ukraine",
+     "url": "https://www.tagesschau.de/video/video-1664346.html",
+     "time": "2026-10-11T17:03:59Z"
+    },
+    {
+     "title": "Krieg in der Golfregion: Tote bei Angriff auf Flughafen von Riad",
+     "url": "https://www.tagesschau.de/video/video-1664408.html",
+     "time": "2026-10-11T16:31:21Z"
     },
     {
      "title": "Friedenspreisträger Sands kritisiert deutsches Schweigen zu Vorgehen Israels",
      "url": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
-     "time": "2026-10-11T11:36:28Z"
-    },
-    {
-     "title": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
-     "time": "2026-10-11T11:23:58Z"
-    },
-    {
-     "title": "Papst Leo XIV. kündigt Operation an der Lunge an",
-     "url": "https://www.tagesschau.de/ausland/europa/vatikan-papst-lunge-operation-100.html",
-     "time": "2026-10-11T11:22:28Z"
-    },
-    {
-     "title": "US-Justizministerium prüft Vorgehen von Sendern gegen US-Präsident Trump",
-     "url": "https://www.tagesschau.de/video/video-1664262.html",
-     "time": "2026-10-11T11:17:03Z"
-    },
-    {
-     "title": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
-     "time": "2026-10-11T10:53:06Z"
-    },
-    {
-     "title": "Die Toten Hosen in Argentinien, Rübengeister in Baden-Württemberg, Basteibrücke bei Sonnenaufgang, Maisernte in China",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10498.html",
-     "time": "2026-10-11T10:42:19Z"
-    },
-    {
-     "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
-     "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
-     "time": "2026-10-11T10:39:51Z"
-    },
-    {
-     "title": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
-     "url": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html",
-     "time": "2026-10-11T10:17:20Z"
-    },
-    {
-     "title": "CDU-Parteiführung berät nach Wahlniederlagen",
-     "url": "https://www.tagesschau.de/video/video-1664240.html",
-     "time": "2026-10-11T10:01:43Z"
+     "time": "2026-10-11T15:38:17Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Armee im Einsatz – Evakuierungen nach einer Sturzflut in Nepal",
-     "url": "https://www.srf.ch/news/international/armee-im-einsatz-evakuierungen-nach-einer-sturzflut-in-nepal",
-     "time": "2026-10-11T13:19:29Z"
+     "title": "Angriffe auf Flughafen in Riad – Die Huthi greifen das Geschäftsmodell Saudi-Arabiens an",
+     "url": "https://www.srf.ch/news/international/angriffe-auf-flughafen-in-riad-die-huthi-greifen-das-geschaeftsmodell-saudi-arabiens-an",
+     "time": "2026-10-11T17:51:45Z"
     },
     {
-     "title": "Migrationsroute in Ostafrika – Schiff mit Migranten in Dschibuti gekentert – Über 100 Tote",
-     "url": "https://www.srf.ch/news/international/migrationsroute-in-ostafrika-schiff-mit-migranten-in-dschibuti-gekentert-ueber-100-tote",
-     "time": "2026-10-11T13:13:56Z"
+     "title": "Berühmter Schweizer Maler – Wie eine grosse Hodler-Sammlung in Sarajevo endete",
+     "url": "https://www.srf.ch/news/international/beruehmter-schweizer-maler-wie-eine-grosse-hodler-sammlung-in-sarajevo-endete",
+     "time": "2026-10-11T17:33:07Z"
     },
     {
-     "title": "Strom tanken – In Basel entsteht eine Bus-Garage mit 144 Ladestationen",
-     "url": "https://www.srf.ch/news/schweiz/strom-tanken-in-basel-entsteht-eine-bus-garage-mit-144-ladestationen",
-     "time": "2026-10-11T13:01:08Z"
-    },
-    {
-     "title": "Landesweite Kontrollen – Polen: 117 Festnahmen nach Messerangriffen an Schulen",
-     "url": "https://www.srf.ch/news/international/landesweite-kontrollen-polen-117-festnahmen-nach-messerangriffen-an-schulen",
-     "time": "2026-10-11T12:57:32Z"
-    },
-    {
-     "title": "Humanitäre Krise in Somalia – Unicef: «In den Vertriebenenlagern in Somalia haben alle Hunger»",
-     "url": "https://www.srf.ch/news/international/humanitaere-krise-in-somalia-unicef-in-den-vertriebenenlagern-in-somalia-haben-alle-hunger",
-     "time": "2026-10-11T12:05:00Z"
+     "title": "Multiple Krisen – Konsumentenstimmung in der Schweiz bleibt im Tief",
+     "url": "https://www.srf.ch/news/wirtschaft/multiple-krisen-konsumentenstimmung-in-der-schweiz-bleibt-im-tief",
+     "time": "2026-10-11T17:13:10Z"
     },
     {
      "title": "Eskalation in Saudi-Arabien – Angriff auf Flughafen Riad – das ist bekannt",
      "url": "https://www.srf.ch/news/international/eskalation-in-saudi-arabien-angriff-auf-flughafen-riad-das-ist-bekannt",
-     "time": "2026-10-11T11:45:09Z"
+     "time": "2026-10-11T17:10:45Z"
     },
     {
      "title": "– Angriff auf Flughafen Riad – das ist bekannt",
      "url": "https://www.srf.ch/news/international/eskalation-in-saudi-arabien-angriff-auf-flughafen-riad-das-ist-bekannt",
-     "time": "2026-10-11T11:45:09Z"
+     "time": "2026-10-11T17:10:45Z"
     },
     {
-     "title": "Frankfurter Buchmesse – Wie die Literaturagentin ein Talent erkennt",
-     "url": "https://www.srf.ch/news/frankfurter-buchmesse-wie-die-literaturagentin-ein-talent-erkennt",
-     "time": "2026-10-11T11:17:08Z"
+     "title": "Kundgebung in Bern – Rund tausend Personen an unbewilligter Demo in Bern",
+     "url": "https://www.srf.ch/news/schweiz/kundgebung-in-bern-rund-tausend-personen-an-unbewilligter-demo-in-bern",
+     "time": "2026-10-11T17:06:12Z"
     },
     {
-     "title": "Entdeckt im frühen Stadium – Knoten in der Lunge: Papst wird operiert",
-     "url": "https://www.srf.ch/news/international/entdeckt-im-fruehen-stadium-knoten-in-der-lunge-papst-wird-operiert",
-     "time": "2026-10-11T11:04:28Z"
+     "title": "Krieg im Nahen Osten – Anschlag auf den Flughafen in Riad: Huthi-Rebellen bekennen sich",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-anschlag-auf-den-flughafen-in-riad-huthi-rebellen-bekennen-sich",
+     "time": "2026-10-11T16:53:36Z"
     },
     {
-     "title": "Arbeitslosigkeit in der ICT – IT-Projektleiter backt jetzt Pizza",
-     "url": "https://www.srf.ch/news/wirtschaft/arbeitslosigkeit-in-der-ict-it-projektleiter-backt-jetzt-pizza",
-     "time": "2026-10-11T10:48:32Z"
+     "title": "Super League: 10. Runde – Bei Jokanovic-Debüt: Basler Baisse hält auch in Vaduz an",
+     "url": "https://www.srf.ch/sport/fussball/super-league/super-league-10-runde-bei-jokanovic-debuet-basler-baisse-haelt-auch-in-vaduz-an",
+     "time": "2026-10-11T16:30:52Z"
     },
     {
-     "title": "Asylunterkunft für 150 Leute – Widerstand gegen Asylzentrum in Pratteln",
-     "url": "https://www.srf.ch/news/schweiz/asylunterkunft-fuer-150-leute-widerstand-gegen-asylzentrum-in-pratteln",
-     "time": "2026-10-11T10:25:55Z"
+     "title": "10. Runde der Super League – Für Lausanne gibt es auch in St. Gallen nichts zu holen",
+     "url": "https://www.srf.ch/sport/fussball/super-league/10-runde-der-super-league-fuer-lausanne-gibt-es-auch-in-st-gallen-nichts-zu-holen",
+     "time": "2026-10-11T16:22:42Z"
     },
     {
-     "title": "3-Tore-Rückstand getilgt – Jetzt auch Ajoie: Es ist die Saison der grossen Comebacks",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/3-tore-rueckstand-getilgt-jetzt-auch-ajoie-es-ist-die-saison-der-grossen-comebacks",
-     "time": "2026-10-11T10:04:54Z"
+     "title": "Bieler Gratiszeitung am Ende – 86-jähriger Zeitungsgründer: «Ich bin natürlich ein Dinosaurier»",
+     "url": "https://www.srf.ch/news/schweiz/bieler-gratiszeitung-am-ende-86-jaehriger-zeitungsgruender-ich-bin-natuerlich-ein-dinosaurier",
+     "time": "2026-10-11T16:02:03Z"
+    },
+    {
+     "title": "Schweizer Doppelsieg – Hug in Chicago nicht zu schlagen – Debrunner mit Weltrekord",
+     "url": "https://www.srf.ch/sport/leichtathletik/schweizer-doppelsieg-hug-in-chicago-nicht-zu-schlagen-debrunner-mit-weltrekord",
+     "time": "2026-10-11T15:57:54Z"
+    },
+    {
+     "title": "Bereitschaftsdienst – Wie das Spital Sitten seine Notaufnahme entlasten will",
+     "url": "https://www.srf.ch/news/dialog/bereitschaftsdienst-wie-das-spital-sitten-seine-notaufnahme-entlasten-will",
+     "time": "2026-10-11T15:57:44Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Berlino 'sosteniamo pienamente Zelensky dopo le parole di Trump'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/berlino-sosteniamo-pienamente-zelensky-dopo-le-parole-di-trump_4a79f7a3-aa97-42b8-8935-df5da299c114.html",
-     "time": "2026-10-11T13:07:52Z"
+     "title": "Flop di 'The social reckoning', l'horror 'Other Mommy' conquista il botteghino Usa",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/flop-di-the-social-reckoning-lhorror-other-mommy-conquista-il-botteghino-usa_2da6e6ff-ed8c-409c-ad79-52bb566b1695.html",
+     "time": "2026-10-11T18:13:01Z"
     },
     {
-     "title": "Anmil, da gennaio ad oggi oltre 700 morti sul lavoro, istituire reato di omicidio",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/anmil-da-gennaio-ad-oggi-oltre-700-morti-sul-lavoro-istituire-reato_1480dd81-d33b-42c8-91fa-03fb296d8b4f.html",
-     "time": "2026-10-11T10:40:07Z"
+     "title": "Zelensky, Mosca ha colpito centrale elettrica dopo annuncio Trump su tregua",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/zelensky-mosca-ha-colpito-centrale-elettrica-dopo-annuncio-trump-su-tregua_3977dead-c270-45c1-951c-859f5198aa58.html",
+     "time": "2026-10-11T18:10:03Z"
     },
     {
-     "title": "Tajani, vogliamo governare Milano, Perego incarna spirito della città",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/tajani-vogliamo-governare-milano-perego-incarna-spirito-della-citta_8a8c9766-ede1-47da-8532-2687304e297c.html",
-     "time": "2026-10-11T10:39:35Z"
+     "title": "Giornate Fai d'Autunno, 400mila visitatori negli oltre 700 luoghi aperti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/giornate-fai-dautunno-400mila-visitatori-negli-oltre-700-luoghi-aperti_450d0dd1-4371-4c05-a4b3-0d8bd8eff298.html",
+     "time": "2026-10-11T18:01:53Z"
     },
     {
-     "title": "Meloni,ferma condanna degli attacchi Houthi contro aeroporto Riad",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/meloniferma-condanna-degli-attacchi-houthi-contro-aeroporto-riad_e23fdd65-cda2-4492-ab0f-fa5ef8f5bcb8.html",
-     "time": "2026-10-11T10:35:32Z"
+     "title": "'Trump minaccia blocco delle armi a Kiev per gli attacchi alla raffinerie russe'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/trump-minaccia-blocco-delle-armi-a-kiev-per-gli-attacchi-alla_724b2141-0c92-4672-8a32-c3c8bfe5c9e7.html",
+     "time": "2026-10-11T17:39:02Z"
     },
     {
-     "title": "Il Papa 'ho un nodulo al polmone, ho deciso di operarmi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi_af12e170-f74f-4aef-8360-5210a9d85c79.html",
-     "time": "2026-10-11T10:20:40Z"
+     "title": "Houthi rivendicano ondata di raid su aeroporto di Riad e impianti energetici sauditi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/houthi-rivendicano-ondata-di-raid-su-aeroporto-di-riad-e-impianti-energetici-sauditi_d8be5819-f8b3-42d6-8cf2-03ac416c1264.html",
+     "time": "2026-10-11T17:19:52Z"
     },
     {
-     "title": "Polonia, riunione di emergenza per possibili attentati a premier e ministro Difesa",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/polonia-riunione-di-emergenza-per-possibili-attentati-a-premier-e-ministro-difesa_694565c2-2f2c-488c-9b4a-ba01f0541aa9.html",
-     "time": "2026-10-11T10:17:08Z"
+     "title": "È morta Wilma De Angelis",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/e-morta-wilma-de-angelis_057872ff-a9c4-467d-a5c0-ad26906e5636.html",
+     "time": "2026-10-11T17:17:58Z"
     },
     {
-     "title": "Zelensky, fermeremo raid su raffinerie se Mosca smetterà di colpire siti energetici",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/zelensky-fermeremo-raid-su-raffinerie-se-mosca-smettera-di-colpire-siti-energetici_9f05b932-96b0-4cb7-ad68-9a3c9419f119.html",
-     "time": "2026-10-11T09:21:21Z"
+     "title": "Domani cda straordinario di Mps dopo le mosse di Intesa",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/domani-cda-straordinario-di-mps-dopo-le-mosse-di-intesa_97057d85-9747-4344-acbb-47f2e67b40e6.html",
+     "time": "2026-10-11T17:11:48Z"
     },
     {
-     "title": "Almeno 109 migranti morti in un naufragio al largo di Gibuti, oltre 116 i dispersi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/almeno-109-migranti-morti-in-un-naufragio-al-largo-di-gibuti-oltre-116-i-dispersi_b5d90649-c51f-4816-a54b-57f3dd906c92.html",
-     "time": "2026-10-11T09:19:16Z"
+     "title": "In Francia Glucksmann conquista le primarie socialdemocratiche già dal primo turno",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/in-francia-glucksmann-conquista-le-primarie-socialdemocratiche-gia-dal-primo-turno_3abcea1a-0a48-410e-b01b-f4bac19ca2bf.html",
+     "time": "2026-10-11T16:39:09Z"
     },
     {
-     "title": "Allarme 007, Mosca intensifica tentativi di assassinare vertici della difesa europea",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/allarme-007-mosca-intensifica-tentativi-di-assassinare-vertici-della-difesa-europea_0b04339f-9f44-4fcd-bfc5-d14c8cb53be4.html",
-     "time": "2026-10-11T08:38:31Z"
+     "title": "Tusk, arrestato presunto attentatore che voleva colpire me e ministro difesa",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/tusk-arrestato-presunto-attentatore-che-voleva-colpire-me-e-ministro-difesa_bb698280-fd4c-48f0-a025-dec32a3c5204.html",
+     "time": "2026-10-11T16:04:08Z"
     },
     {
-     "title": "Gli Houthi avvertono i viaggiatori, non usate gli aeroporti sauditi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/gli-houthi-avvertono-i-viaggiatori-non-usate-gli-aeroporti-sauditi_60265a3f-56b0-4ea6-821e-584fc4280709.html",
-     "time": "2026-10-11T07:58:20Z"
+     "title": "Von der Leyen, 'pieno sostegno a Zelensky, guerra in una fase più cupa'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/von-der-leyen-pieno-sostegno-a-zelensky-guerra-in-una-fase-piu_f3512309-e708-43f3-8c24-e5bc6b78fa01.html",
+     "time": "2026-10-11T16:01:30Z"
     }
    ]
   },
@@ -215,29 +215,44 @@
    "countries": [],
    "items": [
     {
+     "title": "Poland detains man suspected of planning assassination of PM Tusk",
+     "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T17:27:24Z"
+    },
+    {
+     "title": "Saudi capital airport hit by second Houthi strike in two days",
+     "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T16:41:37Z"
+    },
+    {
+     "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+     "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T15:32:32Z"
+    },
+    {
+     "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+     "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T15:32:23Z"
+    },
+    {
+     "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+     "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T15:18:52Z"
+    },
+    {
+     "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T14:38:10Z"
+    },
+    {
      "title": "Pope Leo to have surgery after lump found on lung",
      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T12:52:38Z"
-    },
-    {
-     "title": "Ukraine strikes Russian data centre again despite Trump warning",
-     "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T12:50:46Z"
-    },
-    {
-     "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
-     "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T12:08:20Z"
+     "time": "2026-10-11T13:38:55Z"
     },
     {
      "title": "Homes and bridges swept away as fresh floods hit Nepal",
      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-11T12:03:52Z"
-    },
-    {
-     "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-     "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T11:32:50Z"
     },
     {
      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
@@ -258,21 +273,6 @@
      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-10T23:31:35Z"
-    },
-    {
-     "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-     "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T22:13:08Z"
-    },
-    {
-     "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-     "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T20:51:12Z"
-    },
-    {
-     "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-     "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T18:22:29Z"
     }
    ]
   }
