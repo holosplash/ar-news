@@ -1,6 +1,6 @@
 {
- "version": 25,
- "updated": "2026-10-11T06:19:58Z",
+ "version": 26,
+ "updated": "2026-10-11T13:25:14Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Gespräche in Athen: Rubio umwirbt die Gas-Drehscheibe Griechenland",
-     "url": "https://www.tagesschau.de/ausland/europa/griechenland-usa-gas-100.html",
-     "time": "2026-10-11T05:43:37Z"
+     "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+     "url": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+     "time": "2026-10-11T13:12:05Z"
     },
     {
-     "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-     "url": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
-     "time": "2026-10-11T04:27:25Z"
+     "title": "Muheims Traumtor gegen Hoffenheim lässt Hamburg eskalieren",
+     "url": "https://www.sportschau.de/fussball/bundesliga/903-traumtor-laesst-hamburg-eskalieren,spielbericht-tsg-hoffenheim-hamburger-sv-102.html",
+     "time": "2026-10-11T12:04:34Z"
     },
     {
-     "title": "Nostalgie und Nachhaltigkeit: Ein zweites Leben für die Vespa",
-     "url": "https://www.tagesschau.de/wirtschaft/energie/vespa-e-roller-100.html",
-     "time": "2026-10-11T03:55:19Z"
+     "title": "Tim Kukral, ARD Kairo, über die Attacke auf den Flughafen Riad",
+     "url": "https://www.tagesschau.de/video/video-1664264.html",
+     "time": "2026-10-11T11:50:56Z"
     },
     {
-     "title": "Seehofer sieht \"Glaubwürdigkeitsverlust\" bei Merz",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html",
-     "time": "2026-10-11T03:50:03Z"
+     "title": "Friedenspreisträger Sands kritisiert deutsches Schweigen zu Vorgehen Israels",
+     "url": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
+     "time": "2026-10-11T11:36:28Z"
     },
     {
-     "title": "Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck",
-     "url": "https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html",
-     "time": "2026-10-11T03:47:34Z"
+     "title": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
+     "time": "2026-10-11T11:23:58Z"
     },
     {
-     "title": "Franzose Luis ist neuer Ironman-Weltmeister",
-     "url": "https://www.sportschau.de/triathlon/vincent-luis-ist-neuer-ironman-weltmeister,ironman-wm-hawaii-maenner-100.html",
-     "time": "2026-10-11T02:14:14Z"
+     "title": "Papst Leo XIV. kündigt Operation an der Lunge an",
+     "url": "https://www.tagesschau.de/ausland/europa/vatikan-papst-lunge-operation-100.html",
+     "time": "2026-10-11T11:22:28Z"
     },
     {
-     "title": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
-     "time": "2026-10-11T01:27:57Z"
+     "title": "US-Justizministerium prüft Vorgehen von Sendern gegen US-Präsident Trump",
+     "url": "https://www.tagesschau.de/video/video-1664262.html",
+     "time": "2026-10-11T11:17:03Z"
     },
     {
-     "title": "Berliner Sondierungen sorgen für Ärger in der Koalition",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/weimer-kluessendorf-berlin-100.html",
-     "time": "2026-10-11T01:12:51Z"
+     "title": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
+     "time": "2026-10-11T10:53:06Z"
     },
     {
-     "title": "Tröten im Trend: Jagdhornblasen für Anfänger",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1664144.html",
-     "time": "2026-10-10T22:10:17Z"
+     "title": "Die Toten Hosen in Argentinien, Rübengeister in Baden-Württemberg, Basteibrücke bei Sonnenaufgang, Maisernte in China",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10498.html",
+     "time": "2026-10-11T10:42:19Z"
     },
     {
-     "title": "Drei Jahre Krieg im Gazastreifen und erster Jahrestag der Waffenruhe: Wie geht es den Menschen vor Ort?",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1664142.html",
-     "time": "2026-10-10T22:08:15Z"
+     "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+     "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
+     "time": "2026-10-11T10:39:51Z"
     },
     {
-     "title": "Tag gegen Todesstrafe: USA debattiert über Hinrichtungen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1664140.html",
-     "time": "2026-10-10T22:06:17Z"
+     "title": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
+     "url": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html",
+     "time": "2026-10-11T10:17:20Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12908.html",
-     "time": "2026-10-10T22:00:37Z"
+     "title": "CDU-Parteiführung berät nach Wahlniederlagen",
+     "url": "https://www.tagesschau.de/video/video-1664240.html",
+     "time": "2026-10-11T10:01:43Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Krieg im Nahen Osten – Zwölf Tote und über 300 Verletzte bei Angriff auf Flughafen Riad",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-zwoelf-tote-und-ueber-300-verletzte-bei-angriff-auf-flughafen-riad",
-     "time": "2026-10-11T06:03:27Z"
+     "title": "Armee im Einsatz – Evakuierungen nach einer Sturzflut in Nepal",
+     "url": "https://www.srf.ch/news/international/armee-im-einsatz-evakuierungen-nach-einer-sturzflut-in-nepal",
+     "time": "2026-10-11T13:19:29Z"
     },
     {
-     "title": "Industrie-Architektur – Kann eine Kehrichtverbrennungsanlage schön sein?",
-     "url": "https://www.srf.ch/news/schweiz/industrie-architektur-kann-eine-kehrichtverbrennungsanlage-schoen-sein",
-     "time": "2026-10-11T05:56:29Z"
+     "title": "Migrationsroute in Ostafrika – Schiff mit Migranten in Dschibuti gekentert – Über 100 Tote",
+     "url": "https://www.srf.ch/news/international/migrationsroute-in-ostafrika-schiff-mit-migranten-in-dschibuti-gekentert-ueber-100-tote",
+     "time": "2026-10-11T13:13:56Z"
     },
     {
-     "title": "Proteste gegen Wahlkommission – Indien: Gründer der «Kakerlaken»-Bewegung zeitweise festgenommen",
-     "url": "https://www.srf.ch/news/international/proteste-gegen-wahlkommission-indien-gruender-der-kakerlaken-bewegung-zeitweise-festgenommen",
-     "time": "2026-10-11T05:47:10Z"
+     "title": "Strom tanken – In Basel entsteht eine Bus-Garage mit 144 Ladestationen",
+     "url": "https://www.srf.ch/news/schweiz/strom-tanken-in-basel-entsteht-eine-bus-garage-mit-144-ladestationen",
+     "time": "2026-10-11T13:01:08Z"
     },
     {
-     "title": "Wachsender Druck aus China – Taiwan feiert Nationalfeiertag mit Militärparade und Rekordbudget",
-     "url": "https://www.srf.ch/news/international/wachsender-druck-aus-china-taiwan-feiert-nationalfeiertag-mit-militaerparade-und-rekordbudget",
-     "time": "2026-10-11T05:02:34Z"
+     "title": "Landesweite Kontrollen – Polen: 117 Festnahmen nach Messerangriffen an Schulen",
+     "url": "https://www.srf.ch/news/international/landesweite-kontrollen-polen-117-festnahmen-nach-messerangriffen-an-schulen",
+     "time": "2026-10-11T12:57:32Z"
     },
     {
-     "title": "Bilder der Woche – Parmelins Olma-Säuli und weitere Fotos der Woche",
-     "url": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-parmelins-olma-saeuli-und-weitere-fotos-der-woche",
-     "time": "2026-10-11T05:01:27Z"
+     "title": "Humanitäre Krise in Somalia – Unicef: «In den Vertriebenenlagern in Somalia haben alle Hunger»",
+     "url": "https://www.srf.ch/news/international/humanitaere-krise-in-somalia-unicef-in-den-vertriebenenlagern-in-somalia-haben-alle-hunger",
+     "time": "2026-10-11T12:05:00Z"
     },
     {
-     "title": "Krieg in der Ukraine – Trump fordert Führungswechsel in der Ukraine",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-fordert-fuehrungswechsel-in-der-ukraine",
-     "time": "2026-10-11T04:51:48Z"
+     "title": "Eskalation in Saudi-Arabien – Angriff auf Flughafen Riad – das ist bekannt",
+     "url": "https://www.srf.ch/news/international/eskalation-in-saudi-arabien-angriff-auf-flughafen-riad-das-ist-bekannt",
+     "time": "2026-10-11T11:45:09Z"
     },
     {
-     "title": "Golfküste der USA – Sturm «Isaias» kein Hurrikan mehr – trotzdem Lebensgefahr",
-     "url": "https://www.srf.ch/news/international/golfkueste-der-usa-sturm-isaias-kein-hurrikan-mehr-trotzdem-lebensgefahr",
-     "time": "2026-10-10T19:54:28Z"
+     "title": "– Angriff auf Flughafen Riad – das ist bekannt",
+     "url": "https://www.srf.ch/news/international/eskalation-in-saudi-arabien-angriff-auf-flughafen-riad-das-ist-bekannt",
+     "time": "2026-10-11T11:45:09Z"
     },
     {
-     "title": "Fast ein Jahr nach Unfall – Dettwiler feiert sein Renn-Comeback",
-     "url": "https://www.srf.ch/sport/motorsport/motorrad/fast-ein-jahr-nach-unfall-dettwiler-feiert-sein-renn-comeback",
-     "time": "2026-10-10T19:29:31Z"
+     "title": "Frankfurter Buchmesse – Wie die Literaturagentin ein Talent erkennt",
+     "url": "https://www.srf.ch/news/frankfurter-buchmesse-wie-die-literaturagentin-ein-talent-erkennt",
+     "time": "2026-10-11T11:17:08Z"
     },
     {
-     "title": "Gesundheitszustand unklar – Christa Pike verlässt Spital und ist wieder im Gefängnis",
-     "url": "https://www.srf.ch/news/international/gesundheitszustand-unklar-christa-pike-verlaesst-spital-und-ist-wieder-im-gefaengnis",
-     "time": "2026-10-10T18:53:17Z"
+     "title": "Entdeckt im frühen Stadium – Knoten in der Lunge: Papst wird operiert",
+     "url": "https://www.srf.ch/news/international/entdeckt-im-fruehen-stadium-knoten-in-der-lunge-papst-wird-operiert",
+     "time": "2026-10-11T11:04:28Z"
     },
     {
-     "title": "– Christa Pike verlässt Spital und ist wieder im Gefängnis",
-     "url": "https://www.srf.ch/news/international/gesundheitszustand-unklar-christa-pike-verlaesst-spital-und-ist-wieder-im-gefaengnis",
-     "time": "2026-10-10T18:53:17Z"
+     "title": "Arbeitslosigkeit in der ICT – IT-Projektleiter backt jetzt Pizza",
+     "url": "https://www.srf.ch/news/wirtschaft/arbeitslosigkeit-in-der-ict-it-projektleiter-backt-jetzt-pizza",
+     "time": "2026-10-11T10:48:32Z"
     },
     {
-     "title": "Esther Friedli verzichtet – Der Rückzug eröffnet neue Möglichkeiten",
-     "url": "https://www.srf.ch/news/schweiz/esther-friedli-verzichtet-der-rueckzug-eroeffnet-neue-moeglichkeiten",
-     "time": "2026-10-10T18:10:32Z"
+     "title": "Asylunterkunft für 150 Leute – Widerstand gegen Asylzentrum in Pratteln",
+     "url": "https://www.srf.ch/news/schweiz/asylunterkunft-fuer-150-leute-widerstand-gegen-asylzentrum-in-pratteln",
+     "time": "2026-10-11T10:25:55Z"
     },
     {
-     "title": "– Der Rückzug eröffnet neue Möglichkeiten",
-     "url": "https://www.srf.ch/news/schweiz/esther-friedli-verzichtet-der-rueckzug-eroeffnet-neue-moeglichkeiten",
-     "time": "2026-10-10T18:10:32Z"
+     "title": "3-Tore-Rückstand getilgt – Jetzt auch Ajoie: Es ist die Saison der grossen Comebacks",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/3-tore-rueckstand-getilgt-jetzt-auch-ajoie-es-ist-die-saison-der-grossen-comebacks",
+     "time": "2026-10-11T10:04:54Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Trump: 'L'attacco all'aeroporto di Riad non è accettabile'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/trump-lattacco-allaeroporto-di-riad-non-e-accettabile_255ae644-e018-491a-8726-f54a945f9c36.html",
-     "time": "2026-10-11T03:26:28Z"
+     "title": "Berlino 'sosteniamo pienamente Zelensky dopo le parole di Trump'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/berlino-sosteniamo-pienamente-zelensky-dopo-le-parole-di-trump_4a79f7a3-aa97-42b8-8935-df5da299c114.html",
+     "time": "2026-10-11T13:07:52Z"
     },
     {
-     "title": "'Il Dipartimento di Giustizia Usa indaga sui network tv per la copertura del presidente'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/il-dipartimento-di-giustizia-usa-indaga-sui-network-tv-per-la-copertura-del-presidente_3b58dac9-4865-4023-99e0-0d7a24654fba.html",
-     "time": "2026-10-10T23:24:22Z"
+     "title": "Anmil, da gennaio ad oggi oltre 700 morti sul lavoro, istituire reato di omicidio",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/anmil-da-gennaio-ad-oggi-oltre-700-morti-sul-lavoro-istituire-reato_1480dd81-d33b-42c8-91fa-03fb296d8b4f.html",
+     "time": "2026-10-11T10:40:07Z"
     },
     {
-     "title": "Autorità, almeno 309 i feriti nell'attacco degli Houthi all'aeroporto di Riad",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/autorita-almeno-309-i-feriti-nellattacco-degli-houthi-allaeroporto-di-riad_fe551111-739b-435f-8bfb-b81180b34725.html",
-     "time": "2026-10-10T22:09:05Z"
+     "title": "Tajani, vogliamo governare Milano, Perego incarna spirito della città",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/tajani-vogliamo-governare-milano-perego-incarna-spirito-della-citta_8a8c9766-ede1-47da-8532-2687304e297c.html",
+     "time": "2026-10-11T10:39:35Z"
     },
     {
-     "title": "Coalizione saudita, attaccato l'aeroporto di Dammam",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/coalizione-saudita-attaccato-laeroporto-di-dammam_414bdc69-7888-48d1-9c78-5521c970d523.html",
-     "time": "2026-10-10T21:33:09Z"
+     "title": "Meloni,ferma condanna degli attacchi Houthi contro aeroporto Riad",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/meloniferma-condanna-degli-attacchi-houthi-contro-aeroporto-riad_e23fdd65-cda2-4492-ab0f-fa5ef8f5bcb8.html",
+     "time": "2026-10-11T10:35:32Z"
     },
     {
-     "title": "Nyt, 'almeno 12 morti nell'attacco degli houthi all'aeroporto di Riad'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/nyt-almeno-12-morti-nellattacco-degli-houthi-allaeroporto-di-riad_7e8efeb4-54e3-4793-94f5-69d256ffb480.html",
-     "time": "2026-10-10T20:59:00Z"
+     "title": "Il Papa 'ho un nodulo al polmone, ho deciso di operarmi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi_af12e170-f74f-4aef-8360-5210a9d85c79.html",
+     "time": "2026-10-11T10:20:40Z"
     },
     {
-     "title": "'Almeno due morti in attacco Houthi su scalo Riad, anche un'assistente di volo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/almeno-due-morti-in-attacco-houthi-su-scalo-riad-anche-unassistente-di-volo_c52a4c90-11da-459b-bef2-6c7fff5dd87b.html",
-     "time": "2026-10-10T20:31:00Z"
+     "title": "Polonia, riunione di emergenza per possibili attentati a premier e ministro Difesa",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/polonia-riunione-di-emergenza-per-possibili-attentati-a-premier-e-ministro-difesa_694565c2-2f2c-488c-9b4a-ba01f0541aa9.html",
+     "time": "2026-10-11T10:17:08Z"
     },
     {
-     "title": "Burnham, 'piena solidarietà a Zelensky dopo le parole di Trump'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/burnham-piena-solidarieta-a-zelensky-dopo-le-parole-di-trump_374e4bce-c08c-4fd0-85b1-68a8ecc97138.html",
-     "time": "2026-10-10T19:29:43Z"
+     "title": "Zelensky, fermeremo raid su raffinerie se Mosca smetterà di colpire siti energetici",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/zelensky-fermeremo-raid-su-raffinerie-se-mosca-smettera-di-colpire-siti-energetici_9f05b932-96b0-4cb7-ad68-9a3c9419f119.html",
+     "time": "2026-10-11T09:21:21Z"
     },
     {
-     "title": "Kiev, 'dichiarazioni dall'estero confermano che Zelensky svolge bene il suo lavoro'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/kiev-dichiarazioni-dallestero-confermano-che-zelensky-svolge-bene-il-suo-lavoro_9bf5760b-309b-483f-b04c-18e965397268.html",
-     "time": "2026-10-10T19:02:40Z"
+     "title": "Almeno 109 migranti morti in un naufragio al largo di Gibuti, oltre 116 i dispersi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/almeno-109-migranti-morti-in-un-naufragio-al-largo-di-gibuti-oltre-116-i-dispersi_b5d90649-c51f-4816-a54b-57f3dd906c92.html",
+     "time": "2026-10-11T09:19:16Z"
     },
     {
-     "title": "Dmitriev, 'Trump vuole una leadership di pace in Ucraina, è iconico e storico'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/dmitriev-trump-vuole-una-leadership-di-pace-in-ucraina-e-iconico-e-storico_0c2c9211-23c5-436e-8a9c-f39ebdd9eed7.html",
-     "time": "2026-10-10T18:01:08Z"
+     "title": "Allarme 007, Mosca intensifica tentativi di assassinare vertici della difesa europea",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/allarme-007-mosca-intensifica-tentativi-di-assassinare-vertici-della-difesa-europea_0b04339f-9f44-4fcd-bfc5-d14c8cb53be4.html",
+     "time": "2026-10-11T08:38:31Z"
     },
     {
-     "title": "Ranucci, 'i colleghi di Report potevano mandare un messaggio un po' prima'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/10/ranucci-i-colleghi-di-report-potevano-mandare-un-messaggio-un-po-prima_eb3b8a17-3395-4a6b-a6cd-b66eaf93d662.html",
-     "time": "2026-10-10T17:54:24Z"
+     "title": "Gli Houthi avvertono i viaggiatori, non usate gli aeroporti sauditi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/gli-houthi-avvertono-i-viaggiatori-non-usate-gli-aeroporti-sauditi_60265a3f-56b0-4ea6-821e-584fc4280709.html",
+     "time": "2026-10-11T07:58:20Z"
     }
    ]
   },
@@ -215,29 +215,49 @@
    "countries": [],
    "items": [
     {
+     "title": "Pope Leo to have surgery after lump found on lung",
+     "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T12:52:38Z"
+    },
+    {
+     "title": "Ukraine strikes Russian data centre again despite Trump warning",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T12:50:46Z"
+    },
+    {
+     "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+     "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T12:08:20Z"
+    },
+    {
+     "title": "Homes and bridges swept away as fresh floods hit Nepal",
+     "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T12:03:52Z"
+    },
+    {
+     "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+     "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T11:32:50Z"
+    },
+    {
+     "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+     "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T11:11:42Z"
+    },
+    {
+     "title": "Buildings swept away as flash floods hit central Nepal",
+     "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T10:34:02Z"
+    },
+    {
      "title": "US justice department investigates TV networks over Trump pool coverage",
      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-11T05:05:43Z"
     },
     {
-     "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-     "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T03:57:22Z"
-    },
-    {
-     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-     "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T01:41:29Z"
-    },
-    {
      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-10T23:31:35Z"
-    },
-    {
-     "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-     "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T23:19:55Z"
     },
     {
      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
@@ -253,26 +273,6 @@
      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-10T18:22:29Z"
-    },
-    {
-     "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-     "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T17:44:26Z"
-    },
-    {
-     "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-     "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T15:23:47Z"
-    },
-    {
-     "title": "Woman injures three people in third Poland school knife attack in a week",
-     "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T14:58:55Z"
-    },
-    {
-     "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-     "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-10T14:49:32Z"
     }
    ]
   }
