@@ -1,6 +1,6 @@
 {
- "version": 29,
- "updated": "2026-10-12T01:40:53Z",
+ "version": 30,
+ "updated": "2026-10-12T09:03:07Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
+     "title": "Bärbel Bas tritt als Arbeitsministerin und SPD-Vorsitzende zurück",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-bas-100.html",
+     "time": "2026-10-12T08:59:04Z"
+    },
+    {
+     "title": "Nach Rücktritt von Bas: Schweitzer soll neuer Arbeitsminister werden",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/alexander-schweitzer-arbeitsminister-100.html",
+     "time": "2026-10-12T08:56:19Z"
+    },
+    {
+     "title": "Marktbericht: DAX-Erholung setzt sich fort",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+     "time": "2026-10-12T08:55:44Z"
+    },
+    {
+     "title": "S. Petersohn, ARD Kiew, B. Blaschke, ARD Moskau zzt. Köln, zu Trumps \"Energie-Waffenruhe\"",
+     "url": "https://www.tagesschau.de/video/video-1664710.html",
+     "time": "2026-10-12T08:42:12Z"
+    },
+    {
+     "title": "EU-Außenminister beschließen größte Sanktionsrunde gegen Russland",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-aussenministertreffen-120.html",
+     "time": "2026-10-12T08:33:32Z"
+    },
+    {
+     "title": "Was hinter der aktuellen Euro-Schwäche steckt",
+     "url": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
+     "time": "2026-10-12T08:17:50Z"
+    },
+    {
+     "title": "Huthi-Miliz greift erneut Flughäfen in Saudi-Arabien an",
      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
-     "time": "2026-10-12T00:20:21Z"
+     "time": "2026-10-12T08:00:56Z"
     },
     {
-     "title": "Kinotipp „Heimsuchung“ von Schlöndorff: 100 Jahre Deutschland in zwei Stunden Kino",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1664614.html",
-     "time": "2026-10-11T21:15:50Z"
+     "title": "Christoph Mestmacher, ARD Berlin, zum Rücktritt von Bas",
+     "url": "https://www.tagesschau.de/video/video-1664690.html",
+     "time": "2026-10-12T07:48:35Z"
     },
     {
-     "title": "Angriffe auf Saudi-Arabien: Warum eskaliert der Huthi-Konflikt gerade jetzt?",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1664612.html",
-     "time": "2026-10-11T21:14:19Z"
+     "title": "Bas tritt als Arbeitsministerin und SPD-Chefin zurück",
+     "url": "https://www.tagesschau.de/video/video-1664684.html",
+     "time": "2026-10-12T07:41:41Z"
     },
     {
-     "title": "CDU-Klausur: Wie verarbeitet die Parteiführung die Wahlniederlagen?",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1664610.html",
-     "time": "2026-10-11T21:11:46Z"
+     "title": "Kölns El Mala entscheidet rheinisches Derby gegen Mönchengladbach",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-koelns-el-mala-entscheidet-derby-gegen-moenchengladbach-102.html",
+     "time": "2026-10-12T07:28:00Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12902.html",
-     "time": "2026-10-11T21:06:40Z"
+     "title": "Bogong-Falter, Kürbisregatta, Fischer-Proteste in Griechenland",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10500.html",
+     "time": "2026-10-12T06:42:30Z"
     },
     {
      "title": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
      "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
-     "time": "2026-10-11T20:11:44Z"
-    },
-    {
-     "title": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-     "url": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-     "time": "2026-10-11T20:11:03Z"
-    },
-    {
-     "title": "Krieg in der Golfregion: Tote bei Angriff auf Flughafen von Riad",
-     "url": "https://www.tagesschau.de/video/video-1664552.html",
-     "time": "2026-10-11T18:39:29Z"
-    },
-    {
-     "title": "CDU berät in Präsidiumsklausur über Wege aus der Krise",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664560.html",
-     "time": "2026-10-11T18:37:14Z"
-    },
-    {
-     "title": "Jurist und Autor Philippe Sands erhält den Friedenspreis des Deutschen Buchhandels",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1664562.html",
-     "time": "2026-10-11T18:35:10Z"
-    },
-    {
-     "title": "Keisuke Goto köpft SC Freiburg gegen Schalke an die Spitze",
-     "url": "https://www.sportschau.de/fussball/bundesliga/goto-koepft-freiburg-in-unterzahl-an-die-spitze,spielbericht-sc-freiburg-schalke-04-100.html",
-     "time": "2026-10-11T18:26:55Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81318.html",
-     "time": "2026-10-11T18:19:41Z"
+     "time": "2026-10-12T06:38:55Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "10. Runde der Super League – Für Lausanne gibt es auch in St. Gallen nichts zu holen",
-     "url": "https://www.srf.ch/sport/fussball/super-league/10-runde-der-super-league-fuer-lausanne-gibt-es-auch-in-st-gallen-nichts-zu-holen",
-     "time": "2026-10-11T19:23:02Z"
+     "title": "Arbeitslosigkeit in der ICT – IT-Projektleiter backt jetzt Pizza",
+     "url": "https://www.srf.ch/news/wirtschaft/arbeitslosigkeit-in-der-ict-it-projektleiter-backt-jetzt-pizza",
+     "time": "2026-10-12T08:30:32Z"
     },
     {
-     "title": "Menschenrechte in Nicaragua – Wer in Nicaragua Kritik übt, verschwindet",
-     "url": "https://www.srf.ch/news/international/menschenrechte-in-nicaragua-wer-in-nicaragua-kritik-uebt-verschwindet",
-     "time": "2026-10-11T19:19:44Z"
+     "title": "Vorfälle in Polen – Vereiteltes Attentat auf Tusk: Information kam vom Staatschutz",
+     "url": "https://www.srf.ch/news/international/vorfaelle-in-polen-vereiteltes-attentat-auf-tusk-information-kam-vom-staatschutz",
+     "time": "2026-10-12T08:11:40Z"
     },
     {
-     "title": "«Es ist alles grösser» – Reuteler: In der Nati unbestritten, bei Arsenal noch aussen vor",
-     "url": "https://www.srf.ch/sport/fussball/frauen-nationalteam/es-ist-alles-groesser-reuteler-in-der-nati-unbestritten-bei-arsenal-noch-aussen-vor",
-     "time": "2026-10-11T19:11:27Z"
+     "title": "Israel – Netanjahu will Naza-Film-Quellen aufdecken – das steckt dahinter",
+     "url": "https://www.srf.ch/news/international/israel-netanjahu-will-naza-film-quellen-aufdecken-das-steckt-dahinter",
+     "time": "2026-10-12T07:46:56Z"
     },
     {
-     "title": "Angriffe auf Flughafen in Riad – Die Huthi greifen das Geschäftsmodell Saudi-Arabiens an",
-     "url": "https://www.srf.ch/news/international/angriffe-auf-flughafen-in-riad-die-huthi-greifen-das-geschaeftsmodell-saudi-arabiens-an",
-     "time": "2026-10-11T17:51:45Z"
+     "title": "Q&A Fragen und Antworten – Chat zum Thema «Stammzellspende»",
+     "url": "https://www.srf.ch/wissen/wissens-chats/q-a-fragen-und-antworten-chat-zum-thema-stammzellspende",
+     "time": "2026-10-12T07:35:59Z"
     },
     {
-     "title": "– Die Huthi greifen das Geschäftsmodell Saudi-Arabiens an",
-     "url": "https://www.srf.ch/news/international/angriffe-auf-flughafen-in-riad-die-huthi-greifen-das-geschaeftsmodell-saudi-arabiens-an",
-     "time": "2026-10-11T17:51:45Z"
+     "title": "FCB-Trainer nach Debüt pikiert – Jokanovic: «Unser Level reicht nicht für diese Liga»",
+     "url": "https://www.srf.ch/sport/fussball/super-league/fcb-trainer-nach-debuet-pikiert-jokanovic-unser-level-reicht-nicht-fuer-diese-liga",
+     "time": "2026-10-12T07:30:51Z"
     },
     {
-     "title": "Berühmter Schweizer Maler – Wie eine grosse Hodler-Sammlung in Sarajevo endete",
-     "url": "https://www.srf.ch/news/international/beruehmter-schweizer-maler-wie-eine-grosse-hodler-sammlung-in-sarajevo-endete",
-     "time": "2026-10-11T17:33:07Z"
+     "title": "Deutschland – SPD-Co-Chefin Bärbel Bas tritt zurück",
+     "url": "https://www.srf.ch/news/international/deutschland-spd-co-chefin-baerbel-bas-tritt-zurueck",
+     "time": "2026-10-12T07:21:29Z"
     },
     {
-     "title": "Multiple Krisen – Konsumentenstimmung in der Schweiz bleibt im Tief",
-     "url": "https://www.srf.ch/news/wirtschaft/multiple-krisen-konsumentenstimmung-in-der-schweiz-bleibt-im-tief",
-     "time": "2026-10-11T17:13:10Z"
+     "title": "– SPD-Co-Chefin Bärbel Bas tritt zurück",
+     "url": "https://www.srf.ch/news/international/deutschland-spd-co-chefin-baerbel-bas-tritt-zurueck",
+     "time": "2026-10-12T07:21:29Z"
     },
     {
-     "title": "Eskalation in Saudi-Arabien – Angriff auf Flughafen Riad – das ist bekannt",
-     "url": "https://www.srf.ch/news/international/eskalation-in-saudi-arabien-angriff-auf-flughafen-riad-das-ist-bekannt",
-     "time": "2026-10-11T17:10:45Z"
+     "title": "Fragwürdige Praxis – Livit verlangt 100 Franken für Bewilligung von Untermiete",
+     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/fragwuerdige-praxis-livit-verlangt-100-franken-fuer-bewilligung-von-untermiete",
+     "time": "2026-10-12T06:30:05Z"
     },
     {
-     "title": "– Angriff auf Flughafen Riad – das ist bekannt",
-     "url": "https://www.srf.ch/news/international/eskalation-in-saudi-arabien-angriff-auf-flughafen-riad-das-ist-bekannt",
-     "time": "2026-10-11T17:10:45Z"
+     "title": "Täuschend intelligent – Was ein kluges Pferd über die Dummheit von KI verrät",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/taeuschend-intelligent-was-ein-kluges-pferd-ueber-die-dummheit-von-ki-verraet",
+     "time": "2026-10-12T06:17:34Z"
     },
     {
-     "title": "Kundgebung in Bern – Rund tausend Personen an unbewilligter Demo in Bern",
-     "url": "https://www.srf.ch/news/schweiz/kundgebung-in-bern-rund-tausend-personen-an-unbewilligter-demo-in-bern",
-     "time": "2026-10-11T17:06:12Z"
+     "title": "– Was ein kluges Pferd über die Dummheit von KI verrät",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/taeuschend-intelligent-was-ein-kluges-pferd-ueber-die-dummheit-von-ki-verraet",
+     "time": "2026-10-12T06:17:34Z"
     },
     {
-     "title": "– Rund tausend Personen an unbewilligter Demo in Bern",
-     "url": "https://www.srf.ch/news/schweiz/kundgebung-in-bern-rund-tausend-personen-an-unbewilligter-demo-in-bern",
-     "time": "2026-10-11T17:06:12Z"
+     "title": "Waldbrände in Indonesien – Wie sich der Orang-Utan Novita vor den Flammen rettete",
+     "url": "https://www.srf.ch/news/international/waldbraende-in-indonesien-wie-sich-der-orang-utan-novita-vor-den-flammen-rettete",
+     "time": "2026-10-12T05:48:29Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Anschlag auf den Flughafen in Riad: Huthi-Rebellen bekennen sich",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-anschlag-auf-den-flughafen-in-riad-huthi-rebellen-bekennen-sich",
-     "time": "2026-10-11T16:53:36Z"
+     "title": "Tanken mit Pflanzenöl – Kann man mit gebrauchtem Frittieröl Auto fahren?",
+     "url": "https://www.srf.ch/news/international/tanken-mit-pflanzenoel-kann-man-mit-gebrauchtem-frittieroel-auto-fahren",
+     "time": "2026-10-12T04:03:31Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Messico colpito da due cicloni, scatta l'allarme",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/messico-colpito-da-due-cicloni-scatta-lallarme_1f420a08-5ed7-4fc9-a024-ba411ed3822f.html",
-     "time": "2026-10-12T00:23:47Z"
+     "title": "I 27 adottano il maxi-pacchetto di sanzioni alla difesa di Mosca",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/i-27-adottano-il-maxi-pacchetto-di-sanzioni-alla-difesa-di-mosca_0883a5a1-ec1b-4da5-bd61-0172badeb198.html",
+     "time": "2026-10-12T08:48:44Z"
     },
     {
-     "title": "Almeno un morto e 11 feriti nel nuovo attacco all'aeroporto di Riad",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/almeno-un-morto-e-11-feriti-nel-nuovo-attacco-allaeroporto-di-riad_ec347fa3-04d2-4a6e-bc5d-6dbfa06cd64d.html",
-     "time": "2026-10-11T23:36:29Z"
+     "title": "L'Arabia Saudita proroga la chiusura dell'aeroporto di Riad dopo i raid Houthi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/larabia-saudita-proroga-la-chiusura-dellaeroporto-di-riad-dopo-i-raid-houthi_97117138-824a-4a65-a975-6247bc4aeb3f.html",
+     "time": "2026-10-12T08:48:27Z"
     },
     {
-     "title": "Flop di 'The social reckoning', l'horror 'Other Mommy' conquista il botteghino Usa",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/flop-di-the-social-reckoning-lhorror-other-mommy-conquista-il-botteghino-usa_2da6e6ff-ed8c-409c-ad79-52bb566b1695.html",
-     "time": "2026-10-11T18:13:01Z"
+     "title": "Zelensky, se la Russia non rispetta la tregua energetica noi reagiremo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/zelensky-se-la-russia-non-rispetta-la-tregua-energetica-noi-reagiremo_493cae01-b3c3-4f88-8eef-bf1ccab0362c.html",
+     "time": "2026-10-12T08:47:54Z"
     },
     {
-     "title": "Zelensky, Mosca ha colpito centrale elettrica dopo annuncio Trump su tregua",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/zelensky-mosca-ha-colpito-centrale-elettrica-dopo-annuncio-trump-su-tregua_3977dead-c270-45c1-951c-859f5198aa58.html",
-     "time": "2026-10-11T18:10:03Z"
+     "title": "Kiev, 'Mosca colpisce centrali elettriche, black out in varie zone Ucraina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/kiev-mosca-colpisce-centrali-elettriche-black-out-in-varie-zone-ucraina_850a5463-39d2-4694-8897-2cfa9ebd45f4.html",
+     "time": "2026-10-12T08:47:25Z"
     },
     {
-     "title": "Giornate Fai d'Autunno, 400mila visitatori negli oltre 700 luoghi aperti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/giornate-fai-dautunno-400mila-visitatori-negli-oltre-700-luoghi-aperti_450d0dd1-4371-4c05-a4b3-0d8bd8eff298.html",
-     "time": "2026-10-11T18:01:53Z"
+     "title": "Sindaco, 'il più antico mercato coperto di Parigi devastato da un maxi-incendio'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/sindaco-il-piu-antico-mercato-coperto-di-parigi-devastato-da-un-maxi-incendio_3aae0215-afcf-43d4-9c5c-16281894ee33.html",
+     "time": "2026-10-12T08:05:32Z"
     },
     {
-     "title": "'Trump minaccia blocco delle armi a Kiev per gli attacchi alla raffinerie russe'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/trump-minaccia-blocco-delle-armi-a-kiev-per-gli-attacchi-alla_724b2141-0c92-4672-8a32-c3c8bfe5c9e7.html",
-     "time": "2026-10-11T17:39:02Z"
+     "title": "Borsa: Milano accelera (+0,9%), bene Inwit, Stellantis e Intesa",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/borsa-milano-accelera-09-bene-inwit-stellantis-e-intesa_3b1172a7-e8a1-47c5-a308-574f4cb7d036.html",
+     "time": "2026-10-12T07:19:08Z"
     },
     {
-     "title": "Houthi rivendicano ondata di raid su aeroporto di Riad e impianti energetici sauditi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/houthi-rivendicano-ondata-di-raid-su-aeroporto-di-riad-e-impianti-energetici-sauditi_d8be5819-f8b3-42d6-8cf2-03ac416c1264.html",
-     "time": "2026-10-11T17:19:52Z"
+     "title": "Borsa: l'Europa sale in apertura, Parigi +0,3%, Londra +0,38%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/borsa-leuropa-sale-in-apertura-parigi-03-londra-038_ae37b84b-e37a-4343-b066-89fedd4f9a67.html",
+     "time": "2026-10-12T07:11:13Z"
     },
     {
-     "title": "È morta Wilma De Angelis",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/e-morta-wilma-de-angelis_057872ff-a9c4-467d-a5c0-ad26906e5636.html",
-     "time": "2026-10-11T17:17:58Z"
+     "title": "Borsa: Milano apre in rialzo, +0,64%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/borsa-milano-apre-in-rialzo-064_59e3850b-4ce4-4a8c-aa6f-8c1d07b512ef.html",
+     "time": "2026-10-12T07:06:20Z"
     },
     {
-     "title": "Domani cda straordinario di Mps dopo le mosse di Intesa",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/domani-cda-straordinario-di-mps-dopo-le-mosse-di-intesa_97057d85-9747-4344-acbb-47f2e67b40e6.html",
-     "time": "2026-10-11T17:11:48Z"
+     "title": "Borsa: Asia a ranghi ridotti, Tokyo chiusa, scivola Seul (-3,65%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/borsa-asia-a-ranghi-ridotti-tokyo-chiusa-scivola-seul-365_d58b5176-e8fe-4daa-ac90-54879f89104d.html",
+     "time": "2026-10-12T06:50:50Z"
     },
     {
-     "title": "In Francia Glucksmann conquista le primarie socialdemocratiche già dal primo turno",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/in-francia-glucksmann-conquista-le-primarie-socialdemocratiche-gia-dal-primo-turno_3abcea1a-0a48-410e-b01b-f4bac19ca2bf.html",
-     "time": "2026-10-11T16:39:09Z"
+     "title": "Kallas, 'bene le tregua energetica ma la Russia la deve rispettare'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/kallas-bene-le-tregua-energetica-ma-la-russia-la-deve-rispettare_49fa67f0-d6b7-4bd1-a31e-55f4682508bf.html",
+     "time": "2026-10-12T06:36:02Z"
     }
    ]
   },
@@ -215,12 +215,37 @@
    "countries": [],
    "items": [
     {
+     "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-12T05:00:52Z"
+    },
+    {
+     "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
+     "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T23:33:24Z"
+    },
+    {
+     "title": "Trump faces growing backlash over plans to import diesel from Russia",
+     "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T23:18:45Z"
+    },
+    {
+     "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+     "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T23:13:51Z"
+    },
+    {
+     "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+     "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T23:13:20Z"
+    },
+    {
      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-11T22:45:58Z"
     },
     {
-     "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+     "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-11T21:36:40Z"
     },
@@ -228,11 +253,6 @@
      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-11T21:12:44Z"
-    },
-    {
-     "title": "Orangutans released back into Borneo forest after devastating fires",
-     "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T19:08:04Z"
     },
     {
      "title": "Poland detains man suspected of planning assassination of PM Tusk",
@@ -253,26 +273,6 @@
      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-11T15:18:52Z"
-    },
-    {
-     "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-     "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T14:38:10Z"
-    },
-    {
-     "title": "Pope Leo to have surgery after lump found on lung",
-     "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T13:38:55Z"
-    },
-    {
-     "title": "Homes and bridges swept away as fresh floods hit Nepal",
-     "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T12:03:52Z"
-    },
-    {
-     "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-     "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T11:11:42Z"
     }
    ]
   }
