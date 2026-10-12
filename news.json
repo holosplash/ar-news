@@ -1,6 +1,6 @@
 {
- "version": 28,
- "updated": "2026-10-11T22:23:39Z",
+ "version": 29,
+ "updated": "2026-10-12T01:40:53Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,11 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
+     "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
+     "time": "2026-10-12T00:20:21Z"
+    },
     {
      "title": "Kinotipp „Heimsuchung“ von Schlöndorff: 100 Jahre Deutschland in zwei Stunden Kino",
      "url": "https://www.tagesschau.de/tagesthemen/video-1664614.html",
@@ -68,11 +73,6 @@
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81318.html",
      "time": "2026-10-11T18:19:41Z"
-    },
-    {
-     "title": "US-Präsident Trump teilt angebliche \"Energie-Waffenruhe\" zwischen Ukraine und Russland mit",
-     "url": "https://www.tagesschau.de/video/video-1664554.html",
-     "time": "2026-10-11T18:10:17Z"
     }
    ]
   },
@@ -101,6 +101,11 @@
     },
     {
      "title": "Angriffe auf Flughafen in Riad – Die Huthi greifen das Geschäftsmodell Saudi-Arabiens an",
+     "url": "https://www.srf.ch/news/international/angriffe-auf-flughafen-in-riad-die-huthi-greifen-das-geschaeftsmodell-saudi-arabiens-an",
+     "time": "2026-10-11T17:51:45Z"
+    },
+    {
+     "title": "– Die Huthi greifen das Geschäftsmodell Saudi-Arabiens an",
      "url": "https://www.srf.ch/news/international/angriffe-auf-flughafen-in-riad-die-huthi-greifen-das-geschaeftsmodell-saudi-arabiens-an",
      "time": "2026-10-11T17:51:45Z"
     },
@@ -138,11 +143,6 @@
      "title": "Krieg im Nahen Osten – Anschlag auf den Flughafen in Riad: Huthi-Rebellen bekennen sich",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-anschlag-auf-den-flughafen-in-riad-huthi-rebellen-bekennen-sich",
      "time": "2026-10-11T16:53:36Z"
-    },
-    {
-     "title": "Super League: 10. Runde – Bei Jokanovic-Debüt: Basler Baisse hält auch in Vaduz an",
-     "url": "https://www.srf.ch/sport/fussball/super-league/super-league-10-runde-bei-jokanovic-debuet-basler-baisse-haelt-auch-in-vaduz-an",
-     "time": "2026-10-11T16:30:52Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Messico colpito da due cicloni, scatta l'allarme",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/messico-colpito-da-due-cicloni-scatta-lallarme_1f420a08-5ed7-4fc9-a024-ba411ed3822f.html",
+     "time": "2026-10-12T00:23:47Z"
+    },
+    {
+     "title": "Almeno un morto e 11 feriti nel nuovo attacco all'aeroporto di Riad",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/almeno-un-morto-e-11-feriti-nel-nuovo-attacco-allaeroporto-di-riad_ec347fa3-04d2-4a6e-bc5d-6dbfa06cd64d.html",
+     "time": "2026-10-11T23:36:29Z"
+    },
     {
      "title": "Flop di 'The social reckoning', l'horror 'Other Mommy' conquista il botteghino Usa",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/flop-di-the-social-reckoning-lhorror-other-mommy-conquista-il-botteghino-usa_2da6e6ff-ed8c-409c-ad79-52bb566b1695.html",
@@ -195,16 +205,6 @@
      "title": "In Francia Glucksmann conquista le primarie socialdemocratiche già dal primo turno",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/in-francia-glucksmann-conquista-le-primarie-socialdemocratiche-gia-dal-primo-turno_3abcea1a-0a48-410e-b01b-f4bac19ca2bf.html",
      "time": "2026-10-11T16:39:09Z"
-    },
-    {
-     "title": "Tusk, arrestato presunto attentatore che voleva colpire me e ministro difesa",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/tusk-arrestato-presunto-attentatore-che-voleva-colpire-me-e-ministro-difesa_bb698280-fd4c-48f0-a025-dec32a3c5204.html",
-     "time": "2026-10-11T16:04:08Z"
-    },
-    {
-     "title": "Von der Leyen, 'pieno sostegno a Zelensky, guerra in una fase più cupa'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/11/von-der-leyen-pieno-sostegno-a-zelensky-guerra-in-una-fase-piu_f3512309-e708-43f3-8c24-e5bc6b78fa01.html",
-     "time": "2026-10-11T16:01:30Z"
     }
    ]
   },
@@ -215,14 +215,14 @@
    "countries": [],
    "items": [
     {
+     "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+     "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-11T22:45:58Z"
+    },
+    {
      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-11T21:36:40Z"
-    },
-    {
-     "title": "Saudi capital airport hit by second Houthi strike in two days",
-     "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-11T21:30:11Z"
     },
     {
      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
