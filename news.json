@@ -1,6 +1,6 @@
 {
- "version": 32,
- "updated": "2026-10-13T01:14:52Z",
+ "version": 33,
+ "updated": "2026-10-13T08:21:22Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12922.html",
-     "time": "2026-10-12T21:41:25Z"
+     "title": "DFB-Frauen gegen \"eines der stärksten Teams der Welt\"",
+     "url": "https://www.ndr.de/sport/fussball/dfb-frauen-gegen-japan-eines-der-staerksten-teams-der-welt,dfb-frauen-348.html",
+     "time": "2026-10-13T08:06:19Z"
     },
     {
-     "title": "Der Rücktritt von Bärbel Bas und die Folgen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1665104.html",
-     "time": "2026-10-12T21:35:04Z"
+     "title": "\"Breaking Bad\"-Schauspieler RJ Mitte mit 34 Jahren gestorben",
+     "url": "https://www.tagesschau.de/kultur/rj-mitte-breaking-bad-tod-100.html",
+     "time": "2026-10-13T07:58:41Z"
     },
     {
-     "title": "CDU nach Klausur: Die CDU will die Lebenswirklichkeit der Menschen stärker in den Blick nehmen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1665106.html",
-     "time": "2026-10-12T21:32:34Z"
+     "title": "Kurz vor Zwischenwahlen: Durchsuchung bei Trump-Kritikerin Omar",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-ilhan-omar-durchsuchung-100.html",
+     "time": "2026-10-13T07:57:41Z"
     },
     {
-     "title": "Die Meinung von Nicole Kohnert, WDR, zu der Frage, wohin die SPD steuert",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1665108.html",
-     "time": "2026-10-12T21:31:39Z"
+     "title": "Wehrt sich Europa gegen die US-Sanktionen gegen das Weltstrafgericht?",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-istgh-us-sanktionen-100.html",
+     "time": "2026-10-13T06:36:11Z"
     },
     {
-     "title": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
-     "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriff-100.html",
-     "time": "2026-10-12T21:03:44Z"
+     "title": "Schnee in Chile, Grüne Meeresschildkröte, Kindertag in Brasilien",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10502.html",
+     "time": "2026-10-13T06:30:07Z"
     },
     {
-     "title": "Thorsten Frei, Fraktionsvorsitzender CDU/CSU, über den Rücktritt von Bärbel Bas",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1665110.html",
-     "time": "2026-10-12T20:56:20Z"
+     "title": "CDU-Fraktion plant Saal-Auszug bei Wahl von AfD-Kandidat Ulrich Siegmund zum Ministerpräsidenten",
+     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/cdu-fraktion-afd,landtag-wahl-ministerpraesident-cdu-100.html",
+     "time": "2026-10-13T06:10:11Z"
     },
     {
-     "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
-     "url": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
-     "time": "2026-10-12T19:49:18Z"
+     "title": "RB Leipzig: Mit Frankfurt-Rückenwind \"Klon\" Eindhoven bezwingen",
+     "url": "https://www.tagesschau.de/inland/regional/vorschau-rb-leipzig-psv-eindhoven,vorschau-rbl-psv-100.html",
+     "time": "2026-10-13T05:48:07Z"
     },
     {
-     "title": "Staatsanwaltschaft beschlagnahmt Aufnahmen der Zeit-Redaktion",
-     "url": "https://www.tagesschau.de/inland/regional/hamburg/block-prozess-staatsanwaltschaft-beschlagnahmt-aufnahmen-der-zeit,house-of-block-100.html",
-     "time": "2026-10-12T19:07:25Z"
+     "title": "Marktbericht: Anleger warten ab",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+     "time": "2026-10-13T05:40:48Z"
     },
     {
-     "title": "SPD, Linke und Grüne starten Koalitionsverhandlungen",
-     "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/erste-runde-der-koalitionsverhandlungen-in-mv-beendet,mvwahl-498.html",
-     "time": "2026-10-12T18:41:28Z"
+     "title": "Auftakt der Haushaltsdebatte: \"Frankreich steht finanziell mit dem Rücken zur Wand\"",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-haushaltsdebatte-100.html",
+     "time": "2026-10-13T05:37:12Z"
     },
     {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12314.html",
-     "time": "2026-10-12T18:28:51Z"
+     "title": "Neue Schülerproteste: Wie ein Brandbeschleuniger in Frankreichs Krise",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
+     "time": "2026-10-13T05:37:06Z"
     },
     {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81496.html",
-     "time": "2026-10-12T18:27:12Z"
+     "title": "15 Minuten-Podcast: Bas-Rücktritt, Trainsurfing, Straßenlaternen per App",
+     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15-minuten-podcast-bas-trainsurfing-strassenlaternen-100.html",
+     "time": "2026-10-13T04:41:26Z"
     },
     {
-     "title": "Bas-Nachfolge an der SPD-Spitze: Wer soll es jetzt machen?",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-spd-100.html",
-     "time": "2026-10-12T18:04:07Z"
+     "title": "11KM-Podcast: Sánchez’ Kalkül bei den Neuwahlen in Spanien",
+     "url": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-neuwahlen-spanien-100.html",
+     "time": "2026-10-13T04:39:03Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Krieg in der Ukraine – Trump: «Putin will Deal mehr als Selenski»",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-putin-will-deal-mehr-als-selenski",
-     "time": "2026-10-13T01:06:48Z"
+     "title": "Krieg im Nahen Osten – Saudi-Arabien setzte Warnsystem vor tödlichen Angriffen aus",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-saudi-arabien-setzte-warnsystem-vor-toedlichen-angriffen-aus",
+     "time": "2026-10-13T08:18:51Z"
     },
     {
-     "title": "Kulturnews in Kurzform – Spielte den Sohn von Walter White in «Breaking Bad»: RJ Mitte tot",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-spielte-den-sohn-von-walter-white-in-breaking-bad-rj-mitte-tot",
-     "time": "2026-10-13T00:19:40Z"
+     "title": "Milchschwemme in der Schweiz – Winterfutter im Sommer – deshalb gaben die Kühe mehr Milch",
+     "url": "https://www.srf.ch/news/wirtschaft/milchschwemme-in-der-schweiz-winterfutter-im-sommer-deshalb-gaben-die-kuehe-mehr-milch",
+     "time": "2026-10-13T07:53:37Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Erneute Angriffe auf Flughäfen in Saudi-Arabien",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-erneute-angriffe-auf-flughaefen-in-saudi-arabien",
-     "time": "2026-10-12T21:55:09Z"
+     "title": "Nun Gegner in Champions League – «Niemand» kannte ihn: Wie Kane einst fast in Stavanger landete",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/nun-gegner-in-champions-league-niemand-kannte-ihn-wie-kane-einst-fast-in-stavanger-landete",
+     "time": "2026-10-13T07:48:46Z"
     },
     {
-     "title": "Q&A Stammzellspende – «Spenden wir mit Stammzellen auch Veranlagungen und Krankheiten?»",
-     "url": "https://www.srf.ch/wissen/wissens-chats/q-a-stammzellspende-spenden-wir-mit-stammzellen-auch-veranlagungen-und-krankheiten",
-     "time": "2026-10-12T21:21:43Z"
+     "title": "Champions League: 2. Spieltag – Rückkehr ins San Siro: Sommer will kein Tourist sein",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-2-spieltag-rueckkehr-ins-san-siro-sommer-will-kein-tourist-sein",
+     "time": "2026-10-13T07:33:28Z"
     },
     {
-     "title": "Hintergründe unklar – Cyberangriff stört Kühlanlagen französischer Handelsketten",
-     "url": "https://www.srf.ch/news/international/hintergruende-unklar-cyberangriff-stoert-kuehlanlagen-franzoesischer-handelsketten",
-     "time": "2026-10-12T20:16:57Z"
+     "title": "Q&A zu Gefängnis und Justiz – Welche Fragen haben Sie zum Gefängnis- und Justizsystem Schweiz?",
+     "url": "https://www.srf.ch/news/srf-news-chats/q-a-zu-gefaengnis-und-justiz-welche-fragen-haben-sie-zum-gefaengnis-und-justizsystem-schweiz",
+     "time": "2026-10-13T07:30:43Z"
     },
     {
-     "title": "Motiv noch unklar – 14-Jähriger schiesst in Frankreich auf Schulleiter und Lehrerin",
-     "url": "https://www.srf.ch/news/schweiz/motiv-noch-unklar-14-jaehriger-schiesst-in-frankreich-auf-schulleiter-und-lehrerin",
-     "time": "2026-10-12T19:51:10Z"
+     "title": "Hacker gegen Supermärkte – Kühlregale im Visier: Hybrider Angriff auf Frankreich?",
+     "url": "https://www.srf.ch/news/international/hacker-gegen-supermaerkte-kuehlregale-im-visier-hybrider-angriff-auf-frankreich",
+     "time": "2026-10-13T06:55:04Z"
     },
     {
-     "title": "Sinkende Ölpreise – Warum Tanken in der Schweiz nicht sofort günstiger wird",
-     "url": "https://www.srf.ch/news/schweiz/sinkende-oelpreise-warum-tanken-in-der-schweiz-nicht-sofort-guenstiger-wird",
-     "time": "2026-10-12T19:22:08Z"
+     "title": "Drei Wochen vor Kongresswahlen – Hausdurchsuchung bei demokratischer US-Abgeordneter Omar",
+     "url": "https://www.srf.ch/news/international/usa/drei-wochen-vor-kongresswahlen-hausdurchsuchung-bei-demokratischer-us-abgeordneter-omar",
+     "time": "2026-10-13T06:07:34Z"
     },
     {
-     "title": "Neuer Gesetzesentwurf – Dänemark will Lehrern körperliches Eingreifen erlauben",
-     "url": "https://www.srf.ch/news/international/neuer-gesetzesentwurf-daenemark-will-lehrern-koerperliches-eingreifen-erlauben",
-     "time": "2026-10-12T18:34:39Z"
+     "title": "Feuerwehr auf vier Beinen – Wie Wisente und Schafe vor Waldbränden schützen",
+     "url": "https://www.srf.ch/news/international/feuerwehr-auf-vier-beinen-wie-wisente-und-schafe-vor-waldbraenden-schuetzen",
+     "time": "2026-10-13T05:48:03Z"
     },
     {
-     "title": "Region Interlaken – Zu viele Heliflüge: Verfahren gegen Flugplatzleiter",
-     "url": "https://www.srf.ch/news/schweiz/region-interlaken-zu-viele-helifluege-verfahren-gegen-flugplatzleiter",
-     "time": "2026-10-12T18:14:14Z"
+     "title": "Pilzsaison in vollem Gange – Achtung, giftig: Warum Apps beim Pilzesammeln nicht helfen",
+     "url": "https://www.srf.ch/news/schweiz/pilzsaison-in-vollem-gange-achtung-giftig-warum-apps-beim-pilzesammeln-nicht-helfen",
+     "time": "2026-10-13T04:57:18Z"
     },
     {
-     "title": "Cannabis geschmuggelt – Wie zwei junge Schweizer in Thailand in der Drogenfalle landeten",
-     "url": "https://www.srf.ch/news/dialog/cannabis-geschmuggelt-wie-zwei-junge-schweizer-in-thailand-in-der-drogenfalle-landeten",
-     "time": "2026-10-12T18:01:18Z"
+     "title": "Epsteins Netz – Wie ein Schweizer Ex-Model in Trumps und Epsteins Visier geriet",
+     "url": "https://www.srf.ch/news/schweiz/epsteins-netz-wie-ein-schweizer-ex-model-in-trumps-und-epsteins-visier-geriet",
+     "time": "2026-10-13T04:43:14Z"
     },
     {
-     "title": "– Wie zwei junge Schweizer in Thailand in der Drogenfalle landeten",
-     "url": "https://www.srf.ch/news/dialog/cannabis-geschmuggelt-wie-zwei-junge-schweizer-in-thailand-in-der-drogenfalle-landeten",
-     "time": "2026-10-12T18:01:18Z"
+     "title": "– Wie ein Schweizer Ex-Model in Trumps und Epsteins Visier geriet",
+     "url": "https://www.srf.ch/news/schweiz/epsteins-netz-wie-ein-schweizer-ex-model-in-trumps-und-epsteins-visier-geriet",
+     "time": "2026-10-13T04:43:14Z"
     },
     {
-     "title": "Diesel-Deal – Wenn Selenski und Trump sich streiten, lacht Putin",
-     "url": "https://www.srf.ch/news/international/diesel-deal-wenn-selenski-und-trump-sich-streiten-lacht-putin",
-     "time": "2026-10-12T17:39:31Z"
+     "title": "Wechselgelüste im Bundesrat – Kommt es erneut zur «Flucht» aus dem EJPD oder dem VBS?",
+     "url": "https://www.srf.ch/news/schweiz/wechselgelueste-im-bundesrat-kommt-es-erneut-zur-flucht-aus-dem-ejpd-oder-dem-vbs",
+     "time": "2026-10-13T04:03:59Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Borsa: Tokyo, apertura in calo (-0,78%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/borsa-tokyo-apertura-in-calo-078_b43c3a31-4649-4426-9eeb-45f58558d572.html",
-     "time": "2026-10-13T00:32:29Z"
+     "title": "Morte avvelenate, al via la perquisizione nell'istituto agrario di Riccia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/morte-avvelenate-al-via-la-perquisizione-nellistituto-agrario-di-riccia_efb98abe-293d-44a4-92a5-f15343da0a0a.html",
+     "time": "2026-10-13T08:12:56Z"
     },
     {
-     "title": "Mps, il premio offerto da Intesa resta inferiore alla media",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/mps-il-premio-offerto-da-intesa-resta-inferiore-alla-media_9de82ca0-0ac1-4b17-b216-3a1be585ec09.html",
-     "time": "2026-10-12T19:38:56Z"
+     "title": "Certificati e Cpr, Cassazione annulla la sospensione per tre dottoresse",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/certificati-e-cpr-cassazione-annulla-la-sospensione-per-tre-dottoresse_03c3d237-16b2-4d74-bcba-961292d53d0c.html",
+     "time": "2026-10-13T07:32:48Z"
     },
     {
-     "title": "Zelensky, almeno due morti questa sera in attacchi russi a Kiev",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/zelensky-almeno-due-morti-questa-sera-in-attacchi-russi-a-kiev_25f4c29f-64a1-4dfa-a55c-c5d70bf91a81.html",
-     "time": "2026-10-12T19:06:20Z"
+     "title": "Borsa: l'Europa parte in tenuta, Londra +0,6%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/borsa-leuropa-parte-in-tenuta-londra-06_9f3ba770-e83d-463a-9fc6-483e6bc73214.html",
+     "time": "2026-10-13T07:14:06Z"
     },
     {
-     "title": "Tajani, attacco Trump a Zelensky? Tocca a ucraini scegliere loro presidente",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/tajani-attacco-trump-a-zelensky-tocca-a-ucraini-scegliere-loro-presidente_9f51fbbb-26ed-43fd-a9a8-341dbf0d17f5.html",
-     "time": "2026-10-12T18:04:07Z"
+     "title": "Borsa: Milano apre in leggero aumento, Ftse Mib +0,16%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/borsa-milano-apre-in-leggero-aumento-ftse-mib-016_3e427036-d872-4022-9fd0-f6b021857e83.html",
+     "time": "2026-10-13T07:03:30Z"
     },
     {
-     "title": "Stop alle tutele graduali per l'energia dal 31 marzo 2027, governo valuta proroga",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/stop-alle-tutele-graduali-per-lenergia-dal-31-marzo-2027-governo_e5edbc95-a781-4bb5-b16d-88889c584b4e.html",
-     "time": "2026-10-12T17:55:26Z"
+     "title": "Il gas parte in leggero rialzo (+0,9%) a 85,1 euro al Megawattora",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/il-gas-parte-in-leggero-rialzo-09-a-851-euro-al-megawattora_06c2bfa4-86f2-4517-bf0a-ce0ebfa89943.html",
+     "time": "2026-10-13T06:45:48Z"
     },
     {
-     "title": "Lega: Salvini si dimette da segretario, passo necessario per ricandidarsi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/lega-salvini-si-dimette-da-segretario-passo-necessario-per-ricandidarsi_b78a1d26-b439-4f4e-8ec4-9e0e6b2e9478.html",
-     "time": "2026-10-12T17:46:52Z"
+     "title": "Lo spread tra Btp e Bund apre stabile a 110 punti base",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/lo-spread-tra-btp-e-bund-apre-stabile-a-110-punti-base_2517e4ef-cdad-4fff-b436-c1331091f273.html",
+     "time": "2026-10-13T06:44:18Z"
     },
     {
-     "title": "Morti due giovani dopo uno scontro tra un'auto e un camion in Umbria",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/morti-due-giovani-dopo-uno-scontro-tra-unauto-e-un-camion-in-umbria_7bf9787e-bab6-4c11-b0e2-4efb62a66f78.html",
-     "time": "2026-10-12T17:24:53Z"
+     "title": "Bulgaria, 'altre due navi colpite nel Mar Nero, inaccettabile'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/bulgaria-altre-due-navi-colpite-nel-mar-nero-inaccettabile_894e54b8-2757-421e-92ee-788736cc30f3.html",
+     "time": "2026-10-13T06:38:30Z"
     },
     {
-     "title": "Commissario Ue, 'sull'energia flessibilità già prevista, i conti siano sostenibili'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/commissario-ue-sullenergia-flessibilita-gia-prevista-i-conti-siano-sostenibili_1bb212e2-d000-4720-8785-4ec5845f74a9.html",
-     "time": "2026-10-12T16:57:38Z"
+     "title": "Fmi, nel 2026 in Italia inflazione al 3,3%, area euro al 3,1%, Usa al 3,6%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/fmi-nel-2026-in-italia-inflazione-al-33-area-euro-al-31-usa-al-36_e0e1e465-ec4c-462b-9b83-a20aff859c53.html",
+     "time": "2026-10-13T02:01:42Z"
     },
     {
-     "title": "Giorgetti, l'Italia dimostra di saper mantenere impegni, percorso conti è sostenibile",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/giorgetti-litalia-dimostra-di-saper-mantenere-impegni-percorso-conti-e-sostenibile_b8f79bb6-ed62-4456-ab29-723404144fe4.html",
-     "time": "2026-10-12T16:51:18Z"
+     "title": "Monito Fmi, economia mondiale ha retto, ma potrebbe essere al limite",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/monito-fmi-economia-mondiale-ha-retto-ma-potrebbe-essere-al-limite_93e9a6af-67b0-47c5-9f45-4a9cff05f3ea.html",
+     "time": "2026-10-13T02:01:21Z"
     },
     {
-     "title": "Annullate tutte le udienze del Papa fino al 20 ottobre",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/12/annullate-tutte-le-udienze-del-papa-fino-al-20-ottobre_21a1feb8-0181-485c-ae3e-c0fdcd938535.html",
-     "time": "2026-10-12T16:27:37Z"
+     "title": "++ Il Fmi migliora il Pil dell'Italia, da 0,5% a 0,8% nel 2026 ++",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/il-fmi-migliora-il-pil-dellitalia-da-05-a-08-nel-2026_e4c5f95d-9f75-4b69-b844-2b93a72505fb.html",
+     "time": "2026-10-13T02:01:17Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
+     "title": "Emergency calls from botched Christa Pike execution released to US media",
+     "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T08:20:07Z"
+    },
+    {
      "title": "Breaking Bad actor RJ Mitte dies aged 34",
      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T00:12:25Z"
+     "time": "2026-10-13T08:03:34Z"
     },
     {
-     "title": "Immigration agents search congresswoman Ilhan Omar's home",
-     "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T22:05:31Z"
+     "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+     "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T07:31:10Z"
     },
     {
-     "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-     "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T21:20:51Z"
+     "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
+     "url": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T05:02:57Z"
     },
     {
-     "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-     "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T21:07:25Z"
+     "title": "Where the US midterm elections will be won and lost",
+     "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T05:02:44Z"
     },
     {
-     "title": "Qantas flight grounded after bedbug outbreak",
-     "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T21:01:45Z"
-    },
-    {
-     "title": "Pupil arrested after two teachers shot at French school",
-     "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T21:01:28Z"
+     "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T05:02:34Z"
     },
     {
      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T20:54:09Z"
+     "time": "2026-10-13T04:30:09Z"
     },
     {
-     "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-     "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T20:17:37Z"
+     "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
+     "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T04:27:22Z"
     },
     {
-     "title": "Fridges in French supermarkets hit by cyber attack",
-     "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T18:31:32Z"
+     "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+     "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T02:26:21Z"
     },
     {
-     "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-     "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T16:46:49Z"
+     "title": "Dating app Bumble in $1bn takeover talks, say reports",
+     "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T01:50:47Z"
     },
     {
-     "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-     "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T15:19:17Z"
+     "title": "Boardroom feud tests trusted Indian business empire",
+     "url": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-12T23:10:32Z"
     },
     {
-     "title": "Why the US is bringing back firing squads",
-     "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-12T14:56:43Z"
+     "title": "The island where locals say data centres are taking their water",
+     "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-12T22:30:55Z"
     }
    ]
   }
