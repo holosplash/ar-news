@@ -1,6 +1,6 @@
 {
- "version": 35,
- "updated": "2026-10-13T21:29:29Z",
+ "version": 36,
+ "updated": "2026-10-14T00:33:57Z",
  "fallback": "en",
  "regions": [
   {
@@ -17,12 +17,27 @@
     {
      "title": "Champions League: Gruda erlöst Leipzig beim 1:0-Sieg gegen PSV",
      "url": "https://www.sportschau.de/fussball/championsleague/gruda-erloest-leipzig-bei-knappem-sieg-gegen-psv,spielbericht-leipzig-eindhoven-100.html",
-     "time": "2026-10-13T21:25:34Z"
+     "time": "2026-10-13T22:08:14Z"
+    },
+    {
+     "title": "Erbschaftsteuer - Sind die Ausnahmen für Unternehmen verfassungswidrig?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1665788.html",
+     "time": "2026-10-13T21:49:30Z"
+    },
+    {
+     "title": "Papst Leo XIV. hat Lungenkrebs",
+     "url": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
+     "time": "2026-10-13T21:49:10Z"
+    },
+    {
+     "title": "Enzo Weber, Institut für Arbeitsmarkt- und Berufsforschung IAB, zu den Entwicklungen in der deutschen Wirtschaft",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1665786.html",
+     "time": "2026-10-13T21:47:47Z"
     },
     {
      "title": "FC Bayern München blamiert sich beim 3:3 in Viking FK",
      "url": "https://www.sportschau.de/fussball/championsleague/bayerns-fehlstarter-blamieren-sich-in-stavanger,spielbericht-viking-bayern-100.html",
-     "time": "2026-10-13T21:20:03Z"
+     "time": "2026-10-13T21:35:25Z"
     },
     {
      "title": "Papst Leo XIV. hat Lungenkrebs, Tilmann Kleinjung, ARD Rom, mit Hintergrundinformationen",
@@ -40,11 +55,6 @@
      "time": "2026-10-13T20:55:26Z"
     },
     {
-     "title": "Papst Leo XIV. hat Lungenkrebs",
-     "url": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
-     "time": "2026-10-13T20:51:27Z"
-    },
-    {
      "title": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess",
      "url": "https://www.tagesschau.de/ausland/angeklagter-tupac-40-jahre-haft-100.html",
      "time": "2026-10-13T20:13:11Z"
@@ -60,19 +70,9 @@
      "time": "2026-10-13T19:20:04Z"
     },
     {
-     "title": "Deutsche Fußballerinnen auch von Japan nicht zu stoppen",
-     "url": "https://www.ndr.de/sport/fussball/dfb-frauen-bezwingen-nach-rueckstand-auch-asienmeister-japan,dfb-frauen-354.html",
-     "time": "2026-10-13T18:48:11Z"
-    },
-    {
-     "title": "Bericht: Missbrauchsbeauftragte Claus fordert besseren Schutz für Minderjährige vor sexualisierter Gewalt",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1665714.html",
-     "time": "2026-10-13T18:44:43Z"
-    },
-    {
-     "title": "Verfassungsgericht prüft Regelungen zur Erbschaftsteuer",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1665712.html",
-     "time": "2026-10-13T18:42:04Z"
+     "title": "Anhaltende Proteste in Frankreich für bessere Lernbedingungen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1665726.html",
+     "time": "2026-10-13T19:09:57Z"
     }
    ]
   },
@@ -84,6 +84,21 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Knoten in der Lunge – Papst Leo XIV. hat Lungenkrebs: Was bekannt ist",
+     "url": "https://www.srf.ch/news/international/knoten-in-der-lunge-papst-leo-xiv-hat-lungenkrebs-was-bekannt-ist",
+     "time": "2026-10-13T23:32:39Z"
+    },
+    {
+     "title": "– Papst Leo XIV. hat Lungenkrebs: Was bekannt ist",
+     "url": "https://www.srf.ch/news/international/knoten-in-der-lunge-papst-leo-xiv-hat-lungenkrebs-was-bekannt-ist",
+     "time": "2026-10-13T23:32:39Z"
+    },
+    {
+     "title": "Vatikan – «Der Papst ist einer wie du und ich»",
+     "url": "https://www.srf.ch/news/international/vatikan-der-papst-ist-einer-wie-du-und-ich",
+     "time": "2026-10-13T22:41:46Z"
+    },
     {
      "title": "Überraschung im San Siro – 4:3-Spektakel: Sommer jubelt auch dank Patzer seines Nachfolgers",
      "url": "https://www.srf.ch/sport/fussball/champions-league/ueberraschung-im-san-siro-4-3-spektakel-sommer-jubelt-auch-dank-patzer-seines-nachfolgers",
@@ -98,11 +113,6 @@
      "title": "Krieg im Nahen Osten – Huthi-Miliz droht mit Angriffen auf saudische Öl-Anlagen",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-huthi-miliz-droht-mit-angriffen-auf-saudische-oel-anlagen",
      "time": "2026-10-13T20:47:21Z"
-    },
-    {
-     "title": "Knoten in der Lunge – Papst Leo XIV. hat Krebs",
-     "url": "https://www.srf.ch/news/international/knoten-in-der-lunge-papst-leo-xiv-hat-krebs",
-     "time": "2026-10-13T20:47:08Z"
     },
     {
      "title": "Berlin und Sachsen-Anhalt – Platzen jetzt die Träume von AfD und Linken?",
@@ -133,16 +143,6 @@
      "title": "WM-Quali-Playoffs: SUI – ISR – Sieg ohne Gegentor: Schweizerinnen erfüllen die Pflicht",
      "url": "https://www.srf.ch/sport/fussball/frauen-nationalteam/wm-quali-playoffs-sui-isr-sieg-ohne-gegentor-schweizerinnen-erfuellen-die-pflicht",
      "time": "2026-10-13T19:27:11Z"
-    },
-    {
-     "title": "Ausbau des Glasfasernetzes – Bundesverwaltungsgericht: Swisscom verletzte Kartellrecht nicht",
-     "url": "https://www.srf.ch/news/schweiz/ausbau-des-glasfasernetzes-bundesverwaltungsgericht-swisscom-verletzte-kartellrecht-nicht",
-     "time": "2026-10-13T19:00:13Z"
-    },
-    {
-     "title": "Q&A zu Gefängnis und Justiz – Schweizer Gefängnis- und Justizsystem: Antworten auf Ihre Fragen",
-     "url": "https://www.srf.ch/news/srf-news-chats/q-a-zu-gefaengnis-und-justiz-schweizer-gefaengnis-und-justizsystem-antworten-auf-ihre-fragen",
-     "time": "2026-10-13T18:14:54Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Borsa: Tokyo, apertura in lieve rialzo (+0,28%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/borsa-tokyo-apertura-in-lieve-rialzo-028_c8198b3e-c45f-4fe3-a7b2-383b83f66b29.html",
+     "time": "2026-10-14T00:18:15Z"
+    },
+    {
+     "title": "Meloni: 'Tra l'Italia e gli Usa un'amicizia fondata su libertà e democrazia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/meloni-tra-litalia-e-gli-usa-unamicizia-fondata-su-liberta-e-democrazia_d901e006-cd07-4c08-9ed6-fe599b754be5.html",
+     "time": "2026-10-13T23:03:58Z"
+    },
     {
      "title": "Zelensky, 'raid su centrale termoelettrica a Kiev, gli alleati non ci hanno avvertito'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/zelensky-raid-su-centrale-termoelettrica-a-kiev-gli-alleati-non-ci-hanno-avvertito_4751c758-dd8f-4e1e-8f7c-244fd22ce2d6.html",
@@ -195,16 +205,6 @@
      "title": "Il petrolio chiude in rialzo a New York, a 94,29 dollari",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/il-petrolio-chiude-in-rialzo-a-new-york-a-9429-dollari_d3c27303-122f-44fe-beca-bcec39066d3b.html",
      "time": "2026-10-13T18:44:25Z"
-    },
-    {
-     "title": "Media, 'Netanyahu ha parlato con Trump di riprendere guerra contro l'Iran'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/media-netanyahu-ha-parlato-con-trump-di-riprendere-guerra-contro-liran_92ad1ffa-d57e-4ea6-aacb-649c52f66d6c.html",
-     "time": "2026-10-13T18:11:05Z"
-    },
-    {
-     "title": "Incidente sulle montagne russe di Six Flags ad Atlanta, un morto e numerosi feriti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/incidente-sulle-montagne-russe-di-six-flags-ad-atlanta-un-morto-e-numerosi-feriti_79ead5b6-21b5-4bd1-aa27-493eb923849c.html",
-     "time": "2026-10-13T18:07:01Z"
     }
    ]
   },
@@ -217,12 +217,52 @@
     {
      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T20:46:06Z"
+     "time": "2026-10-14T00:17:00Z"
+    },
+    {
+     "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+     "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T23:42:22Z"
+    },
+    {
+     "title": "Zimbabwean author denies using AI to write award-winning story",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T23:31:10Z"
     },
     {
      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T20:02:15Z"
+     "time": "2026-10-13T22:29:55Z"
+    },
+    {
+     "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T22:14:33Z"
+    },
+    {
+     "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+     "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T22:07:40Z"
+    },
+    {
+     "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T22:02:09Z"
+    },
+    {
+     "title": "Who's to blame for the toxic smog choking South East Asia?",
+     "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T22:01:43Z"
+    },
+    {
+     "title": "Why the lonely in China are hiring 'temporary children'",
+     "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T22:00:20Z"
+    },
+    {
+     "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+     "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-13T21:42:49Z"
     },
     {
      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
@@ -233,46 +273,6 @@
      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-13T19:23:28Z"
-    },
-    {
-     "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-     "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T18:25:28Z"
-    },
-    {
-     "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-     "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T18:23:22Z"
-    },
-    {
-     "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-     "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T17:36:43Z"
-    },
-    {
-     "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-     "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T17:10:50Z"
-    },
-    {
-     "title": "Inside Katie Zacharia's very brief White House briefing",
-     "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T17:04:37Z"
-    },
-    {
-     "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-     "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T15:52:15Z"
-    },
-    {
-     "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-     "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T14:51:59Z"
-    },
-    {
-     "title": "Ex-president named leader of new DR Congo rebel coalition",
-     "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T13:40:45Z"
     }
    ]
   }
