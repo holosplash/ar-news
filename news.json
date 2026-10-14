@@ -1,6 +1,6 @@
 {
- "version": 40,
- "updated": "2026-10-14T19:38:37Z",
+ "version": 41,
+ "updated": "2026-10-14T23:08:28Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,54 @@
    ],
    "items": [
     {
+     "title": "Champions League: BVB bekommt die Klasse von Bodø/Glimt zu spüren",
+     "url": "https://www.sportschau.de/fussball/championsleague/x,spielbericht-bodo-glimt-borussia-dortmund-100.html",
+     "time": "2026-10-14T21:18:39Z"
+    },
+    {
+     "title": "Massive Raketenangriffe auf Kiew - erneut ohne vorherige Warnung der Verbündeten an die Ukraine",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1666468.html",
+     "time": "2026-10-14T21:13:06Z"
+    },
+    {
+     "title": "Champions League: VfB Stuttgart auf Kurs K.o.-Runde",
+     "url": "https://www.sportschau.de/fussball/championsleague/stuttgart-mit-wichtigem-schritt-richtung-ko-runde,spielbericht-slovan-bratislava-stuttgart-100.html",
+     "time": "2026-10-14T21:09:33Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12926.html",
+     "time": "2026-10-14T20:51:44Z"
+    },
+    {
+     "title": "Joachim Weber, Experte für Sicherheitspolitik, Uni Bonn, mit Hintergründen zum Anschlag auf Nord-Stream-Pipeline",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1666442.html",
+     "time": "2026-10-14T20:35:42Z"
+    },
+    {
      "title": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
      "url": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
-     "time": "2026-10-14T19:14:42Z"
+     "time": "2026-10-14T20:33:16Z"
+    },
+    {
+     "title": "Anschlag auf Nord-Stream-Pipeline: Prozessbeginn in Hamburg gegen mutmaßlichen Drahtzieher",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1666438.html",
+     "time": "2026-10-14T20:28:40Z"
+    },
+    {
+     "title": "Bundesregierung bringt Zuckersteuer für Getränke auf den Weg",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1666436.html",
+     "time": "2026-10-14T20:25:37Z"
+    },
+    {
+     "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
+     "time": "2026-10-14T20:01:02Z"
+    },
+    {
+     "title": "Angeklagter schweigt am ersten Prozesstag",
+     "url": "https://www.tagesschau.de/inland/regional/hamburg/nord-stream-prozess-in-hamburg-gestartet-angeklagter-schweigt,nord-stream-prozess-120.html",
+     "time": "2026-10-14T19:53:57Z"
     },
     {
      "title": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
@@ -25,54 +70,9 @@
      "time": "2026-10-14T19:03:00Z"
     },
     {
-     "title": "Prozessbeginn in Hamburg wegen Nord-Stream-Sprengung",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1666356.html",
-     "time": "2026-10-14T18:47:37Z"
-    },
-    {
      "title": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
      "url": "https://www.tagesschau.de/inland/innenpolitik/ruestungsvorhaben-genehmigt-bundestag-100.html",
      "time": "2026-10-14T18:29:12Z"
-    },
-    {
-     "title": "Kanzler Merz äußert sich bei seiner Regierungserklärung u. a. zur Ukraine-Hilfe",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1666316.html",
-     "time": "2026-10-14T18:25:56Z"
-    },
-    {
-     "title": "Russland greift Anlagen der ukrainischen Energieversorgung und der Bahninfrastruktur an",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1666314.html",
-     "time": "2026-10-14T18:24:45Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81526.html",
-     "time": "2026-10-14T18:17:41Z"
-    },
-    {
-     "title": "Mit AfD- und BSW-Stimmen: Sachsen-Anhalts Landtag fordert sofortigen Stopp aller Ukraine-Hilfen",
-     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landespolitik/ukraine-russland-sanktionen-update,afd-bsw-antrag-100.html",
-     "time": "2026-10-14T18:02:54Z"
-    },
-    {
-     "title": "Angeklagter schweigt am ersten Prozesstag",
-     "url": "https://www.tagesschau.de/inland/regional/hamburg/nord-stream-prozess-in-hamburg-gestartet-angeklagter-schweigt,nord-stream-prozess-120.html",
-     "time": "2026-10-14T17:15:26Z"
-    },
-    {
-     "title": "Jetzt live - Undav trifft: Stuttgart führt in Bratislava",
-     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma12518058/slovan-bratislava_vfb-stuttgart/liveticker",
-     "time": "2026-10-14T17:10:39Z"
-    },
-    {
-     "title": "Jetzt live - Dortmund im Glück: Bodö/Glimt verpasst knapp die Führung",
-     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma12517854/fk-bodoe-glimt_borussia-dortmund/liveticker",
-     "time": "2026-10-14T17:10:03Z"
-    },
-    {
-     "title": "Marktbericht: DAX bleibt im Seitwärtstrend",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-     "time": "2026-10-14T16:24:05Z"
     }
    ]
   },
@@ -85,9 +85,24 @@
    ],
    "items": [
     {
-     "title": "Krieg in der Ukraine – Selenski kritisiert Präsident Trumps Kurs im Ukraine-Krieg",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-kritisiert-praesident-trumps-kurs-im-ukraine-krieg",
-     "time": "2026-10-14T19:29:43Z"
+     "title": "Champions League: Round-Up – An Geburtstag: Torpremiere für Manzambi in der «Königsklasse»",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-an-geburtstag-torpremiere-fuer-manzambi-in-der-koenigsklasse",
+     "time": "2026-10-14T21:14:41Z"
+    },
+    {
+     "title": "Champions League am Mittwoch – Vom 1:3 zum 4:3 in 7 Minuten: Real schafft irre Wende in Rom",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-am-mittwoch-vom-1-3-zum-4-3-in-7-minuten-real-schafft-irre-wende-in-rom",
+     "time": "2026-10-14T21:07:35Z"
+    },
+    {
+     "title": "Champions League: 2. Spieltag – Nach Startfurioso: PSG gewinnt Gigantenduell gegen ManCity",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-2-spieltag-nach-startfurioso-psg-gewinnt-gigantenduell-gegen-mancity",
+     "time": "2026-10-14T21:01:57Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Selenski fühlt sich «betrogen» und kritisiert Trump",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-fuehlt-sich-betrogen-und-kritisiert-trump",
+     "time": "2026-10-14T19:55:55Z"
     },
     {
      "title": "Sexuelle Ausbeutung – Warum werden auf den Philippinen so viele Kinder missbraucht?",
@@ -128,21 +143,6 @@
      "title": "Faktencheck – Keine Belege für Rückgang russischer Propaganda-Bots",
      "url": "https://www.srf.ch/news/srf-faktenchecks/faktencheck-keine-belege-fuer-rueckgang-russischer-propaganda-bots",
      "time": "2026-10-14T17:00:50Z"
-    },
-    {
-     "title": "Neue Regeln für Social Media – Bundesrat will Jugendschutz verbessern – das steckt dahinter",
-     "url": "https://www.srf.ch/news/schweiz/neue-regeln-fuer-social-media-bundesrat-will-jugendschutz-verbessern-das-steckt-dahinter",
-     "time": "2026-10-14T16:40:36Z"
-    },
-    {
-     "title": "Unbekannte Flugobjekte – Drohnenabwehr: «Wir sind teilweise im Blindflug»",
-     "url": "https://www.srf.ch/news/schweiz/unbekannte-flugobjekte-drohnenabwehr-wir-sind-teilweise-im-blindflug",
-     "time": "2026-10-14T16:00:06Z"
-    },
-    {
-     "title": "Flugwetter – Zugvögel würden Meteo schauen",
-     "url": "https://www.srf.ch/meteo/meteo-stories/flugwetter-zugvoegel-wuerden-meteo-schauen",
-     "time": "2026-10-14T15:53:12Z"
     }
    ]
   },
@@ -156,6 +156,36 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Avvocato delle figlie al processo Maradona, 'e' stato assassinato a sangue freddo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/avvocato-delle-figlie-al-processo-maradona-e-stato-assassinato-a-sangue-freddo_a7fcf759-ac0d-42d1-8d21-dd6fb497d4d7.html",
+     "time": "2026-10-14T22:59:08Z"
+    },
+    {
+     "title": "Trump, 'spero che papa Leone si rimetta'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/trump-spero-che-papa-leone-si-rimetta_17eab186-a842-49ed-875a-cc0312a4ff21.html",
+     "time": "2026-10-14T22:26:52Z"
+    },
+    {
+     "title": "'Amministrazione Trump nega di avere un ruolo nel depotenziamento di Starlink'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/amministrazione-trump-nega-di-avere-un-ruolo-nel-depotenziamento-di-starlink_885a1d88-0a52-4b31-b61d-3542bd287c1d.html",
+     "time": "2026-10-14T21:06:37Z"
+    },
+    {
+     "title": "Il partito di Lula denuncia Meta all'Osa per presunta ingerenza elettorale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/il-partito-di-lula-denuncia-meta-allosa-per-presunta-ingerenza-elettorale_c46e0e6c-53b3-4b1c-890c-172ba272b1ab.html",
+     "time": "2026-10-14T20:13:43Z"
+    },
+    {
+     "title": "Musk, 'Starshield è sotto il controllo del governo Usa, decide velocità e limiti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/musk-starshield-e-sotto-il-controllo-del-governo-usa-decide-velocita-e-limiti_472fd4c1-b3fc-4e18-916f-54bd48c20d0a.html",
+     "time": "2026-10-14T19:49:36Z"
+    },
+    {
+     "title": "Kiev, 'connessione a Starlink migliorata, ma SpaceX mantiene limite a 161 km/h'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/kiev-connessione-a-starlink-migliorata-ma-spacex-mantiene-limite-a-161-kmh_1d255b50-b252-4cd5-bddd-603a1754315a.html",
+     "time": "2026-10-14T19:47:48Z"
+    },
     {
      "title": "Migliaia in piazza contro il governo di destra in varie città della Colombia",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/migliaia-in-piazza-contro-il-governo-di-destra-in-varie-citta-della-colombia_a88faf97-2f2a-4b79-8fff-93044612eff3.html",
@@ -175,36 +205,6 @@
      "title": "Tg1, il minorenne a Pm e carabinieri 'era uno scherzo'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/tg1-il-minorenne-a-pm-e-carabinieri-era-uno-scherzo_7986b8c9-a457-48a4-8152-898e38d7c68a.html",
      "time": "2026-10-14T18:51:16Z"
-    },
-    {
-     "title": "Zelensky, 'in corso attacco russo, Mosca sfrutta nostri problemi con Starlink'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/zelensky-in-corso-attacco-russo-mosca-sfrutta-nostri-problemi-con-starlink_58cc3235-acd3-4178-a2af-e276b12729d3.html",
-     "time": "2026-10-14T18:47:50Z"
-    },
-    {
-     "title": "Il petrolio chiude in rialzo a New York a 95,09 dollari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/il-petrolio-chiude-in-rialzo-a-new-york-a-9509-dollari_8ac0423d-0639-4725-921e-f893a45af1f5.html",
-     "time": "2026-10-14T18:34:40Z"
-    },
-    {
-     "title": "La foto-risposta di Magi e Fratoianni a Meloni, un abbraccio in Transatlantico",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/la-foto-risposta-di-magi-e-fratoianni-a-meloni-un-abbraccio-in-transatlantico_e74f698f-5701-47b1-81e7-8bc50347e9bf.html",
-     "time": "2026-10-14T18:17:47Z"
-    },
-    {
-     "title": "FnV vota a favore della seconda risoluzione di maggioranza",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/fnv-vota-a-favore-della-seconda-risoluzione-di-maggioranza_44b70a04-86b2-41a7-995a-de8b4d9c0b30.html",
-     "time": "2026-10-14T18:17:24Z"
-    },
-    {
-     "title": "Schlein, il voto di oggi passo in avanti nel lavoro unitario",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/schlein-il-voto-di-oggi-passo-in-avanti-nel-lavoro-unitario_c3b33a4e-3c01-4451-ab83-f3ea9ef75b6c.html",
-     "time": "2026-10-14T18:14:08Z"
-    },
-    {
-     "title": "Fed, 'crescita economica moderata, aziende segnalano caro-diesel'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/fed-crescita-economica-moderata-aziende-segnalano-caro-diesel_ec1cb0f7-d45e-41bc-b0a3-5341b4948c2d.html",
-     "time": "2026-10-14T18:09:15Z"
     }
    ]
   },
@@ -214,6 +214,31 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+     "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T22:31:10Z"
+    },
+    {
+     "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T20:55:24Z"
+    },
+    {
+     "title": "Why Zelensky's meeting with Burnham matters",
+     "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T20:41:03Z"
+    },
+    {
+     "title": "Student protesters attack government buildings in Tirana",
+     "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T20:29:05Z"
+    },
+    {
+     "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+     "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T19:52:04Z"
+    },
     {
      "title": "What if you could turn off your algorithm? Australia is about to try",
      "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
@@ -248,31 +273,6 @@
      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-14T15:34:19Z"
-    },
-    {
-     "title": "US inflation rises more than expected - here's what is happening with prices",
-     "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-14T15:26:14Z"
-    },
-    {
-     "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-     "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-14T15:12:46Z"
-    },
-    {
-     "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
-     "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-14T14:18:18Z"
-    },
-    {
-     "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-     "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-14T13:41:51Z"
-    },
-    {
-     "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-     "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-14T13:35:29Z"
     }
    ]
   }
