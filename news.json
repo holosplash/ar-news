@@ -1,6 +1,6 @@
 {
- "version": 37,
- "updated": "2026-10-14T05:19:13Z",
+ "version": 38,
+ "updated": "2026-10-14T10:32:39Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "11KM-Podcast: Nord-Stream-Anschlag im Auftrag der Ukraine?",
-     "url": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-nordstream-sabotage-prozess-100.html",
-     "time": "2026-10-14T04:34:38Z"
+     "title": "Ab morgen gilt bundesweit Alkoholverbot an Bahnhöfen",
+     "url": "https://www.tagesschau.de/video/video-1665972.html",
+     "time": "2026-10-14T10:19:29Z"
     },
     {
-     "title": "Ukraine-Hilfen: Wie der Nord-Stream-Prozess die Stimmung verändern könnte",
+     "title": "Ukrainischer Präsident Selenskyj beklagt fehlende Vorwarnung vor russischen Angriffen",
+     "url": "https://www.tagesschau.de/video/video-1665968.html",
+     "time": "2026-10-14T10:13:59Z"
+    },
+    {
+     "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
+     "url": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
+     "time": "2026-10-14T09:48:39Z"
+    },
+    {
+     "title": "Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+     "time": "2026-10-14T09:44:37Z"
+    },
+    {
+     "title": "CDU will vor Siegmund-Wahl geschlossen den Saal verlassen",
+     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/cdu-fraktion-afd-beschluss-plenarsaal,landtag-wahl-ministerpraesident-cdu-100.html",
+     "time": "2026-10-14T09:34:38Z"
+    },
+    {
+     "title": "Razzia bei US-Demokratin Omar: Politiker mit Migrationsgeschichte als Feindbild",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-ilhan-omar-100.html",
+     "time": "2026-10-14T09:31:48Z"
+    },
+    {
+     "title": "Sorge vor Reform - Was pflegende Angehörige heute schon leisten",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/pflegende-angehoerige-pflegereform-100.html",
+     "time": "2026-10-14T09:30:20Z"
+    },
+    {
+     "title": "Nord-Stream-Anschlag - ein Prozess mit politischer Dimension",
      "url": "https://www.tagesschau.de/inland/prozess-nord-stream-100.html",
-     "time": "2026-10-14T04:24:15Z"
+     "time": "2026-10-14T09:27:25Z"
     },
     {
-     "title": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
-     "url": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html",
-     "time": "2026-10-14T03:24:11Z"
+     "title": "\"We are Jane Doe\" - Protestdemo an US-Eliteuni",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-protestdemo-elite-uni-cornell-100.html",
+     "time": "2026-10-14T09:02:20Z"
     },
     {
-     "title": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
-     "url": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
-     "time": "2026-10-14T03:07:08Z"
+     "title": "Polizei durchsucht regierungskritischen Fernsehsender in der Türkei",
+     "url": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-halk-tv-zwangsverwaltung-100.html",
+     "time": "2026-10-14T08:59:44Z"
     },
     {
-     "title": "Finnland: KI-Boom auf Kosten der Natur?",
-     "url": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
-     "time": "2026-10-14T00:31:01Z"
+     "title": "Marktbericht: DAX startet höher",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+     "time": "2026-10-14T08:46:15Z"
     },
     {
-     "title": "Champions League: Gruda erlöst Leipzig beim 1:0-Sieg gegen PSV",
-     "url": "https://www.sportschau.de/fussball/championsleague/gruda-erloest-leipzig-bei-knappem-sieg-gegen-psv,spielbericht-leipzig-eindhoven-100.html",
-     "time": "2026-10-13T22:08:14Z"
-    },
-    {
-     "title": "Erbschaftsteuer - Sind die Ausnahmen für Unternehmen verfassungswidrig?",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1665788.html",
-     "time": "2026-10-13T21:49:30Z"
-    },
-    {
-     "title": "Papst Leo XIV. hat Lungenkrebs",
-     "url": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
-     "time": "2026-10-13T21:49:10Z"
-    },
-    {
-     "title": "Enzo Weber, Institut für Arbeitsmarkt- und Berufsforschung IAB, zu den Entwicklungen in der deutschen Wirtschaft",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1665786.html",
-     "time": "2026-10-13T21:47:47Z"
-    },
-    {
-     "title": "FC Bayern München blamiert sich beim 3:3 in Viking FK",
-     "url": "https://www.sportschau.de/fussball/championsleague/gegentor-nach-71-sekunden-bayerns-fehlstarter-patzen-in-stavanger,spielbericht-viking-bayern-100.html",
-     "time": "2026-10-13T21:35:25Z"
-    },
-    {
-     "title": "Papst Leo XIV. hat Lungenkrebs, Tilmann Kleinjung, ARD Rom, mit Hintergrundinformationen",
-     "url": "https://www.tagesschau.de/video/video-1665808.html",
-     "time": "2026-10-13T21:08:58Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12916.html",
-     "time": "2026-10-13T20:58:00Z"
+     "title": "\"Angeklagt wegen Kriegsverbrechen\", Michael Götschenberg, ARD Berlin, zum Prozess um Nord-Stream-Anschlag",
+     "url": "https://www.tagesschau.de/video/video-1665928.html",
+     "time": "2026-10-14T08:42:38Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Verzicht auf Reifenwechsel – Ganzjahresreifen im Trend – was dafür und was dagegen spricht",
-     "url": "https://www.srf.ch/news/schweiz/verzicht-auf-reifenwechsel-ganzjahresreifen-im-trend-was-dafuer-und-was-dagegen-spricht",
-     "time": "2026-10-14T05:01:56Z"
+     "title": "Region Basel – Die Bekämpfung der Tigermücke ist in diesem Jahr nicht gelungen",
+     "url": "https://www.srf.ch/news/schweiz/region-basel-die-bekaempfung-der-tigermuecke-ist-in-diesem-jahr-nicht-gelungen",
+     "time": "2026-10-14T10:32:12Z"
     },
     {
-     "title": "200 Millionen Franken – Investition in Teakbäume – Tausende Anleger fürchten um ihr Geld",
-     "url": "https://www.srf.ch/news/wirtschaft/200-millionen-franken-investition-in-teakbaeume-tausende-anleger-fuerchten-um-ihr-geld",
-     "time": "2026-10-14T05:00:37Z"
+     "title": "Affäre um Claudio Zali – Die tot aufgefundene Frau hatte die Polizei schon 2021 gewarnt",
+     "url": "https://www.srf.ch/news/dialog/affaere-um-claudio-zali-die-tot-aufgefundene-frau-hatte-die-polizei-schon-2021-gewarnt",
+     "time": "2026-10-14T10:21:41Z"
     },
     {
-     "title": "Nach Tod von RJ Mitte – Schauspieler mit Behinderung: Wie inklusiv ist die Schweiz?",
-     "url": "https://www.srf.ch/news/nach-tod-von-rj-mitte-schauspieler-mit-behinderung-wie-inklusiv-ist-die-schweiz",
-     "time": "2026-10-14T04:31:07Z"
+     "title": "«Slopocalypse» – KI überschwemmt die Forschungswelt mit Studien",
+     "url": "https://www.srf.ch/wissen/kuenstliche-intelligenz/slopocalypse-ki-ueberschwemmt-die-forschungswelt-mit-studien",
+     "time": "2026-10-14T09:56:14Z"
     },
     {
-     "title": "Krieg in der Ukraine – Raketen treffen Kiew – mindestens zwei Tote",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-raketen-treffen-kiew-mindestens-zwei-tote",
-     "time": "2026-10-14T04:13:00Z"
+     "title": "Neuer Roman von Juli Zeh – «Pony Show»: Ein Gerichtsprozess wird zum Medienspektakel",
+     "url": "https://www.srf.ch/kultur/literatur/neuer-roman-von-juli-zeh-pony-show-ein-gerichtsprozess-wird-zum-medienspektakel",
+     "time": "2026-10-14T09:55:12Z"
     },
     {
-     "title": "Diagnose Lungenkrebs – «Der Papst ist einer wie du und ich»",
-     "url": "https://www.srf.ch/news/international/diagnose-lungenkrebs-der-papst-ist-einer-wie-du-und-ich",
-     "time": "2026-10-14T03:55:02Z"
+     "title": "Brisanter Fund – Abhörgerät bei Open-AI entdeckt – Mitarbeiter festgenommen",
+     "url": "https://www.srf.ch/news/international/brisanter-fund-abhoergeraet-bei-open-ai-entdeckt-mitarbeiter-festgenommen",
+     "time": "2026-10-14T09:44:10Z"
     },
     {
-     "title": "Knoten in der Lunge – Papst Leo XIV. hat Lungenkrebs: Was bekannt ist",
-     "url": "https://www.srf.ch/news/international/knoten-in-der-lunge-papst-leo-xiv-hat-lungenkrebs-was-bekannt-ist",
-     "time": "2026-10-14T03:42:46Z"
+     "title": "– Abhörgerät bei Open-AI entdeckt – Mitarbeiter festgenommen",
+     "url": "https://www.srf.ch/news/international/brisanter-fund-abhoergeraet-bei-open-ai-entdeckt-mitarbeiter-festgenommen",
+     "time": "2026-10-14T09:44:10Z"
     },
     {
-     "title": "– Papst Leo XIV. hat Lungenkrebs: Was bekannt ist",
-     "url": "https://www.srf.ch/news/international/knoten-in-der-lunge-papst-leo-xiv-hat-lungenkrebs-was-bekannt-ist",
-     "time": "2026-10-14T03:42:46Z"
+     "title": "Kulturnews in Kurzform – Hitserie «Girls» bekommt eine Fortsetzung",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-hitserie-girls-bekommt-eine-fortsetzung",
+     "time": "2026-10-14T09:39:21Z"
     },
     {
-     "title": "Vier Jahre nach Sabotageakt – Waren die Nord-Stream-Pipelines ein Kriegsschauplatz?",
-     "url": "https://www.srf.ch/news/international/vier-jahre-nach-sabotageakt-waren-die-nord-stream-pipelines-ein-kriegsschauplatz",
-     "time": "2026-10-14T03:38:44Z"
+     "title": "Jugendproteste in Frankreich – «Studierende zwischen Niedergeschlagenheit und Empörung»",
+     "url": "https://www.srf.ch/news/international/jugendproteste-in-frankreich-studierende-zwischen-niedergeschlagenheit-und-empoerung",
+     "time": "2026-10-14T09:38:22Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Huthi-Miliz droht mit Angriffen auf saudische Öl-Anlagen",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-huthi-miliz-droht-mit-angriffen-auf-saudische-oel-anlagen",
-     "time": "2026-10-14T03:30:20Z"
+     "title": "Champions League live bei SRF – Zum Haareraufen: Mourinhos Rückkehr nach Rom",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-live-bei-srf-zum-haareraufen-mourinhos-rueckkehr-nach-rom",
+     "time": "2026-10-14T08:58:13Z"
     },
     {
-     "title": "Überraschung im San Siro – 4:3-Spektakel: Sommer jubelt auch dank Patzer seines Nachfolgers",
-     "url": "https://www.srf.ch/sport/fussball/champions-league/ueberraschung-im-san-siro-4-3-spektakel-sommer-jubelt-auch-dank-patzer-seines-nachfolgers",
-     "time": "2026-10-13T21:19:18Z"
+     "title": "Freizeitpark bei Atlanta – Tod auf Achterbahn – Schweizer Hersteller untersucht Unfall",
+     "url": "https://www.srf.ch/news/international/freizeitpark-bei-atlanta-tod-auf-achterbahn-schweizer-hersteller-untersucht-unfall",
+     "time": "2026-10-14T08:53:50Z"
     },
     {
-     "title": "Berlin und Sachsen-Anhalt – Platzen jetzt die Träume von AfD und Linken?",
-     "url": "https://www.srf.ch/news/international/berlin-und-sachsen-anhalt-platzen-jetzt-die-traeume-von-afd-und-linken",
-     "time": "2026-10-13T20:37:46Z"
+     "title": "Wasserknappheit im Domleschg – Quellen versiegen – Trinkwasser muss per LKW geliefert werden",
+     "url": "https://www.srf.ch/news/schweiz/wasserknappheit-im-domleschg-quellen-versiegen-trinkwasser-muss-per-lkw-geliefert-werden",
+     "time": "2026-10-14T08:32:07Z"
     },
     {
-     "title": "Pilzsaison in vollem Gange – Achtung, giftig: Warum Apps beim Pilzesammeln nicht helfen",
-     "url": "https://www.srf.ch/news/schweiz/pilzsaison-in-vollem-gange-achtung-giftig-warum-apps-beim-pilzesammeln-nicht-helfen",
-     "time": "2026-10-13T20:15:17Z"
+     "title": "Krieg in der Ukraine – Selenski: 600'000 Menschen nach Raketenangriffen ohne Strom",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-600-000-menschen-nach-raketenangriffen-ohne-strom",
+     "time": "2026-10-14T08:13:42Z"
     }
    ]
   },
@@ -157,54 +157,49 @@
    ],
    "items": [
     {
-     "title": "Wsj: 'Gli Houthi tentano di produrre missili balistici con componenti cinesi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/wsj-gli-houthi-tentano-di-produrre-missili-balistici-con-componenti-cinesi_cd23d46e-08de-429b-b586-68edac32a4d9.html",
-     "time": "2026-10-14T04:54:25Z"
+     "title": "La banda della minicar, 'quella notte ci siamo divertiti così'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/la-banda-della-minicar-quella-notte-ci-siamo-divertiti-cosi_1fc604f8-5951-4753-8ba8-6299b5518ceb.html",
+     "time": "2026-10-14T10:22:20Z"
     },
     {
-     "title": "Moody's: 'La guerra in Iran costa a ogni famiglia Usa una media di 2.000 dollari'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/moodys-la-guerra-in-iran-costa-a-ogni-famiglia-usa-una-media-di-2.000_5234242b-ae4b-44dd-9a18-7bcc40b1bca8.html",
-     "time": "2026-10-14T03:40:15Z"
+     "title": "Emergency, a Gaza entro dicembre 1,4 milioni in grave insicurezza alimentare",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/emergency-a-gaza-entro-dicembre-14-milioni-in-grave-insicurezza-alimentare_c5eceb75-9ece-4b3f-a720-2732811e4c2f.html",
+     "time": "2026-10-14T10:11:51Z"
     },
     {
-     "title": "Fmi, negli Usa gli interessi sul debito raggiungeranno la spesa sociale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/fmi-negli-usa-gli-interessi-sul-debito-raggiungeranno-la-spesa-sociale_dad7a222-2c53-4a4d-820f-8a4c444b84ce.html",
-     "time": "2026-10-14T02:01:19Z"
+     "title": "Mit, stretta sulle minicar truccate, arrivano targhe personalizzate",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/mit-stretta-sulle-minicar-truccate-arrivano-targhe-personalizzate_8cc07f0d-69e3-489c-8fbe-a8430e82045c.html",
+     "time": "2026-10-14T10:03:16Z"
     },
     {
-     "title": "Borsa: Tokyo, apertura in lieve rialzo (+0,28%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/borsa-tokyo-apertura-in-lieve-rialzo-028_c8198b3e-c45f-4fe3-a7b2-383b83f66b29.html",
-     "time": "2026-10-14T00:18:15Z"
+     "title": "Il fratello del Papa, 'ho ricevuto un messaggio, stava bene'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/il-fratello-del-papa-ho-ricevuto-un-messaggio-stava-bene_150472b4-ed94-40d5-9377-4e65686d4b17.html",
+     "time": "2026-10-14T09:55:28Z"
     },
     {
-     "title": "Meloni: 'Tra l'Italia e gli Usa un'amicizia fondata su libertà e democrazia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/meloni-tra-litalia-e-gli-usa-unamicizia-fondata-su-liberta-e-democrazia_d901e006-cd07-4c08-9ed6-fe599b754be5.html",
-     "time": "2026-10-13T23:03:58Z"
+     "title": "Violentò una sedicenne in strada davanti all'amica, arrestato un uomo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/violento-una-sedicenne-in-strada-davanti-allamica-arrestato-un-uomo_fc672ec4-acb2-45f7-901c-82f2a45650a1.html",
+     "time": "2026-10-14T09:54:08Z"
     },
     {
-     "title": "Zelensky, 'raid su centrale termoelettrica a Kiev, gli alleati non ci hanno avvertito'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/zelensky-raid-su-centrale-termoelettrica-a-kiev-gli-alleati-non-ci-hanno-avvertito_4751c758-dd8f-4e1e-8f7c-244fd22ce2d6.html",
-     "time": "2026-10-13T20:38:37Z"
+     "title": "Allarme Confesercenti, shock ultimi 4 anni sono costati 2.400 euro a famiglia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/allarme-confesercenti-shock-ultimi-4-anni-sono-costati-2.400-euro-a-famiglia_a63acf0a-6702-47c2-b450-42b4a020dd26.html",
+     "time": "2026-10-14T09:46:32Z"
     },
     {
-     "title": "Il Papa operato per un adenocarcinoma polmonare",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/il-papa-operato-per-un-adenocarcinoma-polmonare_8c88bdea-9812-4c89-8854-bfae6543a6d0.html",
-     "time": "2026-10-13T20:08:10Z"
+     "title": "L'Estranea di Paolo Strippoli è nella shortlist degli Efa",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/lestranea-di-paolo-strippoli-e-nella-shortlist-degli-efa_13cc1b70-b81b-4bf1-9982-226559abfedd.html",
+     "time": "2026-10-14T09:45:47Z"
     },
     {
-     "title": "Mit, stop ad obbligo patente cartacea e libretto per circolare",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/mit-stop-ad-obbligo-patente-cartacea-e-libretto-per-circolare_79688377-36cb-49b3-93ed-2281a33ba35f.html",
-     "time": "2026-10-13T19:19:15Z"
+     "title": "Individuati i due componenti della banda della minicar, hanno confessato",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/individuati-i-due-componenti-della-banda-della-minicar-hanno-confessato_b65c60fb-48b6-43d4-84cf-893bda985376.html",
+     "time": "2026-10-14T08:54:42Z"
     },
     {
-     "title": "Forti esplosioni udite a Riad e nei pressi di un impianto Aramco nell'est",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/forti-esplosioni-udite-a-riad-e-nei-pressi-di-un-impianto-aramco-nellest_4c770138-c83a-4f4f-a653-fb644391012c.html",
-     "time": "2026-10-13T19:07:54Z"
-    },
-    {
-     "title": "Musumeci, 'in cdm via libera a piano per i Campi Flegrei'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/musumeci-in-cdm-via-libera-a-piano-per-i-campi-flegrei_f0276524-b9e7-4f0e-8d06-cf41f011f090.html",
-     "time": "2026-10-13T19:04:14Z"
+     "title": "La notte per il Papa è trascorsa tranquillamente",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/la-notte-per-il-papa-e-trascorsa-tranquillamente_9557492a-6dde-4013-88ef-05013ec98402.html",
+     "time": "2026-10-14T08:11:33Z"
     }
    ]
   },
@@ -215,9 +210,39 @@
    "countries": [],
    "items": [
     {
-     "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-     "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-14T04:36:06Z"
+     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+     "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T10:08:26Z"
+    },
+    {
+     "title": "Turkish police raid opposition TV station, halting live broadcasts",
+     "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T10:07:02Z"
+    },
+    {
+     "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T10:04:28Z"
+    },
+    {
+     "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+     "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T09:32:54Z"
+    },
+    {
+     "title": "What we know about Russia's overnight strikes on Ukraine",
+     "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T09:25:03Z"
+    },
+    {
+     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+     "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T08:53:40Z"
+    },
+    {
+     "title": "Russia arrests Japanese journalist on spying charges",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-14T08:00:03Z"
     },
     {
      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
@@ -225,34 +250,14 @@
      "time": "2026-10-14T04:20:17Z"
     },
     {
-     "title": "Russia arrests Japanese journalist on alleged espionage",
-     "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-14T04:10:49Z"
-    },
-    {
      "title": "Lena Dunham's Girls to return for limited HBO run",
      "url": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-14T02:09:30Z"
     },
     {
-     "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-     "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-14T02:05:32Z"
-    },
-    {
-     "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+     "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-14T00:59:16Z"
-    },
-    {
-     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-     "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-14T00:17:00Z"
-    },
-    {
-     "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-     "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T23:42:22Z"
     },
     {
      "title": "Zimbabwean author denies using AI to write award-winning story",
@@ -263,16 +268,6 @@
      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-13T22:07:40Z"
-    },
-    {
-     "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-     "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T22:02:09Z"
-    },
-    {
-     "title": "Who's to blame for the toxic smog choking South East Asia?",
-     "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-13T22:01:43Z"
     }
    ]
   }
