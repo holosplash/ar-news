@@ -1,6 +1,6 @@
 {
- "version": 46,
- "updated": "2026-10-15T21:16:07Z",
+ "version": 47,
+ "updated": "2026-10-15T23:47:43Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,11 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+     "time": "2026-10-15T23:06:09Z"
+    },
     {
      "title": "Hoffenheim verliert auch gegen Besiktas",
      "url": "https://www.sportschau.de/regional/swr/swr-naechste-pleite-die-tsg-hoffenheim-verliert-auch-gegen-besiktas-100.html",
@@ -68,11 +73,6 @@
      "title": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
      "url": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
      "time": "2026-10-15T18:22:56Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81480.html",
-     "time": "2026-10-15T18:17:42Z"
     }
    ]
   },
@@ -85,9 +85,14 @@
    ],
    "items": [
     {
+     "title": "Krieg in der Ukraine – Menschen in Kiew und Umland ohne Strom",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-menschen-in-kiew-und-umland-ohne-strom",
+     "time": "2026-10-15T22:04:34Z"
+    },
+    {
      "title": "Conference League: 1. Spieltag – Fragwürdiger Platzverweis mit Folgen: Thun verliert in Enschede",
      "url": "https://www.srf.ch/sport/fussball/conference-league/conference-league-1-spieltag-fragwuerdiger-platzverweis-mit-folgen-thun-verliert-in-enschede",
-     "time": "2026-10-15T20:55:22Z"
+     "time": "2026-10-15T21:35:30Z"
     },
     {
      "title": "Eurotunnel – Frankreich: Bus kollidiert mit Zug – 19 Verletzte",
@@ -118,11 +123,6 @@
      "title": "Evangelikale vor den Midterms – «Präsident Trump hat seine Versprechen gehalten»",
      "url": "https://www.srf.ch/news/international/usa/evangelikale-vor-den-midterms-praesident-trump-hat-seine-versprechen-gehalten",
      "time": "2026-10-15T17:50:59Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Der Ukraine sollen für 2027 rund 40 Milliarden Dollar fehlen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-der-ukraine-sollen-fuer-2027-rund-40-milliarden-dollar-fehlen",
-     "time": "2026-10-15T17:41:29Z"
     },
     {
      "title": "LHC-Stürmer startet durch – Rüegsegger: Endlich angekommen in der National League",
@@ -157,6 +157,41 @@
    ],
    "items": [
     {
+     "title": "Cinque morti nella sparatoria in Oregon, killer è un sedicenne",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/cinque-morti-nella-sparatoria-in-oregon-killer-e-un-sedicenne_8c085a26-9a04-42b6-8b31-8e5ad15fbce3.html",
+     "time": "2026-10-15T23:33:22Z"
+    },
+    {
+     "title": "Brasile, via libera al condono fiscale per i microimprenditori",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/brasile-via-libera-al-condono-fiscale-per-i-microimprenditori_420c3daf-4655-4cda-9a16-194b9b56eb4b.html",
+     "time": "2026-10-15T23:26:14Z"
+    },
+    {
+     "title": "Leader Ue, 'Commissione valuti l'impatto del sistema Ets2'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/leader-ue-commissione-valuti-limpatto-del-sistema-ets2_770731b3-22bb-4e6a-bf9b-061f8c29174f.html",
+     "time": "2026-10-15T23:02:04Z"
+    },
+    {
+     "title": "Il premier della Finlandia, 'l'intesa di Trump sul diesel con Putin non ha logica'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/il-premier-della-finlandia-lintesa-di-trump-sul-diesel-con-putin-non_b7b3f5e5-8635-4e1e-baee-cf3786baf534.html",
+     "time": "2026-10-15T22:41:59Z"
+    },
+    {
+     "title": "Trump rimuove l'inviato Paolo Zampolli",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/trump-rimuove-linviato-paolo-zampolli_06b72e0c-0e0b-49a7-a9d1-bdfd35665128.html",
+     "time": "2026-10-15T21:50:17Z"
+    },
+    {
+     "title": "Polizia Oregon, 'ucciso l'uomo armato nella scuola, ci sono feriti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/polizia-oregon-ucciso-luomo-armato-nella-scuola-ci-sono-feriti_4d71c236-2b8a-4a69-822a-61b5f354b4d7.html",
+     "time": "2026-10-15T21:32:50Z"
+    },
+    {
+     "title": "'Uomo armato in una scuola elementare in Oregon', polizia risponde all'allarme",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/uomo-armato-in-una-scuola-elementare-in-oregon-polizia-risponde-allallarme_7ac0ad7c-57d3-4d96-b0e9-32ce0c41bef8.html",
+     "time": "2026-10-15T21:14:14Z"
+    },
+    {
      "title": "Lanci di lacrimogeni e incidenti alla manifestazione per le Università in Argentina",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/lanci-di-lacrimogeni-e-incidenti-alla-manifestazione-per-le-universita-in-argentina_7bbfebde-4492-465b-b259-92c5ff2d8a1d.html",
      "time": "2026-10-15T20:17:19Z"
@@ -170,41 +205,6 @@
      "title": "Marito e moglie trovati morti in casa nel Modenese, ipotesi omicidio",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/marito-e-moglie-trovati-morti-in-casa-nel-modenese-ipotesi-omicidio_839b1c8c-ff68-48a4-9ec9-f18f2ea6e197.html",
      "time": "2026-10-15T18:51:10Z"
-    },
-    {
-     "title": "Via libera della Bce a Unicredit per il controllo di Commerzbank",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/via-libera-della-bce-a-unicredit-per-il-controllo-di-commerzbank_b38eb22f-eaf2-49a5-85ca-69668842ceab.html",
-     "time": "2026-10-15T17:50:22Z"
-    },
-    {
-     "title": "Fonti militari, 4 morti nel raid Houthi contro la sede presidenziale di Aden",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/fonti-militari-4-morti-nel-raid-houthi-contro-la-sede-presidenziale-di-aden_0240c2c3-89ef-46f5-b70b-7ffe396a8f6e.html",
-     "time": "2026-10-15T16:31:37Z"
-    },
-    {
-     "title": "Il prezzo del gas viaggia in calo poco sopra gli 86 euro al megawattora",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/il-prezzo-del-gas-viaggia-in-calo-poco-sopra-gli-86-euro-al-megawattora_1a3f7c11-16ee-4fb7-917a-240afef01e62.html",
-     "time": "2026-10-15T16:30:23Z"
-    },
-    {
-     "title": "Lo spread tra Btp e Bund chiude in calo a 107 punti base",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/lo-spread-tra-btp-e-bund-chiude-in-calo-a-107-punti-base_7ac68b23-d7d9-4c06-96c5-8cdf7b9cad3d.html",
-     "time": "2026-10-15T16:08:54Z"
-    },
-    {
-     "title": "'Gb invia a Kiev altri missili Storm Shadow per contrastare attacchi russi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/gb-invia-a-kiev-altri-missili-storm-shadow-per-contrastare-attacchi-russi_3fa267b9-aaff-413c-a46d-1c9390406c26.html",
-     "time": "2026-10-15T16:08:36Z"
-    },
-    {
-     "title": "La Casa Bianca replica a Meloni, 'quello sul diesel un grande accordo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/la-casa-bianca-replica-a-meloni-quello-sul-diesel-un-grande-accordo_906f031e-fbb2-454f-9eae-5cd877542568.html",
-     "time": "2026-10-15T16:06:37Z"
-    },
-    {
-     "title": "Parolin, se il Papa starà meglio farà l'Angelus dal Gemelli",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/parolin-se-il-papa-stara-meglio-fara-langelus-dal-gemelli_f840c23d-33f4-4cdd-86ed-46983777c717.html",
-     "time": "2026-10-15T16:05:45Z"
     }
    ]
   },
@@ -215,24 +215,39 @@
    "countries": [],
    "items": [
     {
-     "title": "Letters with 'suspicious substances' sent to US election offices",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T20:52:13Z"
+     "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+     "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T23:38:46Z"
     },
     {
-     "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
-     "url": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T18:09:58Z"
+     "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+     "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T23:27:21Z"
+    },
+    {
+     "title": "Are student protests being manipulated ahead of France's presidential election?",
+     "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T23:25:06Z"
+    },
+    {
+     "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T22:46:49Z"
+    },
+    {
+     "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+     "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T22:37:21Z"
+    },
+    {
+     "title": "At the scene of a school roof collapse in Pakistan",
+     "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T20:31:02Z"
     },
     {
      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-15T17:47:22Z"
-    },
-    {
-     "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-     "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T17:18:49Z"
     },
     {
      "title": "Maduro pleads not guilty to new torture-related charges in New York",
@@ -258,21 +273,6 @@
      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
      "url": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-15T15:00:05Z"
-    },
-    {
-     "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-     "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T14:51:30Z"
-    },
-    {
-     "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-     "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T11:25:19Z"
-    },
-    {
-     "title": "Obama says drift towards extremism 'not inevitable'",
-     "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T10:51:53Z"
     }
    ]
   }
