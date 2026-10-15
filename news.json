@@ -1,6 +1,6 @@
 {
- "version": 41,
- "updated": "2026-10-14T23:08:28Z",
+ "version": 42,
+ "updated": "2026-10-15T01:44:43Z",
  "fallback": "en",
  "regions": [
   {
@@ -16,7 +16,7 @@
    "items": [
     {
      "title": "Champions League: BVB bekommt die Klasse von Bodø/Glimt zu spüren",
-     "url": "https://www.sportschau.de/fussball/championsleague/x,spielbericht-bodo-glimt-borussia-dortmund-100.html",
+     "url": "https://www.sportschau.de/fussball/championsleague/bvb-bekommt-die-klasse-von-bodo-glimt-zu-spueren,spielbericht-bodo-glimt-borussia-dortmund-100.html",
      "time": "2026-10-14T21:18:39Z"
     },
     {
@@ -157,6 +157,26 @@
    ],
    "items": [
     {
+     "title": "Brasile, Senato approva proposta di Lula su riduzione orario di lavoro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/brasile-senato-approva-proposta-di-lula-su-riduzione-orario-di-lavoro_8979cbff-0734-488a-8ec0-e22fa95d42af.html",
+     "time": "2026-10-15T01:23:44Z"
+    },
+    {
+     "title": "Venezuela, opposizione e chavismo riprendono il dialogo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/venezuela-opposizione-e-chavismo-riprendono-il-dialogo_613bc6d7-88b9-4ff4-aa56-91f93e346dd2.html",
+     "time": "2026-10-15T00:33:36Z"
+    },
+    {
+     "title": "Attacco russo su Kropyvnytskyi, tre morti e sei feriti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/attacco-russo-su-kropyvnytskyi-tre-morti-e-sei-feriti_8afffd49-b667-47b7-a5eb-a65ff37f7bee.html",
+     "time": "2026-10-14T23:59:51Z"
+    },
+    {
+     "title": "Cuba: export Usa record, +210% nonostante le sanzioni di Trump",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/cuba-export-usa-record-210-nonostante-le-sanzioni-di-trump_3c45e165-d47d-4451-9fd2-74eb7b8af8f7.html",
+     "time": "2026-10-14T23:18:03Z"
+    },
+    {
      "title": "Avvocato delle figlie al processo Maradona, 'e' stato assassinato a sangue freddo'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/avvocato-delle-figlie-al-processo-maradona-e-stato-assassinato-a-sangue-freddo_a7fcf759-ac0d-42d1-8d21-dd6fb497d4d7.html",
      "time": "2026-10-14T22:59:08Z"
@@ -185,26 +205,6 @@
      "title": "Kiev, 'connessione a Starlink migliorata, ma SpaceX mantiene limite a 161 km/h'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/kiev-connessione-a-starlink-migliorata-ma-spacex-mantiene-limite-a-161-kmh_1d255b50-b252-4cd5-bddd-603a1754315a.html",
      "time": "2026-10-14T19:47:48Z"
-    },
-    {
-     "title": "Migliaia in piazza contro il governo di destra in varie città della Colombia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/migliaia-in-piazza-contro-il-governo-di-destra-in-varie-citta-della-colombia_a88faf97-2f2a-4b79-8fff-93044612eff3.html",
-     "time": "2026-10-14T19:33:27Z"
-    },
-    {
-     "title": "Commissari, gli stabilimenti ex Ilva di Genova, Taranto e Novi Ligure non chiudono",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/commissari-gli-stabilimenti-ex-ilva-di-genova-taranto-e-novi-ligure-non-chiudono_294da177-6abd-467b-9121-c6a67e8ce3fc.html",
-     "time": "2026-10-14T19:16:25Z"
-    },
-    {
-     "title": "Verbale Di Vita al Tg1, 'portammo a casa le cozze dal pranzo di Natale'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/verbale-di-vita-al-tg1-portammo-a-casa-le-cozze-dal-pranzo-di-natale_4700d958-766f-460c-b2f3-08140d899335.html",
-     "time": "2026-10-14T18:51:35Z"
-    },
-    {
-     "title": "Tg1, il minorenne a Pm e carabinieri 'era uno scherzo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/14/tg1-il-minorenne-a-pm-e-carabinieri-era-uno-scherzo_7986b8c9-a457-48a4-8152-898e38d7c68a.html",
-     "time": "2026-10-14T18:51:16Z"
     }
    ]
   },
@@ -220,7 +220,7 @@
      "time": "2026-10-14T22:31:10Z"
     },
     {
-     "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-14T20:55:24Z"
     },
@@ -230,7 +230,7 @@
      "time": "2026-10-14T20:41:03Z"
     },
     {
-     "title": "Student protesters attack government buildings in Tirana",
+     "title": "Student protesters attack government buildings in Albania",
      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-14T20:29:05Z"
     },
