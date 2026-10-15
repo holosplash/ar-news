@@ -1,6 +1,6 @@
 {
- "version": 44,
- "updated": "2026-10-15T12:49:07Z",
+ "version": 45,
+ "updated": "2026-10-15T17:43:15Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Mutmaßliche iranische Spione in Hamburg verurteilt",
-     "url": "https://www.tagesschau.de/inland/regional/hamburg/nach-anschlagsplaenen-mutmassliche-spione-des-iran-in-hamburg-verurteilt,terrorprozess-102.html",
-     "time": "2026-10-15T12:47:19Z"
+     "title": "Warum sich die Ukraine ohne die Aufklärungsdaten der USA kaum verteidigen kann",
+     "url": "https://www.tagesschau.de/ukraine-usa-starlink-geheimdienste-100.html",
+     "time": "2026-10-15T17:17:37Z"
+    },
+    {
+     "title": "Psychotherapie-Reform: Bundestag beschließt Korrekturen",
+     "url": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html",
+     "time": "2026-10-15T17:16:11Z"
+    },
+    {
+     "title": "Sexuelle Übergriffe und Drogen: Neue Details im Bundeswehr-Skandal in Weißenfels",
+     "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/bundeswehr-kaserne-ermittlungen-vorwuerfe-update,weissenfels-354.html",
+     "time": "2026-10-15T16:59:32Z"
+    },
+    {
+     "title": "Reiche muss Instagram-Video mit Vorwurf gegen Linke löschen",
+     "url": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
+     "time": "2026-10-15T16:35:05Z"
+    },
+    {
+     "title": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+     "time": "2026-10-15T16:32:51Z"
+    },
+    {
+     "title": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
+     "time": "2026-10-15T15:57:03Z"
+    },
+    {
+     "title": "Das sind die Pläne für den Ausweis auf dem Smartphone",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/digitaler-personalausweis-100.html",
+     "time": "2026-10-15T15:53:10Z"
+    },
+    {
+     "title": "Mindestens zwei Tote nach massiven Niederschlägen in Istanbul",
+     "url": "https://www.tagesschau.de/video/video-1666812.html",
+     "time": "2026-10-15T15:35:38Z"
+    },
+    {
+     "title": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
+     "url": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
+     "time": "2026-10-15T15:25:32Z"
     },
     {
      "title": "SPD wählt Mitte Januar bei Parteitag in Bremen neue Parteispitze",
      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-parteitag-bremen-100.html",
-     "time": "2026-10-15T12:45:47Z"
+     "time": "2026-10-15T15:09:31Z"
     },
     {
-     "title": "\"Banken müssen Geld zurückbuchen\", Kolja Schwartz, SWR, zum EuGH-Urteil über Phishing im Onlinebanking",
-     "url": "https://www.tagesschau.de/video/video-1666688.html",
-     "time": "2026-10-15T12:12:23Z"
+     "title": "Neuendorf und Co. fordern weiter Infantinos Rücktritt",
+     "url": "https://www.sportschau.de/fussball/neuendorf-und-co-fordern-weiter-infantinos-ruecktritt,infantino-opposition-will-weiter-ruecktritt-100.html",
+     "time": "2026-10-15T14:48:25Z"
     },
     {
-     "title": "\"Positionen sind zu weit auseinander\", Christian Feld, ARD Brüssel, zu EU-Haushaltsgipfel",
-     "url": "https://www.tagesschau.de/video/video-1666686.html",
-     "time": "2026-10-15T12:07:49Z"
-    },
-    {
-     "title": "Marktbericht: TSMC gibt sich keine Blöße",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
-     "time": "2026-10-15T11:56:37Z"
-    },
-    {
-     "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
-     "url": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
-     "time": "2026-10-15T11:52:23Z"
-    },
-    {
-     "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-     "time": "2026-10-15T11:47:18Z"
-    },
-    {
-     "title": "Bundestag hebt Immunität von Ahmetovic auf",
-     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/ermittler-durchsuchen-raeume-von-hannovers-spd-chef-ahmetovic,ahmetovic-118.html",
-     "time": "2026-10-15T11:41:50Z"
-    },
-    {
-     "title": "Bahnhof Ansbach, Prinz Harry und Meghan, Amerika-Schleiereule",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10506.html",
-     "time": "2026-10-15T11:37:53Z"
-    },
-    {
-     "title": "Flughafen Frankfurt: Lufthansa bereitet sich auf Kerosin-Mangel vor",
-     "url": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-lufthansa-kerosin-versorgung-100.html",
-     "time": "2026-10-15T11:35:04Z"
-    },
-    {
-     "title": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
-     "time": "2026-10-15T11:03:31Z"
-    },
-    {
-     "title": "Schwere Schäden nach Unwetter auf Rhodos",
-     "url": "https://www.tagesschau.de/ausland/europa/rhodos-unwetter-100.html",
-     "time": "2026-10-15T10:45:23Z"
+     "title": "Alexander Zverev erreicht zielstrebig das Halbfinale in Shanghai",
+     "url": "https://www.sportschau.de/tennis/zverev-erreicht-zielstrebig-halbfinale,zverev-shanghai-viertelfinale-100.html",
+     "time": "2026-10-15T14:37:57Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Krieg im Nahen Osten – CNN: US-Militär erwägt im Iran Einsatz der «Mutter aller Bomben»",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-cnn-us-militaer-erwaegt-im-iran-einsatz-der-mutter-aller-bomben",
-     "time": "2026-10-15T12:26:18Z"
+     "title": "Krieg in der Ukraine – Der Ukraine sollen für 2027 rund 40 Milliarden Dollar fehlen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-der-ukraine-sollen-fuer-2027-rund-40-milliarden-dollar-fehlen",
+     "time": "2026-10-15T17:41:29Z"
     },
     {
-     "title": "Krieg in der Ukraine – In Grenznähe: Russland baut in wenigen Wochen Drohnen-Stützpunkt",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-in-grenznaehe-russland-baut-in-wenigen-wochen-drohnen-stuetzpunkt",
-     "time": "2026-10-15T12:26:09Z"
+     "title": "LHC-Stürmer startet durch – Rüegsegger: Endlich angekommen in der National League",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/lhc-stuermer-startet-durch-rueegsegger-endlich-angekommen-in-der-national-league",
+     "time": "2026-10-15T17:01:09Z"
     },
     {
-     "title": "Mehr tanken als nötig – Das ist bekannt zur Kerosinknappheit am Frankfurter Flughafen",
-     "url": "https://www.srf.ch/news/wirtschaft/mehr-tanken-als-noetig-das-ist-bekannt-zur-kerosinknappheit-am-frankfurter-flughafen",
-     "time": "2026-10-15T12:23:44Z"
+     "title": "Nachfolge von Guy Parmelin – Erste Bundesratskandidatur: Ist Bundesrat noch ein Traumjob?",
+     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-erste-bundesratskandidatur-ist-bundesrat-noch-ein-traumjob",
+     "time": "2026-10-15T16:56:50Z"
     },
     {
-     "title": "Bahnrad-WM in Schanghai – Vogel geht nach Flucht die Energie aus – Leu in Top 10",
-     "url": "https://www.srf.ch/sport/rad/rad-wm/bahnrad-wm-in-schanghai-vogel-geht-nach-flucht-die-energie-aus-leu-in-top-10",
-     "time": "2026-10-15T12:13:02Z"
+     "title": "«SRF 3 Best Talent» im Oktober – «Für mich war Musik schon immer ein Auffangort»",
+     "url": "https://www.srf.ch/radio-srf-3/musik/srf-3-best-talent/srf-3-best-talent-im-oktober-fuer-mich-war-musik-schon-immer-ein-auffangort",
+     "time": "2026-10-15T16:53:33Z"
     },
     {
-     "title": "Produktionsstart für 2027 – Ruag wird drei F-35-Kampfjets in Emmen finalisieren",
-     "url": "https://www.srf.ch/news/schweiz/produktionsstart-fuer-2027-ruag-wird-drei-f-35-kampfjets-in-emmen-finalisieren",
-     "time": "2026-10-15T12:00:20Z"
+     "title": "In eigener Sache – SRG streicht über 200 Stellen in Verwaltung und Bereich Operation",
+     "url": "https://www.srf.ch/news/schweiz/in-eigener-sache-srg-streicht-ueber-200-stellen-in-verwaltung-und-bereich-operation",
+     "time": "2026-10-15T16:47:26Z"
     },
     {
-     "title": "Genferin will in Bundesrat – Amaudruz kandidiert – das war die Medienkonferenz",
-     "url": "https://www.srf.ch/news/schweiz/genferin-will-in-bundesrat-amaudruz-kandidiert-das-war-die-medienkonferenz",
-     "time": "2026-10-15T11:39:53Z"
+     "title": "Kerosinknappheit – Flughafen Zürich droht Kerosin-Engpass – Bund öffnet Pflichtlager",
+     "url": "https://www.srf.ch/news/schweiz/kerosinknappheit-flughafen-zuerich-droht-kerosin-engpass-bund-oeffnet-pflichtlager",
+     "time": "2026-10-15T16:25:52Z"
     },
     {
-     "title": "Pilotprojekt für Skiabo – Per Zug zur Magic-Pass-Piste: Bern und Obwalden stellen sich quer",
-     "url": "https://www.srf.ch/news/dialog/pilotprojekt-fuer-skiabo-per-zug-zur-magic-pass-piste-bern-und-obwalden-stellen-sich-quer",
-     "time": "2026-10-15T11:25:55Z"
+     "title": "Kulturnews in Kurzform – «Titeuf»: Comic-Originale für 150'000 Franken versteigert",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-titeuf-comic-originale-fuer-150-000-franken-versteigert",
+     "time": "2026-10-15T15:57:56Z"
     },
     {
-     "title": "Pakistan – Einsturz von Schuldach fordert zahlreiche Menschenleben",
-     "url": "https://www.srf.ch/news/international/pakistan-einsturz-von-schuldach-fordert-zahlreiche-menschenleben",
-     "time": "2026-10-15T10:35:31Z"
+     "title": "Livestream-Kontroverse USA – Trump: Hinrichtung soll nun doch nicht übertragen werden",
+     "url": "https://www.srf.ch/news/international/livestream-kontroverse-usa-trump-hinrichtung-soll-nun-doch-nicht-uebertragen-werden",
+     "time": "2026-10-15T15:55:44Z"
     },
     {
-     "title": "Nachfolge von Parmelin – Diese Positionen vertritt Céline Amaudruz",
-     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-parmelin-diese-positionen-vertritt-celine-amaudruz",
-     "time": "2026-10-15T10:15:04Z"
+     "title": "Jugend im Westjordanland – Eine (ganze) palästinensische Generation wird alleine gelassen",
+     "url": "https://www.srf.ch/news/international/nahost/jugend-im-westjordanland-eine-ganze-palaestinensische-generation-wird-alleine-gelassen",
+     "time": "2026-10-15T15:49:51Z"
     },
     {
-     "title": "Überraschende Baby-News – Hilary Swank ist mit 52 Jahren wieder schwanger",
-     "url": "https://www.srf.ch/news/gesellschaft/ueberraschende-baby-news-hilary-swank-ist-mit-52-jahren-wieder-schwanger",
-     "time": "2026-10-15T10:13:24Z"
+     "title": "Ski-WM 2027 in Crans-Montana – Co-Präsidium: Nachfolge von Schmidhalter geregelt",
+     "url": "https://www.srf.ch/sport/ski-alpin/ski-alpin-allgemein/ski-wm-2027-in-crans-montana-co-praesidium-nachfolge-von-schmidhalter-geregelt",
+     "time": "2026-10-15T15:38:57Z"
     },
     {
-     "title": "Grosser Erzähler – Der Schweizer Autor Gerold Späth ist gestorben",
-     "url": "https://www.srf.ch/kultur/literatur/grosser-erzaehler-der-schweizer-autor-gerold-spaeth-ist-gestorben",
-     "time": "2026-10-15T10:10:00Z"
+     "title": "«Er schrieb überbordend» – Der Schweizer Autor Gerold Späth ist gestorben",
+     "url": "https://www.srf.ch/kultur/literatur/er-schrieb-ueberbordend-der-schweizer-autor-gerold-spaeth-ist-gestorben",
+     "time": "2026-10-15T15:28:17Z"
     },
     {
-     "title": "Nach CS-Untergang – Bundesgericht: Doch keine Boni für CS-Kader",
-     "url": "https://www.srf.ch/news/schweiz/nach-cs-untergang-bundesgericht-doch-keine-boni-fuer-cs-kader",
-     "time": "2026-10-15T10:00:00Z"
+     "title": "Trainingssturz in Chile – Kilde zieht sich Achillessehnenriss zu",
+     "url": "https://www.srf.ch/sport/ski-alpin/trainingssturz-in-chile-kilde-zieht-sich-achillessehnenriss-zu",
+     "time": "2026-10-15T15:14:14Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Uccise tre donne a Roma, ergastolo confermato per il femminicida",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/uccise-tre-donne-a-roma-ergastolo-confermato-per-il-femminicida_99e48f08-77ed-4c0b-8e69-a6288b77d6bd.html",
-     "time": "2026-10-15T12:38:31Z"
+     "title": "Fonti militari, 4 morti nel raid Houthi contro la sede presidenziale di Aden",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/fonti-militari-4-morti-nel-raid-houthi-contro-la-sede-presidenziale-di-aden_0240c2c3-89ef-46f5-b70b-7ffe396a8f6e.html",
+     "time": "2026-10-15T16:31:37Z"
     },
     {
-     "title": "Al via la rottamazione di bolli e multe, domande da domani",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/al-via-la-rottamazione-di-bolli-e-multe-domande-da-domani_d05d7111-8daf-4a4f-a405-c1502c64fdbf.html",
-     "time": "2026-10-15T12:35:46Z"
+     "title": "Il prezzo del gas viaggia in calo poco sopra gli 86 euro al megawattora",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/il-prezzo-del-gas-viaggia-in-calo-poco-sopra-gli-86-euro-al-megawattora_1a3f7c11-16ee-4fb7-917a-240afef01e62.html",
+     "time": "2026-10-15T16:30:23Z"
     },
     {
-     "title": "Il Papa fa fisioterapia, buona ripresa del polmone operato",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/il-papa-fa-fisioterapia-buona-ripresa-del-polmone-operato_fdf0e1c8-6ee2-479e-84e6-8885c95252db.html",
-     "time": "2026-10-15T12:05:38Z"
+     "title": "Lo spread tra Btp e Bund chiude in calo a 107 punti base",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/lo-spread-tra-btp-e-bund-chiude-in-calo-a-107-punti-base_7ac68b23-d7d9-4c06-96c5-8cdf7b9cad3d.html",
+     "time": "2026-10-15T16:08:54Z"
     },
     {
-     "title": "Bagno di folla per Harry e Meghan nel primo impegno pubblico dopo rientro in Gb",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/bagno-di-folla-per-harry-e-meghan-nel-primo-impegno-pubblico-dopo_2e7018dc-396e-4e39-a664-ae7e43e5fb11.html",
-     "time": "2026-10-15T12:05:11Z"
+     "title": "'Gb invia a Kiev altri missili Storm Shadow per contrastare attacchi russi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/gb-invia-a-kiev-altri-missili-storm-shadow-per-contrastare-attacchi-russi_3fa267b9-aaff-413c-a46d-1c9390406c26.html",
+     "time": "2026-10-15T16:08:36Z"
     },
     {
-     "title": "Mattarella promulga la 'giornata carta' ma avverte, aumentano vertiginosamente",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/mattarella-promulga-la-giornata-carta-ma-avverte-aumentano-vertiginosamente_7b133423-983e-4913-813e-b2591b6497c6.html",
-     "time": "2026-10-15T11:43:15Z"
+     "title": "La Casa Bianca replica a Meloni, 'quello sul diesel un grande accordo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/la-casa-bianca-replica-a-meloni-quello-sul-diesel-un-grande-accordo_906f031e-fbb2-454f-9eae-5cd877542568.html",
+     "time": "2026-10-15T16:06:37Z"
     },
     {
-     "title": "Conte, pronti al tavolo di programma anche per il progetto di politica estera",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/conte-pronti-al-tavolo-di-programma-anche-per-il-progetto-di-politica-estera_98b75d71-0571-4c75-834b-58c9ef7b9e69.html",
-     "time": "2026-10-15T11:42:22Z"
+     "title": "Parolin, se il Papa starà meglio farà l'Angelus dal Gemelli",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/parolin-se-il-papa-stara-meglio-fara-langelus-dal-gemelli_f840c23d-33f4-4cdd-86ed-46983777c717.html",
+     "time": "2026-10-15T16:05:45Z"
     },
     {
-     "title": "Media, 'perquisito e fermato il caporedattore di Novaya Gazeta",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/media-perquisito-e-fermato-il-caporedattore-di-novaya-gazeta_f46a7f1d-8d60-4477-ae75-7d22f1ae8a26.html",
-     "time": "2026-10-15T11:33:29Z"
+     "title": "Parolin, preoccupato per il Papa ma mi fido dei medici",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/parolin-preoccupato-per-il-papa-ma-mi-fido-dei-medici_6baa3fcb-7488-44cd-a081-b62fa1fe8c48.html",
+     "time": "2026-10-15T16:00:37Z"
     },
     {
-     "title": "Russo (Conftrasporto), senza risposte governo rischio fermo nazionale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/russo-conftrasporto-senza-risposte-governo-rischio-fermo-nazionale_3a83d883-2c4c-4e19-9deb-0bc0d0e9608b.html",
-     "time": "2026-10-15T11:28:33Z"
+     "title": "Oggi al voto i diplomatici israeliani nel mondo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/oggi-al-voto-i-diplomatici-israeliani-nel-mondo_3b10033e-9e17-4154-a83e-c56c71747279.html",
+     "time": "2026-10-15T15:52:33Z"
     },
     {
-     "title": "Mazzi, il 22 ottobre Salvini presenta a Stato-Regioni il bando tipo per i balneari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/mazzi-il-22-ottobre-salvini-presenta-a-stato-regioni-il-bando-tipo-per-i-balneari_46a4a330-b4e3-42bd-b238-4bda7aebf3b7.html",
-     "time": "2026-10-15T11:07:09Z"
+     "title": "Borsa: l'Europa strappa il rialzo, Parigi chiude a +0,78%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/borsa-leuropa-strappa-il-rialzo-parigi-chiude-a-078_a96261d3-e490-418c-b450-216736d1af76.html",
+     "time": "2026-10-15T15:51:55Z"
     },
     {
-     "title": "Presidente rumeno, le due petroliere a fuoco per droni russi nel nostro spazio aereo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/presidente-rumeno-le-due-petroliere-a-fuoco-per-droni-russi-nel-nostro_e103bb7a-ee23-4b15-b92c-95d0c5f3ec13.html",
-     "time": "2026-10-15T11:00:14Z"
+     "title": "Borsa: Milano chiude a -0,72%, pesano i tecnologici",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/borsa-milano-chiude-a-072-pesano-i-tecnologici_125c46ec-16a9-4ff9-81b5-fd34c5d4e257.html",
+     "time": "2026-10-15T15:42:32Z"
     }
    ]
   },
@@ -215,24 +215,34 @@
    "countries": [],
    "items": [
     {
-     "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-     "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T12:28:26Z"
-    },
-    {
      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T12:03:51Z"
+     "time": "2026-10-15T16:50:18Z"
+    },
+    {
+     "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+     "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T16:28:10Z"
+    },
+    {
+     "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+     "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T16:15:06Z"
+    },
+    {
+     "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+     "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T15:26:16Z"
+    },
+    {
+     "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+     "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-15T14:51:30Z"
     },
     {
      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-15T11:25:19Z"
-    },
-    {
-     "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
-     "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T11:12:54Z"
     },
     {
      "title": "Obama says drift towards extremism 'not inevitable'",
@@ -250,14 +260,9 @@
      "time": "2026-10-15T10:05:17Z"
     },
     {
-     "title": "White House defends new press secretary amid questions about her legal credentials",
+     "title": "White House defends new press secretary over her legal credentials",
      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-15T08:41:04Z"
-    },
-    {
-     "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
-     "url": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T08:19:00Z"
     },
     {
      "title": "Actor Imran Khan ordered to leave India after participating in protest",
@@ -268,11 +273,6 @@
      "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
      "url": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-15T07:25:54Z"
-    },
-    {
-     "title": "North Korea and China open new bridge after 12-year delay",
-     "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T06:24:45Z"
     }
    ]
   }
