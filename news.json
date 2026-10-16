@@ -1,6 +1,6 @@
 {
- "version": 49,
- "updated": "2026-10-16T09:14:16Z",
+ "version": 50,
+ "updated": "2026-10-16T14:10:55Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
-     "url": "https://www.tagesschau.de/video/video-1667176.html",
-     "time": "2026-10-16T08:45:37Z"
+     "title": "Gefährliche Mutproben: Bundesrat fordert mehr Schutz von Minderjährigen im Netz",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-bundesrat-100.html",
+     "time": "2026-10-16T13:29:07Z"
     },
     {
-     "title": "Bundestag beschließt \"Frühstartrente\"",
-     "url": "https://www.tagesschau.de/video/video-1667172.html",
-     "time": "2026-10-16T08:43:45Z"
-    },
-    {
-     "title": "Christian Saathoff, ARD-aktuell, zur Debatte um den EU-Haushalt",
-     "url": "https://www.tagesschau.de/video/video-1667160.html",
-     "time": "2026-10-16T08:21:33Z"
-    },
-    {
-     "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
-     "time": "2026-10-16T08:16:46Z"
-    },
-    {
-     "title": "Marktbericht: DAX startet mit Gewinnen",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-     "time": "2026-10-16T08:12:55Z"
-    },
-    {
-     "title": "Bundeseigene Wohnungsbaugesellschaft soll 2027 starten",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/hubertz-wohnungsbaugesellschaft-100.html",
-     "time": "2026-10-16T08:04:20Z"
-    },
-    {
-     "title": "Bundestag beschließt Anhebung der Tabaksteuer",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
-     "time": "2026-10-16T07:55:57Z"
-    },
-    {
-     "title": "Lars Klingbeil, Bundesfinanzminister, zur Erhöhung der Tabaksteuer",
-     "url": "https://www.tagesschau.de/video/video-1667146.html",
-     "time": "2026-10-16T07:52:26Z"
-    },
-    {
-     "title": "In New Yorks \"Little Haiti\" geht die Angst um",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-haitianer-angst-abschiebung-100.html",
-     "time": "2026-10-16T07:04:17Z"
-    },
-    {
-     "title": "Wie subversiv ist Kinderfernsehen noch?",
-     "url": "https://www.tagesschau.de/kultur/unbequemes-kinder-fernsehen-100.html",
-     "time": "2026-10-16T07:02:03Z"
-    },
-    {
-     "title": "\"Sculpture by the Sea\", Teufelsrochen, Kunstwerk von Olafur Eliasson",
+     "title": "Klettern in der Sächsischen Schweiz, Fensterputzer an der Reichstagskuppel, \"Sculpture by the Sea\"",
      "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10508.html",
-     "time": "2026-10-16T06:43:49Z"
+     "time": "2026-10-16T13:24:35Z"
     },
     {
-     "title": "Welternährungstag der UN: Der Kampf gegen Hunger kommt kaum voran",
-     "url": "https://www.tagesschau.de/ausland/europa/welternaehrungstag-100.html",
-     "time": "2026-10-16T06:19:43Z"
+     "title": "Altersvorsorge ab 6. Lebensjahr: Frühstartrente beschlossen",
+     "url": "https://www.tagesschau.de/video/video-1667346.html",
+     "time": "2026-10-16T13:16:53Z"
+    },
+    {
+     "title": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
+     "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
+     "time": "2026-10-16T13:13:40Z"
+    },
+    {
+     "title": "Streit über Wehrdienst für Ultraorthodoxe in Israel",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-wehrpflicht-ultraorthodox-100.html",
+     "time": "2026-10-16T12:59:58Z"
+    },
+    {
+     "title": "Noch mehr Eigentum westlicher Firmen unter Kreml-Kontrolle",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-vermoegen-deutscher-firmen-staatliche-kontrolle-100.html",
+     "time": "2026-10-16T12:38:24Z"
+    },
+    {
+     "title": "Welche Tabakware wie viel teurer wird",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/ueberblick-tabaksteuer-100.html",
+     "time": "2026-10-16T12:38:22Z"
+    },
+    {
+     "title": "Susanne Petersohn, ARD Kiew, zur aktuellen Lage in der Ukraine",
+     "url": "https://www.tagesschau.de/video/video-1667322.html",
+     "time": "2026-10-16T12:26:26Z"
+    },
+    {
+     "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
+     "time": "2026-10-16T12:17:39Z"
+    },
+    {
+     "title": "Tina Hassel, ARD Brüssel, zum geplanten 22. Sanktionspaket gegen Russland",
+     "url": "https://www.tagesschau.de/video/video-1667316.html",
+     "time": "2026-10-16T12:09:20Z"
+    },
+    {
+     "title": "Deutschland und Frankreich einigen sich auf Aufweichung von Verbrenner-Aus",
+     "url": "https://www.tagesschau.de/video/video-1667312.html",
+     "time": "2026-10-16T12:06:03Z"
+    },
+    {
+     "title": "Vorstand der Berliner Linksfraktion trifft sich zu Sondersitzung",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/beratungen-vorstand-linksfraktion-berlin-100.html",
+     "time": "2026-10-16T11:59:27Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Krieg in der Ukraine – EU bekräftigt Unterstützung für Ukraine",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-eu-bekraeftigt-unterstuetzung-fuer-ukraine",
-     "time": "2026-10-16T08:45:07Z"
+     "title": "Normen und ihr Nutzen – Diese Normen begegnen Ihnen schon am frühen Morgen",
+     "url": "https://www.srf.ch/radio-srf-1/normen-und-ihr-nutzen-diese-normen-begegnen-ihnen-schon-am-fruehen-morgen",
+     "time": "2026-10-16T14:06:30Z"
     },
     {
-     "title": "Selbstfahrende Autos – Robotaxis: Was bei der Testfahrt klappt – und was nicht",
-     "url": "https://www.srf.ch/wissen/mobilitaet/selbstfahrende-autos-robotaxis-was-bei-der-testfahrt-klappt-und-was-nicht",
-     "time": "2026-10-16T07:39:24Z"
+     "title": "Kulturnews in Kurzform – «The Batman II»: Steven Soderbergh springt bei Dreharbeiten ein",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-the-batman-ii-steven-soderbergh-springt-bei-dreharbeiten-ein",
+     "time": "2026-10-16T13:42:12Z"
+    },
+    {
+     "title": "Lachgas-Unfall in Arisdorf BL – Unfallfahrer bekommt längere Freiheitsstrafe",
+     "url": "https://www.srf.ch/news/schweiz/lachgas-unfall-in-arisdorf-bl-unfallfahrer-bekommt-laengere-freiheitsstrafe",
+     "time": "2026-10-16T13:35:27Z"
     },
     {
      "title": "Störung bei Flugsicherung – Flugverkehr über Italien gestört – auch Swiss betroffen",
      "url": "https://www.srf.ch/news/international/stoerung-bei-flugsicherung-flugverkehr-ueber-italien-gestoert-auch-swiss-betroffen",
-     "time": "2026-10-16T07:38:46Z"
+     "time": "2026-10-16T13:18:07Z"
     },
     {
-     "title": "Legende erreicht Meilenstein – Keiner steht so für GC wie er: Abrashi vor seinem 300. Spiel",
-     "url": "https://www.srf.ch/sport/fussball/super-league/legende-erreicht-meilenstein-keiner-steht-so-fuer-gc-wie-er-abrashi-vor-seinem-300-spiel",
-     "time": "2026-10-16T07:18:44Z"
+     "title": "– Flugverkehr über Italien gestört – auch Swiss betroffen",
+     "url": "https://www.srf.ch/news/international/stoerung-bei-flugsicherung-flugverkehr-ueber-italien-gestoert-auch-swiss-betroffen",
+     "time": "2026-10-16T13:18:07Z"
     },
     {
-     "title": "Fliegendes Auto – Teslas neuer Roadster hebt ab – dank Raketendüsen",
-     "url": "https://www.srf.ch/news/wirtschaft/fliegendes-auto-teslas-neuer-roadster-hebt-ab-dank-raketenduesen",
-     "time": "2026-10-16T06:47:46Z"
+     "title": "Neues Album von Fontaines D.C. – Irlands neue Rock-Giganten erobern bald die Stadien",
+     "url": "https://www.srf.ch/radio-srf-3/musik/neues-album-von-fontaines-d-c-irlands-neue-rock-giganten-erobern-bald-die-stadien",
+     "time": "2026-10-16T13:13:15Z"
     },
     {
-     "title": "Teure Krankenkasse – Sparen mit Telmed-Modellen: So vermeiden Sie böse Überraschungen",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/teure-krankenkasse-sparen-mit-telmed-modellen-so-vermeiden-sie-boese-ueberraschungen",
-     "time": "2026-10-16T06:00:20Z"
+     "title": "Nach Lungenkrebs-Operation – Papst Leo hält bereits wieder eine Messe",
+     "url": "https://www.srf.ch/news/international/nach-lungenkrebs-operation-papst-leo-haelt-bereits-wieder-eine-messe",
+     "time": "2026-10-16T13:04:24Z"
     },
     {
-     "title": "Nati-Stürmer hat eingeschlagen – Simon Knak, Zürich und der ZSC – das passt",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/nati-stuermer-hat-eingeschlagen-simon-knak-zuerich-und-der-zsc-das-passt",
-     "time": "2026-10-16T05:49:13Z"
+     "title": "EU setzt auf Heimatschutz – «Made in Europe» – für die Schweiz kein Problem (mehr)?",
+     "url": "https://www.srf.ch/news/international/eu-setzt-auf-heimatschutz-made-in-europe-fuer-die-schweiz-kein-problem-mehr",
+     "time": "2026-10-16T13:00:43Z"
     },
     {
-     "title": "Krieg im Nahen Osten – China fordert Israel zum Stopp des Siedlungsbaus auf",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-china-fordert-israel-zum-stopp-des-siedlungsbaus-auf",
-     "time": "2026-10-16T05:44:58Z"
+     "title": "Krieg in der Ukraine – EU bekräftigt Unterstützung für Ukraine",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-eu-bekraeftigt-unterstuetzung-fuer-ukraine",
+     "time": "2026-10-16T12:53:18Z"
     },
     {
-     "title": "Gesundheitsrisiko – Rohes Poulet: Migros ruft vier Bowls zurück",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/gesundheitsrisiko-rohes-poulet-migros-ruft-vier-bowls-zurueck",
-     "time": "2026-10-16T05:40:25Z"
+     "title": "Kunstturn-WM in Rotterdam – Die erste WM nach der neuen Schweizer Zeitrechnung",
+     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-in-rotterdam-die-erste-wm-nach-der-neuen-schweizer-zeitrechnung",
+     "time": "2026-10-16T12:51:38Z"
     },
     {
-     "title": "Auswärtsspiele in der NL – 13'000 Kilometer: Die Genfer sitzen am längsten im Car",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/auswaertsspiele-in-der-nl-13-000-kilometer-die-genfer-sitzen-am-laengsten-im-car",
-     "time": "2026-10-16T04:15:05Z"
+     "title": "Debatte zum Sprachunterricht – «dialog»-Community: «Mehrsprachigkeit ist die Stärke der Schweiz»",
+     "url": "https://www.srf.ch/news/dialog/debatte-zum-sprachunterricht-dialog-community-mehrsprachigkeit-ist-die-staerke-der-schweiz",
+     "time": "2026-10-16T12:50:21Z"
     },
     {
-     "title": "Geteilte Meinungen – Vor der Grippe-Saison: Inwiefern lohnt sich die Impfung?",
-     "url": "https://www.srf.ch/news/schweiz/geteilte-meinungen-vor-der-grippe-saison-inwiefern-lohnt-sich-die-impfung",
-     "time": "2026-10-16T04:01:15Z"
-    },
-    {
-     "title": "– Vor der Grippe-Saison: Inwiefern lohnt sich die Impfung?",
-     "url": "https://www.srf.ch/news/schweiz/geteilte-meinungen-vor-der-grippe-saison-inwiefern-lohnt-sich-die-impfung",
-     "time": "2026-10-16T04:01:15Z"
+     "title": "1944 geflüchtet – Von der Schweiz ausgeliefert, von Nazis erschossen",
+     "url": "https://www.srf.ch/news/schweiz/1944-gefluechtet-von-der-schweiz-ausgeliefert-von-nazis-erschossen",
+     "time": "2026-10-16T12:35:44Z"
     }
    ]
   },
@@ -157,54 +157,49 @@
    ],
    "items": [
     {
-     "title": "Kallas, 'situazione grave in Ucraina, sarà un inverno duro'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/kallas-situazione-grave-in-ucraina-sara-un-inverno-duro_6d476b1b-75f1-407b-a721-8032964b3d11.html",
-     "time": "2026-10-16T08:41:18Z"
+     "title": "Wall Street apre cauta, Dj +0,33%, Nasdaq -0,14%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/wall-street-apre-cauta-dj-033-nasdaq-014_380db037-af09-4b74-b451-66fe1fcbf34d.html",
+     "time": "2026-10-16T13:35:17Z"
     },
     {
-     "title": "Una nuova protesta del 'Partito delle blatte' è prevista oggi a New Delhi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/una-nuova-protesta-del-partito-delle-blatte-e-prevista-oggi-a-new_4ec5fdf9-cc69-49bd-a4d3-41e351557e59.html",
-     "time": "2026-10-16T08:40:55Z"
+     "title": "Partono gli avvisi di cassa integrazione a zero ore per i dipendenti ex Ilva",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/partono-gli-avvisi-di-cassa-integrazione-a-zero-ore-per-i-dipendenti-ex-ilva_90091564-5d51-4ff8-815b-5f298674bb24.html",
+     "time": "2026-10-16T13:18:14Z"
     },
     {
-     "title": "Kiev, 'raid russi nella regione al confine con la Polonia, 370.000 senza luce'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/kiev-raid-russi-nella-regione-al-confine-con-la-polonia-370.000-senza_52186e65-6519-4c09-af6c-2fb3b0ba4313.html",
-     "time": "2026-10-16T08:39:52Z"
+     "title": "Il petrolio è in calo a New York a 97,55 dollari",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/il-petrolio-e-in-calo-a-new-york-a-9755-dollari_e995c192-403d-4656-8fc3-c44efbd4ccc0.html",
+     "time": "2026-10-16T13:15:51Z"
     },
     {
-     "title": "Costa a Zelensky, 'il sostegno dell'Europa a Kiev più forte che mai'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/costa-a-zelensky-il-sostegno-delleuropa-a-kiev-piu-forte-che-mai_f309c9b4-005b-4f77-942e-ac8a7186413c.html",
-     "time": "2026-10-16T08:38:02Z"
+     "title": "Zelensky all'Ue, 'la guerra nel 2027 costerà 155 miliardi, ne chiedo 70 a voi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/zelensky-allue-la-guerra-nel-2027-costera-155-miliardi-ne-chiedo-70-a-voi_4ed7eb0c-3bc0-405f-acd4-1419ec022145.html",
+     "time": "2026-10-16T13:06:01Z"
     },
     {
-     "title": "Zelensky, 'ringrazio l'Ue e i leader europei per il sostegno, veri leader'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/zelensky-ringrazio-lue-e-i-leader-europei-per-il-sostegno-veri-leader_75e9a8bd-6820-44cf-8aae-84a176d5ef46.html",
-     "time": "2026-10-16T08:36:40Z"
+     "title": "Bankitalia, pil 2026 +1%, con nuovo balzo greggio 2027-28 in negativo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/bankitalia-pil-2026-1-con-nuovo-balzo-greggio-2027-28-in-negativo_cb5f0f87-52af-4bae-8933-3fdaab244c35.html",
+     "time": "2026-10-16T13:02:36Z"
     },
     {
-     "title": "Von der Leyen, 'Mosca vuole distruggere le infrastrutture energetiche ucraine'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/von-der-leyen-mosca-vuole-distruggere-le-infrastrutture-energetiche-ucraine_620290b0-495f-408d-af0e-2a65317721bd.html",
-     "time": "2026-10-16T08:35:31Z"
+     "title": "Musk lancia Roadster, la sua pima auto volante",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/musk-lancia-roadster-la-sua-pima-auto-volante_cb191426-d10c-41a2-893b-dc9acac7d8d9.html",
+     "time": "2026-10-16T12:44:30Z"
     },
     {
-     "title": "Zacharia minimizza polemiche su qualifica avvocato, 'fatto esame senza sapere l'esito'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/zacharia-minimizza-polemiche-su-qualifica-avvocato-fatto-esame-senza-sapere-lesito_d3d41813-9a59-4317-b8b8-d4cbbfaef72a.html",
-     "time": "2026-10-16T08:33:34Z"
+     "title": "Sala stampa vaticana, 'l'Angelus del Papa ci sarà'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/sala-stampa-vaticana-langelus-del-papa-ci-sara_442a4439-8466-45c1-8afd-f31b920da442.html",
+     "time": "2026-10-16T12:37:39Z"
     },
     {
-     "title": "Alle 23 termina lo sciopero a ex Ilva Taranto, rimosso blocco raffineria Eni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/alle-23-termina-lo-sciopero-a-ex-ilva-taranto-rimosso-blocco-raffineria-eni_37ece41f-85e3-4612-9752-498496c5c394.html",
-     "time": "2026-10-16T08:07:02Z"
+     "title": "Zelensky, 'l'Europa ha i Patriot necessari per farci superare l'inverno'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/zelensky-leuropa-ha-i-patriot-necessari-per-farci-superare-linverno_5a23b510-c601-472c-b49e-dfb150373540.html",
+     "time": "2026-10-16T12:21:44Z"
     },
     {
-     "title": "Carburanti poco mossi, in media self benzina a 2,034 euro, gasolio a 2,256",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/carburanti-poco-mossi-in-media-self-benzina-a-2034-euro-gasolio-a-2256_d14cb8fe-c68e-4bf3-b186-2325a25d8687.html",
-     "time": "2026-10-16T07:49:38Z"
-    },
-    {
-     "title": "Tajani, 'con le banche servono prudenza e dialogo, no alle scelte imposte'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/tajani-con-le-banche-servono-prudenza-e-dialogo-no-alle-scelte-imposte_7b3b6d5e-6d63-488a-b4ed-5bea0033074e.html",
-     "time": "2026-10-16T07:48:05Z"
+     "title": "Cremlino, 'concordiamo con Trump, Zelensky non si assume responsabilità per la pace'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/cremlino-concordiamo-con-trump-zelensky-non-si-assume-responsabilita-per-la-pace_96e8dce4-7576-4b20-977b-5c126fc9c8eb.html",
+     "time": "2026-10-16T12:18:34Z"
     }
    ]
   },
@@ -215,9 +210,29 @@
    "countries": [],
    "items": [
     {
-     "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+     "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T14:02:24Z"
+    },
+    {
+     "title": "Zelensky says Ukraine has right to defend itself after Trump criticism",
      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T08:47:17Z"
+     "time": "2026-10-16T13:25:48Z"
+    },
+    {
+     "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+     "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T13:01:06Z"
+    },
+    {
+     "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+     "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T12:16:42Z"
+    },
+    {
+     "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+     "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T11:40:41Z"
     },
     {
      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
@@ -240,11 +255,6 @@
      "time": "2026-10-16T04:57:28Z"
     },
     {
-     "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-     "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T03:45:09Z"
-    },
-    {
      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-15T23:38:46Z"
@@ -258,21 +268,6 @@
      "title": "Are student protests being manipulated ahead of France's presidential election?",
      "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-15T23:25:06Z"
-    },
-    {
-     "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T22:46:49Z"
-    },
-    {
-     "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-     "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T22:37:21Z"
-    },
-    {
-     "title": "At the scene of a school roof collapse in Pakistan",
-     "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T20:31:02Z"
     }
    ]
   }
