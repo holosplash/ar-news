@@ -1,6 +1,6 @@
 {
- "version": 47,
- "updated": "2026-10-15T23:47:43Z",
+ "version": 48,
+ "updated": "2026-10-16T04:19:21Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,21 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
+     "time": "2026-10-16T03:00:25Z"
+    },
+    {
+     "title": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
+     "time": "2026-10-16T01:23:51Z"
+    },
+    {
+     "title": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+     "url": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
+     "time": "2026-10-16T01:17:45Z"
+    },
     {
      "title": "Bundestag beschließt Anhebung der Tabaksteuer",
      "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
@@ -58,21 +73,6 @@
      "title": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
      "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
      "time": "2026-10-15T19:53:38Z"
-    },
-    {
-     "title": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
-     "url": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
-     "time": "2026-10-15T19:20:05Z"
-    },
-    {
-     "title": "Leverkusen löst Pflichtaufgabe gegen Posen mit Bravour",
-     "url": "https://www.sportschau.de/regional/wdr/wdr-leverkusen-loest-pflichtaufgabe-lech-posen-mit-bravour-100.html",
-     "time": "2026-10-15T18:38:00Z"
-    },
-    {
-     "title": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
-     "url": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
-     "time": "2026-10-15T18:22:56Z"
     }
    ]
   },
@@ -84,6 +84,21 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Geteilte Meinungen – Vor der Grippe-Saison: Inwiefern lohnt sich die Impfung?",
+     "url": "https://www.srf.ch/news/schweiz/geteilte-meinungen-vor-der-grippe-saison-inwiefern-lohnt-sich-die-impfung",
+     "time": "2026-10-16T04:01:15Z"
+    },
+    {
+     "title": "Hockey auf Plastik statt Eis – Warum immer mehr Städte auf Kunststoff-Eisfelder setzen",
+     "url": "https://www.srf.ch/news/hockey-auf-plastik-statt-eis-warum-immer-mehr-staedte-auf-kunststoff-eisfelder-setzen",
+     "time": "2026-10-16T03:53:34Z"
+    },
+    {
+     "title": "Gesetzeslücke bei Wildtieren – Verletzten Igel gefunden: Wer zahlt die Tierarztrechnung?",
+     "url": "https://www.srf.ch/news/schweiz/gesetzesluecke-bei-wildtieren-verletzten-igel-gefunden-wer-zahlt-die-tierarztrechnung",
+     "time": "2026-10-16T03:52:28Z"
+    },
     {
      "title": "Krieg in der Ukraine – Menschen in Kiew und Umland ohne Strom",
      "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-menschen-in-kiew-und-umland-ohne-strom",
@@ -125,24 +140,9 @@
      "time": "2026-10-15T17:50:59Z"
     },
     {
-     "title": "LHC-Stürmer startet durch – Rüegsegger: Endlich angekommen in der National League",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/lhc-stuermer-startet-durch-rueegsegger-endlich-angekommen-in-der-national-league",
-     "time": "2026-10-15T17:01:09Z"
-    },
-    {
-     "title": "Nachfolge von Guy Parmelin – Erste Bundesratskandidatur: Ist Bundesrat noch ein Traumjob?",
-     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-erste-bundesratskandidatur-ist-bundesrat-noch-ein-traumjob",
-     "time": "2026-10-15T16:56:50Z"
-    },
-    {
-     "title": "«SRF 3 Best Talent» im Oktober – «Für mich war Musik schon immer ein Auffangort»",
-     "url": "https://www.srf.ch/radio-srf-3/musik/srf-3-best-talent/srf-3-best-talent-im-oktober-fuer-mich-war-musik-schon-immer-ein-auffangort",
-     "time": "2026-10-15T16:53:33Z"
-    },
-    {
-     "title": "In eigener Sache – SRG streicht über 200 Stellen in Verwaltung und Bereich Operation",
-     "url": "https://www.srf.ch/news/schweiz/in-eigener-sache-srg-streicht-ueber-200-stellen-in-verwaltung-und-bereich-operation",
-     "time": "2026-10-15T16:47:26Z"
+     "title": "– «Präsident Trump hat seine Versprechen gehalten»",
+     "url": "https://www.srf.ch/news/international/usa/evangelikale-vor-den-midterms-praesident-trump-hat-seine-versprechen-gehalten",
+     "time": "2026-10-15T17:50:59Z"
     }
    ]
   },
@@ -156,6 +156,26 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Machado denuncia, 'esclusa dai negoziati sul futuro del Venezuela'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/machado-denuncia-esclusa-dai-negoziati-sul-futuro-del-venezuela_363eade4-c218-4900-b4e0-c7ec465d22c5.html",
+     "time": "2026-10-16T02:05:03Z"
+    },
+    {
+     "title": "'L'ordine di rallentare Starlink all'Ucraina arrivato da dentro la Casa Bianca'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/lordine-di-rallentare-starlink-allucraina-arrivato-da-dentro-la-casa-bianca_a3893c68-ebdb-4aed-804e-c1e64b210f01.html",
+     "time": "2026-10-16T01:37:37Z"
+    },
+    {
+     "title": "Media, ucraini lanciano vasto attacco con droni su regioni russe",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/media-ucraini-lanciano-vasto-attacco-con-droni-su-regioni-russe_8ff6eee0-b94d-4b04-8cde-9bf757686b0b.html",
+     "time": "2026-10-16T00:28:50Z"
+    },
+    {
+     "title": "Droni russi su Sepetivka, brucia un deposito di petrolio",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/droni-russi-su-sepetivka-brucia-un-deposito-di-petrolio_7b06e635-0837-4d93-821e-ea4686192ef3.html",
+     "time": "2026-10-15T23:59:31Z"
+    },
     {
      "title": "Cinque morti nella sparatoria in Oregon, killer è un sedicenne",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/cinque-morti-nella-sparatoria-in-oregon-killer-e-un-sedicenne_8c085a26-9a04-42b6-8b31-8e5ad15fbce3.html",
@@ -185,26 +205,6 @@
      "title": "Polizia Oregon, 'ucciso l'uomo armato nella scuola, ci sono feriti'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/polizia-oregon-ucciso-luomo-armato-nella-scuola-ci-sono-feriti_4d71c236-2b8a-4a69-822a-61b5f354b4d7.html",
      "time": "2026-10-15T21:32:50Z"
-    },
-    {
-     "title": "'Uomo armato in una scuola elementare in Oregon', polizia risponde all'allarme",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/uomo-armato-in-una-scuola-elementare-in-oregon-polizia-risponde-allallarme_7ac0ad7c-57d3-4d96-b0e9-32ce0c41bef8.html",
-     "time": "2026-10-15T21:14:14Z"
-    },
-    {
-     "title": "Lanci di lacrimogeni e incidenti alla manifestazione per le Università in Argentina",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/lanci-di-lacrimogeni-e-incidenti-alla-manifestazione-per-le-universita-in-argentina_7bbfebde-4492-465b-b259-92c5ff2d8a1d.html",
-     "time": "2026-10-15T20:17:19Z"
-    },
-    {
-     "title": "Costa presenterà una nuova proposta negoziale sul Bilancio Ue",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/costa-presentera-una-nuova-proposta-negoziale-sul-bilancio-ue_91f74ed5-b9b7-40a1-81b8-68d6e57f2ef6.html",
-     "time": "2026-10-15T19:49:13Z"
-    },
-    {
-     "title": "Marito e moglie trovati morti in casa nel Modenese, ipotesi omicidio",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/15/marito-e-moglie-trovati-morti-in-casa-nel-modenese-ipotesi-omicidio_839b1c8c-ff68-48a4-9ec9-f18f2ea6e197.html",
-     "time": "2026-10-15T18:51:10Z"
     }
    ]
   },
@@ -214,6 +214,16 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Three children and teacher killed in US primary school shooting",
+     "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T03:45:09Z"
+    },
+    {
+     "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+     "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T01:36:45Z"
+    },
     {
      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
@@ -263,16 +273,6 @@
      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
      "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-15T16:15:06Z"
-    },
-    {
-     "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-     "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T15:26:16Z"
-    },
-    {
-     "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-     "url": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-15T15:00:05Z"
     }
    ]
   }
