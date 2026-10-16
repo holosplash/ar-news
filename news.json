@@ -1,6 +1,6 @@
 {
- "version": 51,
- "updated": "2026-10-16T18:18:18Z",
+ "version": 52,
+ "updated": "2026-10-16T21:37:42Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
+     "time": "2026-10-16T21:15:49Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12914.html",
+     "time": "2026-10-16T20:54:56Z"
+    },
+    {
+     "title": "Trump entlässt Sprecherin des Weißen Hauses, Katie Zacharia",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1667688.html",
+     "time": "2026-10-16T20:43:04Z"
+    },
+    {
+     "title": "Bundesrat fordert mehr Schutz vor lebensgefährlichen Social Media Challenges",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1667676.html",
+     "time": "2026-10-16T20:38:37Z"
+    },
+    {
+     "title": "Tabaksteuer soll deutlich anziehen",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1667662.html",
+     "time": "2026-10-16T20:36:10Z"
+    },
+    {
+     "title": "Gudrun Engel, ARD Washington, zum EU-Gipfel",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1667660.html",
+     "time": "2026-10-16T20:34:18Z"
+    },
+    {
+     "title": "Ergebnisse vom zweiten Tag des EU-Gipfels in Brüssel",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1667658.html",
+     "time": "2026-10-16T20:32:42Z"
+    },
+    {
+     "title": "Kerstin Palzer, ARD Berlin, über den Einfluss der Jungen Union in der Politik",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1667670.html",
+     "time": "2026-10-16T20:28:52Z"
+    },
+    {
+     "title": "Wie kritisch blickt die Junge Union auf Kanzler Merz",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1667666.html",
+     "time": "2026-10-16T20:26:13Z"
+    },
+    {
+     "title": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
+     "url": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
+     "time": "2026-10-16T19:42:41Z"
+    },
+    {
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81430.html",
-     "time": "2026-10-16T18:17:43Z"
+     "time": "2026-10-16T18:51:16Z"
     },
     {
-     "title": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
-     "url": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html",
-     "time": "2026-10-16T18:07:15Z"
-    },
-    {
-     "title": "Papst bittet Putin um Waffenruhe in Oleschky",
-     "url": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
-     "time": "2026-10-16T17:25:17Z"
-    },
-    {
-     "title": "Angriff auf NS-Dokumentationszentrum in Köln",
-     "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html",
-     "time": "2026-10-16T17:12:00Z"
-    },
-    {
-     "title": "Neuer Landtagspräsident Rausch: Juristen kritisieren Doppelamt",
-     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/rausch-landtagspraesident-afd-generalsekretaer,doppelrolle-kritik-100.html",
-     "time": "2026-10-16T17:11:23Z"
-    },
-    {
-     "title": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
-     "url": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html",
-     "time": "2026-10-16T16:59:07Z"
-    },
-    {
-     "title": "Eurowings streicht Flüge und prüft Kurzarbeit",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
-     "time": "2026-10-16T16:52:09Z"
-    },
-    {
-     "title": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-     "time": "2026-10-16T16:22:56Z"
-    },
-    {
-     "title": "Hacker-Angriff auf Uni Halle-Wittenberg",
-     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/uni-halle-wittenberg-bewerbungsdaten-erbeutet,bewerbungsdaten-abgerufen-100.html",
-     "time": "2026-10-16T15:56:16Z"
-    },
-    {
-     "title": "Starlink-Anschlag: Hat Russland die türkische Mafia beauftragt?",
-     "url": "https://www.tagesschau.de/investigativ/starlink-polen-tuerkei-mafia-100.html",
-     "time": "2026-10-16T15:51:42Z"
-    },
-    {
-     "title": "Energieinfrastruktur der Ukraine massiv unter Beschuss, Susanne Petersohn, ARD Kiew, zur Situation in der Ukraine",
-     "url": "https://www.tagesschau.de/video/video-1667398.html",
-     "time": "2026-10-16T15:47:06Z"
-    },
-    {
-     "title": "tagesschau in Einfacher Sprache",
-     "url": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1464.html",
-     "time": "2026-10-16T15:44:04Z"
+     "title": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html",
+     "time": "2026-10-16T18:42:07Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Schnelles Ende – Warum wird die Schaltsekunde abgeschafft?",
-     "url": "https://www.srf.ch/wissen/technik/schnelles-ende-warum-wird-die-schaltsekunde-abgeschafft",
-     "time": "2026-10-16T18:15:06Z"
-    },
-    {
-     "title": "Wegen Absenkung des Gewässers – Wichelsee: Bei Bauarbeiten für einen Fischabstieg sterben Fische",
-     "url": "https://www.srf.ch/news/schweiz/wegen-absenkung-des-gewaessers-wichelsee-bei-bauarbeiten-fuer-einen-fischabstieg-sterben-fische",
-     "time": "2026-10-16T18:12:07Z"
-    },
-    {
-     "title": "IWF-Tagung in Bangkok – Bund und SNB: Zwei Perspektiven auf die globale Wirtschaftslage",
-     "url": "https://www.srf.ch/news/wirtschaft/iwf-tagung-in-bangkok-bund-und-snb-zwei-perspektiven-auf-die-globale-wirtschaftslage",
-     "time": "2026-10-16T18:11:27Z"
+     "title": "Krieg in der Ukraine – Macron: «Wir werden die Ukraine nicht im Stich lassen»",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-macron-wir-werden-die-ukraine-nicht-im-stich-lassen",
+     "time": "2026-10-16T21:02:45Z"
     },
     {
      "title": "Krieg im Nahen Osten – Verletzte nach Siedlerangriffen im Westjordanland",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-verletzte-nach-siedlerangriffen-im-westjordanland",
-     "time": "2026-10-16T18:10:47Z"
+     "time": "2026-10-16T21:02:42Z"
     },
     {
-     "title": "Spekulation um UBS-Exit – Swissness ist für die UBS kein Muss – (aber ein Plus)",
-     "url": "https://www.srf.ch/news/schweiz/spekulation-um-ubs-exit-swissness-ist-fuer-die-ubs-kein-muss-aber-ein-plus",
-     "time": "2026-10-16T18:03:02Z"
+     "title": "National League am Freitag – HCD findet in Lugano zum Siegen zurück – Lions weiter makellos",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-hcd-findet-in-lugano-zum-siegen-zurueck-lions-weiter-makellos",
+     "time": "2026-10-16T20:19:15Z"
     },
     {
-     "title": "Harsche Kritik an Klubführung – Nach öffentlicher Wutrede: ManUniteds Martinez entschuldigt sich",
-     "url": "https://www.srf.ch/sport/fussball/champions-league/harsche-kritik-an-klubfuehrung-nach-oeffentlicher-wutrede-manuniteds-martinez-entschuldigt-sich",
-     "time": "2026-10-16T17:58:43Z"
+     "title": "Schweizer Cup: 2. Runde – Basel atmet früh auf – auch St. Gallen und Servette weiter",
+     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-basel-atmet-frueh-auf-auch-st-gallen-und-servette-weiter",
+     "time": "2026-10-16T20:05:34Z"
     },
     {
-     "title": "National League am Freitag – Audio-Konferenz: Lions empfangen die Lakers – Ambri in Kloten",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-audio-konferenz-lions-empfangen-die-lakers-ambri-in-kloten",
-     "time": "2026-10-16T17:44:50Z"
+     "title": "Neuer Elektro-Trend – Weshalb Citroën die Ente wiederauferstehen lässt",
+     "url": "https://www.srf.ch/news/wirtschaft/neuer-elektro-trend-weshalb-citroen-die-ente-wiederauferstehen-laesst",
+     "time": "2026-10-16T19:16:28Z"
     },
     {
-     "title": "Krieg in der Ukraine – Selenski fordert weitere 70 Milliarden Euro von der EU",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-fordert-weitere-70-milliarden-euro-von-der-eu",
-     "time": "2026-10-16T17:27:08Z"
+     "title": "9. Runde Women's Super League – FCZ dreht Spiel bei Voss-Tecklenburgs Debüt – auch Servette siegt",
+     "url": "https://www.srf.ch/sport/fussball/women-s-super-league/9-runde-women-s-super-league-fcz-dreht-spiel-bei-voss-tecklenburgs-debuet-auch-servette-siegt",
+     "time": "2026-10-16T18:57:32Z"
     },
     {
-     "title": "Von Pionierinnen und Talenten – Frauen übernehmen die Federführung in der Schweizer Comicszene",
-     "url": "https://www.srf.ch/kultur/literatur/von-pionierinnen-und-talenten-frauen-uebernehmen-die-federfuehrung-in-der-schweizer-comicszene",
-     "time": "2026-10-16T17:00:24Z"
+     "title": "Gegen Raser – St. Gallen misst jetzt offiziell Geschwindigkeiten mit Drohnen",
+     "url": "https://www.srf.ch/news/schweiz/gegen-raser-st-gallen-misst-jetzt-offiziell-geschwindigkeiten-mit-drohnen",
+     "time": "2026-10-16T18:53:03Z"
     },
     {
-     "title": "SRG-Wahlbarometer – «Bin schon sehr besorgt» – «Parlament macht es nicht schlecht»",
-     "url": "https://www.srf.ch/news/schweiz/srg-wahlbarometer-bin-schon-sehr-besorgt-parlament-macht-es-nicht-schlecht",
-     "time": "2026-10-16T16:51:36Z"
+     "title": "Konflikt im Jemen – Huthi-Milizen belagern strategisch wichtige Stadt Tais",
+     "url": "https://www.srf.ch/news/international/konflikt-im-jemen-huthi-milizen-belagern-strategisch-wichtige-stadt-tais",
+     "time": "2026-10-16T18:45:38Z"
     },
     {
-     "title": "Erhöhung der Tabaksteuer – Wenn der deutsche Staat genüsslich abkassiert",
-     "url": "https://www.srf.ch/news/international/erhoehung-der-tabaksteuer-wenn-der-deutsche-staat-genuesslich-abkassiert",
-     "time": "2026-10-16T16:44:38Z"
+     "title": "Katie Zacharia – Neue Trump-Sprecherin bei Anwaltsprüfung durchgefallen",
+     "url": "https://www.srf.ch/news/gesellschaft/katie-zacharia-neue-trump-sprecherin-bei-anwaltspruefung-durchgefallen",
+     "time": "2026-10-16T18:43:09Z"
     },
     {
-     "title": "Schatz für die Wissenschaft – Die Universität Bern erhält 29’000 Rohdiamanten für die Forschung",
-     "url": "https://www.srf.ch/news/dialog/schatz-fuer-die-wissenschaft-die-universitaet-bern-erhaelt-29-000-rohdiamanten-fuer-die-forschung",
-     "time": "2026-10-16T16:27:25Z"
+     "title": "– Neue Trump-Sprecherin bei Anwaltsprüfung durchgefallen",
+     "url": "https://www.srf.ch/news/gesellschaft/katie-zacharia-neue-trump-sprecherin-bei-anwaltspruefung-durchgefallen",
+     "time": "2026-10-16T18:43:09Z"
+    },
+    {
+     "title": "Nur wenige Tage im Amt – US-Medien: Trump feuert Sprecherin Zacharia",
+     "url": "https://www.srf.ch/news/gesellschaft/nur-wenige-tage-im-amt-us-medien-trump-feuert-sprecherin-zacharia",
+     "time": "2026-10-16T18:42:11Z"
+    },
+    {
+     "title": "Schnelles Ende – Warum wird die Schaltsekunde abgeschafft?",
+     "url": "https://www.srf.ch/wissen/technik/schnelles-ende-warum-wird-die-schaltsekunde-abgeschafft",
+     "time": "2026-10-16T18:26:40Z"
     }
    ]
   },
@@ -215,6 +215,16 @@
    "countries": [],
    "items": [
     {
+     "title": "Trump denies limiting Ukraine access to Starlink network",
+     "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T19:33:48Z"
+    },
+    {
+     "title": "What we learned from heated US midterm Senate debates",
+     "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T19:09:37Z"
+    },
+    {
      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T18:11:29Z"
@@ -223,11 +233,6 @@
      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T16:00:30Z"
-    },
-    {
-     "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-     "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T15:59:30Z"
     },
     {
      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
@@ -253,11 +258,6 @@
      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
      "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T14:21:32Z"
-    },
-    {
-     "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-     "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T14:19:50Z"
     },
     {
      "title": "India's 'cockroach' party founder detained ahead of protest",
