@@ -1,6 +1,6 @@
 {
- "version": 53,
- "updated": "2026-10-17T00:19:00Z",
+ "version": 54,
+ "updated": "2026-10-17T04:54:39Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,31 @@
    ],
    "items": [
     {
+     "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
+     "url": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html",
+     "time": "2026-10-17T03:23:11Z"
+    },
+    {
+     "title": "Wie sich Bundespolitiker auf Social Media schlagen",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html",
+     "time": "2026-10-17T02:39:05Z"
+    },
+    {
+     "title": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
+     "url": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html",
+     "time": "2026-10-17T01:50:50Z"
+    },
+    {
+     "title": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
+     "url": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html",
+     "time": "2026-10-17T01:43:26Z"
+    },
+    {
+     "title": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
+     "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html",
+     "time": "2026-10-17T01:40:59Z"
+    },
+    {
      "title": "Amazonas in Brasilien: Abholzung auf tiefstem Stand seit 1988",
      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html",
      "time": "2026-10-17T00:05:19Z"
@@ -25,7 +50,7 @@
      "time": "2026-10-16T22:22:52Z"
     },
     {
-     "title": "Ebnoutalib sichert Eintracht Frankfurt den Sieg gegen Köln",
+     "title": "Geistesblitz Aseko, Tor Ebnoutalib - Frankfurt bezwingt Köln",
      "url": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
      "time": "2026-10-16T21:16:05Z"
     },
@@ -48,31 +73,6 @@
      "title": "Bundesrat fordert mehr Schutz vor lebensgefährlichen Social Media Challenges",
      "url": "https://www.tagesschau.de/tagesthemen/video-1667676.html",
      "time": "2026-10-16T20:38:37Z"
-    },
-    {
-     "title": "Tabaksteuer soll deutlich anziehen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1667662.html",
-     "time": "2026-10-16T20:36:10Z"
-    },
-    {
-     "title": "Gudrun Engel, ARD Washington, zum EU-Gipfel",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1667660.html",
-     "time": "2026-10-16T20:34:18Z"
-    },
-    {
-     "title": "Ergebnisse vom zweiten Tag des EU-Gipfels in Brüssel",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1667658.html",
-     "time": "2026-10-16T20:32:42Z"
-    },
-    {
-     "title": "Kerstin Palzer, ARD Berlin, über den Einfluss der Jungen Union in der Politik",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1667670.html",
-     "time": "2026-10-16T20:28:52Z"
-    },
-    {
-     "title": "Wie kritisch blickt die Junge Union auf Kanzler Merz",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1667666.html",
-     "time": "2026-10-16T20:26:13Z"
     }
    ]
   },
@@ -85,14 +85,14 @@
    ],
    "items": [
     {
+     "title": "Krieg in der Ukraine – Donald Trump setzt Sanktionsgesetz gegen Russland aus",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-donald-trump-setzt-sanktionsgesetz-gegen-russland-aus",
+     "time": "2026-10-17T02:18:40Z"
+    },
+    {
      "title": "«Arena» zu den Wahlen 2027 – FDP, Mitte und GLP im Schwitzkasten der Pole",
      "url": "https://www.srf.ch/news/schweiz/arena-zu-den-wahlen-2027-fdp-mitte-und-glp-im-schwitzkasten-der-pole",
      "time": "2026-10-16T22:43:02Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Macron: «Wir werden die Ukraine nicht im Stich lassen»",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-macron-wir-werden-die-ukraine-nicht-im-stich-lassen",
-     "time": "2026-10-16T21:02:45Z"
     },
     {
      "title": "Krieg im Nahen Osten – Verletzte nach Siedlerangriffen im Westjordanland",
@@ -157,6 +157,16 @@
    ],
    "items": [
     {
+     "title": "Trump ferma importanti sanzioni e dazi del Graham Act sull'export della Russia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/trump-ferma-importanti-sanzioni-e-dazi-del-graham-act-sullexport-della_c94c6910-154f-4071-9bce-b30372b93263.html",
+     "time": "2026-10-17T02:01:20Z"
+    },
+    {
+     "title": "Crosetto alla Bbc, 'grave errore limitare a Kiev l'accesso ai satelliti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/crosetto-alla-bbc-grave-errore-limitare-a-kiev-laccesso-ai-satelliti_115cd9c3-6af5-4e6a-9860-dda8c95eeddd.html",
+     "time": "2026-10-17T01:34:09Z"
+    },
+    {
      "title": "Zelensky, 'se cadiamo ci saranno 20 milioni di profughi in Europa'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/zelensky-se-cadiamo-ci-saranno-20-milioni-di-profughi-in-europa_0752d1c9-76db-4a08-a3d8-f23a91dc6612.html",
      "time": "2026-10-16T17:58:44Z"
@@ -192,19 +202,9 @@
      "time": "2026-10-16T17:18:59Z"
     },
     {
-     "title": "Meloni, 'su Ilva faremo il possibile, non siamo noi ad averla chiusa'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/meloni-su-ilva-faremo-il-possibile-non-siamo-noi-ad-averla-chiusa_8ae49e30-dd5d-4c42-a974-1ee481690acc.html",
-     "time": "2026-10-16T17:18:18Z"
-    },
-    {
      "title": "Macron, 'sosterremo difesa di Kiev con immagini satellitari e allerta precoce'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/macron-sosterremo-difesa-di-kiev-con-immagini-satellitari-e-allerta-precoce_63c8d783-b0ea-43a5-b1f0-73f0042bf5e3.html",
      "time": "2026-10-16T17:17:51Z"
-    },
-    {
-     "title": "Trump, gli Usa non coinvolti nel depotenziamento di Starlink in Ucraina",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/trump-gli-usa-non-coinvolti-nel-depotenziamento-di-starlink-in-ucraina_92b704b8-62b1-4d75-9b07-33a3c69f8ef0.html",
-     "time": "2026-10-16T17:15:59Z"
     }
    ]
   },
@@ -215,6 +215,36 @@
    "countries": [],
    "items": [
     {
+     "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+     "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T03:11:10Z"
+    },
+    {
+     "title": "Trump waives several Russia sanctions as new US law takes effect",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T02:48:36Z"
+    },
+    {
+     "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+     "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T02:33:09Z"
+    },
+    {
+     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+     "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T01:19:04Z"
+    },
+    {
+     "title": "The uncertain future of Canada's 30 rescued belugas",
+     "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T01:18:08Z"
+    },
+    {
+     "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+     "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T00:41:58Z"
+    },
+    {
      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T23:54:35Z"
@@ -223,11 +253,6 @@
      "title": "Pope pictured for first time since surgery and cancer diagnosis",
      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T23:20:37Z"
-    },
-    {
-     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-     "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T23:07:38Z"
     },
     {
      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
@@ -248,31 +273,6 @@
      "title": "What we learned from heated US midterm Senate debates",
      "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T19:09:37Z"
-    },
-    {
-     "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-     "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T18:11:29Z"
-    },
-    {
-     "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-     "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T16:00:30Z"
-    },
-    {
-     "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-     "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T14:57:51Z"
-    },
-    {
-     "title": "Albanian protests turn violent: What we know",
-     "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T14:33:32Z"
-    },
-    {
-     "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-     "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T14:31:04Z"
     }
    ]
   }
