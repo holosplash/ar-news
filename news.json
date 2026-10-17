@@ -1,6 +1,6 @@
 {
- "version": 55,
- "updated": "2026-10-17T09:11:29Z",
+ "version": 56,
+ "updated": "2026-10-17T13:08:06Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Arc de Triomphe, Herbstlaub, Durga-Puja-Fest",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10510.html",
-     "time": "2026-10-17T08:57:57Z"
+     "title": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html",
+     "time": "2026-10-17T12:54:37Z"
+    },
+    {
+     "title": "Tanker im Persischen Golf attackiert",
+     "url": "https://www.tagesschau.de/ausland/asien/persischer-golf-tanker-angriffe-100.html",
+     "time": "2026-10-17T12:28:17Z"
     },
     {
      "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
      "url": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
-     "time": "2026-10-17T08:35:52Z"
+     "time": "2026-10-17T12:07:08Z"
     },
     {
-     "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
-     "url": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html",
-     "time": "2026-10-17T08:15:08Z"
+     "title": "Großdemonstrationen in Paris und Rom wegen hoher Lebenshaltungskosten",
+     "url": "https://www.tagesschau.de/video/video-1667860.html",
+     "time": "2026-10-17T12:01:46Z"
     },
     {
-     "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
-     "time": "2026-10-17T08:08:36Z"
+     "title": "US-Präsident Trump stoppt neues Sanktionspaket gegen Russland",
+     "url": "https://www.tagesschau.de/video/video-1667856.html",
+     "time": "2026-10-17T11:58:47Z"
     },
     {
-     "title": "\"Wohl kein kuscheliger Empfang für Merz\", Kerstin Palzer, ARD Berlin, vom Deutschlandtag der JU in Bonn",
-     "url": "https://www.tagesschau.de/video/video-1667780.html",
-     "time": "2026-10-17T07:47:19Z"
+     "title": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
+     "time": "2026-10-17T11:57:58Z"
     },
     {
-     "title": "US-Präsident Trump stoppt Sanktionspaket gegen Russland",
-     "url": "https://www.tagesschau.de/video/video-1667766.html",
-     "time": "2026-10-17T07:13:13Z"
+     "title": "\"Ist gemischt angekommen\", Philip Kuntschner, ARD Berlin, zur Merz-Rede beim \"Deutschlandtag\" der JU",
+     "url": "https://www.tagesschau.de/video/video-1667852.html",
+     "time": "2026-10-17T11:56:23Z"
     },
     {
-     "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
-     "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html",
-     "time": "2026-10-17T04:56:34Z"
+     "title": "Junge Union präsentiert sich mit enormem Selbstbewusstsein beim \"Deutschlandtag\"",
+     "url": "https://www.tagesschau.de/video/video-1667850.html",
+     "time": "2026-10-17T11:52:58Z"
     },
     {
-     "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
-     "url": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html",
-     "time": "2026-10-17T03:23:11Z"
+     "title": "Nach Lungen-OP: Papst kann Klinik verlassen",
+     "url": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
+     "time": "2026-10-17T11:13:34Z"
     },
     {
-     "title": "Wie sich Bundespolitiker auf Social Media schlagen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html",
-     "time": "2026-10-17T02:39:05Z"
+     "title": "Pauline Grabosch sichert sich WM-Gold im Bahnrad-Zeitfahren",
+     "url": "https://www.tagesschau.de/inland/regional/grabosch-weltmeisterin-im-zeitfahren,bahnrad-wm-grabosch-100.html",
+     "time": "2026-10-17T10:53:31Z"
     },
     {
-     "title": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
-     "url": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html",
-     "time": "2026-10-17T01:50:50Z"
+     "title": "Erneut russischer Luftangriff auf Cherson",
+     "url": "https://www.tagesschau.de/video/video-1667808.html",
+     "time": "2026-10-17T10:20:05Z"
     },
     {
-     "title": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
-     "url": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html",
-     "time": "2026-10-17T01:43:26Z"
-    },
-    {
-     "title": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
-     "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html",
-     "time": "2026-10-17T01:40:59Z"
+     "title": "Steigende Preise für Benzin, Heizöl, Gas - wie teuer wird der Winter?",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/energie-heizen-winter-100.html",
+     "time": "2026-10-17T10:05:01Z"
     }
    ]
   },
@@ -84,6 +84,41 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Umgang mit Wölfen – Schwyzer Wölfe stehen unter Beschuss – auch politisch",
+     "url": "https://www.srf.ch/news/schweiz/umgang-mit-woelfen-schwyzer-woelfe-stehen-unter-beschuss-auch-politisch",
+     "time": "2026-10-17T12:24:32Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Wie die «Weissen Engel» Zivilisten aus dem Kampfgebiet retten",
+     "url": "https://www.srf.ch/news/dialog/krieg-in-der-ukraine-wie-die-weissen-engel-zivilisten-aus-dem-kampfgebiet-retten",
+     "time": "2026-10-17T11:37:42Z"
+    },
+    {
+     "title": "Nach Lungenkrebs-Operation – Papst Leo kann Spital verlassen",
+     "url": "https://www.srf.ch/news/international/nach-lungenkrebs-operation-papst-leo-kann-spital-verlassen",
+     "time": "2026-10-17T11:04:59Z"
+    },
+    {
+     "title": "Romandie im Bundesrat – Für Baume-Schneider geht es um den Zusammenhalt des Landes",
+     "url": "https://www.srf.ch/news/schweiz/romandie-im-bundesrat-fuer-baume-schneider-geht-es-um-den-zusammenhalt-des-landes",
+     "time": "2026-10-17T10:44:38Z"
+    },
+    {
+     "title": "Ukrainische Drohnen betroffen – Wer war für die Drosselung bei Starlink verantwortlich?",
+     "url": "https://www.srf.ch/news/international/ukrainische-drohnen-betroffen-wer-war-fuer-die-drosselung-bei-starlink-verantwortlich",
+     "time": "2026-10-17T10:05:37Z"
+    },
+    {
+     "title": "Mit Herzblut umgebaut – Drei Wohnträume, so individuell wie die Menschen, die darin leben",
+     "url": "https://www.srf.ch/sendungen/unterhaltungssendungen/mit-herzblut-umgebaut-drei-wohntraeume-so-individuell-wie-die-menschen-die-darin-leben",
+     "time": "2026-10-17T09:40:22Z"
+    },
+    {
+     "title": "Neues Sachbuch – «Von Fitness zu Faschismus»: Wie Kampfsport Männer radikalisiert",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/neues-sachbuch-von-fitness-zu-faschismus-wie-kampfsport-maenner-radikalisiert",
+     "time": "2026-10-17T09:15:49Z"
+    },
     {
      "title": "Regeln für Schuluniformen – Kopftuchverbot in Aserbaidschan stösst auf Widerstand – warum?",
      "url": "https://www.srf.ch/news/international/regeln-fuer-schuluniformen-kopftuchverbot-in-aserbaidschan-stoesst-auf-widerstand-warum",
@@ -100,49 +135,14 @@
      "time": "2026-10-17T07:40:04Z"
     },
     {
+     "title": "– «Einfach nur feige» – Carrs Faustschlag erhitzt die Gemüter",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/strafenreiches-derby-in-biel-einfach-nur-feige-carrs-faustschlag-erhitzt-die-gemueter",
+     "time": "2026-10-17T07:40:04Z"
+    },
+    {
      "title": "Eine Reise der Extreme – Der Weg zum Gipfel führt auch nach innen",
      "url": "https://www.srf.ch/sendungen/dok/eine-reise-der-extreme-der-weg-zum-gipfel-fuehrt-auch-nach-innen",
      "time": "2026-10-17T07:34:01Z"
-    },
-    {
-     "title": "Bundesliga-Jubiläum am Samstag – Das schafft nur Kane: Das 100. Spiel kommt nach dem 100. Tor",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-jubilaeum-am-samstag-das-schafft-nur-kane-das-100-spiel-kommt-nach-dem-100-tor",
-     "time": "2026-10-17T07:21:14Z"
-    },
-    {
-     "title": "Gemeindebudget Wohlen – Wenn die Gegner der Steuererhöhung die Steuern erhöhen müssen",
-     "url": "https://www.srf.ch/news/schweiz/gemeindebudget-wohlen-wenn-die-gegner-der-steuererhoehung-die-steuern-erhoehen-muessen",
-     "time": "2026-10-17T06:57:00Z"
-    },
-    {
-     "title": "Zeitungsmarkt – Ungewisse Zukunft für Frühzusteller in der Schweiz",
-     "url": "https://www.srf.ch/news/wirtschaft/zeitungsmarkt-ungewisse-zukunft-fuer-fruehzusteller-in-der-schweiz",
-     "time": "2026-10-17T06:00:41Z"
-    },
-    {
-     "title": "Lücke in der Opferhilfe – Wenn Schweizer im Ausland Opfer einer Straftat werden",
-     "url": "https://www.srf.ch/news/schweiz/luecke-in-der-opferhilfe-wenn-schweizer-im-ausland-opfer-einer-straftat-werden",
-     "time": "2026-10-17T05:33:32Z"
-    },
-    {
-     "title": "Netzwerk Kinderrechte Schweiz – Fast jedes fünfte Kind ist in der Schweiz armutsgefährdet",
-     "url": "https://www.srf.ch/news/schweiz/netzwerk-kinderrechte-schweiz-fast-jedes-fuenfte-kind-ist-in-der-schweiz-armutsgefaehrdet",
-     "time": "2026-10-17T05:23:00Z"
-    },
-    {
-     "title": "Kampf gegen Bandenkriminalität – Vorbild Bukele: Lateinamerika baut Mega-Gefängnisse",
-     "url": "https://www.srf.ch/news/international/kampf-gegen-bandenkriminalitaet-vorbild-bukele-lateinamerika-baut-mega-gefaengnisse",
-     "time": "2026-10-17T05:03:04Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Donald Trump setzt Sanktionsgesetz gegen Russland aus",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-donald-trump-setzt-sanktionsgesetz-gegen-russland-aus",
-     "time": "2026-10-17T02:18:40Z"
-    },
-    {
-     "title": "«Arena» zu den Wahlen 2027 – FDP, Mitte und GLP im Schwitzkasten der Pole",
-     "url": "https://www.srf.ch/news/schweiz/arena-zu-den-wahlen-2027-fdp-mitte-und-glp-im-schwitzkasten-der-pole",
-     "time": "2026-10-16T22:43:02Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Abi, accelera crescita dei prestiti a famiglie e imprese, +3,7%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/abi-accelera-crescita-dei-prestiti-a-famiglie-e-imprese-37_911d651b-06b6-482c-9c57-953e2f093495.html",
-     "time": "2026-10-17T08:36:21Z"
+     "title": "Meloni, possiamo costruire una via italiana all'Intelligenza artificiale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/meloni-possiamo-costruire-una-via-italiana-allintelligenza-artificiale_0795ed49-bab1-4a0a-91c4-f363fbbcba61.html",
+     "time": "2026-10-17T12:04:31Z"
     },
     {
-     "title": "Crosetto alla Bbc, 'grave errore limitare a Kiev l'accesso ai satelliti'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/crosetto-alla-bbc-grave-errore-limitare-a-kiev-laccesso-ai-satelliti_115cd9c3-6af5-4e6a-9860-dda8c95eeddd.html",
-     "time": "2026-10-17T08:23:31Z"
+     "title": "Orsini, 'no a mancette elettorali, fare cose che servano al Paese'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/orsini-no-a-mancette-elettorali-fare-cose-che-servano-al-paese_7b6c8b70-ea2e-405e-8bc1-8e285393dbd7.html",
+     "time": "2026-10-17T12:01:26Z"
     },
     {
-     "title": "Zelensky, 'se cadiamo ci saranno 20 milioni di profughi in Europa'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/zelensky-se-cadiamo-ci-saranno-20-milioni-di-profughi-in-europa_0752d1c9-76db-4a08-a3d8-f23a91dc6612.html",
-     "time": "2026-10-17T08:23:31Z"
+     "title": "Salvini, banche mazzolate? Patuelli sorprendente, contributo da 5 miliardi il minimo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/salvini-banche-mazzolate-patuelli-sorprendente-contributo-da-5-miliardi-il-minimo_34aea16a-8e73-4ced-9b82-a8d21b9fe2c5.html",
+     "time": "2026-10-17T10:40:05Z"
     },
     {
-     "title": "Il gasolio sfiora i 2,3 euro nel prezzo medio sulle autostrade",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/il-gasolio-sfiora-i-3-euro-nel-prezzo-medio-sulle-autostrade_70723167-83f2-4e1d-8b3f-7db10b2a6c9e.html",
-     "time": "2026-10-17T08:23:29Z"
+     "title": "Tajani, 'su contributo banche no ad aggressioni violente, sì al confronto'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/tajani-su-contributo-banche-no-ad-aggressioni-violente-si-al-confronto_ff84e0f4-f202-40f9-8755-edc97648dbd5.html",
+     "time": "2026-10-17T10:38:53Z"
     },
     {
-     "title": "Nyt, licenziata la portavoce della Casa Bianca dopo soli 5 giorni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/nyt-licenziata-la-portavoce-della-casa-bianca-dopo-soli-5-giorni_c1d75331-666f-4e3d-bb37-6fe737da1e1e.html",
-     "time": "2026-10-16T17:54:23Z"
+     "title": "Morto a 86 anni dopo una caduta, per oltre mezzo secolo al centro delle grande finanza",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/morto-a-86-anni-dopo-una-caduta-per-oltre-mezzo-secolo-al-centro_0290d37b-358b-4bda-8b61-f7cf55f9a917.html",
+     "time": "2026-10-17T10:28:19Z"
     },
     {
-     "title": "Il gas sale a 89 euro sul mercato di Amsterdam (+2,9%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/il-gas-sale-a-89-euro-sul-mercato-di-amsterdam-29_208e3c50-c5c8-41d8-a1fd-bf0b34d0beaf.html",
-     "time": "2026-10-16T17:52:12Z"
+     "title": "Due cortei non autorizzati dispersi a Parigi e incidenti a Lione e Marsiglia, 61 fermi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/due-cortei-non-autorizzati-dispersi-a-parigi-e-incidenti-a-lione-e-marsiglia-61-fermi_c077a299-4dc8-4961-97fc-bf91cce1210d.html",
+     "time": "2026-10-17T10:02:53Z"
     },
     {
-     "title": "Macron, 'accordo Trump su diesel russo non risolve il problema e divide'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/macron-accordo-trump-su-diesel-russo-non-risolve-il-problema-e-divide_a8ea8c91-fd5e-4eb2-85e7-5f36ef3159f7.html",
-     "time": "2026-10-16T17:39:24Z"
+     "title": "Il Papa lascerà l'ospedale oggi pomeriggio, 'idoneo alla dimissione'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/il-papa-lascera-lospedale-oggi-pomeriggio-idoneo-alla-dimissione_817dc66f-ecae-40d4-abe8-24be1d331809.html",
+     "time": "2026-10-17T09:51:51Z"
     },
     {
-     "title": "Von der Leyen, 'svilupperemo nuovo scudo commerciale Ue'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/von-der-leyen-svilupperemo-nuovo-scudo-commerciale-ue_2c75d555-5668-4a4c-9855-1843f7c43bf5.html",
-     "time": "2026-10-16T17:36:04Z"
+     "title": "Media, blitz dei manifestanti francesi contro la sede di CNews",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/media-blitz-dei-manifestanti-francesi-contro-la-sede-di-cnews_46119d5c-1cfe-4ea8-8bfc-cde526e3956b.html",
+     "time": "2026-10-17T09:36:11Z"
     },
     {
-     "title": "Von der Leyen, 'regolarizzazione migranti può avere effetto su frontiere'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/von-der-leyen-regolarizzazione-migranti-puo-avere-effetto-su-frontiere_4ef1fd7f-5559-492e-98f0-d166703dce3d.html",
-     "time": "2026-10-16T17:31:13Z"
+     "title": "Zelensky, 'allentamento sanzioni Usa premiano e incoraggiano Putin'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/zelensky-allentamento-sanzioni-usa-premiano-e-incoraggiano-putin_13cd1532-cc5e-4087-9187-3554698d26cb.html",
+     "time": "2026-10-17T09:35:08Z"
     },
     {
-     "title": "Trump, 'ho detto a Katie Zacharia di riconsiderare il suo incarico'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/trump-ho-detto-a-katie-zacharia-di-riconsiderare-il-suo-incarico_436c786a-ae86-4113-a05b-66b7668a5a42.html",
-     "time": "2026-10-16T17:18:59Z"
+     "title": "Consigliere Putin, 'decisione di Trump per la sospensione di sanzioni è storica'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/consigliere-putin-decisione-di-trump-per-la-sospensione-di-sanzioni-e-storica_bcd2b57a-1cd0-47d8-9105-d58846ff31b3.html",
+     "time": "2026-10-17T09:34:42Z"
     }
    ]
   },
@@ -215,19 +215,34 @@
    "countries": [],
    "items": [
     {
+     "title": "Pope to be discharged days after lung cancer surgery",
+     "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T12:37:26Z"
+    },
+    {
+     "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+     "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T12:11:58Z"
+    },
+    {
      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T07:41:01Z"
+     "time": "2026-10-17T11:56:06Z"
+    },
+    {
+     "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+     "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T10:46:41Z"
     },
     {
      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T06:49:48Z"
+     "time": "2026-10-17T09:58:17Z"
     },
     {
      "title": "Katie Zacharia leaving White House role less than five days into job",
      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T05:20:40Z"
+     "time": "2026-10-17T09:14:10Z"
     },
     {
      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
@@ -245,6 +260,11 @@
      "time": "2026-10-17T02:33:09Z"
     },
     {
+     "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+     "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T01:55:45Z"
+    },
+    {
      "title": "The uncertain future of Canada's 30 rescued belugas",
      "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T01:18:08Z"
@@ -253,26 +273,6 @@
      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T00:41:58Z"
-    },
-    {
-     "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-     "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T00:38:34Z"
-    },
-    {
-     "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T23:54:35Z"
-    },
-    {
-     "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-     "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T23:07:18Z"
-    },
-    {
-     "title": "Trump denies limiting Ukraine access to Starlink network",
-     "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T19:33:48Z"
     }
    ]
   }
