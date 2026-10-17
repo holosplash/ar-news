@@ -1,6 +1,6 @@
 {
- "version": 59,
- "updated": "2026-10-17T21:23:39Z",
+ "version": 60,
+ "updated": "2026-10-17T23:20:54Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,36 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+     "time": "2026-10-17T22:31:39Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12924.html",
+     "time": "2026-10-17T22:25:47Z"
+    },
+    {
+     "title": "US-Präsident Trump hat schon beschlossene Sanktionen gegen Russland gestoppt",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1668182.html",
+     "time": "2026-10-17T22:19:15Z"
+    },
+    {
+     "title": "Rede von Kanzler Merz auf Deutschlandtag von Junger Union",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1668184.html",
+     "time": "2026-10-17T22:13:47Z"
+    },
+    {
+     "title": "Sondierungsgespräche zwischen Rot-Rot-Grün in Berlin positiv verlaufen",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1668180.html",
+     "time": "2026-10-17T22:11:12Z"
+    },
+    {
+     "title": "Ausschreitungen in Frankreich eskalieren",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1668178.html",
+     "time": "2026-10-17T22:10:27Z"
+    },
     {
      "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
      "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
@@ -35,44 +65,14 @@
      "time": "2026-10-17T18:38:37Z"
     },
     {
-     "title": "Papst Leo XIV. nach Lungen-Operation aus Krankenhaus entlassen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668106.html",
-     "time": "2026-10-17T18:36:02Z"
-    },
-    {
-     "title": "US-Präsident Trump stoppt bereits beschlossene Sanktionen gegen Russland",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668102.html",
-     "time": "2026-10-17T18:35:19Z"
-    },
-    {
-     "title": "Michael Strempel, ARD Paris, über die gewalttätigen Proteste in Frankreich",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668100.html",
-     "time": "2026-10-17T18:34:42Z"
-    },
-    {
-     "title": "Kerstin Palzer, ARD Berlin, zzt. Bonn,",
+     "title": "Kerstin Palzer, ARD Berlin, zzt. Bonn, über die Reaktionen der Jungen Union zum Auftritt von Kanzler Merz",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668096.html",
      "time": "2026-10-17T18:34:18Z"
-    },
-    {
-     "title": "Kanzler Merz sagt der Jungen Union zügige Umsetzung der Reformen zu",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668094.html",
-     "time": "2026-10-17T18:34:10Z"
     },
     {
      "title": "Bayern schießt sich bei 6:1 gegen Leipzig den Frust von der Seele",
      "url": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
      "time": "2026-10-17T18:33:17Z"
-    },
-    {
-     "title": "Rot-Rot-Grün einigen sich bei Sondierungsgesprächen in Berlin",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668092.html",
-     "time": "2026-10-17T18:33:13Z"
-    },
-    {
-     "title": "Was Rot-Grün-Rot bei der Gesellschaftung von Wohnungen plant",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-rot-gruen-rot-plant-vergesellschaftung-grosser-wohnungsbestaende-in-berlin-100.html",
-     "time": "2026-10-17T18:32:32Z"
     }
    ]
   },
@@ -84,6 +84,11 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "«Wir haben die Schnauze voll» – Schwere Ausschreitungen bei frankreichweiten Protesten",
+     "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-schwere-ausschreitungen-bei-frankreichweiten-protesten",
+     "time": "2026-10-17T22:26:55Z"
+    },
     {
      "title": "Krieg im Nahen Osten – Ägypten erwägt militärische Unterstützung für Saudi-Arabien",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-aegypten-erwaegt-militaerische-unterstuetzung-fuer-saudi-arabien",
@@ -98,11 +103,6 @@
      "title": "Die Kunst, loszulassen – Julia Steiner: «Scheitern war keine Option»",
      "url": "https://www.srf.ch/radio-srf-1/die-kunst-loszulassen-julia-steiner-scheitern-war-keine-option",
      "time": "2026-10-17T20:13:24Z"
-    },
-    {
-     "title": "«Wir haben die Schnauze voll» – Schwere Ausschreitungen bei frankreichweiten Protesten",
-     "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-schwere-ausschreitungen-bei-frankreichweiten-protesten",
-     "time": "2026-10-17T20:04:23Z"
     },
     {
      "title": "Landesweite Proteste – Warum Frankreichs Strassen brennen – und was die Menschen fordern",
@@ -157,6 +157,21 @@
    ],
    "items": [
     {
+     "title": "I sindaci di Parigi, Marsiglia e Lione chiedono un incontro col premier",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/i-sindaci-di-parigi-marsiglia-e-lione-chiedono-un-incontro-col-premier_e4de14c7-1072-4c02-9b5c-e4cf57afd12e.html",
+     "time": "2026-10-17T22:06:36Z"
+    },
+    {
+     "title": "Lecornu, '1.200 fermi e 150 poliziotti feriti durante le proteste in Francia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/lecornu-1.200-fermi-e-150-poliziotti-feriti-durante-le-proteste-in-francia_6657c7da-0998-41dc-a9a6-1478903ebaf7.html",
+     "time": "2026-10-17T21:52:48Z"
+    },
+    {
+     "title": "Nyt, la proposta Usa all'Europa, 'comprate più gas dalla Russia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/nyt-la-proposta-usa-alleuropa-comprate-piu-gas-dalla-russia_8e662a12-c1ae-464e-962d-d9c1d2ecf5f4.html",
+     "time": "2026-10-17T21:35:21Z"
+    },
+    {
      "title": "Gasperini 'Non avevo dubbi su reazione, Roma è stata brava'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/gasperini-non-avevo-dubbi-su-reazione-roma-e-stata-brava_8a944648-a25e-42d4-b33f-d9b74930293a.html",
      "time": "2026-10-17T21:09:17Z"
@@ -190,21 +205,6 @@
      "title": "Macron, 'nessun posto per la violenza, chi distrugge e saccheggia verrà punito'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/macron-nessun-posto-per-la-violenza-chi-distrugge-e-saccheggia-verra-punito_85006f0f-aec6-4d48-a299-f15d79b47e36.html",
      "time": "2026-10-17T18:01:40Z"
-    },
-    {
-     "title": "Macron, 'nessun posto alla violenza, chi distrugge e saccheggia verrà punito'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/macron-nessun-posto-alla-violenza-chi-distrugge-e-saccheggia-verra-punito_c33083ff-22ae-4039-bcac-63233409c090.html",
-     "time": "2026-10-17T17:59:17Z"
-    },
-    {
-     "title": "Serie A: Bologna-Inter 1-3",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/serie-a-bologna-inter-1-3_f5f88ac0-bfc0-42d4-9701-9f570a1e3955.html",
-     "time": "2026-10-17T17:57:07Z"
-    },
-    {
-     "title": "Meloni, ogni reticenza sulle violenze di piazza diventa giustificazione",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/meloni-ogni-reticenza-sulle-violenze-di-piazza-diventa-giustificazione_d554a3f1-c13f-4ed6-8a14-d6c550f56164.html",
-     "time": "2026-10-17T17:50:24Z"
     }
    ]
   },
@@ -215,12 +215,22 @@
    "countries": [],
    "items": [
     {
+     "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+     "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T22:09:50Z"
+    },
+    {
+     "title": "How day of protests unfolded as disorder breaks out across France",
+     "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T21:33:17Z"
+    },
+    {
      "title": "Anti-government protesters battle with police in Albania",
      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T20:53:00Z"
     },
     {
-     "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+     "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T20:52:17Z"
     },
@@ -263,16 +273,6 @@
      "title": "Katie Zacharia leaving White House role less than five days into job",
      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T09:14:10Z"
-    },
-    {
-     "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-     "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T03:11:10Z"
-    },
-    {
-     "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-     "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T02:33:09Z"
     }
    ]
   }
