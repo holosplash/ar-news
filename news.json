@@ -1,6 +1,6 @@
 {
- "version": 54,
- "updated": "2026-10-17T04:54:39Z",
+ "version": 55,
+ "updated": "2026-10-17T09:11:29Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,41 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Arc de Triomphe, Herbstlaub, Durga-Puja-Fest",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10510.html",
+     "time": "2026-10-17T08:57:57Z"
+    },
+    {
+     "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
+     "time": "2026-10-17T08:35:52Z"
+    },
+    {
+     "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+     "url": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html",
+     "time": "2026-10-17T08:15:08Z"
+    },
+    {
+     "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
+     "time": "2026-10-17T08:08:36Z"
+    },
+    {
+     "title": "\"Wohl kein kuscheliger Empfang für Merz\", Kerstin Palzer, ARD Berlin, vom Deutschlandtag der JU in Bonn",
+     "url": "https://www.tagesschau.de/video/video-1667780.html",
+     "time": "2026-10-17T07:47:19Z"
+    },
+    {
+     "title": "US-Präsident Trump stoppt Sanktionspaket gegen Russland",
+     "url": "https://www.tagesschau.de/video/video-1667766.html",
+     "time": "2026-10-17T07:13:13Z"
+    },
+    {
+     "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
+     "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html",
+     "time": "2026-10-17T04:56:34Z"
+    },
     {
      "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
      "url": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html",
@@ -38,41 +73,6 @@
      "title": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html",
      "time": "2026-10-17T01:40:59Z"
-    },
-    {
-     "title": "Amazonas in Brasilien: Abholzung auf tiefstem Stand seit 1988",
-     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html",
-     "time": "2026-10-17T00:05:19Z"
-    },
-    {
-     "title": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
-     "url": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html",
-     "time": "2026-10-16T22:22:52Z"
-    },
-    {
-     "title": "Geistesblitz Aseko, Tor Ebnoutalib - Frankfurt bezwingt Köln",
-     "url": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
-     "time": "2026-10-16T21:16:05Z"
-    },
-    {
-     "title": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
-     "time": "2026-10-16T21:15:49Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12914.html",
-     "time": "2026-10-16T20:54:56Z"
-    },
-    {
-     "title": "Trump entlässt Sprecherin des Weißen Hauses, Katie Zacharia",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1667688.html",
-     "time": "2026-10-16T20:43:04Z"
-    },
-    {
-     "title": "Bundesrat fordert mehr Schutz vor lebensgefährlichen Social Media Challenges",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1667676.html",
-     "time": "2026-10-16T20:38:37Z"
     }
    ]
   },
@@ -85,6 +85,56 @@
    ],
    "items": [
     {
+     "title": "Regeln für Schuluniformen – Kopftuchverbot in Aserbaidschan stösst auf Widerstand – warum?",
+     "url": "https://www.srf.ch/news/international/regeln-fuer-schuluniformen-kopftuchverbot-in-aserbaidschan-stoesst-auf-widerstand-warum",
+     "time": "2026-10-17T08:44:21Z"
+    },
+    {
+     "title": "Bund verfehlt Ziel – Warum die Zahl der Verkehrsunfälle in der Schweiz nicht sinkt",
+     "url": "https://www.srf.ch/news/schweiz/bund-verfehlt-ziel-warum-die-zahl-der-verkehrsunfaelle-in-der-schweiz-nicht-sinkt",
+     "time": "2026-10-17T08:09:24Z"
+    },
+    {
+     "title": "Strafenreiches Derby in Biel – «Einfach nur feige» – Carrs Faustschlag erhitzt die Gemüter",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/strafenreiches-derby-in-biel-einfach-nur-feige-carrs-faustschlag-erhitzt-die-gemueter",
+     "time": "2026-10-17T07:40:04Z"
+    },
+    {
+     "title": "Eine Reise der Extreme – Der Weg zum Gipfel führt auch nach innen",
+     "url": "https://www.srf.ch/sendungen/dok/eine-reise-der-extreme-der-weg-zum-gipfel-fuehrt-auch-nach-innen",
+     "time": "2026-10-17T07:34:01Z"
+    },
+    {
+     "title": "Bundesliga-Jubiläum am Samstag – Das schafft nur Kane: Das 100. Spiel kommt nach dem 100. Tor",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-jubilaeum-am-samstag-das-schafft-nur-kane-das-100-spiel-kommt-nach-dem-100-tor",
+     "time": "2026-10-17T07:21:14Z"
+    },
+    {
+     "title": "Gemeindebudget Wohlen – Wenn die Gegner der Steuererhöhung die Steuern erhöhen müssen",
+     "url": "https://www.srf.ch/news/schweiz/gemeindebudget-wohlen-wenn-die-gegner-der-steuererhoehung-die-steuern-erhoehen-muessen",
+     "time": "2026-10-17T06:57:00Z"
+    },
+    {
+     "title": "Zeitungsmarkt – Ungewisse Zukunft für Frühzusteller in der Schweiz",
+     "url": "https://www.srf.ch/news/wirtschaft/zeitungsmarkt-ungewisse-zukunft-fuer-fruehzusteller-in-der-schweiz",
+     "time": "2026-10-17T06:00:41Z"
+    },
+    {
+     "title": "Lücke in der Opferhilfe – Wenn Schweizer im Ausland Opfer einer Straftat werden",
+     "url": "https://www.srf.ch/news/schweiz/luecke-in-der-opferhilfe-wenn-schweizer-im-ausland-opfer-einer-straftat-werden",
+     "time": "2026-10-17T05:33:32Z"
+    },
+    {
+     "title": "Netzwerk Kinderrechte Schweiz – Fast jedes fünfte Kind ist in der Schweiz armutsgefährdet",
+     "url": "https://www.srf.ch/news/schweiz/netzwerk-kinderrechte-schweiz-fast-jedes-fuenfte-kind-ist-in-der-schweiz-armutsgefaehrdet",
+     "time": "2026-10-17T05:23:00Z"
+    },
+    {
+     "title": "Kampf gegen Bandenkriminalität – Vorbild Bukele: Lateinamerika baut Mega-Gefängnisse",
+     "url": "https://www.srf.ch/news/international/kampf-gegen-bandenkriminalitaet-vorbild-bukele-lateinamerika-baut-mega-gefaengnisse",
+     "time": "2026-10-17T05:03:04Z"
+    },
+    {
      "title": "Krieg in der Ukraine – Donald Trump setzt Sanktionsgesetz gegen Russland aus",
      "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-donald-trump-setzt-sanktionsgesetz-gegen-russland-aus",
      "time": "2026-10-17T02:18:40Z"
@@ -93,56 +143,6 @@
      "title": "«Arena» zu den Wahlen 2027 – FDP, Mitte und GLP im Schwitzkasten der Pole",
      "url": "https://www.srf.ch/news/schweiz/arena-zu-den-wahlen-2027-fdp-mitte-und-glp-im-schwitzkasten-der-pole",
      "time": "2026-10-16T22:43:02Z"
-    },
-    {
-     "title": "Krieg im Nahen Osten – Verletzte nach Siedlerangriffen im Westjordanland",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-verletzte-nach-siedlerangriffen-im-westjordanland",
-     "time": "2026-10-16T21:02:42Z"
-    },
-    {
-     "title": "National League am Freitag – HCD findet in Lugano zum Siegen zurück – Lions weiter makellos",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-hcd-findet-in-lugano-zum-siegen-zurueck-lions-weiter-makellos",
-     "time": "2026-10-16T20:19:15Z"
-    },
-    {
-     "title": "Schweizer Cup: 2. Runde – Basel atmet früh auf – auch St. Gallen und Servette weiter",
-     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-basel-atmet-frueh-auf-auch-st-gallen-und-servette-weiter",
-     "time": "2026-10-16T20:05:34Z"
-    },
-    {
-     "title": "Neuer Elektro-Trend – Weshalb Citroën die Ente wiederauferstehen lässt",
-     "url": "https://www.srf.ch/news/wirtschaft/neuer-elektro-trend-weshalb-citroen-die-ente-wiederauferstehen-laesst",
-     "time": "2026-10-16T19:16:28Z"
-    },
-    {
-     "title": "9. Runde Women's Super League – FCZ dreht Spiel bei Voss-Tecklenburgs Debüt – auch Servette siegt",
-     "url": "https://www.srf.ch/sport/fussball/women-s-super-league/9-runde-women-s-super-league-fcz-dreht-spiel-bei-voss-tecklenburgs-debuet-auch-servette-siegt",
-     "time": "2026-10-16T18:57:32Z"
-    },
-    {
-     "title": "Gegen Raser – St. Gallen misst jetzt offiziell Geschwindigkeiten mit Drohnen",
-     "url": "https://www.srf.ch/news/schweiz/gegen-raser-st-gallen-misst-jetzt-offiziell-geschwindigkeiten-mit-drohnen",
-     "time": "2026-10-16T18:53:03Z"
-    },
-    {
-     "title": "Konflikt im Jemen – Huthi-Milizen belagern strategisch wichtige Stadt Tais",
-     "url": "https://www.srf.ch/news/international/konflikt-im-jemen-huthi-milizen-belagern-strategisch-wichtige-stadt-tais",
-     "time": "2026-10-16T18:45:38Z"
-    },
-    {
-     "title": "Katie Zacharia – Neue Trump-Sprecherin bei Anwaltsprüfung durchgefallen",
-     "url": "https://www.srf.ch/news/gesellschaft/katie-zacharia-neue-trump-sprecherin-bei-anwaltspruefung-durchgefallen",
-     "time": "2026-10-16T18:43:09Z"
-    },
-    {
-     "title": "Nur wenige Tage im Amt – US-Medien: Trump feuert Sprecherin Zacharia",
-     "url": "https://www.srf.ch/news/gesellschaft/nur-wenige-tage-im-amt-us-medien-trump-feuert-sprecherin-zacharia",
-     "time": "2026-10-16T18:42:11Z"
-    },
-    {
-     "title": "– US-Medien: Trump feuert Sprecherin Zacharia",
-     "url": "https://www.srf.ch/news/gesellschaft/nur-wenige-tage-im-amt-us-medien-trump-feuert-sprecherin-zacharia",
-     "time": "2026-10-16T18:42:11Z"
     }
    ]
   },
@@ -157,19 +157,24 @@
    ],
    "items": [
     {
-     "title": "Trump ferma importanti sanzioni e dazi del Graham Act sull'export della Russia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/trump-ferma-importanti-sanzioni-e-dazi-del-graham-act-sullexport-della_c94c6910-154f-4071-9bce-b30372b93263.html",
-     "time": "2026-10-17T02:01:20Z"
+     "title": "Abi, accelera crescita dei prestiti a famiglie e imprese, +3,7%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/abi-accelera-crescita-dei-prestiti-a-famiglie-e-imprese-37_911d651b-06b6-482c-9c57-953e2f093495.html",
+     "time": "2026-10-17T08:36:21Z"
     },
     {
      "title": "Crosetto alla Bbc, 'grave errore limitare a Kiev l'accesso ai satelliti'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/crosetto-alla-bbc-grave-errore-limitare-a-kiev-laccesso-ai-satelliti_115cd9c3-6af5-4e6a-9860-dda8c95eeddd.html",
-     "time": "2026-10-17T01:34:09Z"
+     "time": "2026-10-17T08:23:31Z"
     },
     {
      "title": "Zelensky, 'se cadiamo ci saranno 20 milioni di profughi in Europa'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/zelensky-se-cadiamo-ci-saranno-20-milioni-di-profughi-in-europa_0752d1c9-76db-4a08-a3d8-f23a91dc6612.html",
-     "time": "2026-10-16T17:58:44Z"
+     "time": "2026-10-17T08:23:31Z"
+    },
+    {
+     "title": "Il gasolio sfiora i 2,3 euro nel prezzo medio sulle autostrade",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/il-gasolio-sfiora-i-3-euro-nel-prezzo-medio-sulle-autostrade_70723167-83f2-4e1d-8b3f-7db10b2a6c9e.html",
+     "time": "2026-10-17T08:23:29Z"
     },
     {
      "title": "Nyt, licenziata la portavoce della Casa Bianca dopo soli 5 giorni",
@@ -200,11 +205,6 @@
      "title": "Trump, 'ho detto a Katie Zacharia di riconsiderare il suo incarico'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/trump-ho-detto-a-katie-zacharia-di-riconsiderare-il-suo-incarico_436c786a-ae86-4113-a05b-66b7668a5a42.html",
      "time": "2026-10-16T17:18:59Z"
-    },
-    {
-     "title": "Macron, 'sosterremo difesa di Kiev con immagini satellitari e allerta precoce'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/16/macron-sosterremo-difesa-di-kiev-con-immagini-satellitari-e-allerta-precoce_63c8d783-b0ea-43a5-b1f0-73f0042bf5e3.html",
-     "time": "2026-10-16T17:17:51Z"
     }
    ]
   },
@@ -215,24 +215,34 @@
    "countries": [],
    "items": [
     {
+     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T07:41:01Z"
+    },
+    {
+     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+     "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T06:49:48Z"
+    },
+    {
+     "title": "Katie Zacharia leaving White House role less than five days into job",
+     "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T05:20:40Z"
+    },
+    {
+     "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+     "url": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T05:01:40Z"
+    },
+    {
      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T03:11:10Z"
     },
     {
-     "title": "Trump waives several Russia sanctions as new US law takes effect",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T02:48:36Z"
-    },
-    {
      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T02:33:09Z"
-    },
-    {
-     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-     "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T01:19:04Z"
     },
     {
      "title": "The uncertain future of Canada's 30 rescued belugas",
@@ -245,14 +255,14 @@
      "time": "2026-10-17T00:41:58Z"
     },
     {
+     "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+     "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T00:38:34Z"
+    },
+    {
      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T23:54:35Z"
-    },
-    {
-     "title": "Pope pictured for first time since surgery and cancer diagnosis",
-     "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T23:20:37Z"
     },
     {
      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
@@ -260,19 +270,9 @@
      "time": "2026-10-16T23:07:18Z"
     },
     {
-     "title": "Katie Zacharia leaving her White House role less than five days on the job",
-     "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T21:05:05Z"
-    },
-    {
      "title": "Trump denies limiting Ukraine access to Starlink network",
      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T19:33:48Z"
-    },
-    {
-     "title": "What we learned from heated US midterm Senate debates",
-     "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T19:09:37Z"
     }
    ]
   }
