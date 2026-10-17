@@ -1,6 +1,6 @@
 {
- "version": 52,
- "updated": "2026-10-16T21:37:42Z",
+ "version": 53,
+ "updated": "2026-10-17T00:19:00Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,21 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Amazonas in Brasilien: Abholzung auf tiefstem Stand seit 1988",
+     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html",
+     "time": "2026-10-17T00:05:19Z"
+    },
+    {
+     "title": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
+     "url": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html",
+     "time": "2026-10-16T22:22:52Z"
+    },
+    {
+     "title": "Ebnoutalib sichert Eintracht Frankfurt den Sieg gegen Köln",
+     "url": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
+     "time": "2026-10-16T21:16:05Z"
+    },
     {
      "title": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
      "url": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
@@ -58,21 +73,6 @@
      "title": "Wie kritisch blickt die Junge Union auf Kanzler Merz",
      "url": "https://www.tagesschau.de/tagesthemen/video-1667666.html",
      "time": "2026-10-16T20:26:13Z"
-    },
-    {
-     "title": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
-     "url": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
-     "time": "2026-10-16T19:42:41Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81430.html",
-     "time": "2026-10-16T18:51:16Z"
-    },
-    {
-     "title": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html",
-     "time": "2026-10-16T18:42:07Z"
     }
    ]
   },
@@ -84,6 +84,11 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "«Arena» zu den Wahlen 2027 – FDP, Mitte und GLP im Schwitzkasten der Pole",
+     "url": "https://www.srf.ch/news/schweiz/arena-zu-den-wahlen-2027-fdp-mitte-und-glp-im-schwitzkasten-der-pole",
+     "time": "2026-10-16T22:43:02Z"
+    },
     {
      "title": "Krieg in der Ukraine – Macron: «Wir werden die Ukraine nicht im Stich lassen»",
      "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-macron-wir-werden-die-ukraine-nicht-im-stich-lassen",
@@ -130,19 +135,14 @@
      "time": "2026-10-16T18:43:09Z"
     },
     {
-     "title": "– Neue Trump-Sprecherin bei Anwaltsprüfung durchgefallen",
-     "url": "https://www.srf.ch/news/gesellschaft/katie-zacharia-neue-trump-sprecherin-bei-anwaltspruefung-durchgefallen",
-     "time": "2026-10-16T18:43:09Z"
-    },
-    {
      "title": "Nur wenige Tage im Amt – US-Medien: Trump feuert Sprecherin Zacharia",
      "url": "https://www.srf.ch/news/gesellschaft/nur-wenige-tage-im-amt-us-medien-trump-feuert-sprecherin-zacharia",
      "time": "2026-10-16T18:42:11Z"
     },
     {
-     "title": "Schnelles Ende – Warum wird die Schaltsekunde abgeschafft?",
-     "url": "https://www.srf.ch/wissen/technik/schnelles-ende-warum-wird-die-schaltsekunde-abgeschafft",
-     "time": "2026-10-16T18:26:40Z"
+     "title": "– US-Medien: Trump feuert Sprecherin Zacharia",
+     "url": "https://www.srf.ch/news/gesellschaft/nur-wenige-tage-im-amt-us-medien-trump-feuert-sprecherin-zacharia",
+     "time": "2026-10-16T18:42:11Z"
     }
    ]
   },
@@ -215,6 +215,31 @@
    "countries": [],
    "items": [
     {
+     "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T23:54:35Z"
+    },
+    {
+     "title": "Pope pictured for first time since surgery and cancer diagnosis",
+     "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T23:20:37Z"
+    },
+    {
+     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+     "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T23:07:38Z"
+    },
+    {
+     "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T23:07:18Z"
+    },
+    {
+     "title": "Katie Zacharia leaving her White House role less than five days on the job",
+     "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-16T21:05:05Z"
+    },
+    {
      "title": "Trump denies limiting Ukraine access to Starlink network",
      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T19:33:48Z"
@@ -240,11 +265,6 @@
      "time": "2026-10-16T14:57:51Z"
     },
     {
-     "title": "Pope pictured for first time since surgery and cancer diagnosis",
-     "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T14:36:39Z"
-    },
-    {
      "title": "Albanian protests turn violent: What we know",
      "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T14:33:32Z"
@@ -253,26 +273,6 @@
      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-16T14:31:04Z"
-    },
-    {
-     "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-     "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T14:21:32Z"
-    },
-    {
-     "title": "India's 'cockroach' party founder detained ahead of protest",
-     "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T11:44:31Z"
-    },
-    {
-     "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-     "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T11:40:41Z"
-    },
-    {
-     "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-     "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-16T08:45:54Z"
     }
    ]
   }
