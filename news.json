@@ -1,6 +1,6 @@
 {
- "version": 58,
- "updated": "2026-10-17T18:48:27Z",
+ "version": 59,
+ "updated": "2026-10-17T21:23:39Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,21 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
+     "time": "2026-10-17T19:15:16Z"
+    },
+    {
+     "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
+     "url": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
+     "time": "2026-10-17T19:10:03Z"
+    },
+    {
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12316.html",
+     "time": "2026-10-17T18:54:48Z"
+    },
     {
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81506.html",
@@ -58,21 +73,6 @@
      "title": "Was Rot-Grün-Rot bei der Gesellschaftung von Wohnungen plant",
      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-rot-gruen-rot-plant-vergesellschaftung-grosser-wohnungsbestaende-in-berlin-100.html",
      "time": "2026-10-17T18:32:32Z"
-    },
-    {
-     "title": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
-     "url": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
-     "time": "2026-10-17T18:09:16Z"
-    },
-    {
-     "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
-     "time": "2026-10-17T17:44:57Z"
-    },
-    {
-     "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
-     "time": "2026-10-17T17:40:26Z"
     }
    ]
   },
@@ -85,6 +85,41 @@
    ],
    "items": [
     {
+     "title": "Krieg im Nahen Osten – Ägypten erwägt militärische Unterstützung für Saudi-Arabien",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-aegypten-erwaegt-militaerische-unterstuetzung-fuer-saudi-arabien",
+     "time": "2026-10-17T21:05:40Z"
+    },
+    {
+     "title": "National League am Samstag – Freiburg mit Spektakel-Wende – Kloten blamiert sich in Überzahl",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-freiburg-mit-spektakel-wende-kloten-blamiert-sich-in-ueberzahl",
+     "time": "2026-10-17T20:57:35Z"
+    },
+    {
+     "title": "Die Kunst, loszulassen – Julia Steiner: «Scheitern war keine Option»",
+     "url": "https://www.srf.ch/radio-srf-1/die-kunst-loszulassen-julia-steiner-scheitern-war-keine-option",
+     "time": "2026-10-17T20:13:24Z"
+    },
+    {
+     "title": "«Wir haben die Schnauze voll» – Schwere Ausschreitungen bei frankreichweiten Protesten",
+     "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-schwere-ausschreitungen-bei-frankreichweiten-protesten",
+     "time": "2026-10-17T20:04:23Z"
+    },
+    {
+     "title": "Landesweite Proteste – Warum Frankreichs Strassen brennen – und was die Menschen fordern",
+     "url": "https://www.srf.ch/news/international/landesweite-proteste-warum-frankreichs-strassen-brennen-und-was-die-menschen-fordern",
+     "time": "2026-10-17T19:26:49Z"
+    },
+    {
+     "title": "Vorerst bis Ende Saison – Kurashev schliesst sich Lausanne an",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/vorerst-bis-ende-saison-kurashev-schliesst-sich-lausanne-an",
+     "time": "2026-10-17T19:16:19Z"
+    },
+    {
+     "title": "Women's Super League – Torreiche Schlussphase: YB ringt GC nieder",
+     "url": "https://www.srf.ch/sport/fussball/women-s-super-league/women-s-super-league-torreiche-schlussphase-yb-ringt-gc-nieder",
+     "time": "2026-10-17T19:01:50Z"
+    },
+    {
      "title": "Steinzeit war auch Holzzeit – Das Zuhause der Neandertaler mit der rätselhaften Keule im Fels",
      "url": "https://www.srf.ch/wissen/forschung/steinzeit-war-auch-holzzeit-das-zuhause-der-neandertaler-mit-der-raetselhaften-keule-im-fels",
      "time": "2026-10-17T18:38:13Z"
@@ -95,24 +130,9 @@
      "time": "2026-10-17T18:17:19Z"
     },
     {
-     "title": "Women's Super League – Torreiche Schlussphase: YB ringt GC nieder",
-     "url": "https://www.srf.ch/sport/fussball/women-s-super-league/women-s-super-league-torreiche-schlussphase-yb-ringt-gc-nieder",
-     "time": "2026-10-17T17:17:10Z"
-    },
-    {
-     "title": "«Wir haben die Schnauze voll» – Schwere Ausschreitungen bei frankreichweiten Protesten",
-     "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-schwere-ausschreitungen-bei-frankreichweiten-protesten",
-     "time": "2026-10-17T17:09:01Z"
-    },
-    {
      "title": "Schutzwald unter Druck – Zaun für Schutzwald: Ein schweizweit einzigartiges Projekt",
      "url": "https://www.srf.ch/news/schweiz/schutzwald-unter-druck-zaun-fuer-schutzwald-ein-schweizweit-einzigartiges-projekt",
      "time": "2026-10-17T17:04:36Z"
-    },
-    {
-     "title": "Schweizer Cup, 2. Runde – Erster GC-Sieg unter Janssen bei Abrashi-Jubiläum – Sion mit Mühe",
-     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-erster-gc-sieg-unter-janssen-bei-abrashi-jubilaeum-sion-mit-muehe",
-     "time": "2026-10-17T16:58:22Z"
     },
     {
      "title": "Krise in Kongo-Kinshasa – Joseph Kabila – vom Ex-Präsidenten zum Rebellenchef",
@@ -123,26 +143,6 @@
      "title": "Beziehungen USA-Russland – Trump setzt Sanktionen gegen Russland aus – ohne Begründung",
      "url": "https://www.srf.ch/news/international/beziehungen-usa-russland-trump-setzt-sanktionen-gegen-russland-aus-ohne-begruendung",
      "time": "2026-10-17T16:01:27Z"
-    },
-    {
-     "title": "Wahlen Kanton Freiburg – Deutschfreiburg könnte seine Regierungsvertretung verlieren",
-     "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-deutschfreiburg-koennte-seine-regierungsvertretung-verlieren",
-     "time": "2026-10-17T15:18:15Z"
-    },
-    {
-     "title": "SVP-Delegiertenversammlung – SVP-Delegierte lehnen Erhöhung der Mehrwertsteuer für AHV ab",
-     "url": "https://www.srf.ch/news/schweiz/svp-delegiertenversammlung-svp-delegierte-lehnen-erhoehung-der-mehrwertsteuer-fuer-ahv-ab",
-     "time": "2026-10-17T14:58:06Z"
-    },
-    {
-     "title": "Trendsportart – Hyrox: Der Mix aus Laufen und Krafttraining boomt",
-     "url": "https://www.srf.ch/news/dialog/trendsportart-hyrox-der-mix-aus-laufen-und-krafttraining-boomt",
-     "time": "2026-10-17T14:45:04Z"
-    },
-    {
-     "title": "Parteitag in Thun – SP lanciert Initiative zum Schutz vor Gewalt an Frauen",
-     "url": "https://www.srf.ch/news/schweiz/parteitag-in-thun-sp-lanciert-initiative-zum-schutz-vor-gewalt-an-frauen",
-     "time": "2026-10-17T14:30:51Z"
     }
    ]
   },
@@ -156,6 +156,36 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Gasperini 'Non avevo dubbi su reazione, Roma è stata brava'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/gasperini-non-avevo-dubbi-su-reazione-roma-e-stata-brava_8a944648-a25e-42d4-b33f-d9b74930293a.html",
+     "time": "2026-10-17T21:09:17Z"
+    },
+    {
+     "title": "Zacharia a Trump, 'onore indimenticabile la visita nello Studio Ovale con la famiglia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/zacharia-a-trump-onore-indimenticabile-la-visita-nello-studio-ovale-con-la-famiglia_00be410b-cfb2-4613-b3ba-4c5c0b885bcc.html",
+     "time": "2026-10-17T21:04:46Z"
+    },
+    {
+     "title": "Lulli e il primo gol con la Roma, 'un sogno che si avvera'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/lulli-e-il-primo-gol-con-la-roma-un-sogno-che-si-avvera_8e51b177-2a3b-4489-bfea-ba8bb2c11c21.html",
+     "time": "2026-10-17T20:59:54Z"
+    },
+    {
+     "title": "Serie A: Roma-Genoa 2-0",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/serie-a-roma-genoa-2-0_b570ace6-831c-4227-bba3-dc56638efd7f.html",
+     "time": "2026-10-17T20:39:34Z"
+    },
+    {
+     "title": "Ambasciatore Usa, Israele punisca i responsabili dell'attacco a reporter del Wp",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/ambasciatore-usa-israele-punisca-i-responsabili-dellattacco-a-reporter-del-wp_92450f96-83eb-4e17-b5f0-4cd5bdf08769.html",
+     "time": "2026-10-17T20:31:52Z"
+    },
+    {
+     "title": "Scontri a Milano, circa 50 fermati, quasi la metà minorenni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/scontri-a-milano-circa-50-fermati-quasi-la-meta-minorenni_672f523e-6b66-434f-b44d-ae835af7cc8b.html",
+     "time": "2026-10-17T20:31:29Z"
+    },
     {
      "title": "Macron, 'nessun posto per la violenza, chi distrugge e saccheggia verrà punito'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/macron-nessun-posto-per-la-violenza-chi-distrugge-e-saccheggia-verra-punito_85006f0f-aec6-4d48-a299-f15d79b47e36.html",
@@ -175,36 +205,6 @@
      "title": "Meloni, ogni reticenza sulle violenze di piazza diventa giustificazione",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/meloni-ogni-reticenza-sulle-violenze-di-piazza-diventa-giustificazione_d554a3f1-c13f-4ed6-8a14-d6c550f56164.html",
      "time": "2026-10-17T17:50:24Z"
-    },
-    {
-     "title": "Netanyahu, 'cautela su violenza a diplomatici, servono prove inconfutabili'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/netanyahu-cautela-su-violenza-a-diplomatici-servono-prove-inconfutabili_d4494875-8d36-4a0d-86aa-a405c8a3c9fc.html",
-     "time": "2026-10-17T17:23:58Z"
-    },
-    {
-     "title": "Scontri davanti stazione Bologna tra giovani manifestanti e forze ordine",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/scontri-davanti-stazione-bologna-tra-giovani-manifestanti-e-forze-ordine_d188e24c-ab8e-44b0-b690-3b9433db4b5c.html",
-     "time": "2026-10-17T16:44:05Z"
-    },
-    {
-     "title": "Premier Lecornu accusa gruppi di estrema sinistra, 'non ci lasceremo intimidire'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/premier-lecornu-accusa-gruppi-di-estrema-sinistra-non-ci-lasceremo-intimidire_75de3574-16f5-4b37-b876-8aefa81b2891.html",
-     "time": "2026-10-17T16:39:00Z"
-    },
-    {
-     "title": "Landini, 'sciopero generale il 20 novembre'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/landini-sciopero-generale-il-20-novembre_db5c83b2-2ff5-4e7a-9dcf-f0c8d78b8836.html",
-     "time": "2026-10-17T16:34:55Z"
-    },
-    {
-     "title": "Corteo a Milano, tafferugli in Duomo e in piazza Cordusio",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/corteo-a-milano-tafferugli-in-duomo-e-in-piazza-cordusio_98114384-8234-4c71-be1c-df055c654d9f.html",
-     "time": "2026-10-17T16:34:33Z"
-    },
-    {
-     "title": "Conte, M5s pronto, spero che a giorni inizi il confronto tra le opposizioni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/conte-m5s-pronto-spero-che-a-giorni-inizi-il-confronto-tra-le-opposizioni_08297294-8667-4d30-9c6d-efff9a81b927.html",
-     "time": "2026-10-17T15:35:53Z"
     }
    ]
   },
@@ -215,6 +215,31 @@
    "countries": [],
    "items": [
     {
+     "title": "Anti-government protesters battle with police in Albania",
+     "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T20:53:00Z"
+    },
+    {
+     "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+     "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T20:52:17Z"
+    },
+    {
+     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T19:19:19Z"
+    },
+    {
+     "title": "At least 17 dead in crush at Hindu festival event in India",
+     "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T19:19:16Z"
+    },
+    {
+     "title": "European diplomats attacked by Israeli settlers in West Bank",
+     "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T18:38:57Z"
+    },
+    {
      "title": "Pope discharged from hospital days after lung cancer surgery",
      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T13:51:36Z"
@@ -223,11 +248,6 @@
      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T12:11:58Z"
-    },
-    {
-     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T11:56:06Z"
     },
     {
      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
@@ -253,26 +273,6 @@
      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T02:33:09Z"
-    },
-    {
-     "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-     "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T01:55:45Z"
-    },
-    {
-     "title": "The uncertain future of Canada's 30 rescued belugas",
-     "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T01:18:08Z"
-    },
-    {
-     "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-     "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T00:41:58Z"
-    },
-    {
-     "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-     "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T00:38:34Z"
     }
    ]
   }
