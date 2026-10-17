@@ -1,6 +1,6 @@
 {
- "version": 57,
- "updated": "2026-10-17T16:37:05Z",
+ "version": 58,
+ "updated": "2026-10-17T18:48:27Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Kampf und Krampf in Berlin - BVB enttäuscht bei Union wieder",
-     "url": "https://www.sportschau.de/fussball/bundesliga/kampf-und-krampf-in-berlin-bvb-enttaeuscht-wieder,spielbericht-union-berlin-borussia-dortmund-104.html",
-     "time": "2026-10-17T16:28:04Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81506.html",
+     "time": "2026-10-17T18:38:37Z"
     },
     {
-     "title": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
-     "time": "2026-10-17T16:14:36Z"
+     "title": "Papst Leo XIV. nach Lungen-Operation aus Krankenhaus entlassen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668106.html",
+     "time": "2026-10-17T18:36:02Z"
     },
     {
-     "title": "Rechtsruck - auch bei Israels linken Parteien?",
-     "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html",
-     "time": "2026-10-17T16:09:53Z"
+     "title": "US-Präsident Trump stoppt bereits beschlossene Sanktionen gegen Russland",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668102.html",
+     "time": "2026-10-17T18:35:19Z"
     },
     {
-     "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
-     "time": "2026-10-17T16:02:16Z"
+     "title": "Michael Strempel, ARD Paris, über die gewalttätigen Proteste in Frankreich",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668100.html",
+     "time": "2026-10-17T18:34:42Z"
     },
     {
-     "title": "Unbekannte feuern auf Wohnhaus und Restaurant in Köln",
-     "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-koeln-102.html",
-     "time": "2026-10-17T15:54:00Z"
+     "title": "Kerstin Palzer, ARD Berlin, zzt. Bonn,",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668096.html",
+     "time": "2026-10-17T18:34:18Z"
     },
     {
-     "title": "Kerstin Palzer, ARD Berlin, zzt. Bonn, zum Auftritt von Kanzler Merz bei der Jungen Union",
-     "url": "https://www.tagesschau.de/video/video-1667958.html",
-     "time": "2026-10-17T15:45:55Z"
+     "title": "Kanzler Merz sagt der Jungen Union zügige Umsetzung der Reformen zu",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668094.html",
+     "time": "2026-10-17T18:34:10Z"
     },
     {
-     "title": "Happy End für SV Elversberg im Spektakel gegen FC Augsburg",
-     "url": "https://www.sportschau.de/fussball/bundesliga/elversberger-happy-end-im-spektakel-gegen-augsburg,spielbericht-sv-elversberg-fc-augsburg-100.html",
-     "time": "2026-10-17T15:45:41Z"
+     "title": "Bayern schießt sich bei 6:1 gegen Leipzig den Frust von der Seele",
+     "url": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
+     "time": "2026-10-17T18:33:17Z"
     },
     {
-     "title": "Landesweite Proteste in Italien",
-     "url": "https://www.tagesschau.de/video/video-1667942.html",
-     "time": "2026-10-17T15:42:55Z"
+     "title": "Rot-Rot-Grün einigen sich bei Sondierungsgesprächen in Berlin",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668092.html",
+     "time": "2026-10-17T18:33:13Z"
     },
     {
-     "title": "Kanzler Merz beim Deutschlandtag der Jungen Union in Bonn",
-     "url": "https://www.tagesschau.de/video/video-1667934.html",
-     "time": "2026-10-17T15:41:33Z"
+     "title": "Was Rot-Grün-Rot bei der Gesellschaftung von Wohnungen plant",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-rot-gruen-rot-plant-vergesellschaftung-grosser-wohnungsbestaende-in-berlin-100.html",
+     "time": "2026-10-17T18:32:32Z"
     },
     {
-     "title": "Michael Strempel, ARD Paris, über erneute heftige Proteste in Frankreich",
-     "url": "https://www.tagesschau.de/video/video-1667948.html",
-     "time": "2026-10-17T15:41:25Z"
+     "title": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
+     "url": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
+     "time": "2026-10-17T18:09:16Z"
     },
     {
-     "title": "US-Präsident Trump stoppt schon beschlossenes Sanktionspaket gegen Russland",
-     "url": "https://www.tagesschau.de/video/video-1667938.html",
-     "time": "2026-10-17T15:37:15Z"
+     "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
+     "time": "2026-10-17T17:44:57Z"
     },
     {
-     "title": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
-     "time": "2026-10-17T15:29:15Z"
+     "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+     "time": "2026-10-17T17:40:26Z"
     }
    ]
   },
@@ -84,6 +84,36 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Steinzeit war auch Holzzeit – Das Zuhause der Neandertaler mit der rätselhaften Keule im Fels",
+     "url": "https://www.srf.ch/wissen/forschung/steinzeit-war-auch-holzzeit-das-zuhause-der-neandertaler-mit-der-raetselhaften-keule-im-fels",
+     "time": "2026-10-17T18:38:13Z"
+    },
+    {
+     "title": "Schweizer Cup, 2. Runde – Dorn schiesst den FCL in Winterthur in der 92. Minute ins Glück",
+     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-dorn-schiesst-den-fcl-in-winterthur-in-der-92-minute-ins-glueck",
+     "time": "2026-10-17T18:17:19Z"
+    },
+    {
+     "title": "Women's Super League – Torreiche Schlussphase: YB ringt GC nieder",
+     "url": "https://www.srf.ch/sport/fussball/women-s-super-league/women-s-super-league-torreiche-schlussphase-yb-ringt-gc-nieder",
+     "time": "2026-10-17T17:17:10Z"
+    },
+    {
+     "title": "«Wir haben die Schnauze voll» – Schwere Ausschreitungen bei frankreichweiten Protesten",
+     "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-schwere-ausschreitungen-bei-frankreichweiten-protesten",
+     "time": "2026-10-17T17:09:01Z"
+    },
+    {
+     "title": "Schutzwald unter Druck – Zaun für Schutzwald: Ein schweizweit einzigartiges Projekt",
+     "url": "https://www.srf.ch/news/schweiz/schutzwald-unter-druck-zaun-fuer-schutzwald-ein-schweizweit-einzigartiges-projekt",
+     "time": "2026-10-17T17:04:36Z"
+    },
+    {
+     "title": "Schweizer Cup, 2. Runde – Erster GC-Sieg unter Janssen bei Abrashi-Jubiläum – Sion mit Mühe",
+     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-erster-gc-sieg-unter-janssen-bei-abrashi-jubilaeum-sion-mit-muehe",
+     "time": "2026-10-17T16:58:22Z"
+    },
     {
      "title": "Krise in Kongo-Kinshasa – Joseph Kabila – vom Ex-Präsidenten zum Rebellenchef",
      "url": "https://www.srf.ch/news/international/krise-in-kongo-kinshasa-joseph-kabila-vom-ex-praesidenten-zum-rebellenchef",
@@ -100,11 +130,6 @@
      "time": "2026-10-17T15:18:15Z"
     },
     {
-     "title": "Massenproteste in Frankreich – Zehntausende auf den Strassen: «Wir haben die Schnauze voll»",
-     "url": "https://www.srf.ch/news/international/massenproteste-in-frankreich-zehntausende-auf-den-strassen-wir-haben-die-schnauze-voll",
-     "time": "2026-10-17T15:15:14Z"
-    },
-    {
      "title": "SVP-Delegiertenversammlung – SVP-Delegierte lehnen Erhöhung der Mehrwertsteuer für AHV ab",
      "url": "https://www.srf.ch/news/schweiz/svp-delegiertenversammlung-svp-delegierte-lehnen-erhoehung-der-mehrwertsteuer-fuer-ahv-ab",
      "time": "2026-10-17T14:58:06Z"
@@ -118,31 +143,6 @@
      "title": "Parteitag in Thun – SP lanciert Initiative zum Schutz vor Gewalt an Frauen",
      "url": "https://www.srf.ch/news/schweiz/parteitag-in-thun-sp-lanciert-initiative-zum-schutz-vor-gewalt-an-frauen",
      "time": "2026-10-17T14:30:51Z"
-    },
-    {
-     "title": "Nach Lungenkrebs-Operation – Papst Leo verlässt Spital nach Krebs-OP",
-     "url": "https://www.srf.ch/news/international/nach-lungenkrebs-operation-papst-leo-verlaesst-spital-nach-krebs-op",
-     "time": "2026-10-17T14:03:45Z"
-    },
-    {
-     "title": "Kerosin-Pflichtlager geöffnet – Wie lange reichen die Treibstoffreserven der Schweiz?",
-     "url": "https://www.srf.ch/news/schweiz/kerosin-pflichtlager-geoeffnet-wie-lange-reichen-die-treibstoffreserven-der-schweiz",
-     "time": "2026-10-17T13:37:32Z"
-    },
-    {
-     "title": "Minergie-Label – Wohnungen wegen falschen Angaben zu teuer vermietet",
-     "url": "https://www.srf.ch/news/schweiz/minergie-label-wohnungen-wegen-falschen-angaben-zu-teuer-vermietet",
-     "time": "2026-10-17T13:12:50Z"
-    },
-    {
-     "title": "Bahnrad-WM in Schanghai – Schweizerinnen mit Top-10-Plätzen",
-     "url": "https://www.srf.ch/sport/rad/bahnrad-wm-in-schanghai-schweizerinnen-mit-top-10-plaetzen",
-     "time": "2026-10-17T13:08:07Z"
-    },
-    {
-     "title": "Umgang mit Wölfen – Schwyzer Wölfe stehen unter Beschuss – auch politisch",
-     "url": "https://www.srf.ch/news/schweiz/umgang-mit-woelfen-schwyzer-woelfe-stehen-unter-beschuss-auch-politisch",
-     "time": "2026-10-17T12:24:32Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
+     "title": "Macron, 'nessun posto per la violenza, chi distrugge e saccheggia verrà punito'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/macron-nessun-posto-per-la-violenza-chi-distrugge-e-saccheggia-verra-punito_85006f0f-aec6-4d48-a299-f15d79b47e36.html",
+     "time": "2026-10-17T18:01:40Z"
+    },
+    {
+     "title": "Macron, 'nessun posto alla violenza, chi distrugge e saccheggia verrà punito'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/macron-nessun-posto-alla-violenza-chi-distrugge-e-saccheggia-verra-punito_c33083ff-22ae-4039-bcac-63233409c090.html",
+     "time": "2026-10-17T17:59:17Z"
+    },
+    {
+     "title": "Serie A: Bologna-Inter 1-3",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/serie-a-bologna-inter-1-3_f5f88ac0-bfc0-42d4-9701-9f570a1e3955.html",
+     "time": "2026-10-17T17:57:07Z"
+    },
+    {
+     "title": "Meloni, ogni reticenza sulle violenze di piazza diventa giustificazione",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/meloni-ogni-reticenza-sulle-violenze-di-piazza-diventa-giustificazione_d554a3f1-c13f-4ed6-8a14-d6c550f56164.html",
+     "time": "2026-10-17T17:50:24Z"
+    },
+    {
+     "title": "Netanyahu, 'cautela su violenza a diplomatici, servono prove inconfutabili'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/netanyahu-cautela-su-violenza-a-diplomatici-servono-prove-inconfutabili_d4494875-8d36-4a0d-86aa-a405c8a3c9fc.html",
+     "time": "2026-10-17T17:23:58Z"
+    },
+    {
+     "title": "Scontri davanti stazione Bologna tra giovani manifestanti e forze ordine",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/scontri-davanti-stazione-bologna-tra-giovani-manifestanti-e-forze-ordine_d188e24c-ab8e-44b0-b690-3b9433db4b5c.html",
+     "time": "2026-10-17T16:44:05Z"
+    },
+    {
+     "title": "Premier Lecornu accusa gruppi di estrema sinistra, 'non ci lasceremo intimidire'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/premier-lecornu-accusa-gruppi-di-estrema-sinistra-non-ci-lasceremo-intimidire_75de3574-16f5-4b37-b876-8aefa81b2891.html",
+     "time": "2026-10-17T16:39:00Z"
+    },
+    {
+     "title": "Landini, 'sciopero generale il 20 novembre'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/landini-sciopero-generale-il-20-novembre_db5c83b2-2ff5-4e7a-9dcf-f0c8d78b8836.html",
+     "time": "2026-10-17T16:34:55Z"
+    },
+    {
+     "title": "Corteo a Milano, tafferugli in Duomo e in piazza Cordusio",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/corteo-a-milano-tafferugli-in-duomo-e-in-piazza-cordusio_98114384-8234-4c71-be1c-df055c654d9f.html",
+     "time": "2026-10-17T16:34:33Z"
+    },
+    {
      "title": "Conte, M5s pronto, spero che a giorni inizi il confronto tra le opposizioni",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/conte-m5s-pronto-spero-che-a-giorni-inizi-il-confronto-tra-le-opposizioni_08297294-8667-4d30-9c6d-efff9a81b927.html",
      "time": "2026-10-17T15:35:53Z"
-    },
-    {
-     "title": "Un manifestante perde la mano per una granata della polizia a Saint-Etienne",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/un-manifestante-perde-la-mano-per-una-granata-della-polizia-a-saint-etienne_46537c5d-b692-4c0e-9c86-c2670f3d274a.html",
-     "time": "2026-10-17T15:17:51Z"
-    },
-    {
-     "title": "Proteste in Francia, il numero dei fermi salito a 272",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/proteste-in-francia-il-numero-dei-fermi-salito-a-272_89dc35c7-6edf-45ff-8ea5-a5223b4e1eb6.html",
-     "time": "2026-10-17T15:09:18Z"
-    },
-    {
-     "title": "Idf, 'visita diplomatici a Taybeh non era coordinata, aperta un'indagine'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/idf-visita-diplomatici-a-taybeh-non-era-coordinata-aperta-unindagine_38b8c0ac-256d-4df9-975a-925613757441.html",
-     "time": "2026-10-17T14:55:41Z"
-    },
-    {
-     "title": "Schlein, in piazza lo spirito del referendum, costruiamo l'alternativa insieme",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/schlein-in-piazza-lo-spirito-del-referendum-costruiamo-lalternativa-insieme_58b20a4e-b299-49e5-96bb-41a1f498f72c.html",
-     "time": "2026-10-17T14:46:46Z"
-    },
-    {
-     "title": "Violenti scontri con la polizia a margine del corteo a Parigi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/violenti-scontri-con-la-polizia-a-margine-del-corteo-a-parigi_bd477e0c-c502-467d-8734-8d6d39da1f04.html",
-     "time": "2026-10-17T14:06:19Z"
-    },
-    {
-     "title": "Coloni israeliani aggrediscono diplomatici europei a Taybeh in Cisgiordania",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/coloni-israeliani-aggrediscono-diplomatici-europei-a-taybeh-in-cisgiordania_6dec10e3-2f1d-4027-aa23-c2caec127905.html",
-     "time": "2026-10-17T14:05:37Z"
-    },
-    {
-     "title": "Ue, 'avanti con sanzioni a Mosca, azione coordinata con Usa può fare differenza'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/ue-avanti-con-sanzioni-a-mosca-azione-coordinata-con-usa-puo-fare_9bf493ad-f251-405e-9777-809258e3eb0e.html",
-     "time": "2026-10-17T14:05:18Z"
-    },
-    {
-     "title": "Mattarella al Papa, a nome dell'Italia auguri di serena convalescenza",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/mattarella-al-papa-a-nome-dellitalia-auguri-di-serena-convalescenza_46fbd549-28d2-42d4-ba28-82d7c916641a.html",
-     "time": "2026-10-17T13:55:11Z"
-    },
-    {
-     "title": "Manovra, verso un vertice lunedì con Meloni e Giorgetti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/manovra-verso-un-vertice-lunedi-con-meloni-e-giorgetti_71c634f5-79ae-4ffe-83c1-b7843f9c757b.html",
-     "time": "2026-10-17T13:20:47Z"
     }
    ]
   },
