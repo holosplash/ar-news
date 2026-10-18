@@ -1,6 +1,6 @@
 {
- "version": 61,
- "updated": "2026-10-18T01:28:10Z",
+ "version": 62,
+ "updated": "2026-10-18T06:31:49Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,51 @@
    ],
    "items": [
     {
+     "title": "Sturmflutwarnung an der Ostsee: Erstes Hochwasser der Saison erwartet",
+     "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/sturmflutwarnung-an-der-ostsee-erstes-hochwasser-der-saison-erwartet,hochwasserostsee-100.html",
+     "time": "2026-10-18T06:26:16Z"
+    },
+    {
+     "title": "Wechseljahre im Job: Wie Hitzewallungen den Arbeitsalltag erschweren",
+     "url": "https://www.tagesschau.de/kultur/wechseljahre-am-arbeitsplatz-100.html",
+     "time": "2026-10-18T06:25:03Z"
+    },
+    {
+     "title": "Proteste in Frankreich eskalieren",
+     "url": "https://www.tagesschau.de/video/video-1668216.html",
+     "time": "2026-10-18T04:41:36Z"
+    },
+    {
+     "title": "Mehrere Tote bei Massenpanik auf Hindufestival in Indien",
+     "url": "https://www.tagesschau.de/video/video-1668208.html",
+     "time": "2026-10-18T03:57:11Z"
+    },
+    {
+     "title": "Streit mit Bundes-CDU: SPD-Frauen werfen Union \"Sexismus mit System\" vor",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/spd-wirft-cdu-sexismus-vor-100.html",
+     "time": "2026-10-18T03:38:20Z"
+    },
+    {
+     "title": "Saudi-Arabien fängt ballistische Raketen aus dem Jemen ab",
+     "url": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-104.html",
+     "time": "2026-10-18T03:32:27Z"
+    },
+    {
+     "title": "Tote und Verletzte bei Vorfall auf Militärbasis in Kanada",
+     "url": "https://www.tagesschau.de/ausland/amerika/zwischenfall-militaerstutzpunkt-kanada-100.html",
+     "time": "2026-10-18T03:09:52Z"
+    },
+    {
+     "title": "Zaun beschädigt - Flugbetrieb eingeschränkt",
+     "url": "https://www.tagesschau.de/inland/regional/sachsen/polizei-durchsucht-flughafengelaende,flughafen-leipzig-zaun-100.html",
+     "time": "2026-10-18T02:46:27Z"
+    },
+    {
+     "title": "Mindestens 17 Tote bei Massenpanik in Indien",
+     "url": "https://www.tagesschau.de/ausland/asien/indien-tote-bei-massenpanik-100.html",
+     "time": "2026-10-18T02:27:07Z"
+    },
+    {
      "title": "Frei fordert gleiche Chancen auf Facharzttermine",
      "url": "https://www.tagesschau.de/inland/innenpolitik/facharzttermine-frei-fordert-mehr-gerechtigkeit-100.html",
      "time": "2026-10-18T00:35:06Z"
@@ -28,51 +73,6 @@
      "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
      "time": "2026-10-17T22:31:39Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12924.html",
-     "time": "2026-10-17T22:25:47Z"
-    },
-    {
-     "title": "US-Präsident Trump hat schon beschlossene Sanktionen gegen Russland gestoppt",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1668182.html",
-     "time": "2026-10-17T22:19:15Z"
-    },
-    {
-     "title": "Rede von Kanzler Merz auf Deutschlandtag von Junger Union",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1668184.html",
-     "time": "2026-10-17T22:13:47Z"
-    },
-    {
-     "title": "Sondierungsgespräche zwischen Rot-Rot-Grün in Berlin positiv verlaufen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1668180.html",
-     "time": "2026-10-17T22:11:12Z"
-    },
-    {
-     "title": "Ausschreitungen in Frankreich eskalieren",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1668178.html",
-     "time": "2026-10-17T22:10:27Z"
-    },
-    {
-     "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
-     "time": "2026-10-17T19:15:16Z"
-    },
-    {
-     "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
-     "url": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
-     "time": "2026-10-17T19:10:03Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12316.html",
-     "time": "2026-10-17T18:54:48Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81506.html",
-     "time": "2026-10-17T18:38:37Z"
     }
    ]
   },
@@ -85,14 +85,29 @@
    ],
    "items": [
     {
+     "title": "Auswirkungen der Trockenheit – Wer haftet, wenn im Wald ein Baum auf Menschen stürzt?",
+     "url": "https://www.srf.ch/news/schweiz/auswirkungen-der-trockenheit-wer-haftet-wenn-im-wald-ein-baum-auf-menschen-stuerzt",
+     "time": "2026-10-18T06:13:35Z"
+    },
+    {
+     "title": "Abstimmung vom 29. November – Wie (un)sozial ist die Mehrwertsteuer?",
+     "url": "https://www.srf.ch/news/wirtschaft/abstimmung-vom-29-november-wie-un-sozial-ist-die-mehrwertsteuer",
+     "time": "2026-10-18T05:27:26Z"
+    },
+    {
+     "title": "Bilder der Woche – Ein tonnenschwerer Kürbiskönig und weitere Eindrücke der Woche",
+     "url": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-ein-tonnenschwerer-kuerbiskoenig-und-weitere-eindruecke-der-woche",
+     "time": "2026-10-18T05:01:55Z"
+    },
+    {
      "title": "«Wir haben die Schnauze voll» – Schwere Ausschreitungen bei frankreichweiten Protesten",
      "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-schwere-ausschreitungen-bei-frankreichweiten-protesten",
-     "time": "2026-10-17T22:26:55Z"
+     "time": "2026-10-18T02:27:37Z"
     },
     {
      "title": "– Schwere Ausschreitungen bei frankreichweiten Protesten",
      "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-schwere-ausschreitungen-bei-frankreichweiten-protesten",
-     "time": "2026-10-17T22:26:55Z"
+     "time": "2026-10-18T02:27:37Z"
     },
     {
      "title": "Krieg im Nahen Osten – Ägypten erwägt militärische Unterstützung für Saudi-Arabien",
@@ -115,6 +130,11 @@
      "time": "2026-10-17T19:26:49Z"
     },
     {
+     "title": "– Warum Frankreichs Strassen brennen – und was die Menschen fordern",
+     "url": "https://www.srf.ch/news/international/landesweite-proteste-warum-frankreichs-strassen-brennen-und-was-die-menschen-fordern",
+     "time": "2026-10-17T19:26:49Z"
+    },
+    {
      "title": "Vorerst bis Ende Saison – Kurashev schliesst sich Lausanne an",
      "url": "https://www.srf.ch/sport/eishockey/national-league/vorerst-bis-ende-saison-kurashev-schliesst-sich-lausanne-an",
      "time": "2026-10-17T19:16:19Z"
@@ -123,26 +143,6 @@
      "title": "Women's Super League – Torreiche Schlussphase: YB ringt GC nieder",
      "url": "https://www.srf.ch/sport/fussball/women-s-super-league/women-s-super-league-torreiche-schlussphase-yb-ringt-gc-nieder",
      "time": "2026-10-17T19:01:50Z"
-    },
-    {
-     "title": "Steinzeit war auch Holzzeit – Das Zuhause der Neandertaler mit der rätselhaften Keule im Fels",
-     "url": "https://www.srf.ch/wissen/forschung/steinzeit-war-auch-holzzeit-das-zuhause-der-neandertaler-mit-der-raetselhaften-keule-im-fels",
-     "time": "2026-10-17T18:38:13Z"
-    },
-    {
-     "title": "Schweizer Cup, 2. Runde – Dorn schiesst den FCL in Winterthur in der 92. Minute ins Glück",
-     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-dorn-schiesst-den-fcl-in-winterthur-in-der-92-minute-ins-glueck",
-     "time": "2026-10-17T18:17:19Z"
-    },
-    {
-     "title": "Schutzwald unter Druck – Zaun für Schutzwald: Ein schweizweit einzigartiges Projekt",
-     "url": "https://www.srf.ch/news/schweiz/schutzwald-unter-druck-zaun-fuer-schutzwald-ein-schweizweit-einzigartiges-projekt",
-     "time": "2026-10-17T17:04:36Z"
-    },
-    {
-     "title": "Krise in Kongo-Kinshasa – Joseph Kabila – vom Ex-Präsidenten zum Rebellenchef",
-     "url": "https://www.srf.ch/news/international/krise-in-kongo-kinshasa-joseph-kabila-vom-ex-praesidenten-zum-rebellenchef",
-     "time": "2026-10-17T16:34:24Z"
     }
    ]
   },
@@ -156,6 +156,26 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Ministro Canada, 'incidente a base militare il peggiore degli ultimi tempi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/ministro-canada-incidente-a-base-militare-il-peggiore-degli-ultimi-tempi_602f7075-5c98-4a8b-a34e-491c0d922784.html",
+     "time": "2026-10-18T04:43:34Z"
+    },
+    {
+     "title": "Trump, 'il congelamento delle nuove sanzioni alla Russia è un'ottima decisione'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/trump-il-congelamento-delle-nuove-sanzioni-alla-russia-e-unottima-decisione_21a62498-3a8c-4c43-9a21-f41a7498803f.html",
+     "time": "2026-10-18T04:26:41Z"
+    },
+    {
+     "title": "Canada, 'tragico incendio in base militare, ci sono morti e feriti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/canada-tragico-incendio-in-base-militare-ci-sono-morti-e-feriti_fbc31703-e2cf-4702-86ff-3415d657e789.html",
+     "time": "2026-10-18T03:58:58Z"
+    },
+    {
+     "title": "Vance, 'immigrazione e problemi di assimilazione le cause delle violenze in Francia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/vance-immigrazione-e-problemi-di-assimilazione-le-cause-delle-violenze-in-francia_f2623fff-9a54-4783-afa4-1146589c2b8e.html",
+     "time": "2026-10-18T02:24:39Z"
+    },
     {
      "title": "Rubio, 'molto turbati da aggressione a fotografa Usa, Israele fermi violenza'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/rubio-molto-turbati-da-aggressione-a-fotografa-usa-israele-fermi-violenza_fb28f02c-c115-4893-beb7-246e77cdec8f.html",
@@ -185,26 +205,6 @@
      "title": "Gasperini 'Non avevo dubbi su reazione, Roma è stata brava'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/gasperini-non-avevo-dubbi-su-reazione-roma-e-stata-brava_8a944648-a25e-42d4-b33f-d9b74930293a.html",
      "time": "2026-10-17T21:09:17Z"
-    },
-    {
-     "title": "Zacharia a Trump, 'onore indimenticabile la visita nello Studio Ovale con la famiglia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/zacharia-a-trump-onore-indimenticabile-la-visita-nello-studio-ovale-con-la-famiglia_00be410b-cfb2-4613-b3ba-4c5c0b885bcc.html",
-     "time": "2026-10-17T21:04:46Z"
-    },
-    {
-     "title": "Lulli e il primo gol con la Roma, 'un sogno che si avvera'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/lulli-e-il-primo-gol-con-la-roma-un-sogno-che-si-avvera_8e51b177-2a3b-4489-bfea-ba8bb2c11c21.html",
-     "time": "2026-10-17T20:59:54Z"
-    },
-    {
-     "title": "Serie A: Roma-Genoa 2-0",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/serie-a-roma-genoa-2-0_b570ace6-831c-4227-bba3-dc56638efd7f.html",
-     "time": "2026-10-17T20:39:34Z"
-    },
-    {
-     "title": "Scontri a Milano, circa 50 fermati, quasi la metà minorenni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/scontri-a-milano-circa-50-fermati-quasi-la-meta-minorenni_672f523e-6b66-434f-b44d-ae835af7cc8b.html",
-     "time": "2026-10-17T20:31:29Z"
     }
    ]
   },
@@ -214,6 +214,21 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+     "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T05:56:20Z"
+    },
+    {
+     "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+     "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T05:04:31Z"
+    },
+    {
+     "title": "Deaths confirmed in major fire at Canada military base",
+     "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T04:00:50Z"
+    },
     {
      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
@@ -240,11 +255,6 @@
      "time": "2026-10-17T20:53:00Z"
     },
     {
-     "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-     "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T20:52:17Z"
-    },
-    {
      "title": "At least 17 dead in crush at Hindu festival event in India",
      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T19:19:16Z"
@@ -263,16 +273,6 @@
      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T10:46:41Z"
-    },
-    {
-     "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-     "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T09:58:17Z"
-    },
-    {
-     "title": "Katie Zacharia leaving White House role less than five days into job",
-     "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T09:14:10Z"
     }
    ]
   }
