@@ -1,6 +1,6 @@
 {
- "version": 65,
- "updated": "2026-10-18T18:34:45Z",
+ "version": 66,
+ "updated": "2026-10-18T20:59:43Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,34 @@
    ],
    "items": [
     {
+     "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
+     "time": "2026-10-18T19:46:21Z"
+    },
+    {
+     "title": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
+     "time": "2026-10-18T19:00:53Z"
+    },
+    {
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12310.html",
+     "time": "2026-10-18T18:48:39Z"
+    },
+    {
+     "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+     "time": "2026-10-18T18:45:27Z"
+    },
+    {
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81462.html",
      "time": "2026-10-18T18:34:19Z"
+    },
+    {
+     "title": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
+     "time": "2026-10-18T18:32:34Z"
     },
     {
      "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
@@ -48,31 +73,6 @@
      "title": "Michael Strempel, ARD Paris, über die Ausschreitungen bei Protesten in Frankreich",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668566.html",
      "time": "2026-10-18T18:09:01Z"
-    },
-    {
-     "title": "Ausschreitungen bei Protesten gegen hohe Lebenshaltungskosten in Frankreich",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668564.html",
-     "time": "2026-10-18T18:07:00Z"
-    },
-    {
-     "title": "Vier Tote und viele Verletzte bei Feuer auf Militärbasis in Kanada",
-     "url": "https://www.tagesschau.de/ausland/amerika/zwischenfall-militaerstutzpunkt-kanada-100.html",
-     "time": "2026-10-18T17:55:15Z"
-    },
-    {
-     "title": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
-     "url": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
-     "time": "2026-10-18T16:48:09Z"
-    },
-    {
-     "title": "Sportvorstand Markus Krösche in Frankfurt freigestellt",
-     "url": "https://www.sportschau.de/regional/hr/hr-paukenschlag-bei-eintracht-frankfurt-sportvorstand-markus-kroesche-freigestellt-100.html",
-     "time": "2026-10-18T16:48:08Z"
-    },
-    {
-     "title": "Sturmflutwarnung an der Ostsee: Erstes Hochwasser der Saison erwartet",
-     "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/sturmflutwarnung-an-der-ostsee-erstes-hochwasser-der-saison-erwartet,hochwasserostsee-100.html",
-     "time": "2026-10-18T16:37:36Z"
     }
    ]
   },
@@ -157,6 +157,31 @@
    ],
    "items": [
     {
+     "title": "Serie A: Juventus-Lazio 0-3",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/serie-a-juventus-lazio-0-3_1803946d-2c83-41fe-b544-5047bad0645e.html",
+     "time": "2026-10-18T20:40:31Z"
+    },
+    {
+     "title": "Piantedosi vede vertici polizia e questore Milano, fermati oltre 200 violenti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/piantedosi-vede-vertici-polizia-e-questore-milano-fermati-oltre-200-violenti_c2b74c70-f027-4e98-8cc5-3f3e9ee400e5.html",
+     "time": "2026-10-18T19:36:40Z"
+    },
+    {
+     "title": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_52691173-164f-4cda-8039-7c2e93b79264.html",
+     "time": "2026-10-18T19:19:22Z"
+    },
+    {
+     "title": "Fiorello torna su Rai1 con 'Tg1 edizione più che straordinaria'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/fiorello-torna-su-rai1-con-tg1-edizione-piu-che-straordinaria_93858050-f9a2-45f5-a892-018d93a43f87.html",
+     "time": "2026-10-18T19:13:55Z"
+    },
+    {
+     "title": "Tajani convoca riunione Fi sulla sicurezza, rafforzare Strade Sicure e Cdm a Milano",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/tajani-convoca-riunione-fi-sulla-sicurezza-rafforzare-strade-sicure-e-cdm-a-milano_b642f028-7319-4de1-89a6-00e623c7344c.html",
+     "time": "2026-10-18T18:32:39Z"
+    },
+    {
      "title": "Macron, 'proteggeremo le nostre città anche vietando alcuni raduni'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-proteggeremo-le-nostre-citta-anche-vietando-alcuni-raduni_db771904-7709-496e-926c-470213889ed5.html",
      "time": "2026-10-18T18:31:51Z"
@@ -180,31 +205,6 @@
      "title": "Caos a Tirana, scontri violenti e 194 persone fermate nel Paese",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/caos-a-tirana-scontri-violenti-e-194-persone-fermate-nel-paese_d4fa9bb7-e5be-4f8e-aef2-67a61fd49616.html",
      "time": "2026-10-18T16:49:10Z"
-    },
-    {
-     "title": "Eisenkot replica a Trump, 'solo gli israeliani possono scegliere il loro leader'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/eisenkot-replica-a-trump-solo-gli-israeliani-possono-scegliere-il-loro-leader_08076971-640e-4224-8111-a4e75b74c2fe.html",
-     "time": "2026-10-18T16:45:47Z"
-    },
-    {
-     "title": "Nuovi scontri e saccheggi a Parigi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/nuovi-scontri-e-saccheggi-a-parigi_46e8e88a-bbf9-4c3f-a9de-52fe29ef113c.html",
-     "time": "2026-10-18T15:47:10Z"
-    },
-    {
-     "title": "Lega, 'subito un decreto, fermo preventivo anche per i minorenni'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/lega-subito-un-decreto-fermo-preventivo-anche-per-i-minorenni_5d687364-6725-4c0a-ba60-8adf95debcdf.html",
-     "time": "2026-10-18T15:34:56Z"
-    },
-    {
-     "title": "Anm, 'se la premier non firma su stipendi faremo valere i nostri diritti come tutti'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/anm-se-la-premier-non-firma-su-stipendi-faremo-valere-i-nostri-diritti-come_797074eb-0c24-4ef4-ac8b-119403500190.html",
-     "time": "2026-10-18T15:32:29Z"
-    },
-    {
-     "title": "Le scuse di Kiev, 'drone in Lituania è nostro, deviato da Mosca'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/le-scuse-di-kiev-drone-in-lituania-e-nostro-deviato-da-mosca_6db32d40-da9e-406d-a4f7-de18be2f88d1.html",
-     "time": "2026-10-18T15:29:16Z"
     }
    ]
   },
@@ -214,6 +214,16 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Macron calls for 'calm and order' after riots across France",
+     "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T20:33:21Z"
+    },
+    {
+     "title": "What we know so far about deadly fire at Canadian military base",
+     "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T19:42:37Z"
+    },
     {
      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
@@ -263,16 +273,6 @@
      "title": "How day of protests unfolded as disorder breaks out across France",
      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T21:33:17Z"
-    },
-    {
-     "title": "Anti-government protesters battle with police in Albania",
-     "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T20:53:00Z"
-    },
-    {
-     "title": "At least 17 dead in crush at Hindu festival event in India",
-     "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T19:19:16Z"
     }
    ]
   }
