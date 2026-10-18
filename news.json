@@ -1,6 +1,6 @@
 {
- "version": 60,
- "updated": "2026-10-17T23:20:54Z",
+ "version": 61,
+ "updated": "2026-10-18T01:28:10Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,16 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Frei fordert gleiche Chancen auf Facharzttermine",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/facharzttermine-frei-fordert-mehr-gerechtigkeit-100.html",
+     "time": "2026-10-18T00:35:06Z"
+    },
+    {
+     "title": "Wahlkampf in Brasilien: Die Anti-Feministas aus der Neuer Rechten",
+     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlkampf-antifeministinnen-100.html",
+     "time": "2026-10-17T23:54:34Z"
+    },
     {
      "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
@@ -63,16 +73,6 @@
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81506.html",
      "time": "2026-10-17T18:38:37Z"
-    },
-    {
-     "title": "Kerstin Palzer, ARD Berlin, zzt. Bonn, über die Reaktionen der Jungen Union zum Auftritt von Kanzler Merz",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668096.html",
-     "time": "2026-10-17T18:34:18Z"
-    },
-    {
-     "title": "Bayern schießt sich bei 6:1 gegen Leipzig den Frust von der Seele",
-     "url": "https://www.sportschau.de/fussball/bundesliga/bayern-schiesst-sich-gegen-leipzig-frust-von-der-seele,spielbericht-bayern-muenchen-rb-leipzig-110.html",
-     "time": "2026-10-17T18:33:17Z"
     }
    ]
   },
@@ -86,6 +86,11 @@
    "items": [
     {
      "title": "«Wir haben die Schnauze voll» – Schwere Ausschreitungen bei frankreichweiten Protesten",
+     "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-schwere-ausschreitungen-bei-frankreichweiten-protesten",
+     "time": "2026-10-17T22:26:55Z"
+    },
+    {
+     "title": "– Schwere Ausschreitungen bei frankreichweiten Protesten",
      "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-schwere-ausschreitungen-bei-frankreichweiten-protesten",
      "time": "2026-10-17T22:26:55Z"
     },
@@ -138,11 +143,6 @@
      "title": "Krise in Kongo-Kinshasa – Joseph Kabila – vom Ex-Präsidenten zum Rebellenchef",
      "url": "https://www.srf.ch/news/international/krise-in-kongo-kinshasa-joseph-kabila-vom-ex-praesidenten-zum-rebellenchef",
      "time": "2026-10-17T16:34:24Z"
-    },
-    {
-     "title": "Beziehungen USA-Russland – Trump setzt Sanktionen gegen Russland aus – ohne Begründung",
-     "url": "https://www.srf.ch/news/international/beziehungen-usa-russland-trump-setzt-sanktionen-gegen-russland-aus-ohne-begruendung",
-     "time": "2026-10-17T16:01:27Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Rubio, 'molto turbati da aggressione a fotografa Usa, Israele fermi violenza'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/rubio-molto-turbati-da-aggressione-a-fotografa-usa-israele-fermi-violenza_fb28f02c-c115-4893-beb7-246e77cdec8f.html",
+     "time": "2026-10-18T00:19:12Z"
+    },
+    {
+     "title": "Rubio, 'stop Trump a nuove sanzioni a Mosca per esame impatto su economia globale'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/rubio-stop-trump-a-nuove-sanzioni-a-mosca-per-esame-impatto-su-economia_4011ea2f-c606-4d6c-834a-c8521a90cf09.html",
+     "time": "2026-10-18T00:14:21Z"
+    },
     {
      "title": "I sindaci di Parigi, Marsiglia e Lione chiedono un incontro col premier",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/i-sindaci-di-parigi-marsiglia-e-lione-chiedono-un-incontro-col-premier_e4de14c7-1072-4c02-9b5c-e4cf57afd12e.html",
@@ -192,19 +202,9 @@
      "time": "2026-10-17T20:39:34Z"
     },
     {
-     "title": "Ambasciatore Usa, Israele punisca i responsabili dell'attacco a reporter del Wp",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/ambasciatore-usa-israele-punisca-i-responsabili-dellattacco-a-reporter-del-wp_92450f96-83eb-4e17-b5f0-4cd5bdf08769.html",
-     "time": "2026-10-17T20:31:52Z"
-    },
-    {
      "title": "Scontri a Milano, circa 50 fermati, quasi la metà minorenni",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/scontri-a-milano-circa-50-fermati-quasi-la-meta-minorenni_672f523e-6b66-434f-b44d-ae835af7cc8b.html",
      "time": "2026-10-17T20:31:29Z"
-    },
-    {
-     "title": "Macron, 'nessun posto per la violenza, chi distrugge e saccheggia verrà punito'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/17/macron-nessun-posto-per-la-violenza-chi-distrugge-e-saccheggia-verra-punito_85006f0f-aec6-4d48-a299-f15d79b47e36.html",
-     "time": "2026-10-17T18:01:40Z"
     }
    ]
   },
@@ -214,6 +214,16 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T01:10:25Z"
+    },
+    {
+     "title": "European diplomats attacked by Israeli settlers in West Bank",
+     "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-17T23:52:38Z"
+    },
     {
      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
@@ -235,19 +245,9 @@
      "time": "2026-10-17T20:52:17Z"
     },
     {
-     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T19:19:19Z"
-    },
-    {
      "title": "At least 17 dead in crush at Hindu festival event in India",
      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T19:19:16Z"
-    },
-    {
-     "title": "European diplomats attacked by Israeli settlers in West Bank",
-     "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T18:38:57Z"
     },
     {
      "title": "Pope discharged from hospital days after lung cancer surgery",
