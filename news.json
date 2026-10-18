@@ -1,6 +1,6 @@
 {
- "version": 63,
- "updated": "2026-10-18T11:37:28Z",
+ "version": 64,
+ "updated": "2026-10-18T15:46:34Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "Maza überragt bei Leverkusens Sieg gegen Freiburg",
+     "url": "https://www.sportschau.de/fussball/bundesliga/ibrahim-maza-ueberragt-bei-leverkusens-sieg-gegen-freiburg,spielbericht-bayer-leverkusen-sc-freiburg-108.html",
+     "time": "2026-10-18T15:41:04Z"
+    },
+    {
+     "title": "Flughafen Leipzig/Halle: Auto durchbricht Zaun - Polizei sucht nach Ursache",
+     "url": "https://www.tagesschau.de/inland/regional/sachsen/polizei-suche-vorfall,flughafen-sicherheit-zaun-102.html",
+     "time": "2026-10-18T15:25:54Z"
+    },
+    {
+     "title": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
+     "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
+     "time": "2026-10-18T15:18:33Z"
+    },
+    {
+     "title": "Sturmflutwarnung an der Ostsee: Erstes Hochwasser der Saison erwartet",
+     "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/sturmflutwarnung-an-der-ostsee-erstes-hochwasser-der-saison-erwartet,hochwasserostsee-100.html",
+     "time": "2026-10-18T14:52:47Z"
+    },
+    {
+     "title": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
+     "time": "2026-10-18T14:46:25Z"
+    },
+    {
+     "title": "Gewalt bei Protesten beschäftigt auch Italien",
+     "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
+     "time": "2026-10-18T14:27:58Z"
+    },
+    {
+     "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+     "time": "2026-10-18T13:56:51Z"
+    },
+    {
+     "title": "\"Provokation in Menge gestartet\", Michael Strempel, ARD Paris, zur Eskalation in Teilen Frankreichs",
+     "url": "https://www.tagesschau.de/video/video-1668342.html",
+     "time": "2026-10-18T12:14:09Z"
+    },
+    {
+     "title": "Jubel bei erstem öffentlichen Papst-Auftritt nach OP",
+     "url": "https://www.tagesschau.de/ausland/europa/papst-angelus-gebet-106.html",
+     "time": "2026-10-18T12:07:31Z"
+    },
+    {
      "title": "Russland meldet Drohnenangriffe in St. Petersburg",
      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-st-petersburg-100.html",
-     "time": "2026-10-18T11:25:50Z"
+     "time": "2026-10-18T11:55:25Z"
+    },
+    {
+     "title": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
+     "time": "2026-10-18T11:51:17Z"
     },
     {
      "title": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
      "time": "2026-10-18T11:18:25Z"
-    },
-    {
-     "title": "CSU-Chef Söder fordert bei Junger Union \"Brandmauer nach links\"",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-junge-union-102.html",
-     "time": "2026-10-18T11:17:48Z"
-    },
-    {
-     "title": "Flughafen Leipzig/Halle: Auto durchbricht Zaun - Polizei sucht nach Ursache",
-     "url": "https://www.tagesschau.de/inland/regional/sachsen/polizei-suche-vorfall,flughafen-sicherheit-zaun-102.html",
-     "time": "2026-10-18T11:15:06Z"
-    },
-    {
-     "title": "\"Mutmaßlich Fahrzeug in Zaun gefahren\", Barbara Brähler, MDR, zum Zwischenfall am Flughafen Leipzig/Halle",
-     "url": "https://www.tagesschau.de/video/video-1668316.html",
-     "time": "2026-10-18T11:14:34Z"
-    },
-    {
-     "title": "Sturmflutwarnung an der Ostsee: Erstes Hochwasser der Saison erwartet",
-     "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/sturmflutwarnung-an-der-ostsee-erstes-hochwasser-der-saison-erwartet,hochwasserostsee-100.html",
-     "time": "2026-10-18T11:08:07Z"
-    },
-    {
-     "title": "Papst Leo XIV. spricht nach Krebs-OP Angelus-Gebet",
-     "url": "https://www.tagesschau.de/video/video-1668314.html",
-     "time": "2026-10-18T11:07:20Z"
-    },
-    {
-     "title": "\"Hat den Saal gerockt\", Kerstin Palzer, ARD Berlin, zur Söder-Rede beim \"Deutschlandtag\" der JU",
-     "url": "https://www.tagesschau.de/video/video-1668300.html",
-     "time": "2026-10-18T10:16:08Z"
-    },
-    {
-     "title": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
-     "time": "2026-10-18T10:03:43Z"
-    },
-    {
-     "title": "Ausschreitungen in Frankreich: Brennende Gebäude, verwüstete Innenstädte",
-     "url": "https://www.tagesschau.de/multimedia/bilder/ausschreitungen-frankreich-102.html",
-     "time": "2026-10-18T10:03:41Z"
-    },
-    {
-     "title": "Wie die Lausitz den Ärztemangel in den Griff bekommen will",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheit-aerztemangel-brandenburg-100.html",
-     "time": "2026-10-18T09:36:32Z"
-    },
-    {
-     "title": "Tote und Verletzte bei Vorfall auf Militärbasis in Kanada",
-     "url": "https://www.tagesschau.de/ausland/amerika/zwischenfall-militaerstutzpunkt-kanada-100.html",
-     "time": "2026-10-18T09:12:34Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Aargauer Regierungswahl – Maja Riniker ist neue Regierungsrätin",
-     "url": "https://www.srf.ch/news/schweiz/aargauer-regierungswahl-maja-riniker-ist-neue-regierungsraetin",
-     "time": "2026-10-18T11:05:06Z"
+     "title": "2. Runde im Schweizer Cup – Zweitligist Winkelns Träume platzen jäh – Lugano souverän",
+     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/2-runde-im-schweizer-cup-zweitligist-winkelns-traeume-platzen-jaeh-lugano-souveraen",
+     "time": "2026-10-18T15:42:03Z"
     },
     {
-     "title": "Krieg im Nahen Osten – EU verurteilt Angriffe von Siedlern im Westjordanland",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-eu-verurteilt-angriffe-von-siedlern-im-westjordanland",
-     "time": "2026-10-18T11:03:06Z"
+     "title": "Schweizer Cup, 2. Runde – Afriyie schiesst Ex-Klub ab: FCZ scheitert in Aarau",
+     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-afriyie-schiesst-ex-klub-ab-fcz-scheitert-in-aarau",
+     "time": "2026-10-18T15:39:50Z"
     },
     {
-     "title": "Betrugsmasche – So schützen Sie sich vor KI-Stimmklonen",
-     "url": "https://www.srf.ch/news/dialog/betrugsmasche-so-schuetzen-sie-sich-vor-ki-stimmklonen",
-     "time": "2026-10-18T11:02:50Z"
+     "title": "Wandel in der Autobranche – Geely – der unbekannte Riese auf Europas Strassen",
+     "url": "https://www.srf.ch/news/wirtschaft/wandel-in-der-autobranche-geely-der-unbekannte-riese-auf-europas-strassen",
+     "time": "2026-10-18T14:49:48Z"
     },
     {
-     "title": "Hip, hipper, Harfe – Von Beyoncé bis in die Clubs: Brandee Younger entstaubt die Harfe",
-     "url": "https://www.srf.ch/kultur/musik/hip-hipper-harfe-von-beyonce-bis-in-die-clubs-brandee-younger-entstaubt-die-harfe",
-     "time": "2026-10-18T10:42:54Z"
+     "title": "Literat in der Schweiz – Genf war Borges’ grosse Liebe",
+     "url": "https://www.srf.ch/news/schweiz/literat-in-der-schweiz-genf-war-borges-grosse-liebe",
+     "time": "2026-10-18T14:32:26Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Kiew macht Russland für Drohnenvorfall in Litauen verantwortlich",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-kiew-macht-russland-fuer-drohnenvorfall-in-litauen-verantwortlich",
+     "time": "2026-10-18T14:15:47Z"
+    },
+    {
+     "title": "Heisser Herbstsnack – Harte Schale, süsser Kern: So gelingen perfekte Marroni",
+     "url": "https://www.srf.ch/radio-srf-1/heisser-herbstsnack-harte-schale-suesser-kern-so-gelingen-perfekte-marroni",
+     "time": "2026-10-18T14:05:33Z"
+    },
+    {
+     "title": "Bilanz der Traditionsmesse – 335'000 Besuchende und zwei Bundesratsmitglieder an der Olma",
+     "url": "https://www.srf.ch/news/schweiz/bilanz-der-traditionsmesse-335-000-besuchende-und-zwei-bundesratsmitglieder-an-der-olma",
+     "time": "2026-10-18T13:58:32Z"
+    },
+    {
+     "title": "Notunterkünfte – Genfs Notunterkünfte sind am Limit",
+     "url": "https://www.srf.ch/news/dialog/notunterkuenfte-genfs-notunterkuenfte-sind-am-limit",
+     "time": "2026-10-18T13:25:39Z"
     },
     {
      "title": "Grosseinsatz der Polizei – Polizei ermittelt wegen beschädigtem Zaun am Flughafen Leipzig",
      "url": "https://www.srf.ch/news/international/grosseinsatz-der-polizei-polizei-ermittelt-wegen-beschaedigtem-zaun-am-flughafen-leipzig",
-     "time": "2026-10-18T10:29:21Z"
+     "time": "2026-10-18T13:23:51Z"
     },
     {
-     "title": "Weinbau – Schweizer Wein in der Krise: «Es geht nur ums Geld»",
-     "url": "https://www.srf.ch/news/schweiz/weinbau-schweizer-wein-in-der-krise-es-geht-nur-ums-geld",
-     "time": "2026-10-18T10:23:49Z"
+     "title": "Kunstturn-WM in Rotterdam – Seifert erreicht Barren- und Mehrkampffinal – Männer im Teamfinal",
+     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-in-rotterdam-seifert-erreicht-barren-und-mehrkampffinal-maenner-im-teamfinal",
+     "time": "2026-10-18T13:11:41Z"
     },
     {
-     "title": "Krieg in der Ukraine – Russland meldet ukrainische Angriffe auf St. Petersburg",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russland-meldet-ukrainische-angriffe-auf-st-petersburg",
-     "time": "2026-10-18T10:07:23Z"
+     "title": "Schon wieder Real Sociedad – Barcelonas Frauen mit erster Niederlage seit fast einem Jahr",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/schon-wieder-real-sociedad-barcelonas-frauen-mit-erster-niederlage-seit-fast-einem-jahr",
+     "time": "2026-10-18T13:00:44Z"
     },
     {
-     "title": "«Wir haben die Schnauze voll» – Sichtbare Schäden nach Protesttag in Frankreich",
-     "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-sichtbare-schaeden-nach-protesttag-in-frankreich",
-     "time": "2026-10-18T09:56:21Z"
-    },
-    {
-     "title": "– Sichtbare Schäden nach Protesttag in Frankreich",
-     "url": "https://www.srf.ch/news/international/wir-haben-die-schnauze-voll-sichtbare-schaeden-nach-protesttag-in-frankreich",
-     "time": "2026-10-18T09:56:21Z"
-    },
-    {
-     "title": "Verletzte in Premier League – Kieferoperation bei Martinez – Manzambi: «Es ist okay»",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/verletzte-in-premier-league-kieferoperation-bei-martinez-manzambi-es-ist-okay",
-     "time": "2026-10-18T09:51:34Z"
-    },
-    {
-     "title": "Bahnrad-WM in Schanghai – Schweizer Duo im Madison chancenlos",
-     "url": "https://www.srf.ch/sport/rad/bahnrad-wm-in-schanghai-schweizer-duo-im-madison-chancenlos",
-     "time": "2026-10-18T09:39:37Z"
-    },
-    {
-     "title": "Ex-Judo-Star – «Nach solchen Sprüchen gab es für mich nur eine Lösung: Prügeln»",
-     "url": "https://www.srf.ch/sendungen/unterhaltungssendungen/ex-judo-star-nach-solchen-spruechen-gab-es-fuer-mich-nur-eine-loesung-pruegeln",
-     "time": "2026-10-18T09:37:18Z"
+     "title": "Aargauer Regierungswahl – Klarer Sieg der Favoritin: Maja Riniker ist Regierungsrätin",
+     "url": "https://www.srf.ch/news/schweiz/aargauer-regierungswahl-klarer-sieg-der-favoritin-maja-riniker-ist-regierungsraetin",
+     "time": "2026-10-18T12:56:51Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Rama, 'neutralizzato drone esplosivo destinato a Palazzo del Governo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/rama-neutralizzato-drone-esplosivo-destinato-a-palazzo-del-governo_337790ac-f3c3-4681-827e-f76d45c1162c.html",
-     "time": "2026-10-18T11:23:01Z"
+     "title": "Lega, 'subito un decreto, fermo preventivo anche per i minorenni'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/lega-subito-un-decreto-fermo-preventivo-anche-per-i-minorenni_5d687364-6725-4c0a-ba60-8adf95debcdf.html",
+     "time": "2026-10-18T15:34:56Z"
     },
     {
-     "title": "Schlein, pronti da subito al programma, ma per allargare l'alleanza",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/schlein-pronti-da-subito-al-programma-ma-per-allargare-lalleanza_e56caf8e-b35c-4ca7-b252-79c10450e4d4.html",
-     "time": "2026-10-18T11:19:47Z"
+     "title": "Anm, 'se la premier non firma su stipendi faremo valere i nostri diritti come tutti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/anm-se-la-premier-non-firma-su-stipendi-faremo-valere-i-nostri-diritti-come_797074eb-0c24-4ef4-ac8b-119403500190.html",
+     "time": "2026-10-18T15:32:29Z"
     },
     {
-     "title": "Macron stasera parlerà alla nazione",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-stasera-parlera-alla-nazione_d15e142b-0b12-4bb0-9dc3-5b7e8822f87d.html",
-     "time": "2026-10-18T11:05:26Z"
+     "title": "Le scuse di Kiev, 'drone in Lituania è nostro, deviato da Mosca'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/le-scuse-di-kiev-drone-in-lituania-e-nostro-deviato-da-mosca_6db32d40-da9e-406d-a4f7-de18be2f88d1.html",
+     "time": "2026-10-18T15:29:16Z"
     },
     {
-     "title": "Il Papa all'Angelus, 'ora riprenderò le attività gradualmente'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/il-papa-allangelus-ora-riprendero-le-attivita-gradualmente_809bca51-6813-4894-9e85-9d0865e50829.html",
-     "time": "2026-10-18T10:35:24Z"
+     "title": "Scontri di piazza, Meloni convoca per domani un vertice sull'ordine pubblico",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/scontri-di-piazza-meloni-convoca-per-domani-un-vertice-sullordine-pubblico_07e68c7a-0f02-4c2e-a75e-76c6a35445cf.html",
+     "time": "2026-10-18T15:00:03Z"
     },
     {
-     "title": "Nato, 'drone nello spazio aereo lituano, intervenuti due caccia italiani'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/nato-drone-nello-spazio-aereo-lituano-intervenuti-due-caccia-italiani_2ce7b77f-bedb-48e4-af6b-2f8e35341e8f.html",
-     "time": "2026-10-18T10:34:00Z"
+     "title": "Fonti Chigi, Meloni non firma il Dpcm per aumenti da 1 miliardo ai magistrati",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/fonti-chigi-meloni-non-firma-il-dpcm-per-aumenti-da-1-miliardo-ai-magistrati_da33d6ee-8073-427f-b456-ce244b8cf55e.html",
+     "time": "2026-10-18T14:58:36Z"
     },
     {
-     "title": "Appello Avs ad altre opposizioni, ora grande manifestazione unitaria",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/appello-avs-ad-altre-opposizioni-ora-grande-manifestazione-unitaria_5a7e4ecf-c91c-4bcd-b07f-192451fb4209.html",
-     "time": "2026-10-18T10:27:57Z"
+     "title": "Media, 'l'Idf richiama tutti i militari in servizio il 27 ottobre, rischio attacchi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/media-lidf-richiama-tutti-i-militari-in-servizio-il-27-ottobre-rischio-attacchi_ea89b464-adbf-4768-9888-c0fa226f3770.html",
+     "time": "2026-10-18T14:54:19Z"
     },
     {
-     "title": "Elicottero saudita precipita vicino allo Yemen, morti due ufficiali",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/elicottero-saudita-precipita-vicino-allo-yemen-morti-due-ufficiali_da7a571f-4fda-46fd-ab88-b3e5a18ae36d.html",
-     "time": "2026-10-18T10:26:11Z"
+     "title": "Zelensky, Usa hanno ripreso la condivisione di intelligence",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/zelensky-usa-hanno-ripreso-la-condivisione-di-intelligence_d91a2bde-6d6f-4a01-ba79-bb474eefaa23.html",
+     "time": "2026-10-18T14:30:17Z"
     },
     {
-     "title": "Media canadesi, 'almeno 7 morti nell'incendio nella base militare'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/media-canadesi-almeno-7-morti-nellincendio-nella-base-militare_eb261469-450f-4d29-a81b-67b6f6662f2a.html",
-     "time": "2026-10-18T10:24:33Z"
+     "title": "Approvata all'unanimità la proroga del mandato di Schlein alla guida del Pd",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/approvata-allunanimita-la-proroga-del-mandato-di-schlein-alla-guida-del-pd_ca82a448-7bc4-4401-878e-af55d177c74b.html",
+     "time": "2026-10-18T14:14:18Z"
     },
     {
-     "title": "Meloni, siamo con le forze dell'ordine. Cittadini devono vivere città senza paura",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/meloni-siamo-con-le-forze-dellordine.-cittadini-devono-vivere-citta-senza_a0a45ae8-3115-40fd-81e2-10439804be81.html",
-     "time": "2026-10-18T09:17:17Z"
+     "title": "Netanyahu, 'elezioni cruciali, si vota per la destra o per la Palestina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/netanyahu-elezioni-cruciali-si-vota-per-la-destra-o-per-la-palestina_daaa409b-bdbc-4463-9fe4-6a6e86797950.html",
+     "time": "2026-10-18T14:04:55Z"
     },
     {
-     "title": "A Parigi 1.800 fermi nelle proteste, un manifestante morto per malore",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/a-parigi-1.800-fermi-nelle-proteste-un-manifestante-morto-per-malore_df7e6b47-4dd6-4bc3-9bb4-54e5708488b1.html",
-     "time": "2026-10-18T09:17:13Z"
+     "title": "Wafa, 'bambino ucciso a Gaza in un attacco dell'Idf, il secondo oggi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/wafa-bambino-ucciso-a-gaza-in-un-attacco-dellidf-il-secondo-oggi_b6011061-1ca2-48bd-a338-e13df40c18d3.html",
+     "time": "2026-10-18T14:03:47Z"
     }
    ]
   },
@@ -214,6 +214,26 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+     "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T15:46:10Z"
+    },
+    {
+     "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+     "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T13:47:07Z"
+    },
+    {
+     "title": "European diplomats attacked by Israeli settlers in West Bank",
+     "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T12:16:14Z"
+    },
+    {
+     "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+     "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T12:07:31Z"
+    },
     {
      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
@@ -225,16 +245,6 @@
      "time": "2026-10-18T10:58:39Z"
     },
     {
-     "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-     "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T10:53:54Z"
-    },
-    {
-     "title": "Several dead or injured in major fire at Canada military base",
-     "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T08:52:41Z"
-    },
-    {
      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-18T05:04:31Z"
@@ -243,11 +253,6 @@
      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-18T01:10:25Z"
-    },
-    {
-     "title": "European diplomats attacked by Israeli settlers in West Bank",
-     "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T23:52:38Z"
     },
     {
      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
@@ -268,11 +273,6 @@
      "title": "At least 17 dead in crush at Hindu festival event in India",
      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T19:19:16Z"
-    },
-    {
-     "title": "Pope discharged from hospital days after lung cancer surgery",
-     "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T13:51:36Z"
     }
    ]
   }
