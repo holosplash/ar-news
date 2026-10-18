@@ -1,6 +1,6 @@
 {
- "version": 66,
- "updated": "2026-10-18T20:59:43Z",
+ "version": 67,
+ "updated": "2026-10-18T22:59:42Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,36 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+     "time": "2026-10-18T22:23:09Z"
+    },
+    {
+     "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
+     "url": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
+     "time": "2026-10-18T22:01:28Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12918.html",
+     "time": "2026-10-18T21:50:38Z"
+    },
+    {
+     "title": "Reaktionen auf Abschluss der Sondierungsgespräche zwischen Linke, Grüne und SPD in Berlin",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1668614.html",
+     "time": "2026-10-18T21:31:17Z"
+    },
+    {
+     "title": "Kurden in Syrien: Ist die Vereinbarung \"Kurdisch als Unterrichtsfach\" gefährdet?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1668608.html",
+     "time": "2026-10-18T21:22:04Z"
+    },
+    {
+     "title": "Ausschreitungen bei Protesten gegen hohe Lebenshaltungskosten in Frankreich",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1668604.html",
+     "time": "2026-10-18T21:12:14Z"
+    },
     {
      "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
      "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
@@ -43,36 +73,6 @@
      "title": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
      "url": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
      "time": "2026-10-18T18:32:34Z"
-    },
-    {
-     "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
-     "url": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-     "time": "2026-10-18T18:24:26Z"
-    },
-    {
-     "title": "\"No Kings\": Proteste gegen US-Präsident Trump vor den Zwischenwahlen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668574.html",
-     "time": "2026-10-18T18:17:26Z"
-    },
-    {
-     "title": "Drohnenangriff des ukrainischen Militärs auf Ziele in St. Petersburg",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668570.html",
-     "time": "2026-10-18T18:14:31Z"
-    },
-    {
-     "title": "Erneuter Sicherheitsvorfall am Flughafen Leipzig/Halle",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668568.html",
-     "time": "2026-10-18T18:13:07Z"
-    },
-    {
-     "title": "Reaktionen auf die Einigung bei Sondierungsgespräche zwischen Linke, Grüne und SPD in Berlin",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668572.html",
-     "time": "2026-10-18T18:11:10Z"
-    },
-    {
-     "title": "Michael Strempel, ARD Paris, über die Ausschreitungen bei Protesten in Frankreich",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1668566.html",
-     "time": "2026-10-18T18:09:01Z"
     }
    ]
   },
@@ -87,7 +87,12 @@
     {
      "title": "Fahnen auf Halbmast – Mehrere Tote durch Feuer auf Militärbasis in Kanada",
      "url": "https://www.srf.ch/news/international/fahnen-auf-halbmast-mehrere-tote-durch-feuer-auf-militaerbasis-in-kanada",
-     "time": "2026-10-18T18:17:38Z"
+     "time": "2026-10-18T21:50:27Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Donald Trump: Selenski will den Krieg nicht beenden",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-donald-trump-selenski-will-den-krieg-nicht-beenden",
+     "time": "2026-10-18T21:43:13Z"
     },
     {
      "title": "Cup: Auslosung Achtelfinals – YB trifft auf Basel, Titelverteidiger St. Gallen auf Lugano",
@@ -138,11 +143,6 @@
      "title": "Wandel in der Autobranche – Geely – der unbekannte Riese auf Europas Strassen",
      "url": "https://www.srf.ch/news/wirtschaft/wandel-in-der-autobranche-geely-der-unbekannte-riese-auf-europas-strassen",
      "time": "2026-10-18T14:49:48Z"
-    },
-    {
-     "title": "Literat in der Schweiz – Genf war Borges’ grosse Liebe",
-     "url": "https://www.srf.ch/news/schweiz/literat-in-der-schweiz-genf-war-borges-grosse-liebe",
-     "time": "2026-10-18T14:32:26Z"
     }
    ]
   },
@@ -156,6 +156,11 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Trump accusa Zelensky, 'non vuole la fine della guerra'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/trump-accusa-zelensky-non-vuole-la-fine-della-guerra_3f14b0e9-c752-4081-99ec-13df4ce57ef2.html",
+     "time": "2026-10-18T21:04:51Z"
+    },
     {
      "title": "Serie A: Juventus-Lazio 0-3",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/serie-a-juventus-lazio-0-3_1803946d-2c83-41fe-b544-5047bad0645e.html",
@@ -200,11 +205,6 @@
      "title": "Venezuela, l'opposizione conferma sostegno a Machado e punta sulle presidenziali",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/venezuela-lopposizione-conferma-sostegno-a-machado-e-punta-sulle-presidenziali_76d83f1a-f53f-41e4-9bd5-8240ede62ce4.html",
      "time": "2026-10-18T17:05:49Z"
-    },
-    {
-     "title": "Caos a Tirana, scontri violenti e 194 persone fermate nel Paese",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/caos-a-tirana-scontri-violenti-e-194-persone-fermate-nel-paese_d4fa9bb7-e5be-4f8e-aef2-67a61fd49616.html",
-     "time": "2026-10-18T16:49:10Z"
     }
    ]
   },
@@ -215,14 +215,29 @@
    "countries": [],
    "items": [
     {
+     "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+     "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T22:10:45Z"
+    },
+    {
+     "title": "What we know so far about deadly fire at Canadian military base",
+     "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T21:37:56Z"
+    },
+    {
+     "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+     "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T21:00:22Z"
+    },
+    {
      "title": "Macron calls for 'calm and order' after riots across France",
      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-18T20:33:21Z"
     },
     {
-     "title": "What we know so far about deadly fire at Canadian military base",
-     "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T19:42:37Z"
+     "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+     "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T19:53:27Z"
     },
     {
      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
@@ -240,11 +255,6 @@
      "time": "2026-10-18T12:16:14Z"
     },
     {
-     "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-     "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T12:07:31Z"
-    },
-    {
      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-18T11:09:32Z"
@@ -255,11 +265,6 @@
      "time": "2026-10-18T10:58:39Z"
     },
     {
-     "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-     "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T05:04:31Z"
-    },
-    {
      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-18T01:10:25Z"
@@ -268,11 +273,6 @@
      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-17T22:09:50Z"
-    },
-    {
-     "title": "How day of protests unfolded as disorder breaks out across France",
-     "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T21:33:17Z"
     }
    ]
   }
