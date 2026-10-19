@@ -1,6 +1,6 @@
 {
- "version": 67,
- "updated": "2026-10-18T22:59:42Z",
+ "version": 68,
+ "updated": "2026-10-19T01:04:32Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,16 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
+     "url": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
+     "time": "2026-10-19T00:48:48Z"
+    },
+    {
+     "title": "Vier Tote und viele Verletzte bei Feuer auf Militärbasis in Kanada",
+     "url": "https://www.tagesschau.de/ausland/amerika/zwischenfall-militaerstutzpunkt-kanada-100.html",
+     "time": "2026-10-19T00:08:43Z"
+    },
     {
      "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
      "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
@@ -63,16 +73,6 @@
      "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
      "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
      "time": "2026-10-18T18:45:27Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81462.html",
-     "time": "2026-10-18T18:34:19Z"
-    },
-    {
-     "title": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
-     "time": "2026-10-18T18:32:34Z"
     }
    ]
   },
@@ -85,9 +85,14 @@
    ],
    "items": [
     {
+     "title": "Krieg im Nahen Osten – EU verurteilt Angriffe von Siedlern im Westjordanland",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-eu-verurteilt-angriffe-von-siedlern-im-westjordanland",
+     "time": "2026-10-19T00:40:18Z"
+    },
+    {
      "title": "Fahnen auf Halbmast – Mehrere Tote durch Feuer auf Militärbasis in Kanada",
      "url": "https://www.srf.ch/news/international/fahnen-auf-halbmast-mehrere-tote-durch-feuer-auf-militaerbasis-in-kanada",
-     "time": "2026-10-18T21:50:27Z"
+     "time": "2026-10-19T00:05:42Z"
     },
     {
      "title": "Krieg in der Ukraine – Donald Trump: Selenski will den Krieg nicht beenden",
@@ -96,6 +101,11 @@
     },
     {
      "title": "Cup: Auslosung Achtelfinals – YB trifft auf Basel, Titelverteidiger St. Gallen auf Lugano",
+     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/cup-auslosung-achtelfinals-yb-trifft-auf-basel-titelverteidiger-st-gallen-auf-lugano",
+     "time": "2026-10-18T18:01:25Z"
+    },
+    {
+     "title": "– YB trifft auf Basel, Titelverteidiger St. Gallen auf Lugano",
      "url": "https://www.srf.ch/sport/fussball/schweizer-cup/cup-auslosung-achtelfinals-yb-trifft-auf-basel-titelverteidiger-st-gallen-auf-lugano",
      "time": "2026-10-18T18:01:25Z"
     },
@@ -133,16 +143,6 @@
      "title": "Arbeit unter Wasser – So untersuchen Archäologen Pfahlbauten im Sempachersee",
      "url": "https://www.srf.ch/news/schweiz/arbeit-unter-wasser-so-untersuchen-archaeologen-pfahlbauten-im-sempachersee",
      "time": "2026-10-18T15:52:55Z"
-    },
-    {
-     "title": "Schweizer Cup, 2. Runde – Afriyie schiesst Ex-Klub ab: FCZ scheitert in Aarau",
-     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-afriyie-schiesst-ex-klub-ab-fcz-scheitert-in-aarau",
-     "time": "2026-10-18T15:39:50Z"
-    },
-    {
-     "title": "Wandel in der Autobranche – Geely – der unbekannte Riese auf Europas Strassen",
-     "url": "https://www.srf.ch/news/wirtschaft/wandel-in-der-autobranche-geely-der-unbekannte-riese-auf-europas-strassen",
-     "time": "2026-10-18T14:49:48Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Borsa: Tokyo, apertura in calo (-0,90%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/borsa-tokyo-apertura-in-calo-090_3dd7dd9c-66d6-453f-8bef-6356aee95a62.html",
+     "time": "2026-10-19T00:34:47Z"
+    },
+    {
+     "title": "Wsj, 'Putin ha proposto un incontro con Trump e Xi sull'Ucraina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/wsj-putin-ha-proposto-un-incontro-con-trump-e-xi-sullucraina_17d35fa4-828e-403b-92b8-ccb7fade9e3f.html",
+     "time": "2026-10-18T23:29:56Z"
+    },
     {
      "title": "Trump accusa Zelensky, 'non vuole la fine della guerra'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/trump-accusa-zelensky-non-vuole-la-fine-della-guerra_3f14b0e9-c752-4081-99ec-13df4ce57ef2.html",
@@ -195,16 +205,6 @@
      "title": "Macron denuncia il caos in Francia, 'rabbia e vergogna'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_919a9aa2-86cc-47f6-afcf-b8b078111bb0.html",
      "time": "2026-10-18T18:08:58Z"
-    },
-    {
-     "title": "Portati in questura a Milano in 160 dopo gli scontri di oggi, l'80% minori",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/portati-in-questura-a-milano-in-160-dopo-gli-scontri-di-oggi-l80-minori_2d5e166f-76ea-4753-89c7-05d7c1185d9e.html",
-     "time": "2026-10-18T17:54:18Z"
-    },
-    {
-     "title": "Venezuela, l'opposizione conferma sostegno a Machado e punta sulle presidenziali",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/venezuela-lopposizione-conferma-sostegno-a-machado-e-punta-sulle-presidenziali_76d83f1a-f53f-41e4-9bd5-8240ede62ce4.html",
-     "time": "2026-10-18T17:05:49Z"
     }
    ]
   },
@@ -215,14 +215,29 @@
    "countries": [],
    "items": [
     {
-     "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-     "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T22:10:45Z"
+     "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+     "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T00:06:25Z"
     },
     {
-     "title": "What we know so far about deadly fire at Canadian military base",
-     "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T21:37:56Z"
+     "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+     "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T23:28:45Z"
+    },
+    {
+     "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+     "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T23:20:15Z"
+    },
+    {
+     "title": "Major fire at Canada military base leaves four dead, dozens injured",
+     "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T23:06:09Z"
+    },
+    {
+     "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+     "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-18T22:22:51Z"
     },
     {
      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
@@ -258,21 +273,6 @@
      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-18T11:09:32Z"
-    },
-    {
-     "title": "Parisians wake up to protest damage and looted shops",
-     "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T10:58:39Z"
-    },
-    {
-     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T01:10:25Z"
-    },
-    {
-     "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-     "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-17T22:09:50Z"
     }
    ]
   }
