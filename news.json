@@ -1,6 +1,6 @@
 {
- "version": 71,
- "updated": "2026-10-19T19:14:28Z",
+ "version": 72,
+ "updated": "2026-10-19T23:02:35Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,56 @@
    ],
    "items": [
     {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12938.html",
+     "time": "2026-10-19T21:09:33Z"
+    },
+    {
+     "title": "Japan startet Mission zu Mars-Monden",
+     "url": "https://www.tagesschau.de/wissen/weltraum/start-mission-mars-mond-100.html",
+     "time": "2026-10-19T20:43:14Z"
+    },
+    {
+     "title": "\"Schattenkrieger\" auf Seiten der Ukraine im russischen Angriffskrieg",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1669222.html",
+     "time": "2026-10-19T20:41:46Z"
+    },
+    {
+     "title": "\"Invest in Germany Summit\": Mühsame Suche nach Investoren für Deutschland",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1669220.html",
+     "time": "2026-10-19T20:38:34Z"
+    },
+    {
+     "title": "Claire Demesmay, Politikwissenschaftlerin, zu den Ausschreitungen in Frankreich",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1669214.html",
+     "time": "2026-10-19T20:37:12Z"
+    },
+    {
+     "title": "Frankreichs Regierung räumt Versäumnisse nach Ausschreitungen ein",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1669210.html",
+     "time": "2026-10-19T20:33:30Z"
+    },
+    {
+     "title": "Diskussion auf Bundesebene über die Regierungsbildung in Berlin",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1669208.html",
+     "time": "2026-10-19T20:31:44Z"
+    },
+    {
+     "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+     "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
+     "time": "2026-10-19T19:52:35Z"
+    },
+    {
+     "title": "Grüne und SPD in Berlin stimmen für Koalitionsverhandlungen mit der Linken",
+     "url": "https://www.tagesschau.de/video/video-1669198.html",
+     "time": "2026-10-19T19:47:28Z"
+    },
+    {
+     "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
+     "time": "2026-10-19T19:23:41Z"
+    },
+    {
      "title": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
      "url": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
      "time": "2026-10-19T19:09:32Z"
@@ -23,56 +73,6 @@
      "title": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
      "url": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
      "time": "2026-10-19T19:08:04Z"
-    },
-    {
-     "title": "Französische Regierung räumt Versäumnisse nach gewalttätigen Protesten ein",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1669150.html",
-     "time": "2026-10-19T18:48:01Z"
-    },
-    {
-     "title": "VW-Vorstand plant Einfrieren der Gehälter bis 2030",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1669152.html",
-     "time": "2026-10-19T18:48:00Z"
-    },
-    {
-     "title": "Pkw-Unfall verursacht Loch im Sicherheitszaun am Flughafen Leipzig/Halle",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1669154.html",
-     "time": "2026-10-19T18:47:58Z"
-    },
-    {
-     "title": "Berliner SPD entscheidet sich für Koalitionsverhandlungen mit Linkspartei und Grünen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1669156.html",
-     "time": "2026-10-19T18:47:56Z"
-    },
-    {
-     "title": "Russland greift weiterhin die Ukraine massiv mit Raketen an",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1669158.html",
-     "time": "2026-10-19T18:47:55Z"
-    },
-    {
-     "title": "Bundesregierung beschließt Zusammenarbeit mit Chip-Hersteller Nvidia",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1669160.html",
-     "time": "2026-10-19T18:44:11Z"
-    },
-    {
-     "title": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
-     "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html",
-     "time": "2026-10-19T18:35:46Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12330.html",
-     "time": "2026-10-19T18:28:25Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81658.html",
-     "time": "2026-10-19T18:26:22Z"
-    },
-    {
-     "title": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
-     "time": "2026-10-19T17:59:59Z"
     }
    ]
   },
@@ -85,14 +85,39 @@
    ],
    "items": [
     {
+     "title": "Krieg im Nahen Osten – Lawrow in Teheran – Iran hofft auf Diplomatie",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-lawrow-in-teheran-iran-hofft-auf-diplomatie",
+     "time": "2026-10-19T21:04:53Z"
+    },
+    {
+     "title": "Kunstturn-WM in Rotterdam – Freudentränen inklusive: Schweizerinnen mit Top-15-Quali-Ergebnis",
+     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-in-rotterdam-freudentraenen-inklusive-schweizerinnen-mit-top-15-quali-ergebnis",
+     "time": "2026-10-19T20:42:59Z"
+    },
+    {
+     "title": "Q&A Organspende – «Werden jüngere Menschen bei der Organvergabe bevorzugt?»",
+     "url": "https://www.srf.ch/wissen/wissens-chats/q-a-organspende-werden-juengere-menschen-bei-der-organvergabe-bevorzugt",
+     "time": "2026-10-19T20:41:41Z"
+    },
+    {
+     "title": "Nach Sondierungen – Berlin: Grüne und SPD für Koalitionsgespräche mit der Linken",
+     "url": "https://www.srf.ch/news/international/nach-sondierungen-berlin-gruene-und-spd-fuer-koalitionsgespraeche-mit-der-linken",
+     "time": "2026-10-19T20:33:41Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Trump stellt Selenskis Rolle bei Verhandlungen infrage",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-stellt-selenskis-rolle-bei-verhandlungen-infrage",
+     "time": "2026-10-19T20:05:16Z"
+    },
+    {
+     "title": "Bekannte Journalistin – Nach 43 Jahren: Christiane Amanpour verlässt CNN",
+     "url": "https://www.srf.ch/news/international/bekannte-journalistin-nach-43-jahren-christiane-amanpour-verlaesst-cnn",
+     "time": "2026-10-19T19:23:20Z"
+    },
+    {
      "title": "Schweizer Flüsse – Hitzesommer schlägt auf Stromproduktion",
      "url": "https://www.srf.ch/news/schweiz/schweizer-fluesse-hitzesommer-schlaegt-auf-stromproduktion",
      "time": "2026-10-19T19:11:41Z"
-    },
-    {
-     "title": "Q&A Fragen und Antworten – Chat zum Thema «Organspende»",
-     "url": "https://www.srf.ch/wissen/wissens-chats/q-a-fragen-und-antworten-chat-zum-thema-organspende-1",
-     "time": "2026-10-19T19:05:31Z"
     },
     {
      "title": "Olivenernte im Westjordanland – «Das ist unser Land. Wir bleiben»",
@@ -115,34 +140,9 @@
      "time": "2026-10-19T18:24:30Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Lawrow reist nach Teheran und mischt sich in Iran-Gespräche ein",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-lawrow-reist-nach-teheran-und-mischt-sich-in-iran-gespraeche-ein",
-     "time": "2026-10-19T18:20:42Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Selenski kritisiert fehlende Vorwarnung vor russischem Angriff",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-kritisiert-fehlende-vorwarnung-vor-russischem-angriff",
-     "time": "2026-10-19T18:20:27Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Ukraine meldet erste Drohnenrettung eines Verwundeten",
-     "url": "https://www.srf.ch/news/international/krieg-in-der-ukraine-ukraine-meldet-erste-drohnenrettung-eines-verwundeten",
-     "time": "2026-10-19T18:12:17Z"
-    },
-    {
-     "title": "Podcast zum Block-Prozess – Beschlagnahmte Interviews: «Der Fall ist sehr bedenklich»",
-     "url": "https://www.srf.ch/news/international/podcast-zum-block-prozess-beschlagnahmte-interviews-der-fall-ist-sehr-bedenklich",
-     "time": "2026-10-19T16:54:34Z"
-    },
-    {
-     "title": "Achillessehnenriss im Training – «Brutal»: Ski-Star Kilde hadert mit seinem Verletzungspech",
-     "url": "https://www.srf.ch/sport/ski-alpin/achillessehnenriss-im-training-brutal-ski-star-kilde-hadert-mit-seinem-verletzungspech",
-     "time": "2026-10-19T16:46:57Z"
-    },
-    {
-     "title": "Gewaltsame Proteste Frankreich – Die Staatsverweigerer der anderen Art",
-     "url": "https://www.srf.ch/news/gesellschaft/gewaltsame-proteste-frankreich-die-staatsverweigerer-der-anderen-art",
-     "time": "2026-10-19T16:44:03Z"
+     "title": "– Ausgangssperren in Frankreichs Städten – teils auch in Paris",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-ausgangssperren-in-frankreichs-staedten-teils-auch-in-paris",
+     "time": "2026-10-19T18:24:30Z"
     }
    ]
   },
@@ -157,6 +157,46 @@
    ],
    "items": [
     {
+     "title": "Ranucci sceglie Rainews, comunicata la decisione all'azienda",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/ranucci-sceglie-rainews-comunicata-la-decisione-allazienda_31ec3476-0129-4aa5-9da6-f48c828b9226.html",
+     "time": "2026-10-19T22:27:08Z"
+    },
+    {
+     "title": "Media, Kushner-Witkoff questa settimana in Norvegia per negoziati su Ucraina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/media-kushner-witkoff-questa-settimana-in-norvegia-per-negoziati-su-ucraina_4f89294a-d24b-4325-9858-f9f13c3edd86.html",
+     "time": "2026-10-19T20:53:33Z"
+    },
+    {
+     "title": "Calcio: Parma-Torino 0-3",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/calcio-parma-torino-0-3_a408edfb-14c7-40bf-8deb-8a1674e65001.html",
+     "time": "2026-10-19T20:40:39Z"
+    },
+    {
+     "title": "Crosetto, Cdm approvi norma su militari con funzioni forze polizia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/crosetto-cdm-approvi-norma-su-militari-con-funzioni-forze-polizia_38da5d90-0171-40a6-9d34-648672d84b64.html",
+     "time": "2026-10-19T20:12:19Z"
+    },
+    {
+     "title": "Totti torna sul suo addio al calcio, 'quel giorno sono morto'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/totti-torna-sul-suo-addio-al-calcio-quel-giorno-sono-morto_d2e375e5-5431-46b1-af03-6ee2ce07b482.html",
+     "time": "2026-10-19T20:00:13Z"
+    },
+    {
+     "title": "Trump, 'anche in Italia le proteste hanno a che fare con l'immigrazione'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/trump-anche-in-italia-le-proteste-hanno-a-che-fare-con-limmigrazione_a3d3ef27-6f14-4772-a537-4cffc390e5e8.html",
+     "time": "2026-10-19T19:45:45Z"
+    },
+    {
+     "title": "Trump, 'Zelensky non sa di cosa parla, dovrebbe esserci un altro a negoziare'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/trump-zelensky-non-sa-di-cosa-parla-dovrebbe-esserci-un-altro-a-negoziare_0a841c6b-0b36-4759-8f7b-ca0c883be6ff.html",
+     "time": "2026-10-19T19:38:11Z"
+    },
+    {
+     "title": "Trump, 'sto negoziando con la Russia su Ucraina, Iran e ostaggi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/trump-sto-negoziando-con-la-russia-su-ucraina-iran-e-ostaggi_ad892c58-981a-47a7-b0bc-929d738432ef.html",
+     "time": "2026-10-19T19:36:30Z"
+    },
+    {
      "title": "Serie A: Monza-Cagliari 4-0",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/serie-a-monza-cagliari-4-0_3fd73d97-4de6-407b-bbfe-43be83098bf0.html",
      "time": "2026-10-19T18:25:17Z"
@@ -165,46 +205,6 @@
      "title": "Questa notte coprifuoco a Parigi a Place de la Republique",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/questa-notte-coprifuoco-a-parigi-a-place-de-la-republique_1750359a-9f9d-4e53-913a-f7a0b397d86f.html",
      "time": "2026-10-19T17:27:57Z"
-    },
-    {
-     "title": "Presidio centrodestra a Milano, momenti di tensione con alcuni giovani",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/presidio-centrodestra-a-milano-momenti-di-tensione-con-alcuni-giovani_f48c88b5-5fa8-4d0c-83b4-50cc493a8c37.html",
-     "time": "2026-10-19T17:18:39Z"
-    },
-    {
-     "title": "Netanyahu, 'telefonata con Trump, insieme elimineremo la minaccia iraniana'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/netanyahu-telefonata-con-trump-insieme-elimineremo-la-minaccia-iraniana_43bc1275-c676-449f-a117-598fe9a3e5bc.html",
-     "time": "2026-10-19T17:13:18Z"
-    },
-    {
-     "title": "Morte David Rossi, la Commissione fa i nomi di due presunti coinvolti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/morte-david-rossi-la-commissione-fa-i-nomi-di-due-presunti-coinvolti_9646d622-7a1b-4ebb-939d-216e47c39369.html",
-     "time": "2026-10-19T17:06:41Z"
-    },
-    {
-     "title": "Ex Ilva, terminata l'occupazione dell'aeroporto di Genova",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/ex-ilva-terminata-loccupazione-dellaeroporto-di-genova_43970fd9-8ac1-4a0c-a1f3-c08c2d1cd462.html",
-     "time": "2026-10-19T17:03:05Z"
-    },
-    {
-     "title": "Molteni-Ostellari, domani in decreto fermo preventivo fino a 24 ore",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/molteni-ostellari-domani-in-decreto-fermo-preventivo-fino-a-24-ore_39bfe8cc-7bcc-4ca7-9bd8-adf14a4a114a.html",
-     "time": "2026-10-19T16:51:49Z"
-    },
-    {
-     "title": "Cdm domani alle 17.30, dopo i disordini di piazza atteso un decreto legge",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/cdm-domani-alle-17.30-dopo-i-disordini-di-piazza-atteso-un-decreto-legge_9f017878-5413-4846-bf05-9261b6ac7eb6.html",
-     "time": "2026-10-19T16:49:23Z"
-    },
-    {
-     "title": "Telefonata Papa-Zelensky, 'chiesti aiuti per evacuazione Oleshky'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/telefonata-papa-zelensky-chiesti-aiuti-per-evacuazione-oleshky_6b6afc25-f12f-461d-95a3-656fedb20b83.html",
-     "time": "2026-10-19T16:47:07Z"
-    },
-    {
-     "title": "Lo spread Btp-Bund si allarga e chiude a 111,3 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/lo-spread-btp-bund-si-allarga-e-chiude-a-1113-punti_e2738af7-fe43-497e-bbe4-89c6e5b64024.html",
-     "time": "2026-10-19T16:23:26Z"
     }
    ]
   },
@@ -215,9 +215,34 @@
    "countries": [],
    "items": [
     {
+     "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+     "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T21:14:53Z"
+    },
+    {
+     "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+     "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T21:12:30Z"
+    },
+    {
+     "title": "US Church on frontline of battle against drug known as 'tranq'",
+     "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T21:05:54Z"
+    },
+    {
+     "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+     "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T21:02:33Z"
+    },
+    {
      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T18:23:50Z"
+     "time": "2026-10-19T20:49:00Z"
+    },
+    {
+     "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+     "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T20:00:43Z"
     },
     {
      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
@@ -235,11 +260,6 @@
      "time": "2026-10-19T16:32:47Z"
     },
     {
-     "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-     "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T16:22:12Z"
-    },
-    {
      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-19T16:20:51Z"
@@ -253,26 +273,6 @@
      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-19T14:13:18Z"
-    },
-    {
-     "title": "Australian MP critically injured after being hit by car in apparent attack",
-     "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T14:09:54Z"
-    },
-    {
-     "title": "Catalonia's former rebel president can return to Spain, court rules",
-     "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T14:06:53Z"
-    },
-    {
-     "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-     "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T13:44:57Z"
-    },
-    {
-     "title": "Exiled critic of Rwandan president found beheaded",
-     "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T13:42:41Z"
     }
    ]
   }
