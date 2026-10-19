@@ -1,6 +1,6 @@
 {
- "version": 68,
- "updated": "2026-10-19T01:04:32Z",
+ "version": 69,
+ "updated": "2026-10-19T06:04:12Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "15 Minuten-Podcast: Frankreich-Proteste, Flughafensicherheit, Martinsumzüge",
+     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15-minuten-podcast-frankreich-protest-flughafen-martinsumzuege-100.html",
+     "time": "2026-10-19T05:51:20Z"
+    },
+    {
+     "title": "Flugzeug von Tel Aviv nach Wien muss wegen Bombendrohung notlanden",
+     "url": "https://www.tagesschau.de/video/video-1668672.html",
+     "time": "2026-10-19T05:48:59Z"
+    },
+    {
+     "title": "Sturmtief \"Adam\": Behörden warnen vor Unwetter auf Mallorca",
+     "url": "https://www.tagesschau.de/ausland/europa/spanien-mallorca-sturmwarnung-100.html",
+     "time": "2026-10-19T05:31:49Z"
+    },
+    {
+     "title": "Marktbericht: DAX steht schwacher Wochenstart bevor",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+     "time": "2026-10-19T05:08:06Z"
+    },
+    {
+     "title": "In Berlin rückt Bündnis aus Rot-Grün-Rot näher",
+     "url": "https://www.tagesschau.de/video/video-1668660.html",
+     "time": "2026-10-19T05:07:19Z"
+    },
+    {
+     "title": "Alberta stimmt über mögliche Abspaltung von Kanada ab",
+     "url": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
+     "time": "2026-10-19T04:55:25Z"
+    },
+    {
+     "title": "11KM-Podcast: Deutsche Beamte zwischen Bashing und Reformen",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-beamte-100.html",
+     "time": "2026-10-19T04:26:52Z"
+    },
+    {
+     "title": "Kräftemessen mit französischem Staat will kein Ende nehmen",
+     "url": "https://www.tagesschau.de/video/video-1668638.html",
+     "time": "2026-10-19T03:46:25Z"
+    },
+    {
+     "title": "Ukrainischer Präsident Selenskyj zeigte sich besorgt über Trumps Kurs",
+     "url": "https://www.tagesschau.de/video/video-1668634.html",
+     "time": "2026-10-19T03:36:50Z"
+    },
+    {
+     "title": "Wann kommt der Gesetzentwurf für die Rentenreform?",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
+     "time": "2026-10-19T03:00:16Z"
+    },
+    {
+     "title": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html",
+     "time": "2026-10-19T02:17:03Z"
+    },
+    {
      "title": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
      "url": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
      "time": "2026-10-19T00:48:48Z"
-    },
-    {
-     "title": "Vier Tote und viele Verletzte bei Feuer auf Militärbasis in Kanada",
-     "url": "https://www.tagesschau.de/ausland/amerika/zwischenfall-militaerstutzpunkt-kanada-100.html",
-     "time": "2026-10-19T00:08:43Z"
-    },
-    {
-     "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
-     "time": "2026-10-18T22:23:09Z"
-    },
-    {
-     "title": "Hoffenheim befeuert Borussia Mönchengladbachs Abstiegsangst",
-     "url": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-befeuert-gladbachs-abstiegsangst,spielbericht-borussia-moenchengladbach-tsg-hoffenheim-112.html",
-     "time": "2026-10-18T22:01:28Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12918.html",
-     "time": "2026-10-18T21:50:38Z"
-    },
-    {
-     "title": "Reaktionen auf Abschluss der Sondierungsgespräche zwischen Linke, Grüne und SPD in Berlin",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1668614.html",
-     "time": "2026-10-18T21:31:17Z"
-    },
-    {
-     "title": "Kurden in Syrien: Ist die Vereinbarung \"Kurdisch als Unterrichtsfach\" gefährdet?",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1668608.html",
-     "time": "2026-10-18T21:22:04Z"
-    },
-    {
-     "title": "Ausschreitungen bei Protesten gegen hohe Lebenshaltungskosten in Frankreich",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1668604.html",
-     "time": "2026-10-18T21:12:14Z"
-    },
-    {
-     "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
-     "time": "2026-10-18T19:46:21Z"
-    },
-    {
-     "title": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
-     "time": "2026-10-18T19:00:53Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12310.html",
-     "time": "2026-10-18T18:48:39Z"
-    },
-    {
-     "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
-     "time": "2026-10-18T18:45:27Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Krieg im Nahen Osten – EU verurteilt Angriffe von Siedlern im Westjordanland",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-eu-verurteilt-angriffe-von-siedlern-im-westjordanland",
-     "time": "2026-10-19T00:40:18Z"
+     "title": "Znüni-Vorschriften – Znüni-Debatte: Was dürfen Schulen den Eltern vorschreiben?",
+     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/znueni-vorschriften-znueni-debatte-was-duerfen-schulen-den-eltern-vorschreiben",
+     "time": "2026-10-19T06:01:54Z"
     },
     {
-     "title": "Fahnen auf Halbmast – Mehrere Tote durch Feuer auf Militärbasis in Kanada",
-     "url": "https://www.srf.ch/news/international/fahnen-auf-halbmast-mehrere-tote-durch-feuer-auf-militaerbasis-in-kanada",
-     "time": "2026-10-19T00:05:42Z"
+     "title": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
+     "url": "https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen",
+     "time": "2026-10-19T05:42:20Z"
     },
     {
-     "title": "Krieg in der Ukraine – Donald Trump: Selenski will den Krieg nicht beenden",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-donald-trump-selenski-will-den-krieg-nicht-beenden",
-     "time": "2026-10-18T21:43:13Z"
+     "title": "Newsquiz der Woche – Warum geben die Kühe in der Schweiz derzeit mehr Milch?",
+     "url": "https://www.srf.ch/news/gesellschaft/newsquiz-der-woche-warum-geben-die-kuehe-in-der-schweiz-derzeit-mehr-milch",
+     "time": "2026-10-19T05:36:56Z"
     },
     {
-     "title": "Cup: Auslosung Achtelfinals – YB trifft auf Basel, Titelverteidiger St. Gallen auf Lugano",
-     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/cup-auslosung-achtelfinals-yb-trifft-auf-basel-titelverteidiger-st-gallen-auf-lugano",
-     "time": "2026-10-18T18:01:25Z"
+     "title": "Nach Krawallen in Frankreich – «Wut und Scham» – Macron verurteilt Gewalt",
+     "url": "https://www.srf.ch/news/international/nach-krawallen-in-frankreich-wut-und-scham-macron-verurteilt-gewalt",
+     "time": "2026-10-19T05:33:45Z"
     },
     {
-     "title": "– YB trifft auf Basel, Titelverteidiger St. Gallen auf Lugano",
-     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/cup-auslosung-achtelfinals-yb-trifft-auf-basel-titelverteidiger-st-gallen-auf-lugano",
-     "time": "2026-10-18T18:01:25Z"
+     "title": "Krieg im Nahen Osten – Ägypten erwägt Truppenentsendung nach Saudi-Arabien",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-aegypten-erwaegt-truppenentsendung-nach-saudi-arabien",
+     "time": "2026-10-19T05:04:20Z"
     },
     {
-     "title": "Schweizer Cup, 2. Runde – Nach viel Drama: Thun bodigt Schaffhausen nach Penaltyschiessen",
-     "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-2-runde-nach-viel-drama-thun-bodigt-schaffhausen-nach-penaltyschiessen",
-     "time": "2026-10-18T17:51:54Z"
+     "title": "Missstand bei Sicherheitsfirma – So systematisch beutet Securitas ihre Mitarbeitenden aus",
+     "url": "https://www.srf.ch/news/schweiz/missstand-bei-sicherheitsfirma-so-systematisch-beutet-securitas-ihre-mitarbeitenden-aus",
+     "time": "2026-10-19T05:00:15Z"
     },
     {
-     "title": "Switcher-Mode – Wie nachhaltig kann Mode sein?",
-     "url": "https://www.srf.ch/news/wirtschaft/switcher-mode-wie-nachhaltig-kann-mode-sein",
-     "time": "2026-10-18T17:45:37Z"
+     "title": "Nach Protesten in Frankreich – Warum die Menschen auch in Italien auf die Strasse gehen",
+     "url": "https://www.srf.ch/news/international/nach-protesten-in-frankreich-warum-die-menschen-auch-in-italien-auf-die-strasse-gehen",
+     "time": "2026-10-19T04:53:37Z"
     },
     {
-     "title": "Kunstturn-WM in Rotterdam – Seifert erreicht Barren- und Mehrkampffinal – Männer im Teamfinal",
-     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-in-rotterdam-seifert-erreicht-barren-und-mehrkampffinal-maenner-im-teamfinal",
-     "time": "2026-10-18T17:44:51Z"
+     "title": "Austrian Airlines – Bombendrohung: Flug aus Tel Aviv landet ausserplanmässig in Sofia",
+     "url": "https://www.srf.ch/news/international/austrian-airlines-bombendrohung-flug-aus-tel-aviv-landet-ausserplanmaessig-in-sofia",
+     "time": "2026-10-19T04:38:03Z"
     },
     {
-     "title": "Schwere Krawalle in Frankreich – Was bedeuten die ausufernden Proteste für Frankreich?",
-     "url": "https://www.srf.ch/news/international/schwere-krawalle-in-frankreich-was-bedeuten-die-ausufernden-proteste-fuer-frankreich",
-     "time": "2026-10-18T17:32:47Z"
+     "title": "Richtig heizen und sparen – Energie sparen leicht gemacht: Die besten Heiztipps",
+     "url": "https://www.srf.ch/radio-srf-1/richtig-heizen-und-sparen-energie-sparen-leicht-gemacht-die-besten-heiztipps",
+     "time": "2026-10-19T04:27:25Z"
     },
     {
-     "title": "Mehr Jugendschutz – Baume-Schneider will Zugang zu Social Media für Junge begrenzen",
-     "url": "https://www.srf.ch/news/schweiz/mehr-jugendschutz-baume-schneider-will-zugang-zu-social-media-fuer-junge-begrenzen",
-     "time": "2026-10-18T16:48:02Z"
+     "title": "Krieg in der Ukraine – Zweiter russischer Raketenangriff auf Kiew innert Stunden",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-zweiter-russischer-raketenangriff-auf-kiew-innert-stunden",
+     "time": "2026-10-19T04:09:52Z"
     },
     {
-     "title": "US-Techunternehmen – 5 Anfragen, 5 Absagen: Palantir blitzt in der Schweiz ab",
-     "url": "https://www.srf.ch/news/dialog/us-techunternehmen-5-anfragen-5-absagen-palantir-blitzt-in-der-schweiz-ab",
-     "time": "2026-10-18T16:19:22Z"
+     "title": "ETH forscht im Lötschental – Radar-Drohne soll Naturgefahren in den Alpen früher erkennen",
+     "url": "https://www.srf.ch/news/schweiz/eth-forscht-im-loetschental-radar-drohne-soll-naturgefahren-in-den-alpen-frueher-erkennen",
+     "time": "2026-10-19T03:54:18Z"
     },
     {
-     "title": "Arbeit unter Wasser – So untersuchen Archäologen Pfahlbauten im Sempachersee",
-     "url": "https://www.srf.ch/news/schweiz/arbeit-unter-wasser-so-untersuchen-archaeologen-pfahlbauten-im-sempachersee",
-     "time": "2026-10-18T15:52:55Z"
+     "title": "Umstrittene Medienreform – Israelische Medienexpertin: «So gehen Populisten mit Medien um»",
+     "url": "https://www.srf.ch/news/international/nahost/umstrittene-medienreform-israelische-medienexpertin-so-gehen-populisten-mit-medien-um",
+     "time": "2026-10-19T03:54:00Z"
     }
    ]
   },
@@ -156,6 +156,26 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Macron critica 'carenze' ordine pubblico ma respinge dimissioni ministro Interno",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/macron-critica-carenze-ordine-pubblico-ma-respinge-dimissioni-ministro-interno_56909b29-acfd-4f0f-a90d-74a2ddd2731f.html",
+     "time": "2026-10-19T05:26:08Z"
+    },
+    {
+     "title": "Duello tv tra Lula e Bolsonaro Jr, scontro su corruzione e sicurezza",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/duello-tv-tra-lula-e-bolsonaro-jr-scontro-su-corruzione-e-sicurezza_f5b4d3d0-cff1-4522-8a28-9c05cc4ba522.html",
+     "time": "2026-10-19T02:35:27Z"
+    },
+    {
+     "title": "Pil cinese al 4,5% nel terzo trimestre, crescita stabile",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/pil-cinese-al-45-nel-terzo-trimestre-crescita-stabile_7f153fbf-1ca3-44e0-99ba-b850f24cff7d.html",
+     "time": "2026-10-19T02:13:24Z"
+    },
+    {
+     "title": "Allarme crematori in Giappone, entro il 2040 rischio carenza in 9 città su 20",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/allarme-crematori-in-giappone-entro-il-2040-rischio-carenza-in-9-citta-su-20_e2256949-842c-4506-9c86-80ec5a98f366.html",
+     "time": "2026-10-19T01:40:35Z"
+    },
     {
      "title": "Borsa: Tokyo, apertura in calo (-0,90%)",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/borsa-tokyo-apertura-in-calo-090_3dd7dd9c-66d6-453f-8bef-6356aee95a62.html",
@@ -185,26 +205,6 @@
      "title": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_52691173-164f-4cda-8039-7c2e93b79264.html",
      "time": "2026-10-18T19:19:22Z"
-    },
-    {
-     "title": "Fiorello torna su Rai1 con 'Tg1 edizione più che straordinaria'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/fiorello-torna-su-rai1-con-tg1-edizione-piu-che-straordinaria_93858050-f9a2-45f5-a892-018d93a43f87.html",
-     "time": "2026-10-18T19:13:55Z"
-    },
-    {
-     "title": "Tajani convoca riunione Fi sulla sicurezza, rafforzare Strade Sicure e Cdm a Milano",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/tajani-convoca-riunione-fi-sulla-sicurezza-rafforzare-strade-sicure-e-cdm-a-milano_b642f028-7319-4de1-89a6-00e623c7344c.html",
-     "time": "2026-10-18T18:32:39Z"
-    },
-    {
-     "title": "Macron, 'proteggeremo le nostre città anche vietando alcuni raduni'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-proteggeremo-le-nostre-citta-anche-vietando-alcuni-raduni_db771904-7709-496e-926c-470213889ed5.html",
-     "time": "2026-10-18T18:31:51Z"
-    },
-    {
-     "title": "Macron denuncia il caos in Francia, 'rabbia e vergogna'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_919a9aa2-86cc-47f6-afcf-b8b078111bb0.html",
-     "time": "2026-10-18T18:08:58Z"
     }
    ]
   },
@@ -214,6 +214,41 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Macron calls for 'calm and order' after riots across France",
+     "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T05:07:21Z"
+    },
+    {
+     "title": "Australian Greens senator denies claims of misconduct towards women",
+     "url": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T04:54:25Z"
+    },
+    {
+     "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T04:30:59Z"
+    },
+    {
+     "title": "France's government under pressure after weekend of widespread violence",
+     "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T04:16:46Z"
+    },
+    {
+     "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+     "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T03:44:02Z"
+    },
+    {
+     "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+     "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T02:41:50Z"
+    },
+    {
+     "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+     "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T01:50:48Z"
+    },
     {
      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
@@ -238,41 +273,6 @@
      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-18T22:22:51Z"
-    },
-    {
-     "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-     "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T21:00:22Z"
-    },
-    {
-     "title": "Macron calls for 'calm and order' after riots across France",
-     "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T20:33:21Z"
-    },
-    {
-     "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-     "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T19:53:27Z"
-    },
-    {
-     "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-     "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T15:46:10Z"
-    },
-    {
-     "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-     "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T13:47:07Z"
-    },
-    {
-     "title": "European diplomats attacked by Israeli settlers in West Bank",
-     "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T12:16:14Z"
-    },
-    {
-     "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-     "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-18T11:09:32Z"
     }
    ]
   }
