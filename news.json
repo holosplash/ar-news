@@ -1,6 +1,6 @@
 {
- "version": 76,
- "updated": "2026-10-20T17:55:35Z",
+ "version": 77,
+ "updated": "2026-10-20T21:31:38Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,51 @@
    ],
    "items": [
     {
+     "title": "Champions League: Stuttgart verpasst die Überraschung gegen Atletico",
+     "url": "https://www.sportschau.de/fussball/championsleague/stuttgart-verpasst-die-dicke-ueberraschung,spielbericht-vfb-stuttgart-atletico-madrid-100.html",
+     "time": "2026-10-20T21:12:43Z"
+    },
+    {
+     "title": "Champions League: Guirassy schießt BVB zum Arbeitssieg über Sabah FK",
+     "url": "https://www.sportschau.de/fussball/championsleague/doppelter-guirassy-beendet-dortmunder-ergebniskrise,spielbericht-sabah-fk-borussia-dortmund-100.html",
+     "time": "2026-10-20T20:58:42Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12934.html",
+     "time": "2026-10-20T20:57:32Z"
+    },
+    {
+     "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+     "url": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+     "time": "2026-10-20T20:01:00Z"
+    },
+    {
+     "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+     "time": "2026-10-20T19:56:31Z"
+    },
+    {
+     "title": "SPD-Politikerin Hesse bleibt Landtagspräsidentin",
+     "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/neuer-landtag-in-mv-birgit-hesse-bleibt-praesidentin,mvlandtag-104.html",
+     "time": "2026-10-20T18:24:37Z"
+    },
+    {
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81606.html",
+     "time": "2026-10-20T18:18:08Z"
+    },
+    {
+     "title": "Unternehmen fordern bessere Rahmenbedingungen für Investitionen in Deutschland",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1669692.html",
+     "time": "2026-10-20T18:08:58Z"
+    },
+    {
+     "title": "Kanzler Merz versucht auf Investitionsgipfel Wirtschaftsvertreter vom Standort Deutschland zu überzeugen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1669688.html",
+     "time": "2026-10-20T18:07:02Z"
+    },
+    {
      "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
      "url": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
      "time": "2026-10-20T17:49:19Z"
@@ -25,54 +70,9 @@
      "time": "2026-10-20T17:41:17Z"
     },
     {
-     "title": "SPD-Politikerin Hesse bleibt Landtagspräsidentin",
-     "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/neuer-landtag-in-mv-birgit-hesse-bleibt-praesidentin,mvlandtag-104.html",
-     "time": "2026-10-20T17:31:08Z"
-    },
-    {
      "title": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html",
      "time": "2026-10-20T16:57:49Z"
-    },
-    {
-     "title": "EU-Rechnungshof-Bericht: Kaum Fortschritte bei Digitalisierung",
-     "url": "https://www.tagesschau.de/ausland/europa/europaeischer-rechnungshof-corona-gelder-100.html",
-     "time": "2026-10-20T16:42:23Z"
-    },
-    {
-     "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
-     "time": "2026-10-20T16:38:28Z"
-    },
-    {
-     "title": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
-     "url": "https://www.tagesschau.de/ausland/europa/angriffe-bruecken-kiew-100.html",
-     "time": "2026-10-20T16:23:41Z"
-    },
-    {
-     "title": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
-     "url": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-102.html",
-     "time": "2026-10-20T15:38:35Z"
-    },
-    {
-     "title": "Vom Neuanfang zur Heimat in Deutschland: 65 Jahre Anwerbeabkommen mit der Türkei",
-     "url": "https://www.tagesschau.de/video/video-1669534.html",
-     "time": "2026-10-20T15:13:50Z"
-    },
-    {
-     "title": "Unternehmen fordern bessere Rahmenbedingungen für Investitionen in Deutschland",
-     "url": "https://www.tagesschau.de/video/video-1669524.html",
-     "time": "2026-10-20T15:09:39Z"
-    },
-    {
-     "title": "Investitionsgipfel mit Kanzler Merz und Finanzminister Klingbeil",
-     "url": "https://www.tagesschau.de/video/video-1669522.html",
-     "time": "2026-10-20T15:07:12Z"
-    },
-    {
-     "title": "Flugausfälle: EU regelt Erstattung bei Buchung über Drittanbieter",
-     "url": "https://www.tagesschau.de/ausland/europa/eu-reiserechte-100.html",
-     "time": "2026-10-20T14:43:12Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "National League am Dienstag – Audio-Konferenz: Lions empfangen HCD – Tatzenderby in Bern",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-audio-konferenz-lions-empfangen-hcd-tatzenderby-in-bern",
-     "time": "2026-10-20T17:46:13Z"
+     "title": "Champions League, 3. Spieltag – Kracher hält Versprechen: PSG schlägt Barça spektakulär 4:2",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-3-spieltag-kracher-haelt-versprechen-psg-schlaegt-barca-spektakulaer-4-2",
+     "time": "2026-10-20T21:22:34Z"
     },
     {
      "title": "Unruhen in Frankreich – Örtliche Ausgangssperren verlängert ++ Festnahme in Limoges",
      "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-oertliche-ausgangssperren-verlaengert-festnahme-in-limoges",
-     "time": "2026-10-20T17:45:48Z"
+     "time": "2026-10-20T20:49:59Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Trump: Ukraine soll Friedensabkommen zustimmen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-ukraine-soll-friedensabkommen-zustimmen",
+     "time": "2026-10-20T20:49:42Z"
     },
     {
      "title": "Krieg im Nahen Osten – Insider: Iran stellt sich auf neue US-Angriffe ein",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-insider-iran-stellt-sich-auf-neue-us-angriffe-ein",
-     "time": "2026-10-20T17:45:27Z"
+     "time": "2026-10-20T20:49:21Z"
     },
     {
-     "title": "Krieg in der Ukraine – Selenski und US-Sondergesandter Witkoff zu Gesprächen in Oslo",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-und-us-sondergesandter-witkoff-zu-gespraechen-in-oslo",
-     "time": "2026-10-20T17:45:06Z"
-    },
-    {
-     "title": "Internationale Fussball-News – Manzambi muss pausieren – Sperren für Ägypter nach WM-Aus",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-manzambi-muss-pausieren-sperren-fuer-aegypter-nach-wm-aus",
-     "time": "2026-10-20T17:42:09Z"
-    },
-    {
-     "title": "Organspende – Pauls neue Leber: Hoffen, Bangen und eine tragische Wende",
-     "url": "https://www.srf.ch/wissen/mensch/organspende-pauls-neue-leber-hoffen-bangen-und-eine-tragische-wende",
-     "time": "2026-10-20T17:00:43Z"
-    },
-    {
-     "title": "Trockenheit in der Schweiz – Regenwasser wird zur wertvollen Ressource",
-     "url": "https://www.srf.ch/news/schweiz/trockenheit-in-der-schweiz-regenwasser-wird-zur-wertvollen-ressource",
-     "time": "2026-10-20T16:23:52Z"
-    },
-    {
-     "title": "Zum 100. Geburtstag – Klaus Kinski: Ein Mann zwischen Weltruhm und Wahnsinn",
-     "url": "https://www.srf.ch/kultur/film-serien/zum-100-geburtstag-klaus-kinski-ein-mann-zwischen-weltruhm-und-wahnsinn",
-     "time": "2026-10-20T16:07:30Z"
-    },
-    {
-     "title": "Luca Niculescu – Nach mehr als fünf Monaten: Rumänien hat wieder eine Regierung",
-     "url": "https://www.srf.ch/news/international/luca-niculescu-nach-mehr-als-fuenf-monaten-rumaenien-hat-wieder-eine-regierung",
-     "time": "2026-10-20T16:01:44Z"
-    },
-    {
-     "title": "Protest gegen Stellenabbau – Angestellte von Tamedia fordern «Journalismus statt KI»",
-     "url": "https://www.srf.ch/news/schweiz/protest-gegen-stellenabbau-angestellte-von-tamedia-fordern-journalismus-statt-ki",
-     "time": "2026-10-20T15:57:48Z"
-    },
-    {
-     "title": "Schweizer Luftraum – Skyguide behebt Störung – Kapazität bei 80 Prozent",
-     "url": "https://www.srf.ch/news/schweiz/schweizer-luftraum-skyguide-behebt-stoerung-kapazitaet-bei-80-prozent",
-     "time": "2026-10-20T15:49:05Z"
+     "title": "WM in Rotterdam – Am Barren überragend: Schweizer turnen auf den 5. WM-Rang",
+     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/wm-in-rotterdam-am-barren-ueberragend-schweizer-turnen-auf-den-5-wm-rang",
+     "time": "2026-10-20T20:47:53Z"
     },
     {
      "title": "US-Verhalten gegenüber Ukraine – Friedensforscher: «Kurzfristige Betrachtung ist hochgefährlich»",
      "url": "https://www.srf.ch/news/international/us-verhalten-gegenueber-ukraine-friedensforscher-kurzfristige-betrachtung-ist-hochgefaehrlich",
-     "time": "2026-10-20T15:22:31Z"
+     "time": "2026-10-20T20:39:06Z"
+    },
+    {
+     "title": "Ständeratskommission – Schusswaffen sollen einfacher eingezogen werden können",
+     "url": "https://www.srf.ch/news/schweiz/staenderatskommission-schusswaffen-sollen-einfacher-eingezogen-werden-koennen",
+     "time": "2026-10-20T19:49:33Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Unterwegs mit ukrainischen Drohnenkriegern",
+     "url": "https://www.srf.ch/news/international/krieg-in-der-ukraine-unterwegs-mit-ukrainischen-drohnenkriegern",
+     "time": "2026-10-20T19:09:19Z"
+    },
+    {
+     "title": "Seilbahnen steigern Umsatz – Skigebiete mit Rekordergebnis – aber Tageskarten werden teurer",
+     "url": "https://www.srf.ch/news/wirtschaft/seilbahnen-steigern-umsatz-skigebiete-mit-rekordergebnis-aber-tageskarten-werden-teurer",
+     "time": "2026-10-20T18:28:45Z"
+    },
+    {
+     "title": "Nachfolge von Guy Parmelin – SVP-Asylchef Schmid nimmt sich aus Bundesratsrennen",
+     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-asylchef-schmid-nimmt-sich-aus-bundesratsrennen",
+     "time": "2026-10-20T18:21:57Z"
+    },
+    {
+     "title": "Winterstrom-Lücke – Leere Stauseen: GLP-Präsident kritisiert Strombranche",
+     "url": "https://www.srf.ch/news/schweiz/winterstrom-luecke-leere-stauseen-glp-praesident-kritisiert-strombranche",
+     "time": "2026-10-20T18:19:41Z"
+    },
+    {
+     "title": "WFP-Länderdirektor im Gespräch – «Die Lage in Gaza ist dramatisch»",
+     "url": "https://www.srf.ch/news/international/wfp-laenderdirektor-im-gespraech-die-lage-in-gaza-ist-dramatisch",
+     "time": "2026-10-20T18:16:57Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
+     "title": "Wsj, 'Musk ha ordinato il rallentamento di Starlink in Ucraina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/wsj-musk-ha-ordinato-il-rallentamento-di-starlink-in-ucraina_1d759893-06ee-4481-be3c-32f2582374e1.html",
+     "time": "2026-10-20T20:39:48Z"
+    },
+    {
+     "title": "Trump, 'i presidenti per un motivo o per l'altro perdono sempre le midterm'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-i-presidenti-per-un-motivo-o-per-laltro-perdono-sempre-le-midterm_8f3c13cf-1609-47f6-ac8b-7e7a623dbf66.html",
+     "time": "2026-10-20T19:53:21Z"
+    },
+    {
+     "title": "Trump, 'sostegno a Marine Le Pen? Mai incontrata ma è voce conservatori in Francia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-sostegno-a-marine-le-pen-mai-incontrata-ma-e-voce-conservatori-in-francia_465bc881-a36c-4989-acab-3fdba036385f.html",
+     "time": "2026-10-20T19:25:22Z"
+    },
+    {
+     "title": "Trump, 'ho chiesto a Putin la liberazione dell'americano Hubbard'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-ho-chiesto-a-putin-la-liberazione-dellamericano-hubbard_7b5e63ee-1630-4eab-820d-df97a65ecbf4.html",
+     "time": "2026-10-20T19:24:11Z"
+    },
+    {
+     "title": "Trump, 'la Russia vuole accordo, Zelensky deve voler mettere fine alla guerra'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-la-russia-vuole-accordo-zelensky-deve-voler-mettere-fine-alla_c2920f57-acaa-4a99-9d2d-97505e3914a4.html",
+     "time": "2026-10-20T19:21:24Z"
+    },
+    {
+     "title": "Zelensky, 'la condivisione dell'intelligence ora funziona'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/zelensky-la-condivisione-dellintelligence-ora-funziona_e94efbed-91c2-49e7-a887-7a00c2f92f18.html",
+     "time": "2026-10-20T18:47:17Z"
+    },
+    {
+     "title": "Nordio, 'fino a 12 anni per chi usa social per organizzare gruppi piazze",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/nordio-fino-a-12-anni-per-chi-usa-social-per-organizzare-gruppi_79ae72ea-f351-47c9-a5ed-64bfb6ef9184.html",
+     "time": "2026-10-20T18:01:19Z"
+    },
+    {
+     "title": "Piantedosi, fermo preventivo esteso per azioni in luoghi affollati",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/piantedosi-fermo-preventivo-esteso-per-azioni-in-luoghi-affollati_7b5f732e-9e70-4dd8-88a4-4a34d5b94541.html",
+     "time": "2026-10-20T18:01:01Z"
+    },
+    {
+     "title": "Scontri a Milano, per 11 minorenni comunità o domiciliari",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/scontri-a-milano-per-11-minorenni-comunita-o-domiciliari_f5f11eb0-246b-4ce3-b902-223a3acb156a.html",
+     "time": "2026-10-20T17:58:49Z"
+    },
+    {
      "title": "Media, 'Iran ha trascinato negoziati con gli Usa per indebolire Trump alle midterm'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/media-iran-ha-trascinato-negoziati-con-gli-usa-per-indebolire-trump_b5a6c441-0d65-4d12-9e44-33be19e1234a.html",
      "time": "2026-10-20T17:42:11Z"
-    },
-    {
-     "title": "Oslo, 'bene l'incontro con Witkoff, domani andrà in Russia con proposte'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/oslo-bene-lincontro-con-witkoff-domani-andra-in-russia-con-proposte_f0629187-58e8-4d6e-b5fa-47fb79b7e54b.html",
-     "time": "2026-10-20T17:29:47Z"
-    },
-    {
-     "title": "Meloni, nessuna idea politica o disagio giustifica le devastazioni,risposta ferma",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/meloni-nessuna-idea-politica-o-disagio-giustifica-le-devastazionirisposta-ferma_305c657a-b1c0-45c2-9c87-3726668e5907.html",
-     "time": "2026-10-20T17:21:30Z"
-    },
-    {
-     "title": "Trump, 'ho investito 400 milioni di dollari nelle midterm'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-ho-investito-400-milioni-di-dollari-nelle-midterm_e9aa6fc0-9c3b-48a4-8b98-5fdd70ddb0a3.html",
-     "time": "2026-10-20T17:18:41Z"
-    },
-    {
-     "title": "Meloni, fermo preventivo anche per i minori",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/meloni-fermo-preventivo-anche-per-i-minori_0d3bff11-d741-4ea7-bf29-b45eca35714a.html",
-     "time": "2026-10-20T17:18:19Z"
-    },
-    {
-     "title": "Kallas, 'gli Usa spingono alla resa Kiev da quasi due anni alle condizioni di Putin'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/kallas-gli-usa-spingono-alla-resa-kiev-da-quasi-due-anni_15b200bc-7b04-4086-a774-a0d78c53696a.html",
-     "time": "2026-10-20T17:17:37Z"
-    },
-    {
-     "title": "Dopo mesi di stallo, il parlamento rumeno approva un governo filo-Ue",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/dopo-mesi-di-stallo-il-parlamento-rumeno-approva-un-governo-filo-ue_04d6cbc4-e07b-486c-b51b-0b7af8f6b13b.html",
-     "time": "2026-10-20T17:16:25Z"
-    },
-    {
-     "title": "Wang Yi, 'Ucraina e Russia siano pronte a venirsi incontro'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/wang-yi-ucraina-e-russia-siano-pronte-a-venirsi-incontro_a86b552f-e33e-4aa1-9acf-35231403c82b.html",
-     "time": "2026-10-20T17:15:45Z"
-    },
-    {
-     "title": "Media, colloqui a livello tecnico Israele-Libano oggi in Florida",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/media-colloqui-a-livello-tecnico-israele-libano-oggi-in-florida_74d00885-07d4-448b-8679-84a384aa6352.html",
-     "time": "2026-10-20T17:13:24Z"
-    },
-    {
-     "title": "Rubio, 'India e Usa molto vicini a un accordo di libero scambio'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/rubio-india-e-usa-molto-vicini-a-un-accordo-di-libero-scambio_049d151f-cf11-4570-9ce8-7186c4520c9d.html",
-     "time": "2026-10-20T17:12:18Z"
     }
    ]
   },
@@ -215,6 +215,26 @@
    "countries": [],
    "items": [
     {
+     "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T21:27:39Z"
+    },
+    {
+     "title": "Suspect arrested after historic town hall set alight - French media",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T21:05:50Z"
+    },
+    {
+     "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+     "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T20:00:57Z"
+    },
+    {
+     "title": "Trump sued over Canadian tariffs in latest legal challenge",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T19:30:05Z"
+    },
+    {
      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-20T17:30:15Z"
@@ -223,11 +243,6 @@
      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-20T16:59:06Z"
-    },
-    {
-     "title": "Suspect arrested after historic town hall set alight - French media",
-     "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T16:06:39Z"
     },
     {
      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
@@ -258,21 +273,6 @@
      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-20T11:45:49Z"
-    },
-    {
-     "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
-     "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T11:25:35Z"
-    },
-    {
-     "title": "Why Israeli Gen Z voters are drawn to the far right",
-     "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T08:53:06Z"
-    },
-    {
-     "title": "How is the US economy really doing under President Trump?",
-     "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T05:00:45Z"
     }
    ]
   }
