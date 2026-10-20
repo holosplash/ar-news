@@ -1,6 +1,6 @@
 {
- "version": 72,
- "updated": "2026-10-19T23:02:35Z",
+ "version": 73,
+ "updated": "2026-10-20T01:42:08Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,11 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Verbaler Schlagabtausch: Spannungen zwischen Trump und Selenskyj",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
+     "time": "2026-10-20T01:03:35Z"
+    },
     {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12938.html",
@@ -53,11 +58,6 @@
      "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
      "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
      "time": "2026-10-19T19:52:35Z"
-    },
-    {
-     "title": "Grüne und SPD in Berlin stimmen für Koalitionsverhandlungen mit der Linken",
-     "url": "https://www.tagesschau.de/video/video-1669198.html",
-     "time": "2026-10-19T19:47:28Z"
     },
     {
      "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
@@ -157,6 +157,26 @@
    ],
    "items": [
     {
+     "title": "Brasile, Lula chiede al tribunale elettorale di cassare la candidatura di Bolsonaro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/brasile-lula-chiede-al-tribunale-elettorale-di-cassare-la-candidatura-di-bolsonaro_b1800e08-ad79-4302-9b44-832ad324813c.html",
+     "time": "2026-10-20T00:38:27Z"
+    },
+    {
+     "title": "Trump: 'Se l'Europa soccombe ai migranti noi ce ne andremo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/trump-se-leuropa-soccombe-ai-migranti-noi-ce-ne-andremo_98bcd205-e596-4a3d-a746-2d7d7a38c3ae.html",
+     "time": "2026-10-20T00:24:30Z"
+    },
+    {
+     "title": "Borsa: Tokyo, apertura in calo (-0,41%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/borsa-tokyo-apertura-in-calo-041_d1b1b143-9c2b-472f-b457-cd5acec3c3b8.html",
+     "time": "2026-10-20T00:13:31Z"
+    },
+    {
+     "title": "Axios: 'Hegseth ha incontrato Netanyahu in Israele'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/axios-hegseth-ha-incontrato-netanyahu-in-israele_f59ea933-ff28-4f54-848d-41d52b1867ef.html",
+     "time": "2026-10-19T23:13:20Z"
+    },
+    {
      "title": "Ranucci sceglie Rainews, comunicata la decisione all'azienda",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/ranucci-sceglie-rainews-comunicata-la-decisione-allazienda_31ec3476-0129-4aa5-9da6-f48c828b9226.html",
      "time": "2026-10-19T22:27:08Z"
@@ -185,26 +205,6 @@
      "title": "Trump, 'anche in Italia le proteste hanno a che fare con l'immigrazione'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/trump-anche-in-italia-le-proteste-hanno-a-che-fare-con-limmigrazione_a3d3ef27-6f14-4772-a537-4cffc390e5e8.html",
      "time": "2026-10-19T19:45:45Z"
-    },
-    {
-     "title": "Trump, 'Zelensky non sa di cosa parla, dovrebbe esserci un altro a negoziare'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/trump-zelensky-non-sa-di-cosa-parla-dovrebbe-esserci-un-altro-a-negoziare_0a841c6b-0b36-4759-8f7b-ca0c883be6ff.html",
-     "time": "2026-10-19T19:38:11Z"
-    },
-    {
-     "title": "Trump, 'sto negoziando con la Russia su Ucraina, Iran e ostaggi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/trump-sto-negoziando-con-la-russia-su-ucraina-iran-e-ostaggi_ad892c58-981a-47a7-b0bc-929d738432ef.html",
-     "time": "2026-10-19T19:36:30Z"
-    },
-    {
-     "title": "Serie A: Monza-Cagliari 4-0",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/serie-a-monza-cagliari-4-0_3fd73d97-4de6-407b-bbfe-43be83098bf0.html",
-     "time": "2026-10-19T18:25:17Z"
-    },
-    {
-     "title": "Questa notte coprifuoco a Parigi a Place de la Republique",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/19/questa-notte-coprifuoco-a-parigi-a-place-de-la-republique_1750359a-9f9d-4e53-913a-f7a0b397d86f.html",
-     "time": "2026-10-19T17:27:57Z"
     }
    ]
   },
@@ -215,6 +215,31 @@
    "countries": [],
    "items": [
     {
+     "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+     "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T01:24:59Z"
+    },
+    {
+     "title": "US church on frontline of battle against drug known as 'tranq'",
+     "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T00:02:32Z"
+    },
+    {
+     "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+     "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T23:30:03Z"
+    },
+    {
+     "title": "Five ways El Niño is affecting the weather around the world",
+     "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T23:08:25Z"
+    },
+    {
+     "title": "Clean up begins after French riots but police remain",
+     "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-19T21:30:08Z"
+    },
+    {
      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-19T21:14:53Z"
@@ -223,11 +248,6 @@
      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-19T21:12:30Z"
-    },
-    {
-     "title": "US Church on frontline of battle against drug known as 'tranq'",
-     "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T21:05:54Z"
     },
     {
      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
@@ -253,26 +273,6 @@
      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-19T17:18:04Z"
-    },
-    {
-     "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-     "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T16:32:47Z"
-    },
-    {
-     "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T16:20:51Z"
-    },
-    {
-     "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-     "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T16:16:51Z"
-    },
-    {
-     "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
-     "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-19T14:13:18Z"
     }
    ]
   }
