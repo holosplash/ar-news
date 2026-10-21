@@ -1,6 +1,6 @@
 {
- "version": 82,
- "updated": "2026-10-21T19:13:41Z",
+ "version": 83,
+ "updated": "2026-10-21T22:39:37Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,41 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Champions League: Bayern und Arsenal mit intensivem Unentschieden",
+     "url": "https://www.sportschau.de/fussball/championsleague/bayern-starten-mit-gnabry-und-bischof-gegen-arsenal,spielbericht-fc-bayern-fc-arsenal-100.html",
+     "time": "2026-10-21T22:13:20Z"
+    },
+    {
+     "title": "Am Ende deutlich - Leipzig unterliegt Real Madrid",
+     "url": "https://www.sportschau.de/fussball/championsleague/am-ende-deutlich-leipzig-unterliegt-real-madrid,spielbericht-real-madrid-rb-leipzig-100.html",
+     "time": "2026-10-21T21:36:49Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12928.html",
+     "time": "2026-10-21T21:35:48Z"
+    },
+    {
+     "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
+     "url": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
+     "time": "2026-10-21T21:02:37Z"
+    },
+    {
+     "title": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
+     "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
+     "time": "2026-10-21T21:02:08Z"
+    },
+    {
+     "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
+     "url": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
+     "time": "2026-10-21T20:47:20Z"
+    },
+    {
+     "title": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
+     "url": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
+     "time": "2026-10-21T20:47:10Z"
+    },
     {
      "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
@@ -30,11 +65,6 @@
      "time": "2026-10-21T18:44:00Z"
     },
     {
-     "title": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
-     "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
-     "time": "2026-10-21T17:50:10Z"
-    },
-    {
      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
      "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
      "time": "2026-10-21T17:48:20Z"
@@ -43,36 +73,6 @@
      "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
      "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
      "time": "2026-10-21T17:32:26Z"
-    },
-    {
-     "title": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html",
-     "time": "2026-10-21T17:21:35Z"
-    },
-    {
-     "title": "Marktbericht: DAX startet dank KI durch",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
-     "time": "2026-10-21T17:17:42Z"
-    },
-    {
-     "title": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
-     "url": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
-     "time": "2026-10-21T16:57:53Z"
-    },
-    {
-     "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
-     "url": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
-     "time": "2026-10-21T16:50:16Z"
-    },
-    {
-     "title": "tagesschau in Einfacher Sprache",
-     "url": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1474.html",
-     "time": "2026-10-21T16:04:42Z"
-    },
-    {
-     "title": "Displays im Auto: Warum die Bedienung oft gefährlicher als Alkohol ist",
-     "url": "https://www.tagesschau.de/video/video-1670168.html",
-     "time": "2026-10-21T15:28:47Z"
     }
    ]
   },
@@ -84,6 +84,31 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Out in der Champions League – Kriens-Luzern schrammt gegen Kielce an Sensation vorbei",
+     "url": "https://www.srf.ch/sport/mehr-sport/handball/out-in-der-champions-league-kriens-luzern-schrammt-gegen-kielce-an-sensation-vorbei",
+     "time": "2026-10-21T21:25:11Z"
+    },
+    {
+     "title": "Champions League: Round-up – Real Madrid wahrt weisse Weste – Como nimmt ManUnited auseinander",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-real-madrid-wahrt-weisse-weste-como-nimmt-manunited-auseinander",
+     "time": "2026-10-21T21:01:39Z"
+    },
+    {
+     "title": "Champions League – Dank Rice-Effort: Arsenal ringt den Bayern ein Remis ab",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-dank-rice-effort-arsenal-ringt-den-bayern-ein-remis-ab",
+     "time": "2026-10-21T20:54:24Z"
+    },
+    {
+     "title": "Kunstturn-WM in Rotterdam – Neue Zeitrechnung: China schlägt die USA im Teamfinal",
+     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-in-rotterdam-neue-zeitrechnung-china-schlaegt-die-usa-im-teamfinal",
+     "time": "2026-10-21T20:03:01Z"
+    },
+    {
+     "title": "Adenokarzinom entfernt – Krebs hat bei Papst Leo XIV. nicht gestreut",
+     "url": "https://www.srf.ch/news/international/adenokarzinom-entfernt-krebs-hat-bei-papst-leo-xiv-nicht-gestreut",
+     "time": "2026-10-21T19:52:14Z"
+    },
     {
      "title": "Gewerkschaftsbund – «Eine AHV-Finanzierung über die Mehrwertsteuer ist gerecht»",
      "url": "https://www.srf.ch/news/schweiz/gewerkschaftsbund-eine-ahv-finanzierung-ueber-die-mehrwertsteuer-ist-gerecht",
@@ -118,31 +143,6 @@
      "title": "Veto des Erprinzen – Schwangerschaftsabbrüche bleiben in Liechtenstein verboten",
      "url": "https://www.srf.ch/news/international/veto-des-erprinzen-schwangerschaftsabbrueche-bleiben-in-liechtenstein-verboten",
      "time": "2026-10-21T18:00:38Z"
-    },
-    {
-     "title": "Bundesstaat New Mexico – US-Richter verhängt Milliardenstrafe für Meta",
-     "url": "https://www.srf.ch/news/wirtschaft/bundesstaat-new-mexico-us-richter-verhaengt-milliardenstrafe-fuer-meta",
-     "time": "2026-10-21T17:58:03Z"
-    },
-    {
-     "title": "Epstein-Files – Epsteins Spuren zu Dutzenden Eliteschulen – auch in der Schweiz",
-     "url": "https://www.srf.ch/news/schweiz/epstein-files-epsteins-spuren-zu-dutzenden-eliteschulen-auch-in-der-schweiz",
-     "time": "2026-10-21T17:00:02Z"
-    },
-    {
-     "title": "Landesweite Demonstrationen – Griechenland protestiert gegen hohe Lebenshaltungskosten",
-     "url": "https://www.srf.ch/news/international/landesweite-demonstrationen-griechenland-protestiert-gegen-hohe-lebenshaltungskosten",
-     "time": "2026-10-21T16:45:32Z"
-    },
-    {
-     "title": "Cyberangriffe auf Unternehmen – Sind KMUs den Hackern ausgeliefert?",
-     "url": "https://www.srf.ch/news/schweiz/cyberangriffe-auf-unternehmen-sind-kmus-den-hackern-ausgeliefert",
-     "time": "2026-10-21T16:31:07Z"
-    },
-    {
-     "title": "Curling-Trainerin Südkoreas – Tirinzoni über ihr Abenteuer: «Konnte fast nicht ‹Nein› sagen»",
-     "url": "https://www.srf.ch/sport/mehr-sport/curling/curling-trainerin-suedkoreas-tirinzoni-ueber-ihr-abenteuer-konnte-fast-nicht-nein-sagen",
-     "time": "2026-10-21T16:20:12Z"
     }
    ]
   },
@@ -156,6 +156,31 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Trump difende Witkoff per aver chiamato Putin compassionevole",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/trump-difende-witkoff-per-aver-chiamato-putin-compassionevole_c250406d-97db-4e20-a6d6-664601724079.html",
+     "time": "2026-10-21T19:32:24Z"
+    },
+    {
+     "title": "I medici del Papa, 'non è necessaria alcuna ulteriore terapia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/i-medici-del-papa-non-e-necessaria-alcuna-ulteriore-terapia_6a16cdb5-8b91-4e27-8bea-cc8bbeea2b75.html",
+     "time": "2026-10-21T19:30:50Z"
+    },
+    {
+     "title": "Trump, forse siamo più vicini che mai alla fine della guerra in Ucraina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/trump-forse-siamo-piu-vicini-che-mai-alla-fine-della_1710ffd8-986c-4716-81fe-06d3f2503bb9.html",
+     "time": "2026-10-21T19:22:25Z"
+    },
+    {
+     "title": "Riunione a Chigi con Meloni, Viminale garantirà i rifornimenti di prima necessità",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/riunione-a-chigi-con-meloni-viminale-garantira-i-rifornimenti-di-prima-necessita_b0d9c65e-77a6-4794-ba11-5a87b3742cd3.html",
+     "time": "2026-10-21T19:20:48Z"
+    },
+    {
+     "title": "L'ambasciata Usa ordina al personale e alle famiglie di lasciare l'Arabia Saudita",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/lambasciata-usa-ordina-al-personale-e-alle-famiglie-di-lasciare-larabia-saudita_6465d3ea-d7f2-486b-8ae0-6e3658bc9dc2.html",
+     "time": "2026-10-21T19:19:00Z"
+    },
     {
      "title": "Tajani ai suoi, verso taglio Irpef in due tempi, in manovra fino a 55mila euro",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/tajani-ai-suoi-verso-taglio-irpef-in-due-tempi-in-manovra-fino-a-55mila_cc44d961-f0fa-45db-b788-f0fd49424e18.html",
@@ -180,31 +205,6 @@
      "title": "Il prezzo del gas viaggia in rialzo a 86,6 euro, lente resta su Hormuz",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/il-prezzo-del-gas-viaggia-in-rialzo-a-866-euro-lente-resta-su-hormuz_fddb84e8-d1f9-4c5e-8f64-d05349e3f922.html",
      "time": "2026-10-21T16:45:27Z"
-    },
-    {
-     "title": "Witkoff a Putin, 'anche lei è compassionevole'. Bufera in Usa, 'è un assassino'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/witkoff-a-putin-anche-lei-e-compassionevole.-bufera-in-usa-e-un-assassino_b74f2c51-171f-4e56-abd6-4e33d9f87210.html",
-     "time": "2026-10-21T16:35:13Z"
-    },
-    {
-     "title": "Viminale, 1.339 identificati e 71 denunciati per i blocchi stradali",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/viminale-1.339-identificati-e-71-denunciati-per-i-blocchi-stradali_353e5dc1-23fc-4815-a6a3-67272b6b3b90.html",
-     "time": "2026-10-21T16:21:20Z"
-    },
-    {
-     "title": "Lo spread tra Btp e Bund chiude in rialzo a 115,7 punti base",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-1157-punti-base_6519bcec-0495-4ef5-af09-193cbc407e30.html",
-     "time": "2026-10-21T16:16:08Z"
-    },
-    {
-     "title": "Il Btp Valore e Insieme raccolgono in tre giorni circa 12,1 miliardi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/il-btp-valore-e-insieme-raccolgono-in-tre-giorni-circa-121-miliardi_4834528b-0270-4d3c-89f4-3d8ed804b73a.html",
-     "time": "2026-10-21T16:13:55Z"
-    },
-    {
-     "title": "Moncler, i ricavi salgono a 1,9 miliardi nei nove mesi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/moncler-i-ricavi-salgono-a-19-miliardi-nei-nove-mesi_cad91bba-f7c7-41a2-ab64-93d030cfa075.html",
-     "time": "2026-10-21T16:07:08Z"
     }
    ]
   },
@@ -215,9 +215,49 @@
    "countries": [],
    "items": [
     {
+     "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+     "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T22:02:18Z"
+    },
+    {
+     "title": "Japan is known for world-class events - but the Asian Games were chaotic",
+     "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T22:00:58Z"
+    },
+    {
      "title": "Meta fined $25bn for 'lies' over user data privacy",
      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T19:11:53Z"
+     "time": "2026-10-21T21:49:07Z"
+    },
+    {
+     "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T21:27:41Z"
+    },
+    {
+     "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+     "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T20:31:47Z"
+    },
+    {
+     "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+     "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T20:19:51Z"
+    },
+    {
+     "title": "Pope does not need further treatment after lung cancer surgery",
+     "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T20:09:10Z"
+    },
+    {
+     "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+     "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T19:58:06Z"
+    },
+    {
+     "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T19:29:40Z"
     },
     {
      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
@@ -230,49 +270,9 @@
      "time": "2026-10-21T18:10:42Z"
     },
     {
-     "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T17:42:34Z"
-    },
-    {
      "title": "Family of prison officer killed by IRA receives state apology",
      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-21T16:58:16Z"
-    },
-    {
-     "title": "Macron accuses foreign leaders of exploiting French riots",
-     "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T14:04:28Z"
-    },
-    {
-     "title": "Nigeria confirms Ebola case linked to East Africa",
-     "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T12:39:34Z"
-    },
-    {
-     "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-     "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T09:55:15Z"
-    },
-    {
-     "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T08:42:49Z"
-    },
-    {
-     "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-     "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T08:31:48Z"
-    },
-    {
-     "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-     "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T08:19:32Z"
-    },
-    {
-     "title": "Australian MP loses both legs after alleged car attack, husband says",
-     "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T07:56:30Z"
     }
    ]
   }
