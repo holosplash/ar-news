@@ -1,6 +1,6 @@
 {
- "version": 77,
- "updated": "2026-10-20T21:31:38Z",
+ "version": 78,
+ "updated": "2026-10-21T00:04:44Z",
  "fallback": "en",
  "regions": [
   {
@@ -17,7 +17,7 @@
     {
      "title": "Champions League: Stuttgart verpasst die Überraschung gegen Atletico",
      "url": "https://www.sportschau.de/fussball/championsleague/stuttgart-verpasst-die-dicke-ueberraschung,spielbericht-vfb-stuttgart-atletico-madrid-100.html",
-     "time": "2026-10-20T21:12:43Z"
+     "time": "2026-10-20T22:18:11Z"
     },
     {
      "title": "Champions League: Guirassy schießt BVB zum Arbeitssieg über Sabah FK",
@@ -85,6 +85,11 @@
    ],
    "items": [
     {
+     "title": "SpaceX und Tesla – Elon Musk: «Ich denke, eine Fusion wäre eine gute Idee»",
+     "url": "https://www.srf.ch/news/wirtschaft/spacex-und-tesla-elon-musk-ich-denke-eine-fusion-waere-eine-gute-idee",
+     "time": "2026-10-20T23:06:39Z"
+    },
+    {
      "title": "Champions League, 3. Spieltag – Kracher hält Versprechen: PSG schlägt Barça spektakulär 4:2",
      "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-3-spieltag-kracher-haelt-versprechen-psg-schlaegt-barca-spektakulaer-4-2",
      "time": "2026-10-20T21:22:34Z"
@@ -115,6 +120,11 @@
      "time": "2026-10-20T20:39:06Z"
     },
     {
+     "title": "– Friedensforscher: «Kurzfristige Betrachtung ist hochgefährlich»",
+     "url": "https://www.srf.ch/news/international/us-verhalten-gegenueber-ukraine-friedensforscher-kurzfristige-betrachtung-ist-hochgefaehrlich",
+     "time": "2026-10-20T20:39:06Z"
+    },
+    {
      "title": "Ständeratskommission – Schusswaffen sollen einfacher eingezogen werden können",
      "url": "https://www.srf.ch/news/schweiz/staenderatskommission-schusswaffen-sollen-einfacher-eingezogen-werden-koennen",
      "time": "2026-10-20T19:49:33Z"
@@ -133,16 +143,6 @@
      "title": "Nachfolge von Guy Parmelin – SVP-Asylchef Schmid nimmt sich aus Bundesratsrennen",
      "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-asylchef-schmid-nimmt-sich-aus-bundesratsrennen",
      "time": "2026-10-20T18:21:57Z"
-    },
-    {
-     "title": "Winterstrom-Lücke – Leere Stauseen: GLP-Präsident kritisiert Strombranche",
-     "url": "https://www.srf.ch/news/schweiz/winterstrom-luecke-leere-stauseen-glp-praesident-kritisiert-strombranche",
-     "time": "2026-10-20T18:19:41Z"
-    },
-    {
-     "title": "WFP-Länderdirektor im Gespräch – «Die Lage in Gaza ist dramatisch»",
-     "url": "https://www.srf.ch/news/international/wfp-laenderdirektor-im-gespraech-die-lage-in-gaza-ist-dramatisch",
-     "time": "2026-10-20T18:16:57Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Usa, Florida giustizia con iniezione letale un 77enne veterano del Vietnam",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/usa-florida-giustizia-con-iniezione-letale-un-77enne-veterano-del-vietnam_545787da-4ec4-4daa-9c4f-5a7a4f7e2681.html",
+     "time": "2026-10-20T23:58:11Z"
+    },
+    {
+     "title": "A Londra tutto esaurito e vip per il debutto del nuovo album di Cremonini",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/a-londra-tutto-esaurito-e-vip-per-il-debutto-del-nuovo-album-di-cremonini_ab2e9d21-5dfc-4432-84f5-a406396f970e.html",
+     "time": "2026-10-20T23:31:46Z"
+    },
     {
      "title": "Wsj, 'Musk ha ordinato il rallentamento di Starlink in Ucraina'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/wsj-musk-ha-ordinato-il-rallentamento-di-starlink-in-ucraina_1d759893-06ee-4481-be3c-32f2582374e1.html",
@@ -195,16 +205,6 @@
      "title": "Piantedosi, fermo preventivo esteso per azioni in luoghi affollati",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/piantedosi-fermo-preventivo-esteso-per-azioni-in-luoghi-affollati_7b5f732e-9e70-4dd8-88a4-4a34d5b94541.html",
      "time": "2026-10-20T18:01:01Z"
-    },
-    {
-     "title": "Scontri a Milano, per 11 minorenni comunità o domiciliari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/scontri-a-milano-per-11-minorenni-comunita-o-domiciliari_f5f11eb0-246b-4ce3-b902-223a3acb156a.html",
-     "time": "2026-10-20T17:58:49Z"
-    },
-    {
-     "title": "Media, 'Iran ha trascinato negoziati con gli Usa per indebolire Trump alle midterm'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/20/media-iran-ha-trascinato-negoziati-con-gli-usa-per-indebolire-trump_b5a6c441-0d65-4d12-9e44-33be19e1234a.html",
-     "time": "2026-10-20T17:42:11Z"
     }
    ]
   },
@@ -214,6 +214,31 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Borneo is burning - living on the frontline of Asia's toxic haze",
+     "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T23:51:43Z"
+    },
+    {
+     "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+     "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T23:41:30Z"
+    },
+    {
+     "title": "Elon Musk says Tesla-SpaceX merger being considered",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T23:24:47Z"
+    },
+    {
+     "title": "Is Donald Trump ready to do business with Myanmar?",
+     "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T23:21:39Z"
+    },
+    {
+     "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+     "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T22:22:17Z"
+    },
     {
      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
@@ -235,44 +260,19 @@
      "time": "2026-10-20T19:30:05Z"
     },
     {
+     "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+     "url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-20T19:08:06Z"
+    },
+    {
      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-20T17:30:15Z"
     },
     {
-     "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T16:59:06Z"
-    },
-    {
      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
      "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-20T15:58:57Z"
-    },
-    {
-     "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T14:09:42Z"
-    },
-    {
-     "title": "Huge setback for Alberta's separatist movement after decisive defeat",
-     "url": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T13:39:11Z"
-    },
-    {
-     "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-     "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T13:23:32Z"
-    },
-    {
-     "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-     "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T12:08:06Z"
-    },
-    {
-     "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-     "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-20T11:45:49Z"
     }
    ]
   }
