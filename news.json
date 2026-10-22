@@ -1,6 +1,6 @@
 {
- "version": 87,
- "updated": "2026-10-22T17:33:18Z",
+ "version": 88,
+ "updated": "2026-10-22T20:44:57Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Jetzt live - Jonas Hofmann mit Doppelschlag auf Kreta",
-     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520185/ofi-heraklion_bayer-leverkusen/liveticker",
-     "time": "2026-10-22T17:03:29Z"
+     "title": "Jetzt live - Freiburg läuft seit Brunners Tor hinterher",
+     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520653/as-monaco_sc-freiburg/liveticker",
+     "time": "2026-10-22T20:33:39Z"
     },
     {
-     "title": "Marktbericht: DAX fällt wieder zurück",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-     "time": "2026-10-22T16:36:57Z"
+     "title": "Jetzt live - Hoffenheim ist gegen Lyon auf der Siegerstraße",
+     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520275/tsg-hoffenheim_olympique-lyon/liveticker",
+     "time": "2026-10-22T20:33:03Z"
     },
     {
-     "title": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
-     "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
-     "time": "2026-10-22T16:35:29Z"
+     "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
+     "time": "2026-10-22T19:48:35Z"
     },
     {
-     "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html",
-     "time": "2026-10-22T16:27:55Z"
+     "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
+     "url": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
+     "time": "2026-10-22T19:34:07Z"
     },
     {
-     "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
-     "time": "2026-10-22T15:54:20Z"
+     "title": "Hofmann nutzt seine Chance - Bayer Leverkusen gewinnt gegen OFI Kreta",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-hofmann-schiesst-leverkusen-zum-sieg-auf-kreta-100.html",
+     "time": "2026-10-22T19:06:00Z"
     },
     {
-     "title": "tagesschau in Einfacher Sprache",
-     "url": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1480.html",
-     "time": "2026-10-22T15:52:12Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81628.html",
+     "time": "2026-10-22T18:36:55Z"
     },
     {
-     "title": "Finanzminister Klingbeil sieht trotz Rekordsteuereinnahmen 2027 keinen Spielraum für Mehrausgaben",
-     "url": "https://www.tagesschau.de/video/video-1670762.html",
-     "time": "2026-10-22T15:25:15Z"
+     "title": "Viele Internetseiten sind nach IT-Sicherheitslücke immer noch \"vorübergehend nicht erreichbar\"",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1670928.html",
+     "time": "2026-10-22T18:35:39Z"
     },
     {
-     "title": "Anja Kohl, HR, zu den Auswrikung der Sicherheitslücke auf Unternehmen weltweit",
-     "url": "https://www.tagesschau.de/video/video-1670770.html",
-     "time": "2026-10-22T15:25:01Z"
+     "title": "Steuerschätzung für 2027 liegt bei Rekordhoch von über einer Billion Euro",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1670930.html",
+     "time": "2026-10-22T18:35:28Z"
     },
     {
-     "title": "Sicherheitslücke in Programmiersprache PHP sorgt weiterhin weltweit für Probleme",
-     "url": "https://www.tagesschau.de/video/video-1670766.html",
-     "time": "2026-10-22T15:23:16Z"
+     "title": "Festgenommener russische Spion sammelte Informationen über die Litauen-Brigade",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1670934.html",
+     "time": "2026-10-22T18:35:06Z"
     },
     {
-     "title": "Neues Plattenlabel von Igor Levit: \"Mein Leben ist No Silence\"",
-     "url": "https://www.tagesschau.de/kultur/musik-igor-levit-neues-plattenlabel-100.html",
-     "time": "2026-10-22T15:23:05Z"
-    },
-    {
-     "title": "UN-Artenschutzkonferenz - Wie effektiv sind Schutzgebiete?",
-     "url": "https://www.tagesschau.de/wissen/tiere/un-artenschutzkonferenz-armenien-100.html",
-     "time": "2026-10-22T15:02:41Z"
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12328.html",
+     "time": "2026-10-22T18:34:57Z"
     },
     {
      "title": "Landtag Sachsen-Anhalt: CDU-Politiker will bei Siegmund-Wahl im Saal bleiben",
      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-afd-ministerpraesidentenwahl-heuer,heuer-cdu-100.html",
-     "time": "2026-10-22T14:48:56Z"
+     "time": "2026-10-22T18:13:18Z"
+    },
+    {
+     "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
+     "url": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
+     "time": "2026-10-22T18:12:49Z"
     }
    ]
   },
@@ -85,14 +85,49 @@
    ],
    "items": [
     {
+     "title": "Abtreibungsgesetze in Polen – Demonstrationen in Polen für liberales Abtreibungsrecht",
+     "url": "https://www.srf.ch/news/international/abtreibungsgesetze-in-polen-demonstrationen-in-polen-fuer-liberales-abtreibungsrecht",
+     "time": "2026-10-22T20:09:47Z"
+    },
+    {
+     "title": "Kunstturn-WM: Mehrkampffinal – Seifert in den Top 10 – Gold geht erneut an Hashimoto",
+     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-mehrkampffinal-seifert-in-den-top-10-gold-geht-erneut-an-hashimoto",
+     "time": "2026-10-22T20:03:57Z"
+    },
+    {
+     "title": "Weltcup-Comeback in Sölden – Vlhovas Albtraum soll nach 1008 Tagen enden",
+     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/weltcup-comeback-in-soelden-vlhovas-albtraum-soll-nach-1008-tagen-enden",
+     "time": "2026-10-22T19:16:20Z"
+    },
+    {
+     "title": "Vor dem Saisonstart in Sölden – Camille Rast: Neue Saison, neuer Trainer – neues Glück?",
+     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/vor-dem-saisonstart-in-soelden-camille-rast-neue-saison-neuer-trainer-neues-glueck",
+     "time": "2026-10-22T19:15:09Z"
+    },
+    {
+     "title": "Nachfolge von Guy Parmelin – Bundesratswahl: Marco Chiesa und Pierre Alain Schnegg kandidieren",
+     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-bundesratswahl-marco-chiesa-und-pierre-alain-schnegg-kandidieren",
+     "time": "2026-10-22T18:50:03Z"
+    },
+    {
+     "title": "5:2-Sieg in Conference League – Trotz grobem Fehlstart: Lugano fertigt auch Getafe ab",
+     "url": "https://www.srf.ch/sport/fussball/conference-league/5-2-sieg-in-conference-league-trotz-grobem-fehlstart-lugano-fertigt-auch-getafe-ab",
+     "time": "2026-10-22T18:45:33Z"
+    },
+    {
+     "title": "LKW-Demo in Italien – Staatliche Finanzhilfe soll Proteste in Italien eindämmen",
+     "url": "https://www.srf.ch/news/international/lkw-demo-in-italien-staatliche-finanzhilfe-soll-proteste-in-italien-eindaemmen",
+     "time": "2026-10-22T18:19:38Z"
+    },
+    {
+     "title": "Umbau von Nestlé – Wie weit wird Nestlé die Preise noch erhöhen, Philipp Navratil?",
+     "url": "https://www.srf.ch/news/wirtschaft/umbau-von-nestle-wie-weit-wird-nestle-die-preise-noch-erhoehen-philipp-navratil",
+     "time": "2026-10-22T18:06:06Z"
+    },
+    {
      "title": "Krieg in der Ukraine – Familien mit Kindern müssen Donbass-Städte verlassen",
      "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-familien-mit-kindern-muessen-donbass-staedte-verlassen",
      "time": "2026-10-22T17:24:24Z"
-    },
-    {
-     "title": "Kandidatur für den Bundesrat – Bundesrat: Tessiner Ständerat Marco Chiesa steht zur Verfügung",
-     "url": "https://www.srf.ch/news/schweiz/kandidatur-fuer-den-bundesrat-bundesrat-tessiner-staenderat-marco-chiesa-steht-zur-verfuegung",
-     "time": "2026-10-22T17:06:25Z"
     },
     {
      "title": "Eine unheilige Allianz – Grossmächte könnten Ukraine in die Knie zwingen",
@@ -108,41 +143,6 @@
      "title": "Weitere Bundesratskandidatur – Pierre Alain Schnegg will Bundesrat werden",
      "url": "https://www.srf.ch/news/schweiz/weitere-bundesratskandidatur-pierre-alain-schnegg-will-bundesrat-werden",
      "time": "2026-10-22T16:48:06Z"
-    },
-    {
-     "title": "Preis für geistige Freiheit – EU-Parlament ehrt den Internationalen Strafgerichtshof",
-     "url": "https://www.srf.ch/news/international/preis-fuer-geistige-freiheit-eu-parlament-ehrt-den-internationalen-strafgerichtshof",
-     "time": "2026-10-22T16:47:35Z"
-    },
-    {
-     "title": "Störung bei der Inselgruppe – Nach Ausfall: Spitalpersonal griff zu Bleistift und Papier",
-     "url": "https://www.srf.ch/news/schweiz/stoerung-bei-der-inselgruppe-nach-ausfall-spitalpersonal-griff-zu-bleistift-und-papier",
-     "time": "2026-10-22T15:33:34Z"
-    },
-    {
-     "title": "Musical Theater Basel – Neuer Veranstalter: Ein Hauch von Broadway im Kleinbasel?",
-     "url": "https://www.srf.ch/news/schweiz/musical-theater-basel-neuer-veranstalter-ein-hauch-von-broadway-im-kleinbasel",
-     "time": "2026-10-22T15:26:39Z"
-    },
-    {
-     "title": "Sturmtief «Austen» – Am Freitag und Wochenende kommt starker Wind auf",
-     "url": "https://www.srf.ch/meteo/meteo-stories/sturmtief-austen-am-freitag-und-wochenende-kommt-starker-wind-auf",
-     "time": "2026-10-22T15:15:28Z"
-    },
-    {
-     "title": "PHP-Schwachstellen – Was bedeutet die Sicherheitslücke für User?",
-     "url": "https://www.srf.ch/news/gesellschaft/php-schwachstellen-was-bedeutet-die-sicherheitsluecke-fuer-user",
-     "time": "2026-10-22T14:51:34Z"
-    },
-    {
-     "title": "Neu im Kino – «Frank & Louis»: Schweizer Blick in ein amerikanisches Gefängnis",
-     "url": "https://www.srf.ch/kultur/film-serien/neu-im-kino-frank-louis-schweizer-blick-in-ein-amerikanisches-gefaengnis",
-     "time": "2026-10-22T14:33:37Z"
-    },
-    {
-     "title": "Cyber-Schwachstelle bei PHP – Erste Schadensbilanz: Über 100'000 Schweizer Webseiten offline",
-     "url": "https://www.srf.ch/news/schweiz/cyber-schwachstelle-bei-php-erste-schadensbilanz-ueber-100-000-schweizer-webseiten-offline",
-     "time": "2026-10-22T14:15:55Z"
     }
    ]
   },
@@ -157,6 +157,46 @@
    ],
    "items": [
     {
+     "title": "Putin, Russia e Ucraina possono raggiungere un accordo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/putin-russia-e-ucraina-possono-raggiungere-un-accordo_8a174fbf-e84d-4806-a638-cbf73a282528.html",
+     "time": "2026-10-22T19:34:15Z"
+    },
+    {
+     "title": "Putin, colloqui trilaterali dovrebbero riguardare garanzie sicurezza anche per Mosca",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/putin-colloqui-trilaterali-dovrebbero-riguardare-garanzie-sicurezza-anche-per-mosca_7ab86e0f-6691-45db-b30c-632cc8665247.html",
+     "time": "2026-10-22T19:16:10Z"
+    },
+    {
+     "title": "Putin, i territori nell'Ucraina orientale sono 'terre storicamente russe'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/putin-i-territori-nellucraina-orientale-sono-terre-storicamente-russe_7ad8a59b-e497-4803-befa-f84a58662064.html",
+     "time": "2026-10-22T19:14:45Z"
+    },
+    {
+     "title": "Fonti, a vertice su manovra ampio spazio a prospettive e misure giovani",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/fonti-a-vertice-su-manovra-ampio-spazio-a-prospettive-e-misure-giovani_87983c7b-7f4c-425f-9a72-a11cfb7e07cf.html",
+     "time": "2026-10-22T18:57:49Z"
+    },
+    {
+     "title": "Wsj, 'Trump ha chiamato Musk per rimuovere le restrizioni a Starlink per l'Ucraina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/wsj-trump-ha-chiamato-musk-per-rimuovere-le-restrizioni-a-starlink-per-lucraina_f98360bb-b7d3-44ee-98e1-66f48ecd1f00.html",
+     "time": "2026-10-22T18:20:47Z"
+    },
+    {
+     "title": "Farnesina, attiviste italiane fermate in Cisgiordania, chiesti chiarimenti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/farnesina-attiviste-italiane-fermate-in-cisgiordania-chiesti-chiarimenti_5d3610cd-b2a2-4157-9cb8-5161ad102a8d.html",
+     "time": "2026-10-22T17:36:44Z"
+    },
+    {
+     "title": "Kering, ricavi stabili ma soffre ancora Gucci",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/kering-ricavi-stabili-ma-soffre-ancora-gucci_ba056d17-3073-425e-b391-ecb97ad634a2.html",
+     "time": "2026-10-22T17:23:23Z"
+    },
+    {
+     "title": "Giudice ordina a Trump di deporre entro l'11 dicembre nella causa contro la Bbc",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/giudice-ordina-a-trump-di-deporre-entro-l11-dicembre-nella-causa-contro_feeea33e-d057-4d03-b4ab-1cd5eb6a7257.html",
+     "time": "2026-10-22T17:17:16Z"
+    },
+    {
      "title": "Carte Pokémon da record, pensionato inglese le vende all'asta e diventa milionario",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/carte-pokemon-da-record-pensionato-inglese-le-vende-allasta-e-diventa-milionario_e6ba88be-0b3c-4e6f-b48a-0b8acae7b413.html",
      "time": "2026-10-22T17:03:08Z"
@@ -165,46 +205,6 @@
      "title": "Scontri Milano, tre minori in carcere e 21 tra domiciliari e comunità",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/scontri-milano-tre-minori-in-carcere-e-21-tra-domiciliari-e-comunita_e5476f4e-96fb-4ac5-b0a7-4d02b0d4efec.html",
      "time": "2026-10-22T16:53:06Z"
-    },
-    {
-     "title": "Il prezzo del gas viaggia oltre i 90 euro al megawattora",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/il-prezzo-del-gas-viaggia-oltre-i-90-euro-al-megawattora_ae705590-c833-4e43-b6a5-d147fad01d74.html",
-     "time": "2026-10-22T16:47:45Z"
-    },
-    {
-     "title": "Trump attacca LeBron James, ha mancato di rispetto all'inno Usa, una vergogna",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/trump-attacca-lebron-james-ha-mancato-di-rispetto-allinno-usa-una-vergogna_57e344cc-2156-4f26-bc64-eb8505a6d760.html",
-     "time": "2026-10-22T16:45:30Z"
-    },
-    {
-     "title": "Forte terremoto di magnitudo 7 colpisce il Tibet",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/forte-terremoto-di-magnitudo-7-colpisce-il-tibet_8eeed620-25d6-4982-b138-5d56a295fa0f.html",
-     "time": "2026-10-22T16:43:49Z"
-    },
-    {
-     "title": "Lo spread tra Btp e Bund chiude in rialzo a 124 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-124-punti_8d4c4784-914f-41b3-a16d-cf6f35f3c517.html",
-     "time": "2026-10-22T16:30:41Z"
-    },
-    {
-     "title": "Il Comune di Ferrara lancia il 'Nucleo anti maranza'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/il-comune-di-ferrara-lancia-il-nucleo-anti-maranza_d04f2296-0d58-4dbd-9b21-1b3360b2ef37.html",
-     "time": "2026-10-22T16:10:45Z"
-    },
-    {
-     "title": "Visita di re Carlo ai Caraibi, dal Commonwealth esortazione a scuse su schiavitù",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/visita-di-re-carlo-ai-caraibi-dal-commonwealth-esortazione-a-scuse-su-schiavitu_057db519-89b8-4273-9dc2-0b5338825165.html",
-     "time": "2026-10-22T15:56:54Z"
-    },
-    {
-     "title": "Borsa: l'Europa chiude in calo, pesano i timori per l'Ia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/borsa-leuropa-chiude-in-calo-pesano-i-timori-per-lia_34d4293f-6188-4174-ba92-21c2860cc556.html",
-     "time": "2026-10-22T15:47:49Z"
-    },
-    {
-     "title": "Borsa: Milano chiude in forte calo del 2,54%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/borsa-milano-chiude-in-forte-calo-del-254_c320e2b4-db72-4649-9a71-96569f5788d3.html",
-     "time": "2026-10-22T15:44:30Z"
     }
    ]
   },
@@ -214,6 +214,31 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "New York City ends a classic attraction: Horse-drawn carriages banned over safety and abuse concerns",
+     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T20:40:25Z"
+    },
+    {
+     "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+     "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T19:27:57Z"
+    },
+    {
+     "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+     "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T19:25:26Z"
+    },
+    {
+     "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+     "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T18:26:56Z"
+    },
+    {
+     "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+     "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T17:49:13Z"
+    },
     {
      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
      "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
@@ -245,34 +270,9 @@
      "time": "2026-10-22T17:01:47Z"
     },
     {
-     "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-     "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T16:40:07Z"
-    },
-    {
-     "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-     "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T16:16:49Z"
-    },
-    {
      "title": "Crowd of 50 beats foreigner to death in South Africa",
      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-22T16:15:25Z"
-    },
-    {
-     "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-     "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T15:56:36Z"
-    },
-    {
-     "title": "French weekend protests to be limited to union demos only, says Macron",
-     "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T15:22:48Z"
-    },
-    {
-     "title": "Damaging hail pelts Phoenix in rare storm",
-     "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T15:11:49Z"
     }
    ]
   }
