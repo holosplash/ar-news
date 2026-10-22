@@ -1,6 +1,6 @@
 {
- "version": 88,
- "updated": "2026-10-22T20:44:57Z",
+ "version": 89,
+ "updated": "2026-10-22T23:57:04Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,14 +15,34 @@
    ],
    "items": [
     {
-     "title": "Jetzt live - Freiburg läuft seit Brunners Tor hinterher",
-     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520653/as-monaco_sc-freiburg/liveticker",
-     "time": "2026-10-22T20:33:39Z"
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12936.html",
+     "time": "2026-10-22T21:28:13Z"
     },
     {
-     "title": "Jetzt live - Hoffenheim ist gegen Lyon auf der Siegerstraße",
-     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520275/tsg-hoffenheim_olympique-lyon/liveticker",
-     "time": "2026-10-22T20:33:03Z"
+     "title": "Nach Brunners Traumtor: Freiburg verliert in Monaco",
+     "url": "https://www.sportschau.de/regional/swr/swr-brunner-knackt-den-sc-freiburg-verliert-bei-der-as-monaco-100.html",
+     "time": "2026-10-22T21:20:54Z"
+    },
+    {
+     "title": "Hoffenheim gewinnt mit 3:0 gegen Lyon",
+     "url": "https://www.sportschau.de/regional/swr/swr-deutlicher-sieg-hoffenheim-schlaegt-olympique-lyon-100.html",
+     "time": "2026-10-22T21:16:24Z"
+    },
+    {
+     "title": "Holger Schmidt, SWR, zum Ausmaß russischer Spionage in Deutschland",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1670980.html",
+     "time": "2026-10-22T21:01:07Z"
+    },
+    {
+     "title": "Steuerschätzung für 2027 liegt bei Rekordhöhe von einer Billion Euro",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1670978.html",
+     "time": "2026-10-22T20:58:41Z"
+    },
+    {
+     "title": "Sicherheitslücke der Programmiersprache PHP führt weltweit zu Problemen",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1670976.html",
+     "time": "2026-10-22T20:51:38Z"
     },
     {
      "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
@@ -45,21 +65,6 @@
      "time": "2026-10-22T18:36:55Z"
     },
     {
-     "title": "Viele Internetseiten sind nach IT-Sicherheitslücke immer noch \"vorübergehend nicht erreichbar\"",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1670928.html",
-     "time": "2026-10-22T18:35:39Z"
-    },
-    {
-     "title": "Steuerschätzung für 2027 liegt bei Rekordhoch von über einer Billion Euro",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1670930.html",
-     "time": "2026-10-22T18:35:28Z"
-    },
-    {
-     "title": "Festgenommener russische Spion sammelte Informationen über die Litauen-Brigade",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1670934.html",
-     "time": "2026-10-22T18:35:06Z"
-    },
-    {
      "title": "tagesschau mit Gebärdensprache",
      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12328.html",
      "time": "2026-10-22T18:34:57Z"
@@ -68,11 +73,6 @@
      "title": "Landtag Sachsen-Anhalt: CDU-Politiker will bei Siegmund-Wahl im Saal bleiben",
      "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-afd-ministerpraesidentenwahl-heuer,heuer-cdu-100.html",
      "time": "2026-10-22T18:13:18Z"
-    },
-    {
-     "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
-     "url": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
-     "time": "2026-10-22T18:12:49Z"
     }
    ]
   },
@@ -84,6 +84,16 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Ex-Polizeichef von Guatemala – Bundesgericht bestätigt Freiheitsstrafe für Erwin Sperisen",
+     "url": "https://www.srf.ch/news/international/ex-polizeichef-von-guatemala-bundesgericht-bestaetigt-freiheitsstrafe-fuer-erwin-sperisen",
+     "time": "2026-10-22T21:43:24Z"
+    },
+    {
+     "title": "2. Runde in Conference League – Thun wird für eine passive Startphase hart bestraft",
+     "url": "https://www.srf.ch/sport/fussball/conference-league/2-runde-in-conference-league-thun-wird-fuer-eine-passive-startphase-hart-bestraft",
+     "time": "2026-10-22T21:06:07Z"
+    },
     {
      "title": "Abtreibungsgesetze in Polen – Demonstrationen in Polen für liberales Abtreibungsrecht",
      "url": "https://www.srf.ch/news/international/abtreibungsgesetze-in-polen-demonstrationen-in-polen-fuer-liberales-abtreibungsrecht",
@@ -133,16 +143,6 @@
      "title": "Eine unheilige Allianz – Grossmächte könnten Ukraine in die Knie zwingen",
      "url": "https://www.srf.ch/news/international/eine-unheilige-allianz-grossmaechte-koennten-ukraine-in-die-knie-zwingen",
      "time": "2026-10-22T17:01:25Z"
-    },
-    {
-     "title": "Luxusuhren-Manufaktur – Zenith will in Le Locle NE jede zweite Stelle streichen",
-     "url": "https://www.srf.ch/news/wirtschaft/luxusuhren-manufaktur-zenith-will-in-le-locle-ne-jede-zweite-stelle-streichen",
-     "time": "2026-10-22T16:56:45Z"
-    },
-    {
-     "title": "Weitere Bundesratskandidatur – Pierre Alain Schnegg will Bundesrat werden",
-     "url": "https://www.srf.ch/news/schweiz/weitere-bundesratskandidatur-pierre-alain-schnegg-will-bundesrat-werden",
-     "time": "2026-10-22T16:48:06Z"
     }
    ]
   },
@@ -156,6 +156,11 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Autotrasporto: il Garante degli scioperi chiede la precettazione",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/autotrasporto-il-garante-degli-scioperi-chiede-la-precettazione_e4b778ed-6e52-4fe4-803f-9327d22b604c.html",
+     "time": "2026-10-22T20:51:22Z"
+    },
     {
      "title": "Putin, Russia e Ucraina possono raggiungere un accordo",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/putin-russia-e-ucraina-possono-raggiungere-un-accordo_8a174fbf-e84d-4806-a638-cbf73a282528.html",
@@ -200,11 +205,6 @@
      "title": "Carte Pokémon da record, pensionato inglese le vende all'asta e diventa milionario",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/carte-pokemon-da-record-pensionato-inglese-le-vende-allasta-e-diventa-milionario_e6ba88be-0b3c-4e6f-b48a-0b8acae7b413.html",
      "time": "2026-10-22T17:03:08Z"
-    },
-    {
-     "title": "Scontri Milano, tre minori in carcere e 21 tra domiciliari e comunità",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/scontri-milano-tre-minori-in-carcere-e-21-tra-domiciliari-e-comunita_e5476f4e-96fb-4ac5-b0a7-4d02b0d4efec.html",
-     "time": "2026-10-22T16:53:06Z"
     }
    ]
   },
@@ -215,9 +215,34 @@
    "countries": [],
    "items": [
     {
-     "title": "New York City ends a classic attraction: Horse-drawn carriages banned over safety and abuse concerns",
+     "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T23:22:45Z"
+    },
+    {
+     "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+     "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T23:16:20Z"
+    },
+    {
+     "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+     "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T23:16:16Z"
+    },
+    {
+     "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+     "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T22:27:53Z"
+    },
+    {
+     "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+     "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T21:42:39Z"
+    },
+    {
+     "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
      "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T20:40:25Z"
+     "time": "2026-10-22T20:49:12Z"
     },
     {
      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
@@ -248,31 +273,6 @@
      "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
      "url": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-22T17:18:17Z"
-    },
-    {
-     "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T17:14:04Z"
-    },
-    {
-     "title": "Race to update services' computer systems after cyber-security flaw found",
-     "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T17:12:51Z"
-    },
-    {
-     "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-     "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T17:07:03Z"
-    },
-    {
-     "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-     "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T17:01:47Z"
-    },
-    {
-     "title": "Crowd of 50 beats foreigner to death in South Africa",
-     "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T16:15:25Z"
     }
    ]
   }
