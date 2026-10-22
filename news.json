@@ -1,6 +1,6 @@
 {
- "version": 83,
- "updated": "2026-10-21T22:39:37Z",
+ "version": 84,
+ "updated": "2026-10-22T01:26:02Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,8 +15,13 @@
    ],
    "items": [
     {
+     "title": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
+     "url": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
+     "time": "2026-10-22T00:05:26Z"
+    },
+    {
      "title": "Champions League: Bayern und Arsenal mit intensivem Unentschieden",
-     "url": "https://www.sportschau.de/fussball/championsleague/bayern-starten-mit-gnabry-und-bischof-gegen-arsenal,spielbericht-fc-bayern-fc-arsenal-100.html",
+     "url": "https://www.sportschau.de/fussball/championsleague/vier-tore-kein-sieger-remis-zwischen-bayern-und-arsenal,spielbericht-fc-bayern-fc-arsenal-100.html",
      "time": "2026-10-21T22:13:20Z"
     },
     {
@@ -68,11 +73,6 @@
      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
      "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
      "time": "2026-10-21T17:48:20Z"
-    },
-    {
-     "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
-     "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-     "time": "2026-10-21T17:32:26Z"
     }
    ]
   },
@@ -130,11 +130,6 @@
      "time": "2026-10-21T18:09:35Z"
     },
     {
-     "title": "– Rémy Wyssmann will SVP-Bundesrat werden",
-     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-remy-wyssmann-will-svp-bundesrat-werden",
-     "time": "2026-10-21T18:09:23Z"
-    },
-    {
      "title": "Nachfolge von Guy Parmelin – Rémy Wyssmann will SVP-Bundesrat werden",
      "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-remy-wyssmann-will-svp-bundesrat-werden",
      "time": "2026-10-21T18:09:23Z"
@@ -143,6 +138,11 @@
      "title": "Veto des Erprinzen – Schwangerschaftsabbrüche bleiben in Liechtenstein verboten",
      "url": "https://www.srf.ch/news/international/veto-des-erprinzen-schwangerschaftsabbrueche-bleiben-in-liechtenstein-verboten",
      "time": "2026-10-21T18:00:38Z"
+    },
+    {
+     "title": "Bundesstaat New Mexico – US-Richter verhängt Milliardenstrafe für Meta",
+     "url": "https://www.srf.ch/news/wirtschaft/bundesstaat-new-mexico-us-richter-verhaengt-milliardenstrafe-fuer-meta",
+     "time": "2026-10-21T17:58:03Z"
     }
    ]
   },
@@ -156,6 +156,26 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Brasile, ordinato l'arresto di ex militare uruguaiano condannato in Italia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/brasile-ordinato-larresto-di-ex-militare-uruguaiano-condannato-in-italia_fbfe281d-9f96-4592-9d6e-a9066e4912ac.html",
+     "time": "2026-10-21T23:58:49Z"
+    },
+    {
+     "title": "Attacco ucraino con droni sulla città russa di Lipetsk",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/attacco-ucraino-con-droni-sulla-citta-russa-di-lipetsk_5b1e7f74-7b44-4ab4-aca2-63b6e8d0f72c.html",
+     "time": "2026-10-21T23:56:27Z"
+    },
+    {
+     "title": "Trump contestato anche in South Carolina, 'manifestanti pagati'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/trump-contestato-anche-in-south-carolina-manifestanti-pagati_50d5f66f-3fe0-4f2f-adab-324f0dfbd35d.html",
+     "time": "2026-10-21T23:48:58Z"
+    },
+    {
+     "title": "Attacco su aeroporto in Arabia Saudita, un morto e otto feriti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/attacco-su-aeroporto-in-arabia-saudita-un-morto-e-otto-feriti_8f9d7107-4fd7-4c01-8d2c-21ed0b5f5208.html",
+     "time": "2026-10-21T22:41:14Z"
+    },
     {
      "title": "Trump difende Witkoff per aver chiamato Putin compassionevole",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/trump-difende-witkoff-per-aver-chiamato-putin-compassionevole_c250406d-97db-4e20-a6d6-664601724079.html",
@@ -185,26 +205,6 @@
      "title": "Tajani ai suoi, verso taglio Irpef in due tempi, in manovra fino a 55mila euro",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/tajani-ai-suoi-verso-taglio-irpef-in-due-tempi-in-manovra-fino-a-55mila_cc44d961-f0fa-45db-b788-f0fd49424e18.html",
      "time": "2026-10-21T18:56:40Z"
-    },
-    {
-     "title": "Zelensky, 'favorevoli a incontro trilaterale il prima possibile'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/zelensky-favorevoli-a-incontro-trilaterale-il-prima-possibile_a0cb8ff7-472c-4454-ad4d-147e251a22fc.html",
-     "time": "2026-10-21T18:45:11Z"
-    },
-    {
-     "title": "Il petrolio chiude in calo a New York a 97,15 dollari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/il-petrolio-chiude-in-calo-a-new-york-a-9715-dollari_04257fd4-6e0b-4344-8a9d-1be5bf142822.html",
-     "time": "2026-10-21T18:44:20Z"
-    },
-    {
-     "title": "Meta condannata in New Mexico a pagare 25 miliardi per la privacy",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/meta-condannata-in-new-mexico-a-pagare-25-miliardi-per-la-privacy_cf06ff0a-9e28-4537-ba7e-3d64f96275c1.html",
-     "time": "2026-10-21T18:40:20Z"
-    },
-    {
-     "title": "Il prezzo del gas viaggia in rialzo a 86,6 euro, lente resta su Hormuz",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/il-prezzo-del-gas-viaggia-in-rialzo-a-866-euro-lente-resta-su-hormuz_fddb84e8-d1f9-4c5e-8f64-d05349e3f922.html",
-     "time": "2026-10-21T16:45:27Z"
     }
    ]
   },
@@ -214,6 +214,26 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "The real reasons US politicians are getting older",
+     "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T23:52:12Z"
+    },
+    {
+     "title": "Trump's green card curbs test Indian tech workers' American dream",
+     "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T23:06:37Z"
+    },
+    {
+     "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T23:04:03Z"
+    },
+    {
+     "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+     "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T22:59:18Z"
+    },
     {
      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
@@ -253,26 +273,6 @@
      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-21T19:58:06Z"
-    },
-    {
-     "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T19:29:40Z"
-    },
-    {
-     "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-     "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T18:22:28Z"
-    },
-    {
-     "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-     "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T18:10:42Z"
-    },
-    {
-     "title": "Family of prison officer killed by IRA receives state apology",
-     "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T16:58:16Z"
     }
    ]
   }
