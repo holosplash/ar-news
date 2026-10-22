@@ -1,6 +1,6 @@
 {
- "version": 84,
- "updated": "2026-10-22T01:26:02Z",
+ "version": 85,
+ "updated": "2026-10-22T06:32:08Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,54 @@
    ],
    "items": [
     {
+     "title": "Ausstellung \"Haie. Die Wächter des Ozeans\", \"Art Basel Paris\", Bambusschaukel zum Dashain-Fest",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10520.html",
+     "time": "2026-10-22T06:21:10Z"
+    },
+    {
+     "title": "11KM-Podcast: Deutschlands riskante KI-Strategie",
+     "url": "https://www.tagesschau.de/podcast-11km-deutschland-ki-rechenzentren-100.html",
+     "time": "2026-10-22T05:34:38Z"
+    },
+    {
+     "title": "15-Minuten-Podcast: PHP-Sicherheitslücke, Ermittlungen gegen Booking.com, Diebe auf Friedhöfen",
+     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15minuten-php-bookingcom-diebstahl-friedhof-100.html",
+     "time": "2026-10-22T05:34:13Z"
+    },
+    {
+     "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
+     "time": "2026-10-22T05:25:41Z"
+    },
+    {
+     "title": "Marktbericht: Tech-Bilanzen schieben den DAX nicht weiter an",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+     "time": "2026-10-22T05:24:19Z"
+    },
+    {
+     "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
+     "time": "2026-10-22T05:03:31Z"
+    },
+    {
+     "title": "Auch Republikaner kritisieren Trumps Ukraine-Kurs",
+     "url": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html",
+     "time": "2026-10-22T05:03:03Z"
+    },
+    {
+     "title": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
+     "url": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
+     "time": "2026-10-22T03:30:26Z"
+    },
+    {
      "title": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
      "url": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
-     "time": "2026-10-22T00:05:26Z"
+     "time": "2026-10-22T03:13:31Z"
+    },
+    {
+     "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
+     "url": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html",
+     "time": "2026-10-22T03:05:08Z"
     },
     {
      "title": "Champions League: Bayern und Arsenal mit intensivem Unentschieden",
@@ -28,51 +73,6 @@
      "title": "Am Ende deutlich - Leipzig unterliegt Real Madrid",
      "url": "https://www.sportschau.de/fussball/championsleague/am-ende-deutlich-leipzig-unterliegt-real-madrid,spielbericht-real-madrid-rb-leipzig-100.html",
      "time": "2026-10-21T21:36:49Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12928.html",
-     "time": "2026-10-21T21:35:48Z"
-    },
-    {
-     "title": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
-     "url": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
-     "time": "2026-10-21T21:02:37Z"
-    },
-    {
-     "title": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
-     "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
-     "time": "2026-10-21T21:02:08Z"
-    },
-    {
-     "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-     "url": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
-     "time": "2026-10-21T20:47:20Z"
-    },
-    {
-     "title": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
-     "url": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
-     "time": "2026-10-21T20:47:10Z"
-    },
-    {
-     "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
-     "time": "2026-10-21T18:54:59Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12320.html",
-     "time": "2026-10-21T18:47:56Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81554.html",
-     "time": "2026-10-21T18:44:00Z"
-    },
-    {
-     "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-     "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
-     "time": "2026-10-21T17:48:20Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Out in der Champions League – Kriens-Luzern schrammt gegen Kielce an Sensation vorbei",
-     "url": "https://www.srf.ch/sport/mehr-sport/handball/out-in-der-champions-league-kriens-luzern-schrammt-gegen-kielce-an-sensation-vorbei",
-     "time": "2026-10-21T21:25:11Z"
+     "title": "Schau «Modernismo tropical» – Seine Gärten waren ein Statement gegen den Kolonialismus",
+     "url": "https://www.srf.ch/kultur/kunst/schau-modernismo-tropical-seine-gaerten-waren-ein-statement-gegen-den-kolonialismus",
+     "time": "2026-10-22T06:10:04Z"
     },
     {
-     "title": "Champions League: Round-up – Real Madrid wahrt weisse Weste – Como nimmt ManUnited auseinander",
-     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-real-madrid-wahrt-weisse-weste-como-nimmt-manunited-auseinander",
-     "time": "2026-10-21T21:01:39Z"
+     "title": "Sicherheitslücke bei PHP – Private Server-Betreiber sollten jetzt rasch handeln",
+     "url": "https://www.srf.ch/news/wirtschaft/sicherheitsluecke-bei-php-private-server-betreiber-sollten-jetzt-rasch-handeln",
+     "time": "2026-10-22T06:00:07Z"
     },
     {
-     "title": "Champions League – Dank Rice-Effort: Arsenal ringt den Bayern ein Remis ab",
-     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-dank-rice-effort-arsenal-ringt-den-bayern-ein-remis-ab",
-     "time": "2026-10-21T20:54:24Z"
+     "title": "Undercover im Wettlokal – Millionenumsätze: Das grosse Geschäft mit illegalen Sportwetten",
+     "url": "https://www.srf.ch/sendungen/dok/undercover-im-wettlokal-millionenumsaetze-das-grosse-geschaeft-mit-illegalen-sportwetten",
+     "time": "2026-10-22T05:53:18Z"
     },
     {
-     "title": "Kunstturn-WM in Rotterdam – Neue Zeitrechnung: China schlägt die USA im Teamfinal",
-     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-in-rotterdam-neue-zeitrechnung-china-schlaegt-die-usa-im-teamfinal",
-     "time": "2026-10-21T20:03:01Z"
+     "title": "Unruhen in Frankreich – Lecornu ruft politische Parteien zu Beratungen zusammen",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-lecornu-ruft-politische-parteien-zu-beratungen-zusammen",
+     "time": "2026-10-22T05:48:25Z"
     },
     {
-     "title": "Adenokarzinom entfernt – Krebs hat bei Papst Leo XIV. nicht gestreut",
-     "url": "https://www.srf.ch/news/international/adenokarzinom-entfernt-krebs-hat-bei-papst-leo-xiv-nicht-gestreut",
-     "time": "2026-10-21T19:52:14Z"
+     "title": "In Libyen eingetroffen – Schweizer und österreichische Geisel aus Niger befreit",
+     "url": "https://www.srf.ch/news/international/in-libyen-eingetroffen-schweizer-und-oesterreichische-geisel-aus-niger-befreit",
+     "time": "2026-10-22T05:11:36Z"
     },
     {
-     "title": "Gewerkschaftsbund – «Eine AHV-Finanzierung über die Mehrwertsteuer ist gerecht»",
-     "url": "https://www.srf.ch/news/schweiz/gewerkschaftsbund-eine-ahv-finanzierung-ueber-die-mehrwertsteuer-ist-gerecht",
-     "time": "2026-10-21T18:57:39Z"
+     "title": "Mit Knie am Kopf getroffen – St. Louis gewinnt den Cup – doch Bürki landet im Spital",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/mit-knie-am-kopf-getroffen-st-louis-gewinnt-den-cup-doch-buerki-landet-im-spital",
+     "time": "2026-10-22T05:02:33Z"
     },
     {
-     "title": "Italien – Wegen Krawallen in Mailand: Meloni verschärft Strafrecht",
-     "url": "https://www.srf.ch/news/international/italien-wegen-krawallen-in-mailand-meloni-verschaerft-strafrecht",
-     "time": "2026-10-21T18:13:23Z"
+     "title": "Krieg in der Ukraine – Nach Gesprächen: Russland und Ukraine mit gegenseitigen Angriffen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-nach-gespraechen-russland-und-ukraine-mit-gegenseitigen-angriffen",
+     "time": "2026-10-22T04:03:36Z"
     },
     {
-     "title": "Nur weibliche Jockeys – Kuh-Grand-Prix am Flumserberg lockte Tausende an",
-     "url": "https://www.srf.ch/news/gesellschaft/nur-weibliche-jockeys-kuh-grand-prix-am-flumserberg-lockte-tausende-an",
-     "time": "2026-10-21T18:13:02Z"
+     "title": "Genfer Sudan-Gespräche – Kein Ausweg aus dem Blutvergiessen im Sudan",
+     "url": "https://www.srf.ch/news/international/genfer-sudan-gespraeche-kein-ausweg-aus-dem-blutvergiessen-im-sudan",
+     "time": "2026-10-22T03:58:30Z"
     },
     {
-     "title": "Unruhen in Frankreich – Macron warnt vor geplanten Demonstrationen am Samstag",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-macron-warnt-vor-geplanten-demonstrationen-am-samstag",
-     "time": "2026-10-21T18:09:35Z"
+     "title": "Gefährliche «Baller-Liquids» – Bunte Vape-Liquids beschäftigen Fachleute",
+     "url": "https://www.srf.ch/news/schweiz/gefaehrliche-baller-liquids-bunte-vape-liquids-beschaeftigen-fachleute",
+     "time": "2026-10-22T03:56:57Z"
     },
     {
-     "title": "Nachfolge von Guy Parmelin – Rémy Wyssmann will SVP-Bundesrat werden",
-     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-remy-wyssmann-will-svp-bundesrat-werden",
-     "time": "2026-10-21T18:09:23Z"
+     "title": "Aufruf der Juso Schweiz – Jugendstreik: International vernetzt und seit Sommer geplant",
+     "url": "https://www.srf.ch/news/schweiz/aufruf-der-juso-schweiz-jugendstreik-international-vernetzt-und-seit-sommer-geplant",
+     "time": "2026-10-22T03:55:35Z"
     },
     {
-     "title": "Veto des Erprinzen – Schwangerschaftsabbrüche bleiben in Liechtenstein verboten",
-     "url": "https://www.srf.ch/news/international/veto-des-erprinzen-schwangerschaftsabbrueche-bleiben-in-liechtenstein-verboten",
-     "time": "2026-10-21T18:00:38Z"
+     "title": "Q&A zur Lebenszufriedenheit – Warum wir oft unzufrieden sind, obwohl es uns gut geht",
+     "url": "https://www.srf.ch/news/srf-news-chats/q-a-zur-lebenszufriedenheit-warum-wir-oft-unzufrieden-sind-obwohl-es-uns-gut-geht",
+     "time": "2026-10-22T03:54:26Z"
     },
     {
-     "title": "Bundesstaat New Mexico – US-Richter verhängt Milliardenstrafe für Meta",
-     "url": "https://www.srf.ch/news/wirtschaft/bundesstaat-new-mexico-us-richter-verhaengt-milliardenstrafe-fuer-meta",
-     "time": "2026-10-21T17:58:03Z"
+     "title": "Unzuverlässige USA – Trumps Politik hilft den Russen im Krieg gegen die Ukraine",
+     "url": "https://www.srf.ch/news/international/ukraine/unzuverlaessige-usa-trumps-politik-hilft-den-russen-im-krieg-gegen-die-ukraine",
+     "time": "2026-10-22T03:53:56Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Borsa: Asia in rosso, nuova pressione sui tecnologici",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/borsa-asia-in-rosso-nuova-pressione-sui-tecnologici_245740d7-9088-4e68-a8bd-b2194f57d9f1.html",
+     "time": "2026-10-22T06:17:01Z"
+    },
+    {
+     "title": "Il prezzo del gas in rialzo sfiora gli 89 euro, conferma massimi da 2022",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/il-prezzo-del-gas-in-rialzo-sfiora-gli-89-euro-conferma-massimi-da-2022_7dfd96dd-952d-42be-bfae-bc28c8f51130.html",
+     "time": "2026-10-22T06:01:26Z"
+    },
+    {
+     "title": "Sindaco Mosca, 'nella notte oltre 600 droni lanciati contro la città'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/sindaco-mosca-nella-notte-oltre-600-droni-lanciati-contro-la-citta_cd051597-d946-4a99-81af-9223d8d1559d.html",
+     "time": "2026-10-22T01:46:14Z"
+    },
     {
      "title": "Brasile, ordinato l'arresto di ex militare uruguaiano condannato in Italia",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/brasile-ordinato-larresto-di-ex-militare-uruguaiano-condannato-in-italia_fbfe281d-9f96-4592-9d6e-a9066e4912ac.html",
@@ -190,21 +205,6 @@
      "title": "Trump, forse siamo più vicini che mai alla fine della guerra in Ucraina",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/trump-forse-siamo-piu-vicini-che-mai-alla-fine-della_1710ffd8-986c-4716-81fe-06d3f2503bb9.html",
      "time": "2026-10-21T19:22:25Z"
-    },
-    {
-     "title": "Riunione a Chigi con Meloni, Viminale garantirà i rifornimenti di prima necessità",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/riunione-a-chigi-con-meloni-viminale-garantira-i-rifornimenti-di-prima-necessita_b0d9c65e-77a6-4794-ba11-5a87b3742cd3.html",
-     "time": "2026-10-21T19:20:48Z"
-    },
-    {
-     "title": "L'ambasciata Usa ordina al personale e alle famiglie di lasciare l'Arabia Saudita",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/lambasciata-usa-ordina-al-personale-e-alle-famiglie-di-lasciare-larabia-saudita_6465d3ea-d7f2-486b-8ae0-6e3658bc9dc2.html",
-     "time": "2026-10-21T19:19:00Z"
-    },
-    {
-     "title": "Tajani ai suoi, verso taglio Irpef in due tempi, in manovra fino a 55mila euro",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/tajani-ai-suoi-verso-taglio-irpef-in-due-tempi-in-manovra-fino-a-55mila_cc44d961-f0fa-45db-b788-f0fd49424e18.html",
-     "time": "2026-10-21T18:56:40Z"
     }
    ]
   },
@@ -214,6 +214,31 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "What is PHP and why did it spark a global cyber-security scramble?",
+     "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T06:24:59Z"
+    },
+    {
+     "title": "How Arab parties could hold critical balance of power in Israeli election",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T05:30:22Z"
+    },
+    {
+     "title": "No order, no seat: Starbucks China rolls out new store policy",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T04:02:29Z"
+    },
+    {
+     "title": "US embassy accuses Canada of election meddling ahead of midterms",
+     "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T03:05:28Z"
+    },
+    {
+     "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T01:07:34Z"
+    },
     {
      "title": "The real reasons US politicians are getting older",
      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
@@ -235,44 +260,19 @@
      "time": "2026-10-21T22:59:18Z"
     },
     {
+     "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+     "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T22:54:58Z"
+    },
+    {
+     "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+     "url": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-21T22:20:22Z"
+    },
+    {
      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-21T22:02:18Z"
-    },
-    {
-     "title": "Japan is known for world-class events - but the Asian Games were chaotic",
-     "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T22:00:58Z"
-    },
-    {
-     "title": "Meta fined $25bn for 'lies' over user data privacy",
-     "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T21:49:07Z"
-    },
-    {
-     "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T21:27:41Z"
-    },
-    {
-     "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-     "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T20:31:47Z"
-    },
-    {
-     "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-     "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T20:19:51Z"
-    },
-    {
-     "title": "Pope does not need further treatment after lung cancer surgery",
-     "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T20:09:10Z"
-    },
-    {
-     "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-     "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T19:58:06Z"
     }
    ]
   }
