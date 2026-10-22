@@ -1,6 +1,6 @@
 {
- "version": 85,
- "updated": "2026-10-22T06:32:08Z",
+ "version": 86,
+ "updated": "2026-10-22T12:18:04Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Ausstellung \"Haie. Die Wächter des Ozeans\", \"Art Basel Paris\", Bambusschaukel zum Dashain-Fest",
+     "title": "Welche wirtschaftlichen Folgen die PHP-Sicherheitslücke haben könnte",
+     "url": "https://www.tagesschau.de/wirtschaft/digitales/interview-php-sicherheitsluecke-folgen-unternehmen-verbraucher-100.html",
+     "time": "2026-10-22T12:02:43Z"
+    },
+    {
+     "title": "Internationaler Strafgerichtshof erhält Sacharow-Preis",
+     "url": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html",
+     "time": "2026-10-22T11:42:57Z"
+    },
+    {
+     "title": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
+     "url": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html",
+     "time": "2026-10-22T11:32:31Z"
+    },
+    {
+     "title": "Schnee am Sudelfeld, Ausstellung \"Haie. Die Wächter des Ozeans\", \"Art Basel Paris\"",
      "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10520.html",
-     "time": "2026-10-22T06:21:10Z"
+     "time": "2026-10-22T11:23:47Z"
     },
     {
-     "title": "11KM-Podcast: Deutschlands riskante KI-Strategie",
-     "url": "https://www.tagesschau.de/podcast-11km-deutschland-ki-rechenzentren-100.html",
-     "time": "2026-10-22T05:34:38Z"
+     "title": "Was beim neuen Altersvorsorgedepot zu beachten ist",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-100.html",
+     "time": "2026-10-22T11:09:07Z"
     },
     {
-     "title": "15-Minuten-Podcast: PHP-Sicherheitslücke, Ermittlungen gegen Booking.com, Diebe auf Friedhöfen",
-     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15minuten-php-bookingcom-diebstahl-friedhof-100.html",
-     "time": "2026-10-22T05:34:13Z"
+     "title": "SPD will Pflegereform nachbessern",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html",
+     "time": "2026-10-22T10:31:09Z"
     },
     {
-     "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
-     "time": "2026-10-22T05:25:41Z"
+     "title": "\"Söder mit Vorstoß für Extremismusklausel\", Mirja Fiedler, RBB, zur MPK-Ausrichtung bei möglichem AfD-Ministerpräsidenten",
+     "url": "https://www.tagesschau.de/video/video-1670580.html",
+     "time": "2026-10-22T10:09:14Z"
     },
     {
-     "title": "Marktbericht: Tech-Bilanzen schieben den DAX nicht weiter an",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-     "time": "2026-10-22T05:24:19Z"
+     "title": "Livekultur als Geschäftsmodell - Wem gehören unsere Festivals?",
+     "url": "https://www.tagesschau.de/kultur/wem-gehoeren-festivals-100.html",
+     "time": "2026-10-22T10:03:36Z"
     },
     {
-     "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
-     "time": "2026-10-22T05:03:31Z"
+     "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html",
+     "time": "2026-10-22T09:25:10Z"
     },
     {
-     "title": "Auch Republikaner kritisieren Trumps Ukraine-Kurs",
-     "url": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html",
-     "time": "2026-10-22T05:03:03Z"
+     "title": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
+     "time": "2026-10-22T09:24:26Z"
     },
     {
-     "title": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
-     "url": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
-     "time": "2026-10-22T03:30:26Z"
+     "title": "Die Gelbe Wiesenraute ist Blume des Jahres 2027",
+     "url": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
+     "time": "2026-10-22T09:07:58Z"
     },
     {
-     "title": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
-     "url": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
-     "time": "2026-10-22T03:13:31Z"
-    },
-    {
-     "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
-     "url": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html",
-     "time": "2026-10-22T03:05:08Z"
-    },
-    {
-     "title": "Champions League: Bayern und Arsenal mit intensivem Unentschieden",
-     "url": "https://www.sportschau.de/fussball/championsleague/vier-tore-kein-sieger-remis-zwischen-bayern-und-arsenal,spielbericht-fc-bayern-fc-arsenal-100.html",
-     "time": "2026-10-21T22:13:20Z"
-    },
-    {
-     "title": "Am Ende deutlich - Leipzig unterliegt Real Madrid",
-     "url": "https://www.sportschau.de/fussball/championsleague/am-ende-deutlich-leipzig-unterliegt-real-madrid,spielbericht-real-madrid-rb-leipzig-100.html",
-     "time": "2026-10-21T21:36:49Z"
+     "title": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html",
+     "time": "2026-10-22T08:56:23Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Schau «Modernismo tropical» – Seine Gärten waren ein Statement gegen den Kolonialismus",
-     "url": "https://www.srf.ch/kultur/kunst/schau-modernismo-tropical-seine-gaerten-waren-ein-statement-gegen-den-kolonialismus",
-     "time": "2026-10-22T06:10:04Z"
+     "title": "«Es war unglaublich emotional» – Fast 3 Jahre nach Horror-Unfall: Michel ist zurück im Eiskanal",
+     "url": "https://www.srf.ch/sport/mehr-sport/bob/es-war-unglaublich-emotional-fast-3-jahre-nach-horror-unfall-michel-ist-zurueck-im-eiskanal",
+     "time": "2026-10-22T12:13:58Z"
     },
     {
-     "title": "Sicherheitslücke bei PHP – Private Server-Betreiber sollten jetzt rasch handeln",
-     "url": "https://www.srf.ch/news/wirtschaft/sicherheitsluecke-bei-php-private-server-betreiber-sollten-jetzt-rasch-handeln",
-     "time": "2026-10-22T06:00:07Z"
+     "title": "Unruhen in Frankreich – Macron: Demonstrationsverbote und «alternative Routen»",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-macron-demonstrationsverbote-und-alternative-routen",
+     "time": "2026-10-22T11:58:42Z"
     },
     {
-     "title": "Undercover im Wettlokal – Millionenumsätze: Das grosse Geschäft mit illegalen Sportwetten",
-     "url": "https://www.srf.ch/sendungen/dok/undercover-im-wettlokal-millionenumsaetze-das-grosse-geschaeft-mit-illegalen-sportwetten",
-     "time": "2026-10-22T05:53:18Z"
+     "title": "Kosmetik gegen Magergesicht – Ozempic-Face bringt Galderma Milliarden",
+     "url": "https://www.srf.ch/news/wirtschaft/kosmetik-gegen-magergesicht-ozempic-face-bringt-galderma-milliarden",
+     "time": "2026-10-22T11:32:49Z"
     },
     {
-     "title": "Unruhen in Frankreich – Lecornu ruft politische Parteien zu Beratungen zusammen",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-lecornu-ruft-politische-parteien-zu-beratungen-zusammen",
-     "time": "2026-10-22T05:48:25Z"
+     "title": "Auftakt Ski-Weltcup – Skirennen ohne Schnee – wie geht das?",
+     "url": "https://www.srf.ch/radio-srf-1/auftakt-ski-weltcup-skirennen-ohne-schnee-wie-geht-das",
+     "time": "2026-10-22T11:31:32Z"
     },
     {
-     "title": "In Libyen eingetroffen – Schweizer und österreichische Geisel aus Niger befreit",
-     "url": "https://www.srf.ch/news/international/in-libyen-eingetroffen-schweizer-und-oesterreichische-geisel-aus-niger-befreit",
-     "time": "2026-10-22T05:11:36Z"
+     "title": "«Ich kann nicht singen»-Chor – Ein Chor stemmt sich gegen das Trauma des Singunterrichts",
+     "url": "https://www.srf.ch/kultur/musik/ich-kann-nicht-singen-chor-ein-chor-stemmt-sich-gegen-das-trauma-des-singunterrichts",
+     "time": "2026-10-22T11:07:45Z"
     },
     {
-     "title": "Mit Knie am Kopf getroffen – St. Louis gewinnt den Cup – doch Bürki landet im Spital",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/mit-knie-am-kopf-getroffen-st-louis-gewinnt-den-cup-doch-buerki-landet-im-spital",
-     "time": "2026-10-22T05:02:33Z"
+     "title": "Verfahrensfehler – Europäischer Gerichtshof rügt Schweiz wegen Brian Keller",
+     "url": "https://www.srf.ch/news/schweiz/verfahrensfehler-europaeischer-gerichtshof-ruegt-schweiz-wegen-brian-keller",
+     "time": "2026-10-22T10:56:46Z"
     },
     {
-     "title": "Krieg in der Ukraine – Nach Gesprächen: Russland und Ukraine mit gegenseitigen Angriffen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-nach-gespraechen-russland-und-ukraine-mit-gegenseitigen-angriffen",
-     "time": "2026-10-22T04:03:36Z"
+     "title": "Essenslieferdienst krempelt um – Just Eat: Entlassungen wegen neuem Modell",
+     "url": "https://www.srf.ch/news/wirtschaft/essenslieferdienst-krempelt-um-just-eat-entlassungen-wegen-neuem-modell",
+     "time": "2026-10-22T10:51:09Z"
     },
     {
-     "title": "Genfer Sudan-Gespräche – Kein Ausweg aus dem Blutvergiessen im Sudan",
-     "url": "https://www.srf.ch/news/international/genfer-sudan-gespraeche-kein-ausweg-aus-dem-blutvergiessen-im-sudan",
-     "time": "2026-10-22T03:58:30Z"
+     "title": "Erfolg in Deutschland – Schlagersänger Vincent Gross gewinnt «The Masked Singer»",
+     "url": "https://www.srf.ch/news/gesellschaft/erfolg-in-deutschland-schlagersaenger-vincent-gross-gewinnt-the-masked-singer",
+     "time": "2026-10-22T10:45:27Z"
     },
     {
-     "title": "Gefährliche «Baller-Liquids» – Bunte Vape-Liquids beschäftigen Fachleute",
-     "url": "https://www.srf.ch/news/schweiz/gefaehrliche-baller-liquids-bunte-vape-liquids-beschaeftigen-fachleute",
-     "time": "2026-10-22T03:56:57Z"
+     "title": "Anwohnerparkkarten – Zürich: Parkieren in der Blauen Zone wird definitiv teurer",
+     "url": "https://www.srf.ch/news/schweiz/anwohnerparkkarten-zuerich-parkieren-in-der-blauen-zone-wird-definitiv-teurer",
+     "time": "2026-10-22T10:17:45Z"
     },
     {
-     "title": "Aufruf der Juso Schweiz – Jugendstreik: International vernetzt und seit Sommer geplant",
-     "url": "https://www.srf.ch/news/schweiz/aufruf-der-juso-schweiz-jugendstreik-international-vernetzt-und-seit-sommer-geplant",
-     "time": "2026-10-22T03:55:35Z"
+     "title": "In Libyen eingetroffen – EDA bestätigt: Schweizer Geisel aus Niger befreit",
+     "url": "https://www.srf.ch/news/international/in-libyen-eingetroffen-eda-bestaetigt-schweizer-geisel-aus-niger-befreit",
+     "time": "2026-10-22T10:15:07Z"
     },
     {
-     "title": "Q&A zur Lebenszufriedenheit – Warum wir oft unzufrieden sind, obwohl es uns gut geht",
-     "url": "https://www.srf.ch/news/srf-news-chats/q-a-zur-lebenszufriedenheit-warum-wir-oft-unzufrieden-sind-obwohl-es-uns-gut-geht",
-     "time": "2026-10-22T03:54:26Z"
+     "title": "Cyberangriffe auf Unternehmen – Sind KMUs den Hackern ausgeliefert?",
+     "url": "https://www.srf.ch/news/schweiz/cyberangriffe-auf-unternehmen-sind-kmus-den-hackern-ausgeliefert",
+     "time": "2026-10-22T09:54:29Z"
     },
     {
-     "title": "Unzuverlässige USA – Trumps Politik hilft den Russen im Krieg gegen die Ukraine",
-     "url": "https://www.srf.ch/news/international/ukraine/unzuverlaessige-usa-trumps-politik-hilft-den-russen-im-krieg-gegen-die-ukraine",
-     "time": "2026-10-22T03:53:56Z"
+     "title": "Erfolgreich lernen – 6 überraschende Fakten: So lernt das Hirn am besten",
+     "url": "https://www.srf.ch/radio-srf-1/erfolgreich-lernen-6-ueberraschende-fakten-so-lernt-das-hirn-am-besten",
+     "time": "2026-10-22T09:53:13Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Borsa: Asia in rosso, nuova pressione sui tecnologici",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/borsa-asia-in-rosso-nuova-pressione-sui-tecnologici_245740d7-9088-4e68-a8bd-b2194f57d9f1.html",
-     "time": "2026-10-22T06:17:01Z"
+     "title": "Prezzi del gas in Ue aumentati del 177% dall'inizio crisi in Medio Oriente",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/prezzi-del-gas-in-ue-aumentati-del-177-dallinizio-crisi-in-medio-oriente_e03abb57-b307-407b-b0c3-d58a42bcb90c.html",
+     "time": "2026-10-22T11:48:10Z"
     },
     {
-     "title": "Il prezzo del gas in rialzo sfiora gli 89 euro, conferma massimi da 2022",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/il-prezzo-del-gas-in-rialzo-sfiora-gli-89-euro-conferma-massimi-da-2022_7dfd96dd-952d-42be-bfae-bc28c8f51130.html",
-     "time": "2026-10-22T06:01:26Z"
+     "title": "Borsa: Milano cede l'1,82%, lo spread risale e tocca 128 punti base",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/borsa-milano-cede-l182-lo-spread-risale-e-tocca-128-punti-base_3e06523a-c2d6-41e3-a683-1f8158c837a5.html",
+     "time": "2026-10-22T11:35:53Z"
     },
     {
-     "title": "Sindaco Mosca, 'nella notte oltre 600 droni lanciati contro la città'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/sindaco-mosca-nella-notte-oltre-600-droni-lanciati-contro-la-citta_cd051597-d946-4a99-81af-9223d8d1559d.html",
-     "time": "2026-10-22T01:46:14Z"
+     "title": "I ricavi di Zegna crescono di quasi il 9% nel trimestre trainati dal marchio storico",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/i-ricavi-di-zegna-crescono-di-quasi-il-9-nel-trimestre-trainati-dal-marchio-storico_fd39ddf4-e02c-4038-96b2-9fe0ed3b8d5e.html",
+     "time": "2026-10-22T11:28:28Z"
     },
     {
-     "title": "Brasile, ordinato l'arresto di ex militare uruguaiano condannato in Italia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/brasile-ordinato-larresto-di-ex-militare-uruguaiano-condannato-in-italia_fbfe281d-9f96-4592-9d6e-a9066e4912ac.html",
-     "time": "2026-10-21T23:58:49Z"
+     "title": "Meloni, assicuriamo la circolazione delle merci anche per evitare speculazioni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/meloni-assicuriamo-la-circolazione-delle-merci-anche-per-evitare-speculazioni_e70382d0-c569-4b8b-a7c3-14ba1747b527.html",
+     "time": "2026-10-22T11:28:19Z"
     },
     {
-     "title": "Attacco ucraino con droni sulla città russa di Lipetsk",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/attacco-ucraino-con-droni-sulla-citta-russa-di-lipetsk_5b1e7f74-7b44-4ab4-aca2-63b6e8d0f72c.html",
-     "time": "2026-10-21T23:56:27Z"
+     "title": "Dl Autotrasporto: Rixi, da marzo ad agosto abbiamo messo 480 milioni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/dl-autotrasporto-rixi-da-marzo-ad-agosto-abbiamo-messo-480-milioni_06def135-be14-4e62-b044-343e7cd9bc8a.html",
+     "time": "2026-10-22T11:19:03Z"
     },
     {
-     "title": "Trump contestato anche in South Carolina, 'manifestanti pagati'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/trump-contestato-anche-in-south-carolina-manifestanti-pagati_50d5f66f-3fe0-4f2f-adab-324f0dfbd35d.html",
-     "time": "2026-10-21T23:48:58Z"
+     "title": "Lollobrigida, nel dl 60 milioni per il carburante agricolo, a brevissimo a imprese",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/lollobrigida-nel-dl-60-milioni-per-il-carburante-agricolo-a-brevissimo-a-imprese_e061d833-80ba-4d93-84d6-71d782ed79e0.html",
+     "time": "2026-10-22T11:17:44Z"
     },
     {
-     "title": "Attacco su aeroporto in Arabia Saudita, un morto e otto feriti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/attacco-su-aeroporto-in-arabia-saudita-un-morto-e-otto-feriti_8f9d7107-4fd7-4c01-8d2c-21ed0b5f5208.html",
-     "time": "2026-10-21T22:41:14Z"
+     "title": "I ricavi di Prada superano 4,5 miliardi e tengono nel trimestre, rallenta Miu Miu",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/i-ricavi-di-prada-superano-45-miliardi-e-tengono-nel-trimestre-rallenta-miu-miu_953a981b-8b05-42b7-8d58-2762d6524d4b.html",
+     "time": "2026-10-22T11:08:51Z"
     },
     {
-     "title": "Trump difende Witkoff per aver chiamato Putin compassionevole",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/trump-difende-witkoff-per-aver-chiamato-putin-compassionevole_c250406d-97db-4e20-a6d6-664601724079.html",
-     "time": "2026-10-21T19:32:24Z"
+     "title": "Macron, 'autorizzate sabato solo manifestazioni indette dai sindacati'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/macron-autorizzate-sabato-solo-manifestazioni-indette-dai-sindacati_234ccdd6-0f02-4640-91f7-1273b034626b.html",
+     "time": "2026-10-22T10:58:01Z"
     },
     {
-     "title": "I medici del Papa, 'non è necessaria alcuna ulteriore terapia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/i-medici-del-papa-non-e-necessaria-alcuna-ulteriore-terapia_6a16cdb5-8b91-4e27-8bea-cc8bbeea2b75.html",
-     "time": "2026-10-21T19:30:50Z"
+     "title": "Borsa: Il petrolio e il tech frenano l'Europa, Milano -1,6%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/borsa-il-petrolio-e-il-tech-frenano-leuropa-milano-16_a5b6c57a-df61-4cd0-a82b-90baae2c59b4.html",
+     "time": "2026-10-22T10:54:57Z"
     },
     {
-     "title": "Trump, forse siamo più vicini che mai alla fine della guerra in Ucraina",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/21/trump-forse-siamo-piu-vicini-che-mai-alla-fine-della_1710ffd8-986c-4716-81fe-06d3f2503bb9.html",
-     "time": "2026-10-21T19:22:25Z"
+     "title": "Giorgetti, 'aspettativa generalizzata su manovra, non risolve tutto'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/giorgetti-aspettativa-generalizzata-su-manovra-non-risolve-tutto_4f81d956-8d62-444a-9e2d-e0100db0daef.html",
+     "time": "2026-10-22T10:45:21Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
+     "title": "At least four dead after storm brings flooding to southern France",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T11:23:16Z"
+    },
+    {
      "title": "What is PHP and why did it spark a global cyber-security scramble?",
      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T06:24:59Z"
+     "time": "2026-10-22T11:15:58Z"
     },
     {
-     "title": "How Arab parties could hold critical balance of power in Israeli election",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T05:30:22Z"
+     "title": "Two European women held captive for more than a year in Niger freed in Libya",
+     "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T11:13:12Z"
     },
     {
-     "title": "No order, no seat: Starbucks China rolls out new store policy",
-     "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T04:02:29Z"
+     "title": "Moment man rescued from sinking car by Australian TV reporter",
+     "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T11:08:33Z"
     },
     {
-     "title": "US embassy accuses Canada of election meddling ahead of midterms",
-     "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T03:05:28Z"
+     "title": "First human case of Shamonda virus detected in France, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T11:04:14Z"
     },
     {
-     "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T01:07:34Z"
+     "title": "El Salvador's president threatens Haitian gangs over military hostages",
+     "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T10:17:48Z"
     },
     {
-     "title": "The real reasons US politicians are getting older",
-     "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T23:52:12Z"
+     "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+     "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T10:16:35Z"
     },
     {
-     "title": "Trump's green card curbs test Indian tech workers' American dream",
-     "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T23:06:37Z"
+     "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T10:10:13Z"
     },
     {
-     "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T23:04:03Z"
+     "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+     "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T09:47:54Z"
     },
     {
-     "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
-     "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T22:59:18Z"
+     "title": "How do Israel's elections work and who are the main contenders?",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T09:27:10Z"
     },
     {
-     "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-     "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T22:54:58Z"
+     "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T09:14:48Z"
     },
     {
-     "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
-     "url": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T22:20:22Z"
-    },
-    {
-     "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-     "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-21T22:02:18Z"
+     "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T09:06:48Z"
     }
    ]
   }
