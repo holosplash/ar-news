@@ -1,6 +1,6 @@
 {
- "version": 92,
- "updated": "2026-10-23T14:22:10Z",
+ "version": 93,
+ "updated": "2026-10-23T18:39:34Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
-     "url": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
-     "time": "2026-10-23T14:09:56Z"
-    },
-    {
-     "title": "Demian von Osten, ARD Berlin, zzt. München, zur erwarteten Rede von CSU-Chef Söder",
-     "url": "https://www.tagesschau.de/video/video-1671316.html",
-     "time": "2026-10-23T14:07:34Z"
-    },
-    {
-     "title": "Russland und Ukraine tauschen erneut Gefangene aus",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html",
-     "time": "2026-10-23T13:58:44Z"
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12324.html",
+     "time": "2026-10-23T18:37:28Z"
     },
     {
      "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81628.html",
-     "time": "2026-10-23T13:27:43Z"
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81582.html",
+     "time": "2026-10-23T18:35:13Z"
     },
     {
-     "title": "Wirtschaftliche Probleme beim Flughafen Berlin-Brandenburg",
-     "url": "https://www.tagesschau.de/video/video-1671294.html",
-     "time": "2026-10-23T13:16:58Z"
+     "title": "Söder fordert bei CSU-Parteitag Extremistenklausel für Länderfinanzausgleich",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1671542.html",
+     "time": "2026-10-23T18:29:49Z"
     },
     {
-     "title": "Marktbericht: Nasdaq kommt unter die Räder",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html",
-     "time": "2026-10-23T13:16:51Z"
+     "title": "Hackerangriff auf AfD belastet Alice Weidel möglicherweise im Spendenskandal",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1671538.html",
+     "time": "2026-10-23T18:29:47Z"
     },
     {
-     "title": "25 Jahre iPod",
-     "url": "https://www.tagesschau.de/video/video-1671254.html",
-     "time": "2026-10-23T13:09:46Z"
+     "title": "Laut Trump Aufhebung der Drosselung von Starlink-Satelliten-System",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1671544.html",
+     "time": "2026-10-23T18:29:44Z"
     },
     {
-     "title": "Stolpersteine für Offshore-Windpark-Industrie",
-     "url": "https://www.tagesschau.de/video/video-1671252.html",
-     "time": "2026-10-23T13:04:36Z"
+     "title": "Festnahme nach tödlichem Vorfall in Vorort von Paris",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1671550.html",
+     "time": "2026-10-23T18:29:41Z"
     },
     {
-     "title": "„Unverhohlene Drohungen eines Streiks\" – ARD-Reporter zum Ringen um Sparkurs bei VW",
-     "url": "https://www.tagesschau.de/video/video-1671250.html",
-     "time": "2026-10-23T13:02:05Z"
+     "title": "Neubau von Offshore-Windkraftanlagen gerät ins Stocken",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1671560.html",
+     "time": "2026-10-23T18:29:39Z"
     },
     {
-     "title": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
-     "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html",
-     "time": "2026-10-23T13:01:59Z"
+     "title": "IT-Experten warnen vor zukünftigen Angriffen nach Sicherheitslücke bei PHP",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1671558.html",
+     "time": "2026-10-23T18:29:37Z"
     },
     {
-     "title": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
-     "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
-     "time": "2026-10-23T12:55:47Z"
+     "title": "Schwere Brände: Demonstranten werfen indonesischer Regierung Untätigkeit vor",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1671562.html",
+     "time": "2026-10-23T18:29:34Z"
     },
     {
-     "title": "\"Große Scheunentore offen\": Experte warnt vor neuen Angriffen im Netz",
-     "url": "https://www.tagesschau.de/video/video-1671242.html",
-     "time": "2026-10-23T12:24:24Z"
+     "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
+     "time": "2026-10-23T18:10:26Z"
+    },
+    {
+     "title": "Tarifkonflikt bei VW spitzt sich zu",
+     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/stellenabbau-per-transfergesellschaft-konflikt-bei-vw-spitzt-sich-zu,vw-1634.html",
+     "time": "2026-10-23T17:57:35Z"
+    },
+    {
+     "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
+     "time": "2026-10-23T17:50:13Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "SVP-Bundesrats-Kandidatenfeld – Eine «halbe Kandidatur», viele Namen, aber wenig Glanz",
-     "url": "https://www.srf.ch/news/schweiz/svp-bundesrats-kandidatenfeld-eine-halbe-kandidatur-viele-namen-aber-wenig-glanz",
-     "time": "2026-10-23T14:15:46Z"
+     "title": "Rennen um Parmelins Sitz – Die Zürcher SVP muss passen",
+     "url": "https://www.srf.ch/news/schweiz/rennen-um-parmelins-sitz-die-zuercher-svp-muss-passen",
+     "time": "2026-10-23T18:24:07Z"
     },
     {
      "title": "Frankreich – «Terroristische Tat»: Ein Toter nach Schüssen bei Paris",
      "url": "https://www.srf.ch/news/international/frankreich-terroristische-tat-ein-toter-nach-schuessen-bei-paris",
-     "time": "2026-10-23T14:07:04Z"
+     "time": "2026-10-23T18:09:31Z"
     },
     {
-     "title": "Krieg in der Ukraine – Kiew: Starlink bleibt trotz Trump-Aussage gedrosselt",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-kiew-starlink-bleibt-trotz-trump-aussage-gedrosselt",
-     "time": "2026-10-23T13:38:41Z"
+     "title": "Vermögenskonzentration – Linker Starökonom fordert Mindeststeuer für Superreiche",
+     "url": "https://www.srf.ch/news/wirtschaft/vermoegenskonzentration-linker-staroekonom-fordert-mindeststeuer-fuer-superreiche",
+     "time": "2026-10-23T18:00:33Z"
     },
     {
-     "title": "Ermittlungen auf Philippinen – Meghan Markle erschüttert über Vorwürfe gegen ihren Vater",
-     "url": "https://www.srf.ch/news/international/ermittlungen-auf-philippinen-meghan-markle-erschuettert-ueber-vorwuerfe-gegen-ihren-vater",
-     "time": "2026-10-23T13:21:38Z"
+     "title": "Krieg im Nahen Osten – Angriff im Westjordanland – Netanjahu ordnet Abriegelung an",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-angriff-im-westjordanland-netanjahu-ordnet-abriegelung-an",
+     "time": "2026-10-23T17:37:26Z"
     },
     {
-     "title": "Kritik wegen Abholzung – Google rodet illegal Wald für Rechenzentrum in Finnland",
-     "url": "https://www.srf.ch/news/international/kritik-wegen-abholzung-google-rodet-illegal-wald-fuer-rechenzentrum-in-finnland",
-     "time": "2026-10-23T13:12:22Z"
+     "title": "Historische Kandidatur – Warum dieser Regierungskandidat für Baselland so historisch ist",
+     "url": "https://www.srf.ch/news/schweiz/historische-kandidatur-warum-dieser-regierungskandidat-fuer-baselland-so-historisch-ist",
+     "time": "2026-10-23T17:32:38Z"
     },
     {
-     "title": "Erste SRG-Umfrage – Beim Kriegsmaterialgesetz ist noch alles offen",
-     "url": "https://www.srf.ch/news/erste-srg-umfrage-beim-kriegsmaterialgesetz-ist-noch-alles-offen",
-     "time": "2026-10-23T13:11:34Z"
+     "title": "Auf einen Blick – Finanzierung der 13. AHV-Rente in Kürze",
+     "url": "https://www.srf.ch/news/auf-einen-blick-finanzierung-der-13-ahv-rente-in-kuerze",
+     "time": "2026-10-23T17:15:00Z"
     },
     {
-     "title": "Unruhen in Frankreich – Protest-Wochenende: Frankreich mobilisiert 70'000 Polizeikräfte",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-protest-wochenende-frankreich-mobilisiert-70-000-polizeikraefte",
-     "time": "2026-10-23T12:44:43Z"
+     "title": "Auf einen Blick – Die Feuerwerksinitiative in Kürze",
+     "url": "https://www.srf.ch/news/auf-einen-blick-die-feuerwerksinitiative-in-kuerze",
+     "time": "2026-10-23T17:13:19Z"
     },
     {
-     "title": "Tierwohl vs. Tradition – New York verbietet Pferde-Kutschen – so regeln es andere Städte",
-     "url": "https://www.srf.ch/news/international/tierwohl-vs-tradition-new-york-verbietet-pferde-kutschen-so-regeln-es-andere-staedte",
-     "time": "2026-10-23T12:08:57Z"
+     "title": "Trotz Regen – Warum die Waldbrandgefahr noch nicht überall gebannt ist",
+     "url": "https://www.srf.ch/news/schweiz/trotz-regen-warum-die-waldbrandgefahr-noch-nicht-ueberall-gebannt-ist",
+     "time": "2026-10-23T17:13:09Z"
     },
     {
-     "title": "Spitex im Wallis – Gravierende Mängel bei privater Altenpflege",
-     "url": "https://www.srf.ch/news/dialog/spitex-im-wallis-gravierende-maengel-bei-privater-altenpflege",
-     "time": "2026-10-23T11:50:00Z"
+     "title": "Auf einen Blick – Initiative gegen Heiratsstrafe in Kürze",
+     "url": "https://www.srf.ch/news/auf-einen-blick-initiative-gegen-heiratsstrafe-in-kuerze",
+     "time": "2026-10-23T17:12:12Z"
     },
     {
-     "title": "Kampfjet-Beschaffung – Bundesrat will Lehren aus F-35-Fixpreis-Debakel ziehen",
-     "url": "https://www.srf.ch/news/schweiz/kampfjet-beschaffung-bundesrat-will-lehren-aus-f-35-fixpreis-debakel-ziehen",
-     "time": "2026-10-23T11:26:44Z"
+     "title": "Auf einen Blick – Änderung Kriegsmaterialgesetz in Kürze",
+     "url": "https://www.srf.ch/news/auf-einen-blick-aenderung-kriegsmaterialgesetz-in-kuerze",
+     "time": "2026-10-23T17:10:04Z"
     },
     {
-     "title": "Alarmierende Studie – 96 Prozent der Korallenriffe droht der Kollaps",
-     "url": "https://www.srf.ch/wissen/natur-tiere/alarmierende-studie-96-prozent-der-korallenriffe-droht-der-kollaps",
-     "time": "2026-10-23T10:47:58Z"
+     "title": "Midterms in den USA – Links, moderat, religiös: Die Demokraten greifen nach dem Senat",
+     "url": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-links-moderat-religioes-die-demokraten-greifen-nach-dem-senat",
+     "time": "2026-10-23T16:57:34Z"
     },
     {
-     "title": "555. Ausgabe – Basler Herbstmesse: Spagat zwischen Tradition und Erneuerung",
-     "url": "https://www.srf.ch/news/schweiz/555-ausgabe-basler-herbstmesse-spagat-zwischen-tradition-und-erneuerung",
-     "time": "2026-10-23T10:42:27Z"
+     "title": "Vor Spiel gegen Freiburg – Bayern-Trainer Kompany nach Kollaps im Spital",
+     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/vor-spiel-gegen-freiburg-bayern-trainer-kompany-nach-kollaps-im-spital",
+     "time": "2026-10-23T16:55:51Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Tajani, 'inaccettabile fermo delle italiane dall'Idf, non hanno commesso reati'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/tajani-inaccettabile-fermo-delle-italiane-dallidf-non-hanno-commesso-reati_b7aad0b9-d6a6-4f80-ad0f-97712d9805d4.html",
-     "time": "2026-10-23T14:04:19Z"
+     "title": "Tajani, previsto domattina rientro in Italia delle 5 attiviste fermate in Israele",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/tajani-previsto-domattina-rientro-in-italia-delle-5-attiviste-fermate-in-israele_3c4a021e-371b-482d-b5d4-cbda4bfb4718.html",
+     "time": "2026-10-23T18:31:11Z"
     },
     {
-     "title": "Tajani, 'non è colpendo popolazione palestinese che Israele avrà sicurezza'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/tajani-non-e-colpendo-popolazione-palestinese-che-israele-avra-sicurezza_7c0e245a-747d-471d-bab1-5595f41fb351.html",
-     "time": "2026-10-23T14:02:12Z"
+     "title": "Leonor ai Premi Principessa Asturie, 'la speranza contro il caos e gli estremismi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/leonor-ai-premi-principessa-asturie-la-speranza-contro-il-caos-e-gli-estremismi_ea62a7c2-6e4e-456d-b9ab-e322dc0d003e.html",
+     "time": "2026-10-23T18:07:32Z"
     },
     {
-     "title": "Monreale è la Capitale italiana del libro 2027",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/monreale-e-la-capitale-italiana-del-libro-2027_0229a718-dd84-4978-aa7c-563652f400e7.html",
-     "time": "2026-10-23T13:54:23Z"
+     "title": "Conte agli alleati, 'il confronto sul programma il prima possibile'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/conte-agli-alleati-il-confronto-sul-programma-il-prima-possibile_4b005fca-fef6-4edf-8167-69fe9b347705.html",
+     "time": "2026-10-23T17:51:43Z"
     },
     {
-     "title": "Casa Bianca, Melania Trump ottiene tregua fra Russia e Ucraina a Oleshky",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/casa-bianca-melania-trump-ottiene-tregua-fra-russia-e-ucraina-a-oleshky_93e46d15-7298-4944-b085-d866c936af55.html",
-     "time": "2026-10-23T13:29:51Z"
+     "title": "Franceschini-Orlando-Speranza lanciano i comitati per l'alternativa verso il 2027",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/franceschini-orlando-speranza-lanciano-i-comitati-per-lalternativa-verso-il-2027_f9c14860-166a-46b7-9776-4013b3eeb939.html",
+     "time": "2026-10-23T17:50:07Z"
     },
     {
-     "title": "Media, uomini armati sparano contro una chiesa in Giordania, 7 morti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/media-uomini-armati-sparano-contro-una-chiesa-in-giordania-7-morti_086c346c-1bb6-465a-bae2-69b8aea1327e.html",
-     "time": "2026-10-23T12:34:43Z"
+     "title": "Onorato, 'Schlein? Parlo anche con lei, Salis una risorsa fondamentale'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/onorato-schlein-parlo-anche-con-lei-salis-una-risorsa-fondamentale_205d0468-902c-47c5-989d-5903b5d360fd.html",
+     "time": "2026-10-23T17:48:55Z"
     },
     {
-     "title": "Idf, morti due soldati feriti nell'attentato a Hebron",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/idf-morti-due-soldati-feriti-nellattentato-a-hebron_a80776f4-a06f-460e-be8e-d0d4dc32e119.html",
-     "time": "2026-10-23T12:30:24Z"
+     "title": "Mantovano, vigilare su normative Ue, a rischio elusione le restrizioni su cannabis",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/mantovano-vigilare-su-normative-ue-a-rischio-elusione-le-restrizioni-su-cannabis_f9696018-2a62-44b3-a8f4-d349323ed5aa.html",
+     "time": "2026-10-23T17:48:20Z"
     },
     {
-     "title": "Salvini 'stupito da Garavaglia, ci siamo sentiti martedì scorso'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/salvini-stupito-da-garavaglia-ci-siamo-sentiti-martedi-scorso_dd36a0ee-b1af-4df7-b6c2-c70673210eb0.html",
-     "time": "2026-10-23T12:09:48Z"
+     "title": "Onorato, 'alle primarie ci saremo, non escludo di candidarmi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/onorato-alle-primarie-ci-saremo-non-escludo-di-candidarmi_167a3acd-d71a-4e89-bfee-f0f41af1a155.html",
+     "time": "2026-10-23T17:44:23Z"
     },
     {
-     "title": "Mef, rivisti al rialzo i tassi cedolari del Btp Valore e del Btp Valore Insieme",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/mef-rivisti-al-rialzo-i-tassi-cedolari-del-btp-valore-e-del-btp_d041a142-528f-4310-ab66-9a35b6dcbb7c.html",
-     "time": "2026-10-23T12:09:04Z"
+     "title": "Meloni vede l'emiro, Kuwait disponibile alla proroga del price cap Q8 sui carburanti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/meloni-vede-lemiro-kuwait-disponibile-alla-proroga-del-price-cap_cba86236-f697-4fe8-be11-44ef62aa6a2c.html",
+     "time": "2026-10-23T17:39:28Z"
     },
     {
-     "title": "Attacco in Francia, la procura antiterrorismo indaga sull'aggravante razziale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/attacco-in-francia-la-procura-antiterrorismo-indaga-sullaggravante-razziale_e10c4d2a-d6d5-410c-998d-d6e0ec507454.html",
-     "time": "2026-10-23T11:58:46Z"
+     "title": "Macron sul luogo della strage a Trappes, 'attentato razzista'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/macron-sul-luogo-della-strage-a-trappes-attentato-razzista_6ae72ac9-cf96-45ae-85d6-b8f9835ecca7.html",
+     "time": "2026-10-23T17:21:31Z"
     },
     {
-     "title": "Netanyahu, 'evacueremo e distruggeremo siti terrore, al loro posto insediamenti'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/netanyahu-evacueremo-e-distruggeremo-siti-terrore-al-loro-posto-insediamenti_d8b6d973-d605-43d0-9a93-5efeed128c67.html",
-     "time": "2026-10-23T11:50:23Z"
+     "title": "Zelensky, 'i problemi su Starlink e Starshield non sono ancora stati risolti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/zelensky-i-problemi-su-starlink-e-starshield-non-sono-ancora-stati-risolti_64556838-bc04-4ae1-b77a-897acad8a740.html",
+     "time": "2026-10-23T17:17:25Z"
     }
    ]
   },
@@ -215,24 +215,44 @@
    "countries": [],
    "items": [
     {
+     "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T18:10:56Z"
+    },
+    {
+     "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T16:59:51Z"
+    },
+    {
+     "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+     "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T16:19:36Z"
+    },
+    {
      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T14:15:23Z"
+     "time": "2026-10-23T16:17:02Z"
     },
     {
-     "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T14:13:33Z"
-    },
-    {
-     "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T14:02:16Z"
-    },
-    {
-     "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+     "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T12:48:52Z"
+     "time": "2026-10-23T15:37:07Z"
+    },
+    {
+     "title": "Oil spill washes up on UAE beaches after tanker strike",
+     "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T15:30:47Z"
+    },
+    {
+     "title": "US justice department investigating Corey Lewandowski over DHS role",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T14:58:19Z"
+    },
+    {
+     "title": "PSG v Lyon moved as Paris prepares for more protests",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T14:18:41Z"
     },
     {
      "title": "Denmark to ban mink farming in government U-turn",
@@ -245,11 +265,6 @@
      "time": "2026-10-23T11:30:32Z"
     },
     {
-     "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-     "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T11:01:08Z"
-    },
-    {
      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
      "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-23T10:36:01Z"
@@ -258,21 +273,6 @@
      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-23T10:23:07Z"
-    },
-    {
-     "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-     "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T10:14:37Z"
-    },
-    {
-     "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T10:14:33Z"
-    },
-    {
-     "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
-     "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T09:23:53Z"
     }
    ]
   }
