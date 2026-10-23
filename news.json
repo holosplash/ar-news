@@ -1,6 +1,6 @@
 {
- "version": 89,
- "updated": "2026-10-22T23:57:04Z",
+ "version": 90,
+ "updated": "2026-10-23T04:34:20Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,26 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Trotz Gesetzesverschärfung - Mehr Extremisten mit Waffenerlaubnis",
+     "url": "https://www.tagesschau.de/investigativ/ndr/waffen-extremisten-102.html",
+     "time": "2026-10-23T04:11:14Z"
+    },
+    {
+     "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
+     "url": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
+     "time": "2026-10-23T03:01:38Z"
+    },
+    {
+     "title": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
+     "url": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
+     "time": "2026-10-23T02:28:21Z"
+    },
+    {
+     "title": "Studentenbewegung: Tausende auf Straße in Serbien vor Neuwahl",
+     "url": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
+     "time": "2026-10-23T02:01:08Z"
+    },
     {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12936.html",
@@ -53,26 +73,6 @@
      "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
      "url": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
      "time": "2026-10-22T19:34:07Z"
-    },
-    {
-     "title": "Hofmann nutzt seine Chance - Bayer Leverkusen gewinnt gegen OFI Kreta",
-     "url": "https://www.sportschau.de/regional/wdr/wdr-hofmann-schiesst-leverkusen-zum-sieg-auf-kreta-100.html",
-     "time": "2026-10-22T19:06:00Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81628.html",
-     "time": "2026-10-22T18:36:55Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12328.html",
-     "time": "2026-10-22T18:34:57Z"
-    },
-    {
-     "title": "Landtag Sachsen-Anhalt: CDU-Politiker will bei Siegmund-Wahl im Saal bleiben",
-     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtag-afd-ministerpraesidentenwahl-heuer,heuer-cdu-100.html",
-     "time": "2026-10-22T18:13:18Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
+     "title": "20 Jahre «Back to Black» – Als Amy Winehouse in Zürich zerbrach",
+     "url": "https://www.srf.ch/radio-srf-3/20-jahre-back-to-black-als-amy-winehouse-in-zuerich-zerbrach",
+     "time": "2026-10-23T04:15:58Z"
+    },
+    {
+     "title": "Kämpfen oder fliehen – Das Dilemma der ukrainischen Männer",
+     "url": "https://www.srf.ch/news/international/ukraine/kaempfen-oder-fliehen-das-dilemma-der-ukrainischen-maenner",
+     "time": "2026-10-23T04:08:43Z"
+    },
+    {
+     "title": "Sabotageakte in Lauterbrunnen – Nylonfaden im Lauterbrunnental gespannt – Gefahr für Basejumper",
+     "url": "https://www.srf.ch/news/schweiz/sabotageakte-in-lauterbrunnen-nylonfaden-im-lauterbrunnental-gespannt-gefahr-fuer-basejumper",
+     "time": "2026-10-23T04:06:30Z"
+    },
+    {
+     "title": "Erste SRG-Umfrage – Vorerst drei Pattsituationen und ein klarer Ja-Trend",
+     "url": "https://www.srf.ch/news/schweiz/erste-srg-umfrage-vorerst-drei-pattsituationen-und-ein-klarer-ja-trend",
+     "time": "2026-10-23T04:00:24Z"
+    },
+    {
+     "title": "Erste SRG-Umfrage – Beim Kriegsmaterialgesetz ist noch alles offen",
+     "url": "https://www.srf.ch/news/erste-srg-umfrage-beim-kriegsmaterialgesetz-ist-noch-alles-offen",
+     "time": "2026-10-23T03:56:37Z"
+    },
+    {
+     "title": "Erste SRG-Umfrage – Knappes Ja bei der Initiative gegen die Heiratsstrafe",
+     "url": "https://www.srf.ch/news/erste-srg-umfrage-knappes-ja-bei-der-initiative-gegen-die-heiratsstrafe",
+     "time": "2026-10-23T03:56:19Z"
+    },
+    {
+     "title": "Erste SRG-Umfrage – Finanzierung 13. AHV: Pattsituation mit leichtem Nein-Vorsprung",
+     "url": "https://www.srf.ch/news/erste-srg-umfrage-finanzierung-13-ahv-pattsituation-mit-leichtem-nein-vorsprung",
+     "time": "2026-10-23T03:56:13Z"
+    },
+    {
+     "title": "Erste SRG-Umfrage – Ja-Vorteil für Feuerwerksinitiative – Meinungen fast gemacht",
+     "url": "https://www.srf.ch/news/erste-srg-umfrage-ja-vorteil-fuer-feuerwerksinitiative-meinungen-fast-gemacht",
+     "time": "2026-10-23T03:56:07Z"
+    },
+    {
+     "title": "Erdbeben mit Stärke 7.0 – Mindestens 16 Menschen sterben in der Region Tibet",
+     "url": "https://www.srf.ch/news/international/erdbeben-mit-staerke-7-0-mindestens-16-menschen-sterben-in-der-region-tibet",
+     "time": "2026-10-23T03:03:26Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Nach Angriffen in Gaza: Mindestens vier Tote",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-nach-angriffen-in-gaza-mindestens-vier-tote",
+     "time": "2026-10-23T01:02:45Z"
+    },
+    {
+     "title": "Kulturnews in Kurzform – Schauspieler Tom Skerritt ist im Alter von 93 Jahren gestorben",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-tom-skerritt-ist-im-alter-von-93-jahren-gestorben",
+     "time": "2026-10-23T00:05:09Z"
+    },
+    {
      "title": "Ex-Polizeichef von Guatemala – Bundesgericht bestätigt Freiheitsstrafe für Erwin Sperisen",
      "url": "https://www.srf.ch/news/international/ex-polizeichef-von-guatemala-bundesgericht-bestaetigt-freiheitsstrafe-fuer-erwin-sperisen",
      "time": "2026-10-22T21:43:24Z"
-    },
-    {
-     "title": "2. Runde in Conference League – Thun wird für eine passive Startphase hart bestraft",
-     "url": "https://www.srf.ch/sport/fussball/conference-league/2-runde-in-conference-league-thun-wird-fuer-eine-passive-startphase-hart-bestraft",
-     "time": "2026-10-22T21:06:07Z"
-    },
-    {
-     "title": "Abtreibungsgesetze in Polen – Demonstrationen in Polen für liberales Abtreibungsrecht",
-     "url": "https://www.srf.ch/news/international/abtreibungsgesetze-in-polen-demonstrationen-in-polen-fuer-liberales-abtreibungsrecht",
-     "time": "2026-10-22T20:09:47Z"
-    },
-    {
-     "title": "Kunstturn-WM: Mehrkampffinal – Seifert in den Top 10 – Gold geht erneut an Hashimoto",
-     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-mehrkampffinal-seifert-in-den-top-10-gold-geht-erneut-an-hashimoto",
-     "time": "2026-10-22T20:03:57Z"
-    },
-    {
-     "title": "Weltcup-Comeback in Sölden – Vlhovas Albtraum soll nach 1008 Tagen enden",
-     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/weltcup-comeback-in-soelden-vlhovas-albtraum-soll-nach-1008-tagen-enden",
-     "time": "2026-10-22T19:16:20Z"
-    },
-    {
-     "title": "Vor dem Saisonstart in Sölden – Camille Rast: Neue Saison, neuer Trainer – neues Glück?",
-     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/vor-dem-saisonstart-in-soelden-camille-rast-neue-saison-neuer-trainer-neues-glueck",
-     "time": "2026-10-22T19:15:09Z"
-    },
-    {
-     "title": "Nachfolge von Guy Parmelin – Bundesratswahl: Marco Chiesa und Pierre Alain Schnegg kandidieren",
-     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-bundesratswahl-marco-chiesa-und-pierre-alain-schnegg-kandidieren",
-     "time": "2026-10-22T18:50:03Z"
-    },
-    {
-     "title": "5:2-Sieg in Conference League – Trotz grobem Fehlstart: Lugano fertigt auch Getafe ab",
-     "url": "https://www.srf.ch/sport/fussball/conference-league/5-2-sieg-in-conference-league-trotz-grobem-fehlstart-lugano-fertigt-auch-getafe-ab",
-     "time": "2026-10-22T18:45:33Z"
-    },
-    {
-     "title": "LKW-Demo in Italien – Staatliche Finanzhilfe soll Proteste in Italien eindämmen",
-     "url": "https://www.srf.ch/news/international/lkw-demo-in-italien-staatliche-finanzhilfe-soll-proteste-in-italien-eindaemmen",
-     "time": "2026-10-22T18:19:38Z"
-    },
-    {
-     "title": "Umbau von Nestlé – Wie weit wird Nestlé die Preise noch erhöhen, Philipp Navratil?",
-     "url": "https://www.srf.ch/news/wirtschaft/umbau-von-nestle-wie-weit-wird-nestle-die-preise-noch-erhoehen-philipp-navratil",
-     "time": "2026-10-22T18:06:06Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Familien mit Kindern müssen Donbass-Städte verlassen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-familien-mit-kindern-muessen-donbass-staedte-verlassen",
-     "time": "2026-10-22T17:24:24Z"
-    },
-    {
-     "title": "Eine unheilige Allianz – Grossmächte könnten Ukraine in die Knie zwingen",
-     "url": "https://www.srf.ch/news/international/eine-unheilige-allianz-grossmaechte-koennten-ukraine-in-die-knie-zwingen",
-     "time": "2026-10-22T17:01:25Z"
     }
    ]
   },
@@ -156,6 +156,11 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Sondaggio Brasile, Lula e Bolsonaro testa a testa al 50%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/sondaggio-brasile-lula-e-bolsonaro-testa-a-testa-al-50-a-3-giorni-dal-ballottaggio_faf16ab2-4b61-45f8-9678-5ca4396b7e26.html",
+     "time": "2026-10-23T01:01:42Z"
+    },
     {
      "title": "Autotrasporto: il Garante degli scioperi chiede la precettazione",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/autotrasporto-il-garante-degli-scioperi-chiede-la-precettazione_e4b778ed-6e52-4fe4-803f-9327d22b604c.html",
@@ -200,11 +205,6 @@
      "title": "Giudice ordina a Trump di deporre entro l'11 dicembre nella causa contro la Bbc",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/giudice-ordina-a-trump-di-deporre-entro-l11-dicembre-nella-causa-contro_feeea33e-d057-4d03-b4ab-1cd5eb6a7257.html",
      "time": "2026-10-22T17:17:16Z"
-    },
-    {
-     "title": "Carte Pokémon da record, pensionato inglese le vende all'asta e diventa milionario",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/carte-pokemon-da-record-pensionato-inglese-le-vende-allasta-e-diventa-milionario_e6ba88be-0b3c-4e6f-b48a-0b8acae7b413.html",
-     "time": "2026-10-22T17:03:08Z"
     }
    ]
   },
@@ -215,9 +215,9 @@
    "countries": [],
    "items": [
     {
-     "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T23:22:45Z"
+     "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T01:38:44Z"
     },
     {
      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
