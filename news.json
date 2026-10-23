@@ -1,6 +1,6 @@
 {
- "version": 90,
- "updated": "2026-10-23T04:34:20Z",
+ "version": 91,
+ "updated": "2026-10-23T09:31:40Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Trotz Gesetzesverschärfung - Mehr Extremisten mit Waffenerlaubnis",
-     "url": "https://www.tagesschau.de/investigativ/ndr/waffen-extremisten-102.html",
-     "time": "2026-10-23T04:11:14Z"
+     "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
+     "time": "2026-10-23T09:13:15Z"
     },
     {
-     "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
-     "url": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
-     "time": "2026-10-23T03:01:38Z"
+     "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+     "url": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
+     "time": "2026-10-23T09:12:25Z"
     },
     {
-     "title": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
-     "url": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
-     "time": "2026-10-23T02:28:21Z"
+     "title": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html",
+     "time": "2026-10-23T09:12:00Z"
     },
     {
-     "title": "Studentenbewegung: Tausende auf Straße in Serbien vor Neuwahl",
-     "url": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
-     "time": "2026-10-23T02:01:08Z"
+     "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+     "time": "2026-10-23T08:45:11Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12936.html",
-     "time": "2026-10-22T21:28:13Z"
+     "title": "Pferdekutschen im New Yorker Central Park sollen abgeschafft werden",
+     "url": "https://www.tagesschau.de/ausland/amerika/new-york-pferdekutschen-100.html",
+     "time": "2026-10-23T08:36:32Z"
     },
     {
-     "title": "Nach Brunners Traumtor: Freiburg verliert in Monaco",
-     "url": "https://www.sportschau.de/regional/swr/swr-brunner-knackt-den-sc-freiburg-verliert-bei-der-as-monaco-100.html",
-     "time": "2026-10-22T21:20:54Z"
+     "title": "Erste schwerere Herbststürme in Deutschland erwartet",
+     "url": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html",
+     "time": "2026-10-23T08:33:26Z"
     },
     {
-     "title": "Hoffenheim gewinnt mit 3:0 gegen Lyon",
-     "url": "https://www.sportschau.de/regional/swr/swr-deutlicher-sieg-hoffenheim-schlaegt-olympique-lyon-100.html",
-     "time": "2026-10-22T21:16:24Z"
+     "title": "Weihnachtsbäume könnten teurer werden",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html",
+     "time": "2026-10-23T08:04:17Z"
     },
     {
-     "title": "Holger Schmidt, SWR, zum Ausmaß russischer Spionage in Deutschland",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1670980.html",
-     "time": "2026-10-22T21:01:07Z"
+     "title": "Illegale Spenden aus der Schweiz - Hat Weidel nicht die ganze Wahrheit gesagt?",
+     "url": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-weidel-100.html",
+     "time": "2026-10-23T08:03:32Z"
     },
     {
-     "title": "Steuerschätzung für 2027 liegt bei Rekordhöhe von einer Billion Euro",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1670978.html",
-     "time": "2026-10-22T20:58:41Z"
+     "title": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
+     "url": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html",
+     "time": "2026-10-23T07:14:56Z"
     },
     {
-     "title": "Sicherheitslücke der Programmiersprache PHP führt weltweit zu Problemen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1670976.html",
-     "time": "2026-10-22T20:51:38Z"
+     "title": "Venezuela: Tausende fordern Rückkehr von Machado",
+     "url": "https://www.tagesschau.de/ausland/amerika/venezuela-demonstrationen-machado-100.html",
+     "time": "2026-10-23T07:01:24Z"
     },
     {
-     "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
-     "time": "2026-10-22T19:48:35Z"
+     "title": "Wadephul reist in die Türkei: Ein halber Tag für die großen Krisen",
+     "url": "https://www.tagesschau.de/ausland/europa/tuerkei-besuch-wadephul-100.html",
+     "time": "2026-10-23T06:39:15Z"
     },
     {
-     "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
-     "url": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
-     "time": "2026-10-22T19:34:07Z"
+     "title": "Zirkuselefant Julie, Outfits von Freddie Mercury, Salzhalden im Najaf-See",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10522.html",
+     "time": "2026-10-23T06:32:00Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "20 Jahre «Back to Black» – Als Amy Winehouse in Zürich zerbrach",
-     "url": "https://www.srf.ch/radio-srf-3/20-jahre-back-to-black-als-amy-winehouse-in-zuerich-zerbrach",
-     "time": "2026-10-23T04:15:58Z"
+     "title": "Behandlung in Nigeria – Schweizerin mit Ebola angesteckt",
+     "url": "https://www.srf.ch/news/schweiz/behandlung-in-nigeria-schweizerin-mit-ebola-angesteckt",
+     "time": "2026-10-23T09:24:51Z"
     },
     {
-     "title": "Kämpfen oder fliehen – Das Dilemma der ukrainischen Männer",
-     "url": "https://www.srf.ch/news/international/ukraine/kaempfen-oder-fliehen-das-dilemma-der-ukrainischen-maenner",
-     "time": "2026-10-23T04:08:43Z"
+     "title": "Abstimmung vom 29. November 26 – Parolenspiegel zum Kriegsmaterialgesetz",
+     "url": "https://www.srf.ch/news/abstimmung-vom-29-november-26-parolenspiegel-zum-kriegsmaterialgesetz",
+     "time": "2026-10-23T09:10:09Z"
     },
     {
-     "title": "Sabotageakte in Lauterbrunnen – Nylonfaden im Lauterbrunnental gespannt – Gefahr für Basejumper",
-     "url": "https://www.srf.ch/news/schweiz/sabotageakte-in-lauterbrunnen-nylonfaden-im-lauterbrunnental-gespannt-gefahr-fuer-basejumper",
-     "time": "2026-10-23T04:06:30Z"
+     "title": "Bundesrats-Kandidatur – Walliser Doppelkandidatur +++ Aeschi überlegt – Matter will nicht",
+     "url": "https://www.srf.ch/news/schweiz/bundesrats-kandidatur-walliser-doppelkandidatur-aeschi-ueberlegt-matter-will-nicht",
+     "time": "2026-10-23T09:02:45Z"
     },
     {
-     "title": "Erste SRG-Umfrage – Vorerst drei Pattsituationen und ein klarer Ja-Trend",
-     "url": "https://www.srf.ch/news/schweiz/erste-srg-umfrage-vorerst-drei-pattsituationen-und-ein-klarer-ja-trend",
-     "time": "2026-10-23T04:00:24Z"
+     "title": "Abstimmung vom 29. November 26 – Parolenspiegel zur Initiative gegen Heiratsstrafe",
+     "url": "https://www.srf.ch/news/abstimmung-vom-29-november-26-parolenspiegel-zur-initiative-gegen-heiratsstrafe",
+     "time": "2026-10-23T08:57:51Z"
     },
     {
-     "title": "Erste SRG-Umfrage – Beim Kriegsmaterialgesetz ist noch alles offen",
-     "url": "https://www.srf.ch/news/erste-srg-umfrage-beim-kriegsmaterialgesetz-ist-noch-alles-offen",
-     "time": "2026-10-23T03:56:37Z"
+     "title": "Auf den Spuren des Männerteams – Der fast unheimliche Aufstieg der Fribourg-Gottéron Ladies",
+     "url": "https://www.srf.ch/sport/eishockey/frauen-eishockey/auf-den-spuren-des-maennerteams-der-fast-unheimliche-aufstieg-der-fribourg-gotteron-ladies",
+     "time": "2026-10-23T08:45:32Z"
     },
     {
-     "title": "Erste SRG-Umfrage – Knappes Ja bei der Initiative gegen die Heiratsstrafe",
-     "url": "https://www.srf.ch/news/erste-srg-umfrage-knappes-ja-bei-der-initiative-gegen-die-heiratsstrafe",
-     "time": "2026-10-23T03:56:19Z"
+     "title": "Abstimmung vom 29. November 26 – Parolenspiegel zur Feuerwerksinitiative",
+     "url": "https://www.srf.ch/news/abstimmung-vom-29-november-26-parolenspiegel-zur-feuerwerksinitiative",
+     "time": "2026-10-23T08:44:29Z"
     },
     {
-     "title": "Erste SRG-Umfrage – Finanzierung 13. AHV: Pattsituation mit leichtem Nein-Vorsprung",
-     "url": "https://www.srf.ch/news/erste-srg-umfrage-finanzierung-13-ahv-pattsituation-mit-leichtem-nein-vorsprung",
-     "time": "2026-10-23T03:56:13Z"
+     "title": "Operation statt Sölden – Vonn gibt neue Einblicke in Reha nach Olympia-Sturz",
+     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/operation-statt-soelden-vonn-gibt-neue-einblicke-in-reha-nach-olympia-sturz",
+     "time": "2026-10-23T08:41:47Z"
     },
     {
-     "title": "Erste SRG-Umfrage – Ja-Vorteil für Feuerwerksinitiative – Meinungen fast gemacht",
-     "url": "https://www.srf.ch/news/erste-srg-umfrage-ja-vorteil-fuer-feuerwerksinitiative-meinungen-fast-gemacht",
-     "time": "2026-10-23T03:56:07Z"
+     "title": "Werkausgabe zu Lebzeiten – Christoph Geiser: «Ich wollte Lebenslügen zerstören»",
+     "url": "https://www.srf.ch/kultur/literatur/werkausgabe-zu-lebzeiten-christoph-geiser-ich-wollte-lebensluegen-zerstoeren",
+     "time": "2026-10-23T08:34:50Z"
     },
     {
-     "title": "Erdbeben mit Stärke 7.0 – Mindestens 16 Menschen sterben in der Region Tibet",
-     "url": "https://www.srf.ch/news/international/erdbeben-mit-staerke-7-0-mindestens-16-menschen-sterben-in-der-region-tibet",
-     "time": "2026-10-23T03:03:26Z"
+     "title": "Abstimmung vom 29. November 26 – Parolenspiegel zur Finanzierung der 13. AHV-Rente",
+     "url": "https://www.srf.ch/news/abstimmung-vom-29-november-26-parolenspiegel-zur-finanzierung-der-13-ahv-rente",
+     "time": "2026-10-23T08:29:17Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Nach Angriffen in Gaza: Mindestens vier Tote",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-nach-angriffen-in-gaza-mindestens-vier-tote",
-     "time": "2026-10-23T01:02:45Z"
+     "title": "Kulturnews in Kurzform – Rekordauktion in Paris: Monet wird für 50 Millionen Euro verkauft",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-rekordauktion-in-paris-monet-wird-fuer-50-millionen-euro-verkauft",
+     "time": "2026-10-23T08:17:25Z"
     },
     {
-     "title": "Kulturnews in Kurzform – Schauspieler Tom Skerritt ist im Alter von 93 Jahren gestorben",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-tom-skerritt-ist-im-alter-von-93-jahren-gestorben",
-     "time": "2026-10-23T00:05:09Z"
+     "title": "Telekommunikation – Sunrise streicht nach Konsultationsverfahren 358 Jobs",
+     "url": "https://www.srf.ch/news/wirtschaft/telekommunikation-sunrise-streicht-nach-konsultationsverfahren-358-jobs",
+     "time": "2026-10-23T07:51:16Z"
     },
     {
-     "title": "Ex-Polizeichef von Guatemala – Bundesgericht bestätigt Freiheitsstrafe für Erwin Sperisen",
-     "url": "https://www.srf.ch/news/international/ex-polizeichef-von-guatemala-bundesgericht-bestaetigt-freiheitsstrafe-fuer-erwin-sperisen",
-     "time": "2026-10-22T21:43:24Z"
+     "title": "Christa Pike – Gerissene Vene schon während Hinrichtung befürchtet",
+     "url": "https://www.srf.ch/news/international/christa-pike-gerissene-vene-schon-waehrend-hinrichtung-befuerchtet",
+     "time": "2026-10-23T07:44:29Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Sondaggio Brasile, Lula e Bolsonaro testa a testa al 50%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/sondaggio-brasile-lula-e-bolsonaro-testa-a-testa-al-50-a-3-giorni-dal-ballottaggio_faf16ab2-4b61-45f8-9678-5ca4396b7e26.html",
-     "time": "2026-10-23T01:01:42Z"
+     "title": "Protesta Tir e agricoltori, ritardi e carenze di pesce e ortofrutta al Nord",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/protesta-tir-e-agricoltori-ritardi-e-carenze-di-pesce-e-ortofrutta-al-nord_114d4240-c90c-4cbe-b39d-54ac29b36038.html",
+     "time": "2026-10-23T09:15:09Z"
     },
     {
-     "title": "Autotrasporto: il Garante degli scioperi chiede la precettazione",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/autotrasporto-il-garante-degli-scioperi-chiede-la-precettazione_e4b778ed-6e52-4fe4-803f-9327d22b604c.html",
-     "time": "2026-10-22T20:51:22Z"
+     "title": "Meloni, interlocuzioni con i network, correggere i messaggi fuorvianti sulle droghe",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/meloni-interlocuzioni-con-i-network-correggere-i-messaggi-fuorvianti-sulle-droghe_1a192e34-b202-4ca8-869f-a0f1174fad26.html",
+     "time": "2026-10-23T09:02:04Z"
     },
     {
-     "title": "Putin, Russia e Ucraina possono raggiungere un accordo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/putin-russia-e-ucraina-possono-raggiungere-un-accordo_8a174fbf-e84d-4806-a638-cbf73a282528.html",
-     "time": "2026-10-22T19:34:15Z"
+     "title": "Armatori siciliani pesca, interventi insufficienti, via a sciopero fiscale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/armatori-siciliani-pesca-interventi-insufficienti-via-a-sciopero-fiscale_5a616e28-ebd0-490b-9217-08113392bfa5.html",
+     "time": "2026-10-23T08:52:05Z"
     },
     {
-     "title": "Putin, colloqui trilaterali dovrebbero riguardare garanzie sicurezza anche per Mosca",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/putin-colloqui-trilaterali-dovrebbero-riguardare-garanzie-sicurezza-anche-per-mosca_7ab86e0f-6691-45db-b30c-632cc8665247.html",
-     "time": "2026-10-22T19:16:10Z"
+     "title": "Protesta Tir, verso normalizzazione in Calabria in attesa del 27 ottobre",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/protesta-tir-verso-normalizzazione-in-calabria-in-attesa-del-27-ottobre_cbf3c594-4f6c-4a11-b603-9260fea3436d.html",
+     "time": "2026-10-23T08:46:54Z"
     },
     {
-     "title": "Putin, i territori nell'Ucraina orientale sono 'terre storicamente russe'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/putin-i-territori-nellucraina-orientale-sono-terre-storicamente-russe_7ad8a59b-e497-4803-befa-f84a58662064.html",
-     "time": "2026-10-22T19:14:45Z"
+     "title": "Bce, salgono le attese d'inflazione dei consumatori, 3,1% nei prossimi 12 mesi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/bce-salgono-le-attese-dinflazione-dei-consumatori-31-nei-prossimi-12-mesi_be7f92c2-f36a-4931-9e1b-5f1e8bdbd8b3.html",
+     "time": "2026-10-23T08:46:23Z"
     },
     {
-     "title": "Fonti, a vertice su manovra ampio spazio a prospettive e misure giovani",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/fonti-a-vertice-su-manovra-ampio-spazio-a-prospettive-e-misure-giovani_87983c7b-7f4c-425f-9a72-a11cfb7e07cf.html",
-     "time": "2026-10-22T18:57:49Z"
+     "title": "Scontri del 17 e 18 ottobre, perquisizioni della Digos in diverse città",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/scontri-del-17-e-18-ottobre-perquisizioni-della-digos-in-diverse-citta_0fc0e892-6baa-4a67-88f3-163567c8e857.html",
+     "time": "2026-10-23T08:45:48Z"
     },
     {
-     "title": "Wsj, 'Trump ha chiamato Musk per rimuovere le restrizioni a Starlink per l'Ucraina'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/wsj-trump-ha-chiamato-musk-per-rimuovere-le-restrizioni-a-starlink-per-lucraina_f98360bb-b7d3-44ee-98e1-66f48ecd1f00.html",
-     "time": "2026-10-22T18:20:47Z"
+     "title": "Orsini, 'termina il Pnrr, la manovra spinga sugli investimenti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/orsini-termina-il-pnrr-la-manovra-spinga-sugli-investimenti_52ef9fe8-d674-4f01-966d-5c31d89466c3.html",
+     "time": "2026-10-23T08:45:29Z"
     },
     {
-     "title": "Farnesina, attiviste italiane fermate in Cisgiordania, chiesti chiarimenti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/farnesina-attiviste-italiane-fermate-in-cisgiordania-chiesti-chiarimenti_5d3610cd-b2a2-4157-9cb8-5161ad102a8d.html",
-     "time": "2026-10-22T17:36:44Z"
+     "title": "Meloni, da irresponsabili ostinarsi a definire la cannabis droga leggera",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/meloni-da-irresponsabili-ostinarsi-a-definire-la-cannabis-droga-leggera_033f93d3-bc00-4ad8-8b3d-558c13c9be5e.html",
+     "time": "2026-10-23T08:41:43Z"
     },
     {
-     "title": "Kering, ricavi stabili ma soffre ancora Gucci",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/kering-ricavi-stabili-ma-soffre-ancora-gucci_ba056d17-3073-425e-b391-ecb97ad634a2.html",
-     "time": "2026-10-22T17:23:23Z"
+     "title": "Kiev, '500.000 persone senza elettricità dopo raid russi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/kiev-500.000-persone-senza-elettricita-dopo-raid-russi_65a6c945-47f8-42be-ac3b-339d33323967.html",
+     "time": "2026-10-23T08:41:28Z"
     },
     {
-     "title": "Giudice ordina a Trump di deporre entro l'11 dicembre nella causa contro la Bbc",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/giudice-ordina-a-trump-di-deporre-entro-l11-dicembre-nella-causa-contro_feeea33e-d057-4d03-b4ab-1cd5eb6a7257.html",
-     "time": "2026-10-22T17:17:16Z"
+     "title": "Il Btp Valore raccoglie oltre 500 milioni dopo un'ora nell'ultimo giorno",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/il-btp-valore-raccoglie-oltre-500-milioni-dopo-unora-nellultimo-giorno_84397344-aac5-4d58-9db4-472a95a5ddaf.html",
+     "time": "2026-10-23T08:26:30Z"
     }
    ]
   },
@@ -215,9 +215,44 @@
    "countries": [],
    "items": [
     {
+     "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+     "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T08:45:58Z"
+    },
+    {
+     "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+     "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T08:36:32Z"
+    },
+    {
+     "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T08:00:07Z"
+    },
+    {
+     "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+     "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T07:52:32Z"
+    },
+    {
+     "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T06:26:25Z"
+    },
+    {
+     "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T05:16:37Z"
+    },
+    {
      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-23T01:38:44Z"
+    },
+    {
+     "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-22T23:55:39Z"
     },
     {
      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
@@ -225,24 +260,9 @@
      "time": "2026-10-22T23:16:20Z"
     },
     {
-     "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-     "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T23:16:16Z"
-    },
-    {
-     "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+     "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-22T22:27:53Z"
-    },
-    {
-     "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-     "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T21:42:39Z"
-    },
-    {
-     "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-     "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T20:49:12Z"
     },
     {
      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
@@ -253,26 +273,6 @@
      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-22T19:25:26Z"
-    },
-    {
-     "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-     "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T18:26:56Z"
-    },
-    {
-     "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-     "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T17:49:13Z"
-    },
-    {
-     "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-     "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T17:21:42Z"
-    },
-    {
-     "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
-     "url": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-22T17:18:17Z"
     }
    ]
   }
