@@ -1,6 +1,6 @@
 {
- "version": 94,
- "updated": "2026-10-23T21:59:51Z",
+ "version": 95,
+ "updated": "2026-10-24T00:29:30Z",
  "fallback": "en",
  "regions": [
   {
@@ -30,7 +30,7 @@
      "time": "2026-10-23T20:44:25Z"
     },
     {
-     "title": "Wadephul nimmt am Außenministertreffen in Instanbul teil",
+     "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
      "url": "https://www.tagesschau.de/tagesthemen/video-1671648.html",
      "time": "2026-10-23T20:41:38Z"
     },
@@ -157,6 +157,16 @@
    ],
    "items": [
     {
+     "title": "Identificati i resti di otto desaparecidos della dittatura in Argentina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/identificati-i-resti-di-otto-desaparecidos-della-dittatura-in-argentina_dae357ec-c7db-48f8-9011-3b53a84192a4.html",
+     "time": "2026-10-23T22:16:09Z"
+    },
+    {
+     "title": "L'appello di Rubio, 'collaborate con la Cia se volete un cambiamento a Cuba'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/lappello-di-rubio-collaborate-con-la-cia-se-volete-un-cambiamento-a-cuba_a3c33a4d-60b1-4580-a597-e87e08d351b9.html",
+     "time": "2026-10-23T22:12:28Z"
+    },
+    {
      "title": "Gli autotrasportatori in Messico proclamano uno sciopero nazionale a oltranza",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/gli-autotrasportatori-in-messico-proclamano-uno-sciopero-nazionale-a-oltranza_6d713ad5-ed16-49e3-ba0e-c62a86ef3ce7.html",
      "time": "2026-10-23T21:49:15Z"
@@ -195,16 +205,6 @@
      "title": "Conte agli alleati, 'il confronto sul programma il prima possibile'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/conte-agli-alleati-il-confronto-sul-programma-il-prima-possibile_4b005fca-fef6-4edf-8167-69fe9b347705.html",
      "time": "2026-10-23T17:51:43Z"
-    },
-    {
-     "title": "Franceschini-Orlando-Speranza lanciano i comitati per l'alternativa verso il 2027",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/franceschini-orlando-speranza-lanciano-i-comitati-per-lalternativa-verso-il-2027_f9c14860-166a-46b7-9776-4013b3eeb939.html",
-     "time": "2026-10-23T17:50:07Z"
-    },
-    {
-     "title": "Mantovano, vigilare su normative Ue, a rischio elusione le restrizioni su cannabis",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/mantovano-vigilare-su-normative-ue-a-rischio-elusione-le-restrizioni-su-cannabis_f9696018-2a62-44b3-a8f4-d349323ed5aa.html",
-     "time": "2026-10-23T17:48:20Z"
     }
    ]
   },
