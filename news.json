@@ -1,6 +1,6 @@
 {
- "version": 100,
- "updated": "2026-10-24T19:24:20Z",
+ "version": 101,
+ "updated": "2026-10-24T21:49:48Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,34 @@
    ],
    "items": [
     {
-     "title": "Spektakuläre Rettungsaktion: Ukrainischer Soldat mit Drohne von der Front gerettet",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672116.html",
-     "time": "2026-10-24T19:01:56Z"
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12940.html",
+     "time": "2026-10-24T21:49:15Z"
+    },
+    {
+     "title": "Die Meinung von Achim Wendler, BR, zum CSU-Parteitag",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1672140.html",
+     "time": "2026-10-24T21:35:09Z"
+    },
+    {
+     "title": "CSU-Parteitag in München: Kanzler Merz fordert Geschlossenheit",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1672138.html",
+     "time": "2026-10-24T21:32:09Z"
+    },
+    {
+     "title": "Israel vor den Wahlen: Militäroperation im Westjordanland",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1672136.html",
+     "time": "2026-10-24T21:29:23Z"
+    },
+    {
+     "title": "Italiens Jugend protestiert erneut gegen die hohen Lebenshaltungskosten",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1672134.html",
+     "time": "2026-10-24T21:26:29Z"
+    },
+    {
+     "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1672132.html",
+     "time": "2026-10-24T21:23:23Z"
     },
     {
      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
@@ -30,24 +55,14 @@
      "time": "2026-10-24T18:59:09Z"
     },
     {
-     "title": "Proteste gegen die hohen Lebenshaltungskosten in Italien",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672118.html",
-     "time": "2026-10-24T18:56:43Z"
-    },
-    {
      "title": "Am bundesweiten Aktionstag demonstrieren hunderte Menschen gegen Abschiebungen an deutschen Flughäfen",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672120.html",
      "time": "2026-10-24T18:51:38Z"
     },
     {
-     "title": "Kanzler Merz ruft beim CSU-Parteitag in München zu Geschlossenheit in der Union auf",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672122.html",
-     "time": "2026-10-24T18:48:39Z"
-    },
-    {
-     "title": "Neue Proteste und Ausschreitungen in mehreren Städten in Frankreich",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672124.html",
-     "time": "2026-10-24T18:45:56Z"
+     "title": "Winterzeit: Zeitumstellung in der kommenden Nacht",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672108.html",
+     "time": "2026-10-24T18:38:49Z"
     },
     {
      "title": "tagesschau mit Gebärdensprache",
@@ -55,24 +70,9 @@
      "time": "2026-10-24T18:37:22Z"
     },
     {
-     "title": "Historischer Repräsentationsort des NS-Regimes und Mahnmal: Feuer zerstört Kehlsteinhaus",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672112.html",
-     "time": "2026-10-24T18:35:54Z"
-    },
-    {
-     "title": "Israels Regierungschef Netanjahu startet große Militäroffensive im besetzten Westjordanland",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672114.html",
-     "time": "2026-10-24T18:33:31Z"
-    },
-    {
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81672.html",
      "time": "2026-10-24T18:29:26Z"
-    },
-    {
-     "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
-     "time": "2026-10-24T16:51:47Z"
     }
    ]
   },
@@ -85,6 +85,36 @@
    ],
    "items": [
     {
+     "title": "Krieg im Nahen Osten – Huthi melden Vergeltungsschläge gegen Saudi-Arabien",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-huthi-melden-vergeltungsschlaege-gegen-saudi-arabien",
+     "time": "2026-10-24T20:53:36Z"
+    },
+    {
+     "title": "Unruhen in Frankreich – Hunderttausende demonstrierten – vereinzelt Gewalt am Abend",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-hunderttausende-demonstrierten-vereinzelt-gewalt-am-abend",
+     "time": "2026-10-24T20:39:14Z"
+    },
+    {
+     "title": "11. Runde in der Super League – YB beendet St. Gallens Serie in Wankdorf",
+     "url": "https://www.srf.ch/sport/fussball/super-league/11-runde-in-der-super-league-yb-beendet-st-gallens-serie-in-wankdorf",
+     "time": "2026-10-24T20:33:41Z"
+    },
+    {
+     "title": "National League am Samstag – Kurashev schiesst Lausanne zum Sieg – Ambri festigt Platz 2",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-kurashev-schiesst-lausanne-zum-sieg-ambri-festigt-platz-2",
+     "time": "2026-10-24T20:27:17Z"
+    },
+    {
+     "title": "Arbeitsplätze der Zukunft? – Hier sollen sich Angestellte im Büro so wohlfühlen wie zu Hause",
+     "url": "https://www.srf.ch/news/schweiz/arbeitsplaetze-der-zukunft-hier-sollen-sich-angestellte-im-buero-so-wohlfuehlen-wie-zu-hause",
+     "time": "2026-10-24T20:15:39Z"
+    },
+    {
+     "title": "Erst «ruhig», dann angespannt – Das war der «2. Akt» der Massenproteste in Frankreich",
+     "url": "https://www.srf.ch/news/international/erst-ruhig-dann-angespannt-das-war-der-2-akt-der-massenproteste-in-frankreich",
+     "time": "2026-10-24T19:27:14Z"
+    },
+    {
      "title": "2:1 in der 11. SL-Runde – Knapper FCZ-Sieg dank Kénys Geniestreich und FCL-Chancenwucher",
      "url": "https://www.srf.ch/sport/fussball/super-league/2-1-in-der-11-sl-runde-knapper-fcz-sieg-dank-kenys-geniestreich-und-fcl-chancenwucher",
      "time": "2026-10-24T18:23:25Z"
@@ -93,16 +123,6 @@
      "title": "Wahlen in Israel – Nach dem Massaker: Wie wählt man in einem Kibbuz neben Gaza?",
      "url": "https://www.srf.ch/news/international/wahlen-in-israel-nach-dem-massaker-wie-waehlt-man-in-einem-kibbuz-neben-gaza",
      "time": "2026-10-24T18:11:47Z"
-    },
-    {
-     "title": "Auslosung Swiss Indoors – Happiges Los für Wawrinka – Djokovic gegen Humbert",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/auslosung-swiss-indoors-happiges-los-fuer-wawrinka-djokovic-gegen-humbert",
-     "time": "2026-10-24T17:54:20Z"
-    },
-    {
-     "title": "Unruhen in Frankreich – 110'000 Menschen an Demo in Paris +++ Spannungen nehmen zu",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-110-000-menschen-an-demo-in-paris-spannungen-nehmen-zu",
-     "time": "2026-10-24T17:11:06Z"
     },
     {
      "title": "Feinmotorik, Koordination – Pingpong gegen Parkinson: Wie der Sport Betroffenen hilft",
@@ -123,26 +143,6 @@
      "title": "Weisse oder grüne Weihnachten? – Die Winterprognosen der Muotathaler Wetterschmöcker",
      "url": "https://www.srf.ch/radio-srf-musikwelle/weisse-oder-gruene-weihnachten-die-winterprognosen-der-muotathaler-wetterschmoecker",
      "time": "2026-10-24T15:04:21Z"
-    },
-    {
-     "title": "– Die Winterprognosen der Muotathaler Wetterschmöcker",
-     "url": "https://www.srf.ch/radio-srf-musikwelle/weisse-oder-gruene-weihnachten-die-winterprognosen-der-muotathaler-wetterschmoecker",
-     "time": "2026-10-24T15:04:21Z"
-    },
-    {
-     "title": "Lula gegen Bolsonaro – Brasilien vor Stichwahl um Präsidentenamt: Trump macht Druck",
-     "url": "https://www.srf.ch/news/international/lula-gegen-bolsonaro-brasilien-vor-stichwahl-um-praesidentenamt-trump-macht-druck",
-     "time": "2026-10-24T14:46:17Z"
-    },
-    {
-     "title": "FDP-Spitze zu Bundesratswahl – Zögern vor der Kandidatur «nicht gerade ein Empfehlungsschreiben»",
-     "url": "https://www.srf.ch/news/schweiz/fdp-spitze-zu-bundesratswahl-zoegern-vor-der-kandidatur-nicht-gerade-ein-empfehlungsschreiben",
-     "time": "2026-10-24T13:53:06Z"
-    },
-    {
-     "title": "Krieg im Sudan – «Wenn du hier keine Waffen hast, dann bist du niemand mehr»",
-     "url": "https://www.srf.ch/news/international/krieg-im-sudan-wenn-du-hier-keine-waffen-hast-dann-bist-du-niemand-mehr",
-     "time": "2026-10-24T13:21:17Z"
     }
    ]
   },
@@ -157,6 +157,46 @@
    ],
    "items": [
     {
+     "title": "Scontri a Milano, fermato Youssef Siher 'mente' del Movimento 17 ottobre",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-a-milano-fermato-youssef-siher-mente-del-movimento-17-ottobre_2de4f860-7c65-4ef2-97e3-0536be9ff0a2.html",
+     "time": "2026-10-24T21:43:17Z"
+    },
+    {
+     "title": "Trump, 'Melania è più brava dei professionisti, ha parlato con Putin e Zelensky'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/trump-melania-e-piu-brava-dei-professionisti-ha-parlato-con-putin-e-zelensky_607a8b47-20d9-468b-bafa-e674088f6eed.html",
+     "time": "2026-10-24T21:13:24Z"
+    },
+    {
+     "title": "Trump, 'faremo affari con Russia e Ucraina una volta finita la guerra'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/trump-faremo-affari-con-russia-e-ucraina-una-volta-finita-la-guerra_5f8419a2-0f16-48e5-9726-91d4d0a2f2c6.html",
+     "time": "2026-10-24T21:01:06Z"
+    },
+    {
+     "title": "Donald Trump ha votato in Florida per le midterm",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/donald-trump-ha-votato-in-florida-per-le-midterm_15b3dad0-f041-4862-abb6-3c464c6b42a3.html",
+     "time": "2026-10-24T20:18:13Z"
+    },
+    {
+     "title": "Meloni, con le nuove misure libertà di manifestare senza città a ferro e fuoco",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/meloni-con-le-nuove-misure-liberta-di-manifestare-senza-citta-a-ferro-e-fuoco_1d4a317d-258b-45c5-a4ef-b78c2f180edc.html",
+     "time": "2026-10-24T19:49:57Z"
+    },
+    {
+     "title": "Piantedosi, 'isolati violenti, non c'è spazio per chi agisce nell'impunità",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/piantedosi-isolati-violenti-non-ce-spazio-per-chi-agisce-nellimpunita_12a026f2-9ef4-4c12-8cc0-8b0c3153c7ca.html",
+     "time": "2026-10-24T19:27:25Z"
+    },
+    {
+     "title": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_d92367ef-35ad-4aa2-863a-7c8fe78b898b.html",
+     "time": "2026-10-24T19:25:06Z"
+    },
+    {
+     "title": "Claudio Baglioni, brano inedito Che notte è questa! apre primo dei 7 concerti a Roma",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/claudio-baglioni-brano-inedito-che-notte-e-questa-apre-primo-dei_ef069dbb-e355-40d6-9e9d-700f208a4801.html",
+     "time": "2026-10-24T19:20:54Z"
+    },
+    {
      "title": "Obama, 'Trump e Hegseth non sono persone serie e gli americani pagano'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/obama-trump-e-hegseth-non-sono-persone-serie-e-gli-americani-pagano_fe6041b9-c67d-48ce-8a7f-5f8915ebce83.html",
      "time": "2026-10-24T19:14:21Z"
@@ -165,46 +205,6 @@
      "title": "Violenti scontri nel centro di Tirana fra polizia e manifestanti",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/violenti-scontri-nel-centro-di-tirana-fra-polizia-e-manifestanti_8770847f-89ed-4f1a-8eb5-d1c9a39d3845.html",
      "time": "2026-10-24T18:04:39Z"
-    },
-    {
-     "title": "La tempesta Boelo colpisce il Regno Unito, viaggi interrotti ed eventi cancellati",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/la-tempesta-boelo-colpisce-il-regno-unito-viaggi-interrotti-ed-eventi-cancellati_b64b8280-0d1a-43f6-a709-bbd17275e877.html",
-     "time": "2026-10-24T18:03:46Z"
-    },
-    {
-     "title": "Il ministro dell'Interno francese, 'circa 1.000 fermi in tutto il Paese'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/il-ministro-dellinterno-francese-circa-1.000-fermi-in-tutto-il-paese_4705eb8e-6ac5-428e-841d-986342f41bdc.html",
-     "time": "2026-10-24T18:02:41Z"
-    },
-    {
-     "title": "Migliaia in piazza a Tel Aviv contro Netanyahu prima delle elezioni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/migliaia-in-piazza-a-tel-aviv-contro-netanyahu-prima-delle-elezioni_4469d036-7822-44ec-9b96-70b9090063fd.html",
-     "time": "2026-10-24T17:55:16Z"
-    },
-    {
-     "title": "Scontri al centro di Roma, cariche e idranti sui manifestanti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-al-centro-di-roma-cariche-e-idranti-sui-manifestanti_d522e443-6d62-4f63-bae2-e36b951ad646.html",
-     "time": "2026-10-24T17:50:39Z"
-    },
-    {
-     "title": "Razzi e bottiglie contro la polizia, a Torino fitto lancio lacrimogeni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/razzi-e-bottiglie-contro-la-polizia-a-torino-fitto-lancio-lacrimogeni_8d3c0a69-2e54-4f28-9f84-0c5a48c52efb.html",
-     "time": "2026-10-24T17:21:37Z"
-    },
-    {
-     "title": "Schlein agli alleati, 'troveremo un punto di incontro'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/schlein-agli-alleati-troveremo-un-punto-di-incontro_f30414dd-0dc1-4ec6-be5c-dcbd1b55ea01.html",
-     "time": "2026-10-24T16:47:13Z"
-    },
-    {
-     "title": "Sindacati, '800.000 in piazza in Francia, 250.000 a Parigi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/sindacati-800.000-in-piazza-in-francia-250.000-a-parigi_c63280d0-7f66-4596-a2a8-864fd7fef109.html",
-     "time": "2026-10-24T16:19:17Z"
-    },
-    {
-     "title": "Nasce la segreteria politica Lega, ok per acclamazione a un emendamento allo statuto",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/nasce-la-segreteria-politica-lega-ok-per-acclamazione-a-un-emendamento-allo-statuto_feafc2ca-0f0c-4154-9f43-5033549284fe.html",
-     "time": "2026-10-24T16:12:32Z"
     }
    ]
   },
@@ -214,6 +214,16 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T21:09:27Z"
+    },
+    {
+     "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+     "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T19:37:35Z"
+    },
     {
      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
@@ -225,7 +235,7 @@
      "time": "2026-10-24T17:25:46Z"
     },
     {
-     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T17:21:42Z"
     },
@@ -233,6 +243,11 @@
      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T17:11:56Z"
+    },
+    {
+     "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+     "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T15:56:48Z"
     },
     {
      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
@@ -258,21 +273,6 @@
      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T07:17:44Z"
-    },
-    {
-     "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T05:31:01Z"
-    },
-    {
-     "title": "How Brazil's changing working class is reshaping the presidential race",
-     "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T05:05:44Z"
-    },
-    {
-     "title": "The rise of AI election ads in US midterms campaign",
-     "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T05:03:44Z"
     }
    ]
   }
