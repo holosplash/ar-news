@@ -1,6 +1,6 @@
 {
- "version": 99,
- "updated": "2026-10-24T16:52:55Z",
+ "version": 100,
+ "updated": "2026-10-24T19:24:20Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "Spektakuläre Rettungsaktion: Ukrainischer Soldat mit Drohne von der Front gerettet",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672116.html",
+     "time": "2026-10-24T19:01:56Z"
+    },
+    {
+     "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
+     "time": "2026-10-24T19:00:39Z"
+    },
+    {
+     "title": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+     "url": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+     "time": "2026-10-24T18:59:09Z"
+    },
+    {
+     "title": "Proteste gegen die hohen Lebenshaltungskosten in Italien",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672118.html",
+     "time": "2026-10-24T18:56:43Z"
+    },
+    {
+     "title": "Am bundesweiten Aktionstag demonstrieren hunderte Menschen gegen Abschiebungen an deutschen Flughäfen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672120.html",
+     "time": "2026-10-24T18:51:38Z"
+    },
+    {
+     "title": "Kanzler Merz ruft beim CSU-Parteitag in München zu Geschlossenheit in der Union auf",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672122.html",
+     "time": "2026-10-24T18:48:39Z"
+    },
+    {
+     "title": "Neue Proteste und Ausschreitungen in mehreren Städten in Frankreich",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672124.html",
+     "time": "2026-10-24T18:45:56Z"
+    },
+    {
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12332.html",
+     "time": "2026-10-24T18:37:22Z"
+    },
+    {
+     "title": "Historischer Repräsentationsort des NS-Regimes und Mahnmal: Feuer zerstört Kehlsteinhaus",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672112.html",
+     "time": "2026-10-24T18:35:54Z"
+    },
+    {
+     "title": "Israels Regierungschef Netanjahu startet große Militäroffensive im besetzten Westjordanland",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672114.html",
+     "time": "2026-10-24T18:33:31Z"
+    },
+    {
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81672.html",
+     "time": "2026-10-24T18:29:26Z"
+    },
+    {
      "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
      "time": "2026-10-24T16:51:47Z"
-    },
-    {
-     "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
-     "time": "2026-10-24T16:19:11Z"
-    },
-    {
-     "title": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
-     "url": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html",
-     "time": "2026-10-24T16:06:57Z"
-    },
-    {
-     "title": "Halbzit-Gala von RB Leipzig schickt SV Elversberg in die Auswärtskrise",
-     "url": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-     "time": "2026-10-24T15:39:52Z"
-    },
-    {
-     "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
-     "url": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
-     "time": "2026-10-24T15:29:30Z"
-    },
-    {
-     "title": "Michael Strempel, ARD Paris, zu den erneuten Protesten in Frankreich",
-     "url": "https://www.tagesschau.de/video/video-1671926.html",
-     "time": "2026-10-24T15:24:33Z"
-    },
-    {
-     "title": "Kompany-Rückkehr auf die Bank noch Wochen entfernt",
-     "url": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
-     "time": "2026-10-24T14:59:18Z"
-    },
-    {
-     "title": "CSU-Parteitag in München: Die Rede von Kanzler Merz",
-     "url": "https://www.tagesschau.de/video/video-1671896.html",
-     "time": "2026-10-24T14:51:49Z"
-    },
-    {
-     "title": "Ski Alpin: Emma Aicher rast beim Weltcup-Auftakt auf das Podest",
-     "url": "https://www.sportschau.de/wintersport/ski-alpin/aicher-rast-beim-weltcup-auftakt-auf-podest,ski-alpin-soelden-riesenslalom-100.html",
-     "time": "2026-10-24T14:49:21Z"
-    },
-    {
-     "title": "Nach der Elternzeit: Wenn die Rückkehr in den Job schwierig wird",
-     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/elternzeit-rueckkehr-job-100.html",
-     "time": "2026-10-24T14:26:17Z"
-    },
-    {
-     "title": "Herbstwetter in Hessen, Rentenprotest in Madrid, Melbourne Modewoche 2026",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10524.html",
-     "time": "2026-10-24T14:18:50Z"
-    },
-    {
-     "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-     "time": "2026-10-24T13:58:56Z"
     }
    ]
   },
@@ -85,9 +85,29 @@
    ],
    "items": [
     {
+     "title": "2:1 in der 11. SL-Runde – Knapper FCZ-Sieg dank Kénys Geniestreich und FCL-Chancenwucher",
+     "url": "https://www.srf.ch/sport/fussball/super-league/2-1-in-der-11-sl-runde-knapper-fcz-sieg-dank-kenys-geniestreich-und-fcl-chancenwucher",
+     "time": "2026-10-24T18:23:25Z"
+    },
+    {
+     "title": "Wahlen in Israel – Nach dem Massaker: Wie wählt man in einem Kibbuz neben Gaza?",
+     "url": "https://www.srf.ch/news/international/wahlen-in-israel-nach-dem-massaker-wie-waehlt-man-in-einem-kibbuz-neben-gaza",
+     "time": "2026-10-24T18:11:47Z"
+    },
+    {
+     "title": "Auslosung Swiss Indoors – Happiges Los für Wawrinka – Djokovic gegen Humbert",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/auslosung-swiss-indoors-happiges-los-fuer-wawrinka-djokovic-gegen-humbert",
+     "time": "2026-10-24T17:54:20Z"
+    },
+    {
      "title": "Unruhen in Frankreich – 110'000 Menschen an Demo in Paris +++ Spannungen nehmen zu",
      "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-110-000-menschen-an-demo-in-paris-spannungen-nehmen-zu",
-     "time": "2026-10-24T16:34:00Z"
+     "time": "2026-10-24T17:11:06Z"
+    },
+    {
+     "title": "Feinmotorik, Koordination – Pingpong gegen Parkinson: Wie der Sport Betroffenen hilft",
+     "url": "https://www.srf.ch/news/gesellschaft/feinmotorik-koordination-pingpong-gegen-parkinson-wie-der-sport-betroffenen-hilft",
+     "time": "2026-10-24T17:01:07Z"
     },
     {
      "title": "Kunstturn-WM in Rotterdam – Nemour rehabilitiert sich und holt überlegen Gold",
@@ -105,6 +125,11 @@
      "time": "2026-10-24T15:04:21Z"
     },
     {
+     "title": "– Die Winterprognosen der Muotathaler Wetterschmöcker",
+     "url": "https://www.srf.ch/radio-srf-musikwelle/weisse-oder-gruene-weihnachten-die-winterprognosen-der-muotathaler-wetterschmoecker",
+     "time": "2026-10-24T15:04:21Z"
+    },
+    {
      "title": "Lula gegen Bolsonaro – Brasilien vor Stichwahl um Präsidentenamt: Trump macht Druck",
      "url": "https://www.srf.ch/news/international/lula-gegen-bolsonaro-brasilien-vor-stichwahl-um-praesidentenamt-trump-macht-druck",
      "time": "2026-10-24T14:46:17Z"
@@ -118,31 +143,6 @@
      "title": "Krieg im Sudan – «Wenn du hier keine Waffen hast, dann bist du niemand mehr»",
      "url": "https://www.srf.ch/news/international/krieg-im-sudan-wenn-du-hier-keine-waffen-hast-dann-bist-du-niemand-mehr",
      "time": "2026-10-24T13:21:17Z"
-    },
-    {
-     "title": "Mutmasslicher Täter gefasst – Hitlers «Teehaus» am Obersalzberg niedergebrannt",
-     "url": "https://www.srf.ch/news/international/mutmasslicher-taeter-gefasst-hitlers-teehaus-am-obersalzberg-niedergebrannt",
-     "time": "2026-10-24T13:18:11Z"
-    },
-    {
-     "title": "– Hitlers «Teehaus» am Obersalzberg niedergebrannt",
-     "url": "https://www.srf.ch/news/international/mutmasslicher-taeter-gefasst-hitlers-teehaus-am-obersalzberg-niedergebrannt",
-     "time": "2026-10-24T13:18:11Z"
-    },
-    {
-     "title": "Zwischen Protesten und Wahlen – ICE ist weg, doch die Angst in Minneapolis ist geblieben",
-     "url": "https://www.srf.ch/news/dialog/zwischen-protesten-und-wahlen-ice-ist-weg-doch-die-angst-in-minneapolis-ist-geblieben",
-     "time": "2026-10-24T13:14:06Z"
-    },
-    {
-     "title": "Frauen-Riesenslalom in Sölden – Neues Material, erster Sieg: Moltzan überrascht beim Auftakt",
-     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/frauen-riesenslalom-in-soelden-neues-material-erster-sieg-moltzan-ueberrascht-beim-auftakt",
-     "time": "2026-10-24T12:43:17Z"
-    },
-    {
-     "title": "– Neues Material, erster Sieg: Moltzan überrascht beim Auftakt",
-     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/frauen-riesenslalom-in-soelden-neues-material-erster-sieg-moltzan-ueberrascht-beim-auftakt",
-     "time": "2026-10-24T12:43:17Z"
     }
    ]
   },
@@ -157,6 +157,46 @@
    ],
    "items": [
     {
+     "title": "Obama, 'Trump e Hegseth non sono persone serie e gli americani pagano'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/obama-trump-e-hegseth-non-sono-persone-serie-e-gli-americani-pagano_fe6041b9-c67d-48ce-8a7f-5f8915ebce83.html",
+     "time": "2026-10-24T19:14:21Z"
+    },
+    {
+     "title": "Violenti scontri nel centro di Tirana fra polizia e manifestanti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/violenti-scontri-nel-centro-di-tirana-fra-polizia-e-manifestanti_8770847f-89ed-4f1a-8eb5-d1c9a39d3845.html",
+     "time": "2026-10-24T18:04:39Z"
+    },
+    {
+     "title": "La tempesta Boelo colpisce il Regno Unito, viaggi interrotti ed eventi cancellati",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/la-tempesta-boelo-colpisce-il-regno-unito-viaggi-interrotti-ed-eventi-cancellati_b64b8280-0d1a-43f6-a709-bbd17275e877.html",
+     "time": "2026-10-24T18:03:46Z"
+    },
+    {
+     "title": "Il ministro dell'Interno francese, 'circa 1.000 fermi in tutto il Paese'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/il-ministro-dellinterno-francese-circa-1.000-fermi-in-tutto-il-paese_4705eb8e-6ac5-428e-841d-986342f41bdc.html",
+     "time": "2026-10-24T18:02:41Z"
+    },
+    {
+     "title": "Migliaia in piazza a Tel Aviv contro Netanyahu prima delle elezioni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/migliaia-in-piazza-a-tel-aviv-contro-netanyahu-prima-delle-elezioni_4469d036-7822-44ec-9b96-70b9090063fd.html",
+     "time": "2026-10-24T17:55:16Z"
+    },
+    {
+     "title": "Scontri al centro di Roma, cariche e idranti sui manifestanti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-al-centro-di-roma-cariche-e-idranti-sui-manifestanti_d522e443-6d62-4f63-bae2-e36b951ad646.html",
+     "time": "2026-10-24T17:50:39Z"
+    },
+    {
+     "title": "Razzi e bottiglie contro la polizia, a Torino fitto lancio lacrimogeni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/razzi-e-bottiglie-contro-la-polizia-a-torino-fitto-lancio-lacrimogeni_8d3c0a69-2e54-4f28-9f84-0c5a48c52efb.html",
+     "time": "2026-10-24T17:21:37Z"
+    },
+    {
+     "title": "Schlein agli alleati, 'troveremo un punto di incontro'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/schlein-agli-alleati-troveremo-un-punto-di-incontro_f30414dd-0dc1-4ec6-be5c-dcbd1b55ea01.html",
+     "time": "2026-10-24T16:47:13Z"
+    },
+    {
      "title": "Sindacati, '800.000 in piazza in Francia, 250.000 a Parigi'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/sindacati-800.000-in-piazza-in-francia-250.000-a-parigi_c63280d0-7f66-4596-a2a8-864fd7fef109.html",
      "time": "2026-10-24T16:19:17Z"
@@ -165,46 +205,6 @@
      "title": "Nasce la segreteria politica Lega, ok per acclamazione a un emendamento allo statuto",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/nasce-la-segreteria-politica-lega-ok-per-acclamazione-a-un-emendamento-allo-statuto_feafc2ca-0f0c-4154-9f43-5033549284fe.html",
      "time": "2026-10-24T16:12:32Z"
-    },
-    {
-     "title": "Scontri alla fine del corteo di Parigi, polizia con lacrimogeni e idranti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-alla-fine-del-corteo-di-parigi-polizia-con-lacrimogeni-e-idranti_db06c252-91ee-45e7-a969-061eff625bbb.html",
-     "time": "2026-10-24T15:56:59Z"
-    },
-    {
-     "title": "Romeo, il problema è che non votano più la Lega, non le diatribe personali",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/romeo-il-problema-e-che-non-votano-piu-la-lega-non-le-diatribe-personali_291e5585-2cc3-43b1-b355-407ec0518718.html",
-     "time": "2026-10-24T15:43:45Z"
-    },
-    {
-     "title": "Tensioni tra manifestanti e forze dell'ordine a Torino",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/tensioni-tra-manifestanti-e-forze-dellordine-a-torino_deb103c8-55d8-4693-88c9-0e33b683d160.html",
-     "time": "2026-10-24T15:31:40Z"
-    },
-    {
-     "title": "Bonelli, da Schlein e Conte disponibilità a un incontro in settimana",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/bonelli-da-schlein-e-conte-disponibilita-a-un-incontro-in-settimana_bf6e93bd-11ea-4591-a78e-3388f4c3c429.html",
-     "time": "2026-10-24T14:55:30Z"
-    },
-    {
-     "title": "La mente del M1710 indagato per istigazione a delinquere aggravata",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/la-mente-del-m1710-indagato-per-istigazione-a-delinquere-aggravata_58c74c80-3a43-412f-8df5-6c30970759df.html",
-     "time": "2026-10-24T13:51:11Z"
-    },
-    {
-     "title": "Attacco a Romeo al congresso Lega, 'no a diatribe personali'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/attacco-a-romeo-al-congresso-lega-no-a-diatribe-personali_aba56ac0-b2c2-468d-ab51-28175da12a1f.html",
-     "time": "2026-10-24T13:08:32Z"
-    },
-    {
-     "title": "Cortei a Roma, 20 giovani portati in questura dopo controlli preventivi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-a-roma-20-giovani-portati-in-questura-dopo-controlli-preventivi_cd8bbed5-4aaf-41ee-a4af-e18291301529.html",
-     "time": "2026-10-24T12:54:16Z"
-    },
-    {
-     "title": "Tg1, trovata la 'mente' della pagina Movimento 17 ottobre",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/tg1-trovata-la-mente-della-pagina-movimento-17-ottobre_8526422d-ce3f-4a4f-9600-10075b7542e0.html",
-     "time": "2026-10-24T12:10:17Z"
     }
    ]
   },
@@ -215,14 +215,29 @@
    "countries": [],
    "items": [
     {
+     "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T19:12:51Z"
+    },
+    {
+     "title": "Two rescued after Nairobi building collapse with five still missing",
+     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T17:25:46Z"
+    },
+    {
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T17:21:42Z"
+    },
+    {
+     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+     "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T17:11:56Z"
+    },
+    {
      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T15:21:44Z"
-    },
-    {
-     "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T14:45:30Z"
     },
     {
      "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -233,16 +248,6 @@
      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T09:46:53Z"
-    },
-    {
-     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-     "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T09:45:47Z"
-    },
-    {
-     "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T09:44:01Z"
     },
     {
      "title": "Three released without charge after fatal arson attack in Ireland",
@@ -268,11 +273,6 @@
      "title": "The rise of AI election ads in US midterms campaign",
      "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T05:03:44Z"
-    },
-    {
-     "title": "Australian MP's condition improves after alleged car attack",
-     "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T01:55:15Z"
     }
    ]
   }
