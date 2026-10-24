@@ -1,6 +1,6 @@
 {
- "version": 95,
- "updated": "2026-10-24T00:29:30Z",
+ "version": 96,
+ "updated": "2026-10-24T04:57:34Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,31 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Brasilien vor der Stichwahl: Die Macht der Influencer",
+     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html",
+     "time": "2026-10-24T04:13:03Z"
+    },
+    {
+     "title": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html",
+     "time": "2026-10-24T04:10:57Z"
+    },
+    {
+     "title": "Warum Brettspiele die Demokratie und das Miteinander fördern",
+     "url": "https://www.tagesschau.de/kultur/spiele-gesellschaft-100.html",
+     "time": "2026-10-24T03:55:17Z"
+    },
+    {
+     "title": "Wie sieht die Zukunft der Raffinerien aus?",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
+     "time": "2026-10-24T01:06:57Z"
+    },
+    {
+     "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+     "url": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+     "time": "2026-10-24T01:01:43Z"
+    },
     {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12932.html",
@@ -48,31 +73,6 @@
      "title": "Erster Sieg: Gladbachs Not-Elf überrumpelt schwache Stuttgarter",
      "url": "https://www.sportschau.de/fussball/bundesliga/gladbachs-not-elf-ueberrumpelt-schwache-stuttgarter,spielbericht-vfb-stuttgart-borussia-moenchengladbach-108.html",
      "time": "2026-10-23T20:25:49Z"
-    },
-    {
-     "title": "Melania Trump soll lokale Waffenruhe für ukrainische Stadt Oleschky ausgehandelt haben",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1671660.html",
-     "time": "2026-10-23T20:23:14Z"
-    },
-    {
-     "title": "Frankreich rüstet sich für nächsten Protesttag",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html",
-     "time": "2026-10-23T20:02:01Z"
-    },
-    {
-     "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
-     "time": "2026-10-23T19:45:20Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12324.html",
-     "time": "2026-10-23T18:37:28Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81582.html",
-     "time": "2026-10-23T18:35:13Z"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "time": "2026-10-23T18:41:08Z"
     },
     {
+     "title": "– Die mysteriösen Uhrenlieferungen nach Frankreich",
+     "url": "https://www.srf.ch/news/wirtschaft/schweizer-uhrenindustrie-die-mysterioesen-uhrenlieferungen-nach-frankreich",
+     "time": "2026-10-23T18:41:08Z"
+    },
+    {
      "title": "Rennen um Parmelins Sitz – Die Zürcher SVP muss passen",
      "url": "https://www.srf.ch/news/schweiz/rennen-um-parmelins-sitz-die-zuercher-svp-muss-passen",
      "time": "2026-10-23T18:24:07Z"
@@ -138,11 +143,6 @@
      "title": "Krieg im Nahen Osten – Angriff im Westjordanland – Netanjahu ordnet Abriegelung an",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-angriff-im-westjordanland-netanjahu-ordnet-abriegelung-an",
      "time": "2026-10-23T17:37:26Z"
-    },
-    {
-     "title": "Historische Kandidatur – Warum dieser Regierungskandidat für Baselland so historisch ist",
-     "url": "https://www.srf.ch/news/schweiz/historische-kandidatur-warum-dieser-regierungskandidat-fuer-baselland-so-historisch-ist",
-     "time": "2026-10-23T17:32:38Z"
     }
    ]
   },
@@ -156,6 +156,26 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Moto Gp Australia, M. Marquez vince la Sprint Race e torna in testa al Mondiale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/moto-gp-australia-m.-marquez-vince-la-sprint-race-e-torna-in-testa-al-mondiale_14099268-4d87-4d58-8894-d317298426e1.html",
+     "time": "2026-10-24T04:38:54Z"
+    },
+    {
+     "title": "Cuba, 'appelli a collaborare con la Cia? Gli Usa sono alla disperazione'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cuba-appelli-a-collaborare-con-la-cia-gli-usa-sono-alla-disperazione_f2550bb1-6795-43d3-b19e-6246ccf64091.html",
+     "time": "2026-10-24T02:39:36Z"
+    },
+    {
+     "title": "Brucia il 'Nido dell'Aquila' di Hitler sulle Alpi, una persona fermata",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/brucia-il-nido-dellaquila-di-hitler-sulle-alpi-una-persona-fermata_7e1fc042-3144-47bc-b1bd-cfd70d2ffe3c.html",
+     "time": "2026-10-24T02:36:55Z"
+    },
+    {
+     "title": "Moto Gp Australia, Marc Marquez cade ma conquista la pole",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/moto-gp-australia-marc-marquez-cade-ma-conquista-la-pole_988ab147-b493-44ae-9755-e91b54ae0ad2.html",
+     "time": "2026-10-24T01:05:29Z"
+    },
     {
      "title": "Identificati i resti di otto desaparecidos della dittatura in Argentina",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/identificati-i-resti-di-otto-desaparecidos-della-dittatura-in-argentina_dae357ec-c7db-48f8-9011-3b53a84192a4.html",
@@ -185,26 +205,6 @@
      "title": "Trump, 'mi occuperò di Cuba quando torneremo dall'Iran'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/trump-mi-occupero-di-cuba-quando-torneremo-dalliran_6488cb4e-fb71-46d0-a7a1-1f8432088c37.html",
      "time": "2026-10-23T19:40:38Z"
-    },
-    {
-     "title": "Burnham sente Trump, Ucraina abbia pieno accesso a Starlink",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/burnham-sente-trump-ucraina-abbia-pieno-accesso-a-starlink_6f4bada4-486d-4c64-8500-78e774fae57e.html",
-     "time": "2026-10-23T18:42:45Z"
-    },
-    {
-     "title": "Tajani, previsto domattina rientro in Italia delle 5 attiviste fermate in Israele",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/tajani-previsto-domattina-rientro-in-italia-delle-5-attiviste-fermate-in-israele_3c4a021e-371b-482d-b5d4-cbda4bfb4718.html",
-     "time": "2026-10-23T18:31:11Z"
-    },
-    {
-     "title": "Leonor ai Premi Principessa Asturie, 'la speranza contro il caos e gli estremismi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/leonor-ai-premi-principessa-asturie-la-speranza-contro-il-caos-e-gli-estremismi_ea62a7c2-6e4e-456d-b9ab-e322dc0d003e.html",
-     "time": "2026-10-23T18:07:32Z"
-    },
-    {
-     "title": "Conte agli alleati, 'il confronto sul programma il prima possibile'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/conte-agli-alleati-il-confronto-sul-programma-il-prima-possibile_4b005fca-fef6-4edf-8167-69fe9b347705.html",
-     "time": "2026-10-23T17:51:43Z"
     }
    ]
   },
@@ -214,6 +214,41 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "France prepares for day of protest a week after nationwide riots",
+     "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T04:03:46Z"
+    },
+    {
+     "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+     "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T03:51:25Z"
+    },
+    {
+     "title": "Australian MP's condition improves after alleged car attack",
+     "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T01:55:15Z"
+    },
+    {
+     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T00:05:43Z"
+    },
+    {
+     "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+     "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T23:11:31Z"
+    },
+    {
+     "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+     "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T23:09:16Z"
+    },
+    {
+     "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-23T23:08:23Z"
+    },
     {
      "title": "Argentina drops investigation into President Milei over crypto fraud",
      "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
@@ -238,41 +273,6 @@
      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-23T19:30:19Z"
-    },
-    {
-     "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-     "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T18:52:17Z"
-    },
-    {
-     "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-     "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T15:37:07Z"
-    },
-    {
-     "title": "Oil spill washes up on UAE beaches after tanker strike",
-     "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T15:30:47Z"
-    },
-    {
-     "title": "PSG v Lyon moved as Paris prepares for more protests",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T14:18:41Z"
-    },
-    {
-     "title": "Denmark to ban mink farming in government U-turn",
-     "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T12:17:45Z"
-    },
-    {
-     "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-     "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T11:30:32Z"
-    },
-    {
-     "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-     "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T10:14:37Z"
     }
    ]
   }
