@@ -1,6 +1,6 @@
 {
- "version": 97,
- "updated": "2026-10-24T09:25:32Z",
+ "version": 98,
+ "updated": "2026-10-24T13:32:47Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Bayerns Trainer Vincent Kompany mit Notarzt in Klinik gebracht",
-     "url": "https://www.sportschau.de/regional/br/br-nach-zusammenbruch-fcb-coach-kompany-in-klinik-gebracht-102.html",
-     "time": "2026-10-24T09:17:19Z"
+     "title": "Israelische Armee startet Einsatz in Hebron",
+     "url": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
+     "time": "2026-10-24T13:23:19Z"
     },
     {
-     "title": "AfD-Generalsekretär und Landtagspräsident: Tobias Rausch sieht eigene Ämterhäufing kritisch",
-     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landtagspraesident-tobias-rausch-afd-parteiamt-abgeben,rausch-aemter-100.html",
-     "time": "2026-10-24T09:16:15Z"
+     "title": "Ski Alpin: Emma Aicher rast beim Weltcup-Auftakt auf das Podest",
+     "url": "https://www.sportschau.de/wintersport/ski-alpin/aicher-rast-beim-weltcup-auftakt-auf-podest,ski-alpin-soelden-riesenslalom-100.html",
+     "time": "2026-10-24T13:05:35Z"
     },
     {
-     "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
-     "url": "https://www.tagesschau.de/inland/herbststurm-104.html",
-     "time": "2026-10-24T08:59:50Z"
-    },
-    {
-     "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
-     "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
-     "time": "2026-10-24T08:55:12Z"
-    },
-    {
-     "title": "Sommerzeit endet - Um 3:00 Uhr wird an der Uhr gedreht",
-     "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-     "time": "2026-10-24T08:54:51Z"
-    },
-    {
-     "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
-     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
-     "time": "2026-10-24T08:27:08Z"
-    },
-    {
-     "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
+     "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
      "url": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-     "time": "2026-10-24T08:11:10Z"
+     "time": "2026-10-24T12:35:12Z"
     },
     {
-     "title": "Zahlreiche Schäden nach Herbststurm \"Luise\" über Deutschland",
-     "url": "https://www.tagesschau.de/video/video-1671720.html",
-     "time": "2026-10-24T07:20:54Z"
+     "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+     "time": "2026-10-24T12:19:07Z"
     },
     {
-     "title": "Kehlsteinhaus in Bayern in Flammen",
-     "url": "https://www.tagesschau.de/video/video-1671712.html",
-     "time": "2026-10-24T07:10:27Z"
+     "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+     "url": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
+     "time": "2026-10-24T11:24:45Z"
     },
     {
-     "title": "Brasilien vor der Stichwahl: Die Macht der Influencer",
-     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html",
-     "time": "2026-10-24T04:13:03Z"
+     "title": "Israel startet \"Anti-Terror-Operation\"",
+     "url": "https://www.tagesschau.de/video/video-1671770.html",
+     "time": "2026-10-24T10:58:20Z"
     },
     {
-     "title": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html",
-     "time": "2026-10-24T04:10:57Z"
+     "title": "Schwere Schäden nach Sturmtief \"Luise\"",
+     "url": "https://www.tagesschau.de/video/video-1671776.html",
+     "time": "2026-10-24T10:55:09Z"
     },
     {
-     "title": "Warum Brettspiele die Demokratie und das Miteinander fördern",
-     "url": "https://www.tagesschau.de/kultur/spiele-gesellschaft-100.html",
-     "time": "2026-10-24T03:55:17Z"
+     "title": "Rettung von der Front mit Hexacopter-Drohne",
+     "url": "https://www.tagesschau.de/video/video-1671772.html",
+     "time": "2026-10-24T10:52:34Z"
+    },
+    {
+     "title": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/spd-chef-klingbeil-debatte-100.html",
+     "time": "2026-10-24T10:52:30Z"
+    },
+    {
+     "title": "Michael Strempel, ARD Paris, mit Informationen zu den Protesten in Frankreich",
+     "url": "https://www.tagesschau.de/video/video-1671768.html",
+     "time": "2026-10-24T10:50:06Z"
+    },
+    {
+     "title": "Kompany-Rückkehr auf der Bank erst in Wochen",
+     "url": "https://www.sportschau.de/regional/br/br-eberl-kompany-rueckkehr-auf-bank-erst-in-wochen-102.html",
+     "time": "2026-10-24T10:47:31Z"
+    },
+    {
+     "title": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
+     "time": "2026-10-24T10:46:34Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Person vorläufig verhaftet – Hitlers «Teehaus» am Obersalzberg niedergebrannt",
-     "url": "https://www.srf.ch/news/international/person-vorlaeufig-verhaftet-hitlers-teehaus-am-obersalzberg-niedergebrannt",
-     "time": "2026-10-24T09:03:06Z"
+     "title": "Krieg im Sudan – «Wenn du hier keine Waffen hast, dann bist du niemand mehr»",
+     "url": "https://www.srf.ch/news/international/krieg-im-sudan-wenn-du-hier-keine-waffen-hast-dann-bist-du-niemand-mehr",
+     "time": "2026-10-24T13:21:17Z"
     },
     {
-     "title": "Internationale Fussball-News – «Stabiler» Kompany fehlt wochenlang",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-stabiler-kompany-fehlt-wochenlang",
-     "time": "2026-10-24T08:59:29Z"
+     "title": "Mutmasslicher Täter gefasst – Hitlers «Teehaus» am Obersalzberg niedergebrannt",
+     "url": "https://www.srf.ch/news/international/mutmasslicher-taeter-gefasst-hitlers-teehaus-am-obersalzberg-niedergebrannt",
+     "time": "2026-10-24T13:18:11Z"
     },
     {
-     "title": "Chilbi im Herbst – Wie sich der Jahrmarkt vom Handelsplatz zum Vergnügen wandelte",
-     "url": "https://www.srf.ch/news/schweiz/chilbi-im-herbst-wie-sich-der-jahrmarkt-vom-handelsplatz-zum-vergnuegen-wandelte",
-     "time": "2026-10-24T08:53:07Z"
+     "title": "– Hitlers «Teehaus» am Obersalzberg niedergebrannt",
+     "url": "https://www.srf.ch/news/international/mutmasslicher-taeter-gefasst-hitlers-teehaus-am-obersalzberg-niedergebrannt",
+     "time": "2026-10-24T13:18:11Z"
     },
     {
-     "title": "Krieg in der Ukraine – Ukrainischer Verteidigungsminister: Starlink wieder stabil",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukrainischer-verteidigungsminister-starlink-wieder-stabil",
-     "time": "2026-10-24T08:40:11Z"
+     "title": "Zwischen Protesten und Wahlen – ICE ist weg, doch die Angst in Minneapolis ist geblieben",
+     "url": "https://www.srf.ch/news/dialog/zwischen-protesten-und-wahlen-ice-ist-weg-doch-die-angst-in-minneapolis-ist-geblieben",
+     "time": "2026-10-24T13:14:06Z"
     },
     {
-     "title": "Neuer Film «Frank & Louis» – Volpe: «Ein Mensch ist mehr als das Schlimmste, das er getan hat»",
-     "url": "https://www.srf.ch/news/schweiz/neuer-film-frank-louis-volpe-ein-mensch-ist-mehr-als-das-schlimmste-das-er-getan-hat",
-     "time": "2026-10-24T08:24:46Z"
+     "title": "Unruhen in Frankreich – Massive Polizeikontrollen +++ Lage am frühen Nachmittag «ruhig»",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-massive-polizeikontrollen-lage-am-fruehen-nachmittag-ruhig",
+     "time": "2026-10-24T13:00:51Z"
     },
     {
-     "title": "Proteste in Frankreich – Pink Panther und brennendes Paris: Diese Fake-Fotos kursieren",
-     "url": "https://www.srf.ch/news/srf-faktenchecks/proteste-in-frankreich-pink-panther-und-brennendes-paris-diese-fake-fotos-kursieren",
-     "time": "2026-10-24T08:03:22Z"
+     "title": "Frauen-Riesenslalom in Sölden – Neues Material, erster Sieg: Moltzan überrascht beim Auftakt",
+     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/frauen-riesenslalom-in-soelden-neues-material-erster-sieg-moltzan-ueberrascht-beim-auftakt",
+     "time": "2026-10-24T12:43:17Z"
     },
     {
-     "title": "Parlamentswahl in Serbien – Gelingt den Studierenden der grosse Coup?",
-     "url": "https://www.srf.ch/news/international/parlamentswahl-in-serbien-gelingt-den-studierenden-der-grosse-coup",
-     "time": "2026-10-24T07:36:40Z"
+     "title": "Zurück zur Winterzeit – Kosten, Aufwand und Nutzen: Sechs Fakten zur Zeitumstellung",
+     "url": "https://www.srf.ch/news/schweiz/zurueck-zur-winterzeit-kosten-aufwand-und-nutzen-sechs-fakten-zur-zeitumstellung",
+     "time": "2026-10-24T12:39:36Z"
     },
     {
-     "title": "MotoGP in Australien – Marc Marquez gewinnt Sprint vor Bruder Alex – Drama um Martin",
-     "url": "https://www.srf.ch/sport/motorsport/motorrad/motogp-in-australien-marc-marquez-gewinnt-sprint-vor-bruder-alex-drama-um-martin",
-     "time": "2026-10-24T07:36:14Z"
+     "title": "Trump in den 90er-Jahren – Schönheitsköniginnen, Schulden, Epstein: Trumps turbulente 1990er",
+     "url": "https://www.srf.ch/news/international/usa/trump-in-den-90er-jahren-schoenheitskoeniginnen-schulden-epstein-trumps-turbulente-1990er",
+     "time": "2026-10-24T12:14:18Z"
     },
     {
-     "title": "Unruhen in Frankreich – Protest-Wochenende: Hohe Anspannung +++ Besitzer verrammeln Läden",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-protest-wochenende-hohe-anspannung-besitzer-verrammeln-laeden",
-     "time": "2026-10-24T07:29:47Z"
+     "title": "Auslosung Swiss Indoors – Happiges Los für Wawrinka – Djokovic gegen Humbert",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/auslosung-swiss-indoors-happiges-los-fuer-wawrinka-djokovic-gegen-humbert",
+     "time": "2026-10-24T12:08:36Z"
     },
     {
-     "title": "Strom vom Acker – Die Schweiz lässt riesiges Sonnenstrompotenzial bisher ungenutzt",
-     "url": "https://www.srf.ch/news/wirtschaft/strom-vom-acker-die-schweiz-laesst-riesiges-sonnenstrompotenzial-bisher-ungenutzt",
-     "time": "2026-10-24T07:14:37Z"
+     "title": "Nach Vorstoss der Europäer – Infantino will Fragen der Uefa beantworten",
+     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/nach-vorstoss-der-europaeer-infantino-will-fragen-der-uefa-beantworten",
+     "time": "2026-10-24T11:59:15Z"
     },
     {
-     "title": "Letzte Saison 3 Siege in Bern – St. Gallen kehrt ins «Lieblingsstadion» Wankdorf zurück",
-     "url": "https://www.srf.ch/sport/fussball/super-league/letzte-saison-3-siege-in-bern-st-gallen-kehrt-ins-lieblingsstadion-wankdorf-zurueck",
-     "time": "2026-10-24T06:57:47Z"
+     "title": "Weitere Sport-News – Djakovic pulverisiert Schweizer Rekord über 800 m",
+     "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-djakovic-pulverisiert-schweizer-rekord-ueber-800-m",
+     "time": "2026-10-24T11:04:55Z"
     },
     {
-     "title": "Bienenstachel – So pumpt die Honigbiene ihr Gift",
-     "url": "https://www.srf.ch/wissen/natur-tiere/bienenstachel-so-pumpt-die-honigbiene-ihr-gift",
-     "time": "2026-10-24T06:43:16Z"
+     "title": "25 Jahre Gotthardtunnel-Brand – «Als die Rauchwalze auf uns zurollte, bekam ich Angst»",
+     "url": "https://www.srf.ch/news/schweiz/25-jahre-gotthardtunnel-brand-als-die-rauchwalze-auf-uns-zurollte-bekam-ich-angst",
+     "time": "2026-10-24T11:00:17Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
+     "title": "Attacco a Romeo al congresso Lega, 'no a diatribe personali'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/attacco-a-romeo-al-congresso-lega-no-a-diatribe-personali_aba56ac0-b2c2-468d-ab51-28175da12a1f.html",
+     "time": "2026-10-24T13:08:32Z"
+    },
+    {
+     "title": "Cortei a Roma, 20 giovani portati in questura dopo controlli preventivi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-a-roma-20-giovani-portati-in-questura-dopo-controlli-preventivi_cd8bbed5-4aaf-41ee-a4af-e18291301529.html",
+     "time": "2026-10-24T12:54:16Z"
+    },
+    {
+     "title": "Tg1, trovata la 'mente' della pagina Movimento 17 ottobre",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/tg1-trovata-la-mente-della-pagina-movimento-17-ottobre_8526422d-ce3f-4a4f-9600-10075b7542e0.html",
+     "time": "2026-10-24T12:10:17Z"
+    },
+    {
+     "title": "Piantedosi, 'giornata complicata, pronti a fronteggiare ogni situazione'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/piantedosi-giornata-complicata-pronti-a-fronteggiare-ogni-situazione_2042d034-decf-4ad5-82d2-590621b5d0e5.html",
+     "time": "2026-10-24T11:47:58Z"
+    },
+    {
+     "title": "Anm, 'miope rispondere con nuovi reati alle notizie di cronaca'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/anm-miope-rispondere-con-nuovi-reati-alle-notizie-di-cronaca_124615d8-2aa2-497e-9fe5-f5fe18d04eac.html",
+     "time": "2026-10-24T10:38:45Z"
+    },
+    {
+     "title": "Zakharova, 'Meloni ascolti Al Bano che chiede di riaprire le porte a Mosca'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/zakharova-meloni-ascolti-al-bano-che-chiede-di-riaprire-le-porte-a-mosca_99d2cddc-d63e-4128-897e-4ff683d392e7.html",
+     "time": "2026-10-24T10:19:58Z"
+    },
+    {
+     "title": "Farnesina, rimpatriate le cinque italiane fermate in Cisgiordania",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/farnesina-rimpatriate-le-cinque-italiane-fermate-in-cisgiordania_bda270f9-51b7-43df-ba68-b154f7aa6ace.html",
+     "time": "2026-10-24T10:04:22Z"
+    },
+    {
+     "title": "Eurostat, disuguaglianza redditi in Italia ai minimi da 2014 ma resta oltre media Ue",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/eurostat-disuguaglianza-redditi-in-italia-ai-minimi-da-2014-ma-resta-oltre-media-ue_d213c88a-0ad3-4491-8bae-051b01e8e139.html",
+     "time": "2026-10-24T09:38:37Z"
+    },
+    {
+     "title": "Giorgetti, coperta è corta, pesano materie prime e tassi sul debito",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/giorgetti-coperta-e-corta-pesano-materie-prime-e-tassi-sul-debito_e3ca3834-4684-4059-985f-9730ebf5e6bf.html",
+     "time": "2026-10-24T09:25:48Z"
+    },
+    {
      "title": "L'ambasciata russa sulle proteste, 'ormai Mosca dietro ogni problema in Italia'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/lambasciata-russa-sulle-proteste-ormai-mosca-dietro-ogni-problema-in-italia_d28eda99-a3fa-46a0-897f-5bee8780a54d.html",
      "time": "2026-10-24T09:21:06Z"
-    },
-    {
-     "title": "++ Eurostat, disuguaglianza redditi in Italia ai minimi da 2014 ma resta oltre media Ue ++",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/eurostat-disuguaglianza-redditi-in-italia-ai-minimi-da-2014-ma-resta-oltre-media-ue_8899dbd2-dfc4-457f-b603-6a6c19590275.html",
-     "time": "2026-10-24T08:50:49Z"
-    },
-    {
-     "title": "Cortei Milano, le perquisizioni dopo la scoperta di una chat sospetta",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-milano-le-perquisizioni-dopo-la-scoperta-di-una-chat-sospetta_25de87cb-7472-4dd9-bd71-c0687102d6ac.html",
-     "time": "2026-10-24T08:39:00Z"
-    },
-    {
-     "title": "Kiev, Starlink è stabile e ha ripreso le operazioni a velocità 400km/h",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/kiev-starlink-e-stabile-e-ha-ripreso-le-operazioni-a-velocita-400kmh_3855b8bf-c459-4476-86ac-e7651c300481.html",
-     "time": "2026-10-24T08:21:47Z"
-    },
-    {
-     "title": "Adusbef, Italia al top in Ue per tasse su gasolio, pesano il 48%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/adusbef-italia-al-top-in-ue-per-tasse-su-gasolio-pesano-il-48_ee569ac6-a9ef-40c4-ae07-513f3d4e29a9.html",
-     "time": "2026-10-24T08:13:08Z"
-    },
-    {
-     "title": "Cortei, oltre 150 perquisizioni a Milano e in altre 20 città",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-oltre-150-perquisizioni-a-milano-e-in-altre-20-citta_055c4167-ca82-44f5-85bb-882298320c3a.html",
-     "time": "2026-10-24T08:01:55Z"
-    },
-    {
-     "title": "Media, 'decine di palestinesi arrestati in blitz dell'Idf in Cisgiordania'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/media-decine-di-palestinesi-arrestati-in-blitz-dellidf-in-cisgiordania_6529788a-09cd-4f8e-8cac-8c40e4667e46.html",
-     "time": "2026-10-24T06:17:11Z"
-    },
-    {
-     "title": "Agguato in Calabria, uccisa la moglie di un boss, lui ferito",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/agguato-in-calabria-uccisa-la-moglie-di-un-boss-lui-ferito_443fbd02-e90c-44ff-9504-aaa1ebae595b.html",
-     "time": "2026-10-24T06:08:52Z"
-    },
-    {
-     "title": "Moto Gp Australia, M. Marquez vince la Sprint Race e torna in testa al Mondiale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/moto-gp-australia-m.-marquez-vince-la-sprint-race-e-torna-in-testa-al-mondiale_14099268-4d87-4d58-8894-d317298426e1.html",
-     "time": "2026-10-24T04:38:54Z"
-    },
-    {
-     "title": "Cuba, 'appelli a collaborare con la Cia? Gli Usa sono alla disperazione'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cuba-appelli-a-collaborare-con-la-cia-gli-usa-sono-alla-disperazione_f2550bb1-6795-43d3-b19e-6246ccf64091.html",
-     "time": "2026-10-24T02:39:36Z"
     }
    ]
   },
@@ -215,19 +215,34 @@
    "countries": [],
    "items": [
     {
+     "title": "Ukraine says Starlink connection 'now stable' after network limits",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T12:12:40Z"
+    },
+    {
      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T09:03:15Z"
+     "time": "2026-10-24T11:23:59Z"
+    },
+    {
+     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T09:46:53Z"
+    },
+    {
+     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+     "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T09:45:47Z"
+    },
+    {
+     "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T09:44:01Z"
     },
     {
      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T07:17:44Z"
-    },
-    {
-     "title": "France prepares for day of protest a week after nationwide riots",
-     "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T06:19:46Z"
     },
     {
      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
@@ -255,24 +270,9 @@
      "time": "2026-10-24T00:36:47Z"
     },
     {
-     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T00:05:43Z"
-    },
-    {
      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-23T23:11:31Z"
-    },
-    {
-     "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
-     "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T23:09:16Z"
-    },
-    {
-     "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-23T23:08:23Z"
     }
    ]
   }
