@@ -1,6 +1,6 @@
 {
- "version": 102,
- "updated": "2026-10-25T00:13:34Z",
+ "version": 103,
+ "updated": "2026-10-25T05:10:53Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,26 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
+     "url": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
+     "time": "2026-10-25T04:10:34Z"
+    },
+    {
+     "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
+     "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
+     "time": "2026-10-25T04:10:13Z"
+    },
+    {
+     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+     "time": "2026-10-25T04:07:12Z"
+    },
+    {
+     "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
+     "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+     "time": "2026-10-25T01:11:58Z"
+    },
     {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12940.html",
@@ -50,29 +70,9 @@
      "time": "2026-10-24T19:00:39Z"
     },
     {
-     "title": "Maxi Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+     "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
      "url": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
      "time": "2026-10-24T18:59:09Z"
-    },
-    {
-     "title": "Am bundesweiten Aktionstag demonstrieren hunderte Menschen gegen Abschiebungen an deutschen Flughäfen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672120.html",
-     "time": "2026-10-24T18:51:38Z"
-    },
-    {
-     "title": "Winterzeit: Zeitumstellung in der kommenden Nacht",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672108.html",
-     "time": "2026-10-24T18:38:49Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12332.html",
-     "time": "2026-10-24T18:37:22Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81672.html",
-     "time": "2026-10-24T18:29:26Z"
     }
    ]
   },
@@ -85,17 +85,27 @@
    ],
    "items": [
     {
+     "title": "Krieg im Nahen Osten – Israels Armee: Lockdown im Westjordanland am Wahltag",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israels-armee-lockdown-im-westjordanland-am-wahltag",
+     "time": "2026-10-25T04:17:53Z"
+    },
+    {
+     "title": "Erst «ruhig», dann angespannt – Das war der «2. Akt» der Massenproteste in Frankreich",
+     "url": "https://www.srf.ch/news/international/erst-ruhig-dann-angespannt-das-war-der-2-akt-der-massenproteste-in-frankreich",
+     "time": "2026-10-25T01:28:24Z"
+    },
+    {
      "title": "Qualifying zum GP in Austin – Pole Position: Antonelli bringt sich für den WM-Titel in Position",
      "url": "https://www.srf.ch/sport/motorsport/formel-1/qualifying-zum-gp-in-austin-pole-position-antonelli-bringt-sich-fuer-den-wm-titel-in-position",
      "time": "2026-10-24T22:09:57Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Huthi melden Vergeltungsschläge gegen Saudi-Arabien",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-huthi-melden-vergeltungsschlaege-gegen-saudi-arabien",
-     "time": "2026-10-24T20:53:36Z"
+     "title": "Unruhen in Frankreich – Hunderttausende demonstrierten – vereinzelte Zusammenstösse",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-hunderttausende-demonstrierten-vereinzelte-zusammenstoesse",
+     "time": "2026-10-24T20:39:14Z"
     },
     {
-     "title": "Unruhen in Frankreich – Hunderttausende demonstrierten – vereinzelte Zusammenstösse",
+     "title": "– Hunderttausende demonstrierten – vereinzelte Zusammenstösse",
      "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-hunderttausende-demonstrierten-vereinzelte-zusammenstoesse",
      "time": "2026-10-24T20:39:14Z"
     },
@@ -113,11 +123,6 @@
      "title": "Arbeitsplätze der Zukunft? – Hier sollen sich Angestellte im Büro so wohlfühlen wie zu Hause",
      "url": "https://www.srf.ch/news/schweiz/arbeitsplaetze-der-zukunft-hier-sollen-sich-angestellte-im-buero-so-wohlfuehlen-wie-zu-hause",
      "time": "2026-10-24T20:15:39Z"
-    },
-    {
-     "title": "Erst «ruhig», dann angespannt – Das war der «2. Akt» der Massenproteste in Frankreich",
-     "url": "https://www.srf.ch/news/international/erst-ruhig-dann-angespannt-das-war-der-2-akt-der-massenproteste-in-frankreich",
-     "time": "2026-10-24T19:27:14Z"
     },
     {
      "title": "Wahlen in Israel – Nach dem Massaker: Wie wählt man in einem Kibbuz neben Gaza?",
@@ -138,11 +143,6 @@
      "title": "Sicherheit im 21. Jahrhundert – Die Demokratie als Opfer der Technologie",
      "url": "https://www.srf.ch/news/international/sicherheit-im-21-jahrhundert-die-demokratie-als-opfer-der-technologie",
      "time": "2026-10-24T15:38:03Z"
-    },
-    {
-     "title": "Weisse oder grüne Weihnachten? – Die Winterprognosen der Muotathaler Wetterschmöcker",
-     "url": "https://www.srf.ch/radio-srf-musikwelle/weisse-oder-gruene-weihnachten-die-winterprognosen-der-muotathaler-wetterschmoecker",
-     "time": "2026-10-24T15:04:21Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "MotoGP in Australia, gara annullata a causa del maltempo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/motogp-in-australia-gara-annullata-a-causa-del-maltempo_bc9e5aa7-6b01-4615-9d36-6d285d59027d.html",
+     "time": "2026-10-25T04:59:01Z"
+    },
+    {
+     "title": "Il Brasile alle urne, Lula voterà a San Paolo e Bolsonaro a Rio",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/il-brasile-alle-urne-lula-votera-a-san-paolo-e-bolsonaro-a-rio_ae00f074-e27c-471f-ac50-d3cf901d9da1.html",
+     "time": "2026-10-25T03:33:43Z"
+    },
     {
      "title": "Datafolha, per l'ultimo sondaggio Bolsonaro al 51%, Lula al 49%",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/datafolha-per-lultimo-sondaggio-bolsonaro-al-51-lula-al-49_fe6bd86c-527f-4a9d-a102-098d978a6be1.html",
@@ -195,16 +205,6 @@
      "title": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_d92367ef-35ad-4aa2-863a-7c8fe78b898b.html",
      "time": "2026-10-24T19:25:06Z"
-    },
-    {
-     "title": "Claudio Baglioni, brano inedito Che notte è questa! apre primo dei 7 concerti a Roma",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/claudio-baglioni-brano-inedito-che-notte-e-questa-apre-primo-dei_ef069dbb-e355-40d6-9e9d-700f208a4801.html",
-     "time": "2026-10-24T19:20:54Z"
-    },
-    {
-     "title": "Obama, 'Trump e Hegseth non sono persone serie e gli americani pagano'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/obama-trump-e-hegseth-non-sono-persone-serie-e-gli-americani-pagano_fe6041b9-c67d-48ce-8a7f-5f8915ebce83.html",
-     "time": "2026-10-24T19:14:21Z"
     }
    ]
   },
@@ -215,6 +215,11 @@
    "countries": [],
    "items": [
     {
+     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T04:16:52Z"
+    },
+    {
      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T23:02:06Z"
@@ -223,11 +228,6 @@
      "title": "Who are the candidates in Brazil's presidential election?",
      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T22:08:47Z"
-    },
-    {
-     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-     "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T21:09:27Z"
     },
     {
      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
