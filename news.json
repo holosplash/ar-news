@@ -1,6 +1,6 @@
 {
- "version": 104,
- "updated": "2026-10-25T10:04:30Z",
+ "version": 105,
+ "updated": "2026-10-25T14:18:07Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "\"Manja\" sorgt für stürmischen Sonntag",
-     "url": "https://www.tagesschau.de/inland/regional/herbststurm-mit-manja-drohen-dem-norden-wieder-orkanboeen,wetter-7178.html",
-     "time": "2026-10-25T09:46:52Z"
+     "title": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
+     "url": "https://www.tagesschau.de/inland/umweltpreis-142.html",
+     "time": "2026-10-25T13:13:45Z"
     },
     {
-     "title": "US-Präsident Trump gibt vorzeitig Stimme bei den Midterms ab",
-     "url": "https://www.tagesschau.de/video/video-1672204.html",
-     "time": "2026-10-25T09:26:27Z"
+     "title": "TV-Ansagerin Hanni Vanhaiden ist tot",
+     "url": "https://www.tagesschau.de/inland/regional/hamburg/fernsehansagerin-hanni-vanhaiden-ist-tot,kurzehh-4710.html",
+     "time": "2026-10-25T12:49:35Z"
     },
     {
      "title": "Proteste in Europa - auch mit Gewalt",
      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
-     "time": "2026-10-25T08:55:32Z"
+     "time": "2026-10-25T12:21:49Z"
     },
     {
-     "title": "Israel will Westjordanland am Wahltag abriegeln",
-     "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
-     "time": "2026-10-25T08:51:16Z"
+     "title": "Wie ein Dorf in Brandenburg seinen Gasthof retten will",
+     "url": "https://www.tagesschau.de/wirtschaft/dorfkneipe-rettung-brandenburg-100.html",
+     "time": "2026-10-25T12:06:21Z"
     },
     {
-     "title": "VW-Tochter Audi will neues Werk im US-Bundesstaat Georgia bauen",
-     "url": "https://www.tagesschau.de/video/video-1672184.html",
-     "time": "2026-10-25T08:36:25Z"
+     "title": "Pläne der Koalition: Wahlrechtsreform kommt kaum voran",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html",
+     "time": "2026-10-25T11:57:30Z"
     },
     {
-     "title": "Militäreinsatz: Israels Regierung will gesamtes Westjordanland am Wahltag abriegeln",
-     "url": "https://www.tagesschau.de/video/video-1672180.html",
-     "time": "2026-10-25T08:31:56Z"
+     "title": "Sturmtief \"Manja\" fegt über Deutschland",
+     "url": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
+     "time": "2026-10-25T11:53:23Z"
     },
     {
-     "title": "Anina Pommerenke, ARD-aktuell, zu den Protesten in Frankreich",
-     "url": "https://www.tagesschau.de/video/video-1672178.html",
-     "time": "2026-10-25T08:28:21Z"
+     "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
+     "time": "2026-10-25T11:51:21Z"
     },
     {
-     "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-     "url": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
-     "time": "2026-10-25T07:45:03Z"
+     "title": "Polizei überführt Metalldiebe in Halle und Leipzig",
+     "url": "https://www.tagesschau.de/inland/regional/bande-diebstahl-durchsuchungen-halle-leipzig-nordhausen,buntmetall-104.html",
+     "time": "2026-10-25T11:49:14Z"
+    },
+    {
+     "title": "Andreas Herz, ARD Wien, zzt. Belgrad, zur Parlamentswahl in Serbien",
+     "url": "https://www.tagesschau.de/video/video-1672244.html",
+     "time": "2026-10-25T11:23:35Z"
+    },
+    {
+     "title": "Beginn der Parlamentswahl in Serbien",
+     "url": "https://www.tagesschau.de/video/video-1672238.html",
+     "time": "2026-10-25T11:17:35Z"
     },
     {
      "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
      "url": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-     "time": "2026-10-25T07:10:15Z"
+     "time": "2026-10-25T11:14:29Z"
     },
     {
-     "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
-     "url": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
-     "time": "2026-10-25T04:10:34Z"
-    },
-    {
-     "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
-     "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
-     "time": "2026-10-25T04:10:13Z"
-    },
-    {
-     "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
-     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
-     "time": "2026-10-25T04:07:12Z"
+     "title": "Amanal Petros wird Zweiter in Frankfurt",
+     "url": "https://www.tagesschau.de/inland/regional/hessen/hr-amanal-petros-verpasst-heimsieg-beim-frankfurt-marathon-2026-nur-knapp-100.html",
+     "time": "2026-10-25T11:11:10Z"
     }
    ]
   },
@@ -84,6 +84,51 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Genf – Der eiskalte Tresor, der die Schweizer Flora retten soll",
+     "url": "https://www.srf.ch/news/dialog/genf-der-eiskalte-tresor-der-die-schweizer-flora-retten-soll",
+     "time": "2026-10-25T13:56:31Z"
+    },
+    {
+     "title": "Männer-Riesenslalom in Sölden – Nur Pinheiro Braathen steht Meillard und Odermatt vor der Sonne",
+     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/maenner-riesenslalom-in-soelden-nur-pinheiro-braathen-steht-meillard-und-odermatt-vor-der-sonne",
+     "time": "2026-10-25T13:15:37Z"
+    },
+    {
+     "title": "Millionengeschäft im Polosport – Angriff der Klonpferde: «Cuartetera» gibt’s jetzt 63 Mal",
+     "url": "https://www.srf.ch/news/gesellschaft/millionengeschaeft-im-polosport-angriff-der-klonpferde-cuartetera-gibt-s-jetzt-63-mal",
+     "time": "2026-10-25T13:00:54Z"
+    },
+    {
+     "title": "Massenproteste in Frankreich – Warum es am Samstag ruhiger blieb – und der Protest weitergeht",
+     "url": "https://www.srf.ch/news/international/massenproteste-in-frankreich-warum-es-am-samstag-ruhiger-blieb-und-der-protest-weitergeht",
+     "time": "2026-10-25T12:37:04Z"
+    },
+    {
+     "title": "Philosophisches Streitgespräch – Darf ich wirklich nicht mehr fliegen?",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/philosophisches-streitgespraech-darf-ich-wirklich-nicht-mehr-fliegen",
+     "time": "2026-10-25T12:12:40Z"
+    },
+    {
+     "title": "Jahr der Freiwilligkeit – Diese Freiwilligen brachen Regeln, um Menschen zu helfen",
+     "url": "https://www.srf.ch/news/schweiz/jahr-der-freiwilligkeit-diese-freiwilligen-brachen-regeln-um-menschen-zu-helfen",
+     "time": "2026-10-25T12:03:23Z"
+    },
+    {
+     "title": "Vögel und Hitze – So geht es den Zugvögeln nach dem heissen Sommer",
+     "url": "https://www.srf.ch/news/schweiz/voegel-und-hitze-so-geht-es-den-zugvoegeln-nach-dem-heissen-sommer",
+     "time": "2026-10-25T11:13:30Z"
+    },
+    {
+     "title": "265. «Clasico» steigt Sonntag – Geht Schere zwischen Barça und Real noch weiter auseinander?",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/265-clasico-steigt-sonntag-geht-schere-zwischen-barca-und-real-noch-weiter-auseinander",
+     "time": "2026-10-25T10:33:31Z"
+    },
+    {
+     "title": "16 Bilder aus dem All – Die schönsten Galaxien",
+     "url": "https://www.srf.ch/wissen/weltraum/16-bilder-aus-dem-all-die-schoensten-galaxien",
+     "time": "2026-10-25T10:25:52Z"
+    },
     {
      "title": "Erst «ruhig», dann angespannt – Das war der «2. Akt» der Massenproteste in Frankreich",
      "url": "https://www.srf.ch/news/international/erst-ruhig-dann-angespannt-das-war-der-2-akt-der-massenproteste-in-frankreich",
@@ -98,51 +143,6 @@
      "title": "Midterms-Wahlkampf – Obama spottet über Weisses Haus und greift Trump scharf an",
      "url": "https://www.srf.ch/news/international/usa/midterms-wahlkampf-obama-spottet-ueber-weisses-haus-und-greift-trump-scharf-an",
      "time": "2026-10-25T09:14:28Z"
-    },
-    {
-     "title": "Wirkung unserer Stimme – Stimme als Medizin – die Kraft des Singens",
-     "url": "https://www.srf.ch/kultur/musik/wirkung-unserer-stimme-stimme-als-medizin-die-kraft-des-singens",
-     "time": "2026-10-25T08:54:27Z"
-    },
-    {
-     "title": "265. «Clasico» steigt Sonntag – Geht Schere zwischen Barça und Real noch weiter auseinander?",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/265-clasico-steigt-sonntag-geht-schere-zwischen-barca-und-real-noch-weiter-auseinander",
-     "time": "2026-10-25T08:36:16Z"
-    },
-    {
-     "title": "Berghütten im Wandel – Zwischen Klimastress und Komfort – die Zukunft der SAC-Hütten",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/berghuetten-im-wandel-zwischen-klimastress-und-komfort-die-zukunft-der-sac-huetten",
-     "time": "2026-10-25T08:26:14Z"
-    },
-    {
-     "title": "Umnutzung – 125 Jahre Basler Pauluskirche: Vom Gotteshaus zum Kulturzentrum",
-     "url": "https://www.srf.ch/news/schweiz/umnutzung-125-jahre-basler-pauluskirche-vom-gotteshaus-zum-kulturzentrum",
-     "time": "2026-10-25T08:24:51Z"
-    },
-    {
-     "title": "Mutmasslicher Täter gefasst – Hitlers «Teehaus» erneut in Flammen",
-     "url": "https://www.srf.ch/news/international/mutmasslicher-taeter-gefasst-hitlers-teehaus-erneut-in-flammen",
-     "time": "2026-10-25T08:09:27Z"
-    },
-    {
-     "title": "– Hitlers «Teehaus» erneut in Flammen",
-     "url": "https://www.srf.ch/news/international/mutmasslicher-taeter-gefasst-hitlers-teehaus-erneut-in-flammen",
-     "time": "2026-10-25T08:09:27Z"
-    },
-    {
-     "title": "Qualifying zum GP in Austin – Pole Position: Antonelli bringt sich für den WM-Titel in Position",
-     "url": "https://www.srf.ch/sport/motorsport/formel-1/qualifying-zum-gp-in-austin-pole-position-antonelli-bringt-sich-fuer-den-wm-titel-in-position",
-     "time": "2026-10-25T07:56:55Z"
-    },
-    {
-     "title": "Es ist wieder Winterzeit – So meistert ein Uhrenmuseum die Zeitumstellung",
-     "url": "https://www.srf.ch/radio-srf-1/es-ist-wieder-winterzeit-so-meistert-ein-uhrenmuseum-die-zeitumstellung",
-     "time": "2026-10-25T06:29:03Z"
-    },
-    {
-     "title": "13. AHV-Rente – Stiftung fordert: Reiche Senioren sollen 13. AHV-Rente spenden",
-     "url": "https://www.srf.ch/news/schweiz/13-ahv-rente-stiftung-fordert-reiche-senioren-sollen-13-ahv-rente-spenden",
-     "time": "2026-10-25T05:53:01Z"
     }
    ]
   },
@@ -157,6 +157,41 @@
    ],
    "items": [
     {
+     "title": "Salvini riconfermato segretario Lega con 465 voti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/salvini-riconfermato-segretario-lega-con-465-voti_782bfed1-1b91-4120-ad68-c1e8295172af.html",
+     "time": "2026-10-25T14:01:00Z"
+    },
+    {
+     "title": "Schlein, con gli alleati faremo in fretta, manca l'ultimo miglio",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/schlein-con-gli-alleati-faremo-in-fretta-manca-lultimo-miglio_a706fe5d-8916-41e6-9ad1-7a511c54eafd.html",
+     "time": "2026-10-25T13:00:57Z"
+    },
+    {
+     "title": "Salvini, se confermato segretario dirò in Cdm stop soldi e armi all'Ucraina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/salvini-se-confermato-segretario-diro-in-cdm-stop-soldi-e-armi-allucraina_2ab3d2da-984b-40c1-b63d-b87e6241923e.html",
+     "time": "2026-10-25T12:28:49Z"
+    },
+    {
+     "title": "Putin, accusarci per i disordini segno di debolezza e incapacità dei leader europei",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/putin-accusarci-per-i-disordini-segno-di-debolezza-e-incapacita-dei-leader-europei_85be76dd-07af-4c55-8e2a-d443281d836f.html",
+     "time": "2026-10-25T11:19:50Z"
+    },
+    {
+     "title": "Zelensky, 4 morti e 22 feriti in attacchi nella regione di Dnipro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/zelensky-4-morti-e-22-feriti-in-attacchi-nella-regione-di-dnipro_8071bda7-437a-4a88-b449-f3751be13655.html",
+     "time": "2026-10-25T11:18:45Z"
+    },
+    {
+     "title": "Brasile, urne aperte per il ballottaggio presidenziale tra Lula e Bolsonaro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/brasile-urne-aperte-per-il-ballottaggio-presidenziale-tra-lula-e-bolsonaro_5310f9ba-ed9a-4396-9206-c436a4cf3044.html",
+     "time": "2026-10-25T11:02:03Z"
+    },
+    {
+     "title": "Al via ultimo giorno congresso Lega, oggi la sfida Salvini-Garavaglia e il voto",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/al-via-ultimo-giorno-congresso-lega-oggi-la-sfida-salvini-garavaglia-e-il-voto_852ca216-6007-4090-a8af-2bcd43c3d011.html",
+     "time": "2026-10-25T10:01:55Z"
+    },
+    {
      "title": "Polizia, 128 arresti e 15 agenti feriti per disordini a Barcellona",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/polizia-128-arresti-e-15-agenti-feriti-per-disordini-a-barcellona_0aba0d59-cb88-40dd-8e74-441e13367a5e.html",
      "time": "2026-10-25T09:07:25Z"
@@ -170,41 +205,6 @@
      "title": "Media: 'Un morto e dieci feriti in un attacco ucraino a Belgorod'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/media-un-morto-e-dieci-feriti-in-un-attacco-ucraino-a-belgorod_ecabcbb6-21d6-4a1e-8689-ba95f5f2d684.html",
      "time": "2026-10-25T05:09:34Z"
-    },
-    {
-     "title": "MotoGP in Australia, gara annullata a causa del maltempo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/motogp-in-australia-gara-annullata-a-causa-del-maltempo_bc9e5aa7-6b01-4615-9d36-6d285d59027d.html",
-     "time": "2026-10-25T04:59:01Z"
-    },
-    {
-     "title": "Il Brasile alle urne, Lula voterà a San Paolo e Bolsonaro a Rio",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/il-brasile-alle-urne-lula-votera-a-san-paolo-e-bolsonaro-a-rio_ae00f074-e27c-471f-ac50-d3cf901d9da1.html",
-     "time": "2026-10-25T03:33:43Z"
-    },
-    {
-     "title": "Datafolha, per l'ultimo sondaggio Bolsonaro al 51%, Lula al 49%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/datafolha-per-lultimo-sondaggio-bolsonaro-al-51-lula-al-49_fe6bd86c-527f-4a9d-a102-098d978a6be1.html",
-     "time": "2026-10-24T22:00:45Z"
-    },
-    {
-     "title": "Scontri a Milano, fermato Youssef Siher 'mente' del Movimento 17 ottobre",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-a-milano-fermato-youssef-siher-mente-del-movimento-17-ottobre_2de4f860-7c65-4ef2-97e3-0536be9ff0a2.html",
-     "time": "2026-10-24T21:43:17Z"
-    },
-    {
-     "title": "Trump, 'Melania è più brava dei professionisti, ha parlato con Putin e Zelensky'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/trump-melania-e-piu-brava-dei-professionisti-ha-parlato-con-putin-e-zelensky_607a8b47-20d9-468b-bafa-e674088f6eed.html",
-     "time": "2026-10-24T21:13:24Z"
-    },
-    {
-     "title": "Trump, 'faremo affari con Russia e Ucraina una volta finita la guerra'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/trump-faremo-affari-con-russia-e-ucraina-una-volta-finita-la-guerra_5f8419a2-0f16-48e5-9726-91d4d0a2f2c6.html",
-     "time": "2026-10-24T21:01:06Z"
-    },
-    {
-     "title": "Donald Trump ha votato in Florida per le midterm",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/donald-trump-ha-votato-in-florida-per-le-midterm_15b3dad0-f041-4862-abb6-3c464c6b42a3.html",
-     "time": "2026-10-24T20:18:13Z"
     }
    ]
   },
@@ -215,9 +215,19 @@
    "countries": [],
    "items": [
     {
-     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+     "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T11:54:16Z"
+    },
+    {
+     "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+     "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T10:55:33Z"
+    },
+    {
+     "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T09:32:59Z"
+     "time": "2026-10-25T10:38:15Z"
     },
     {
      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
@@ -250,11 +260,6 @@
      "time": "2026-10-25T02:27:15Z"
     },
     {
-     "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-     "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T23:50:02Z"
-    },
-    {
      "title": "The bitter row over military service that could shape Israel's future",
      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T23:03:21Z"
@@ -268,11 +273,6 @@
      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
      "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T23:02:51Z"
-    },
-    {
-     "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-     "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T22:58:43Z"
     }
    ]
   }
