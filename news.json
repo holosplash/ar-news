@@ -1,6 +1,6 @@
 {
- "version": 107,
- "updated": "2026-10-25T20:44:03Z",
+ "version": 108,
+ "updated": "2026-10-25T23:09:34Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,51 @@
    ],
    "items": [
     {
+     "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
+     "url": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
+     "time": "2026-10-25T23:00:37Z"
+    },
+    {
+     "title": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise",
+     "url": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
+     "time": "2026-10-25T23:00:37Z"
+    },
+    {
+     "title": "Hoffenheimer Arbeitssieg gegen Leverkusen",
+     "url": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
+     "time": "2026-10-25T23:00:27Z"
+    },
+    {
+     "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
+     "url": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
+     "time": "2026-10-25T23:00:11Z"
+    },
+    {
+     "title": "Parteitag in Orléans - Le Pen eröffnet Wahlkampf in Frankreich",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1672564.html",
+     "time": "2026-10-25T22:40:06Z"
+    },
+    {
+     "title": "Stichwahl um das Präsidentenamt in Brasilien",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1672562.html",
+     "time": "2026-10-25T22:39:20Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12930.html",
+     "time": "2026-10-25T22:38:35Z"
+    },
+    {
+     "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
+     "time": "2026-10-25T22:38:18Z"
+    },
+    {
+     "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+     "url": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
+     "time": "2026-10-25T21:24:09Z"
+    },
+    {
      "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
      "time": "2026-10-25T20:43:16Z"
@@ -28,51 +73,6 @@
      "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
      "url": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
      "time": "2026-10-25T19:25:14Z"
-    },
-    {
-     "title": "Kopf-an-Kopf-Rennen bei Stichwahl ums Präsidentenamt in Brasilien",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672518.html",
-     "time": "2026-10-25T19:19:26Z"
-    },
-    {
-     "title": "Rückkehr von Friedensnobelpreisträgerin Machado nach Venezuela",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672516.html",
-     "time": "2026-10-25T19:19:24Z"
-    },
-    {
-     "title": "Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672520.html",
-     "time": "2026-10-25T19:19:22Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81570.html",
-     "time": "2026-10-25T19:18:55Z"
-    },
-    {
-     "title": "Voraussichtlich Rekordbeteiligung bei vorgezogenen Parlamentswahlen in Serbien",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672514.html",
-     "time": "2026-10-25T19:14:23Z"
-    },
-    {
-     "title": "Le Pen läutet Wahlkampf in Frankreich bei Parteitag des Rassemblement National ein",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672512.html",
-     "time": "2026-10-25T19:11:54Z"
-    },
-    {
-     "title": "Kurz vor den US-Kongresswahlen: Audi kündigt Pläne für Werk in Georgia an",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672508.html",
-     "time": "2026-10-25T19:11:51Z"
-    },
-    {
-     "title": "Diskussion über Finanzierung einer Senkung der Stromsteuer",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1672510.html",
-     "time": "2026-10-25T19:11:46Z"
-    },
-    {
-     "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
-     "url": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-     "time": "2026-10-25T19:06:13Z"
     }
    ]
   },
@@ -85,14 +85,29 @@
    ],
    "items": [
     {
+     "title": "Grosser Preis der USA – Antonelli siegt in Austin – doch die WM-Entscheidung ist vertagt",
+     "url": "https://www.srf.ch/sport/motorsport/formel-1/grosser-preis-der-usa-antonelli-siegt-in-austin-doch-die-wm-entscheidung-ist-vertagt",
+     "time": "2026-10-25T21:48:26Z"
+    },
+    {
+     "title": "Parlamentswahl in Serbien – Studentenbewegung triumphiert – Vucic gesteht Niederlage ein",
+     "url": "https://www.srf.ch/news/international/parlamentswahl-in-serbien-studentenbewegung-triumphiert-vucic-gesteht-niederlage-ein",
+     "time": "2026-10-25T21:35:32Z"
+    },
+    {
+     "title": "– Studentenbewegung triumphiert – Vucic gesteht Niederlage ein",
+     "url": "https://www.srf.ch/news/international/parlamentswahl-in-serbien-studentenbewegung-triumphiert-vucic-gesteht-niederlage-ein",
+     "time": "2026-10-25T21:35:32Z"
+    },
+    {
+     "title": "Sonne für Wein und Netz – Erstmals in der Schweiz: Solarstrom direkt aus dem Rebberg",
+     "url": "https://www.srf.ch/news/schweiz/sonne-fuer-wein-und-netz-erstmals-in-der-schweiz-solarstrom-direkt-aus-dem-rebberg",
+     "time": "2026-10-25T21:02:29Z"
+    },
+    {
      "title": "Geldgeschichte – Wie die Schweiz zum Sparen erzogen wurde",
      "url": "https://www.srf.ch/news/dialog/geldgeschichte-wie-die-schweiz-zum-sparen-erzogen-wurde",
      "time": "2026-10-25T19:52:04Z"
-    },
-    {
-     "title": "Richtungsentscheid für Vucic – Serbien wählt: Rekordbeteiligung bei Richtungswahl",
-     "url": "https://www.srf.ch/news/international/richtungsentscheid-fuer-vucic-serbien-waehlt-rekordbeteiligung-bei-richtungswahl",
-     "time": "2026-10-25T19:50:58Z"
     },
     {
      "title": "Anführerin der Opposition – «Ich bin hier, bei euch»: Machado kehrt nach Venezuela zurück",
@@ -120,29 +135,14 @@
      "time": "2026-10-25T17:40:19Z"
     },
     {
+     "title": "– «Politischer Übergriff»: Politologe kritisiert SVP-Strategie",
+     "url": "https://www.srf.ch/news/schweiz/schielen-auf-justizdepartement-politischer-uebergriff-politologe-kritisiert-svp-strategie",
+     "time": "2026-10-25T17:40:19Z"
+    },
+    {
      "title": "Dinosaurier im Fricktal – Schweizer Dino-Hotspot: Noch vieles schlummert im Boden",
      "url": "https://www.srf.ch/news/schweiz/dinosaurier-im-fricktal-schweizer-dino-hotspot-noch-vieles-schlummert-im-boden",
      "time": "2026-10-25T17:07:53Z"
-    },
-    {
-     "title": "Statement vom SFV – Verband räumt ein: Gelb gegen Fernandes wäre korrekt gewesen",
-     "url": "https://www.srf.ch/sport/fussball/super-league/statement-vom-sfv-verband-raeumt-ein-gelb-gegen-fernandes-waere-korrekt-gewesen",
-     "time": "2026-10-25T16:41:37Z"
-    },
-    {
-     "title": "Graubünden – Immer wieder Stau bei Landquart – wie weiter?",
-     "url": "https://www.srf.ch/news/dialog/graubuenden-immer-wieder-stau-bei-landquart-wie-weiter",
-     "time": "2026-10-25T16:17:22Z"
-    },
-    {
-     "title": "Kunstturn-WM in Rotterdam – Seifert bei Zou-Dominanz Letzter – Nemour doppelt nach",
-     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-in-rotterdam-seifert-bei-zou-dominanz-letzter-nemour-doppelt-nach",
-     "time": "2026-10-25T15:52:41Z"
-    },
-    {
-     "title": "Vor seinem letzten Turnier – Wawrinka: «Ich freue mich auf alle Emotionen»",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/vor-seinem-letzten-turnier-wawrinka-ich-freue-mich-auf-alle-emotionen",
-     "time": "2026-10-25T15:43:45Z"
     }
    ]
   },
@@ -156,6 +156,11 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Antonelli vince ad Austin, il Mondiale è a un passo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/antonelli-vince-ad-austin-il-mondiale-e-a-un-passo_9008b7c4-3fdd-414d-8686-72c526b40d22.html",
+     "time": "2026-10-25T21:41:19Z"
+    },
     {
      "title": "Vucic, 'abbiamo perso le elezioni'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/vucic-abbiamo-perso-le-elezioni_bf97fa58-ebcd-4f1d-b4d2-f8eef6f6bc46.html",
@@ -200,11 +205,6 @@
      "title": "Trump, 'Macron sta distruggendo la Francia, con i migranti'. E cita anche l'Italia",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/trump-macron-sta-distruggendo-la-francia-con-i-migranti.-e-cita-anche-litalia_6fd7984a-421b-40af-b945-be9904a23b03.html",
      "time": "2026-10-25T16:55:11Z"
-    },
-    {
-     "title": "Media, in Serbia affluenza record alle 17, oltre il 60%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/media-in-serbia-affluenza-record-alle-17-oltre-il-60_7b317d64-f44c-4379-9ada-0729c3a92e40.html",
-     "time": "2026-10-25T16:51:43Z"
     }
    ]
   },
@@ -215,9 +215,19 @@
    "countries": [],
    "items": [
     {
-     "title": "Early reports suggest record high turnout in Serbia elections",
-     "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T19:55:15Z"
+     "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T22:54:57Z"
+    },
+    {
+     "title": "Deeply divided Israel braces for pivotal election",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T22:11:13Z"
+    },
+    {
+     "title": "Why Israel's election is one of the most important in its history",
+     "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T22:05:30Z"
     },
     {
      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
@@ -263,16 +273,6 @@
      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-25T05:45:31Z"
-    },
-    {
-     "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T05:15:52Z"
-    },
-    {
-     "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T02:27:15Z"
     }
    ]
   }
