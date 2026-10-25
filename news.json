@@ -1,6 +1,6 @@
 {
- "version": 101,
- "updated": "2026-10-24T21:49:48Z",
+ "version": 102,
+ "updated": "2026-10-25T00:13:34Z",
  "fallback": "en",
  "regions": [
   {
@@ -85,18 +85,23 @@
    ],
    "items": [
     {
+     "title": "Qualifying zum GP in Austin – Pole Position: Antonelli bringt sich für den WM-Titel in Position",
+     "url": "https://www.srf.ch/sport/motorsport/formel-1/qualifying-zum-gp-in-austin-pole-position-antonelli-bringt-sich-fuer-den-wm-titel-in-position",
+     "time": "2026-10-24T22:09:57Z"
+    },
+    {
      "title": "Krieg im Nahen Osten – Huthi melden Vergeltungsschläge gegen Saudi-Arabien",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-huthi-melden-vergeltungsschlaege-gegen-saudi-arabien",
      "time": "2026-10-24T20:53:36Z"
     },
     {
-     "title": "Unruhen in Frankreich – Hunderttausende demonstrierten – vereinzelt Gewalt am Abend",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-hunderttausende-demonstrierten-vereinzelt-gewalt-am-abend",
+     "title": "Unruhen in Frankreich – Hunderttausende demonstrierten – vereinzelte Zusammenstösse",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-hunderttausende-demonstrierten-vereinzelte-zusammenstoesse",
      "time": "2026-10-24T20:39:14Z"
     },
     {
-     "title": "11. Runde in der Super League – YB beendet St. Gallens Serie in Wankdorf",
-     "url": "https://www.srf.ch/sport/fussball/super-league/11-runde-in-der-super-league-yb-beendet-st-gallens-serie-in-wankdorf",
+     "title": "11. Runde in der Super League – YB beendet St. Gallens Serie im Wankdorf",
+     "url": "https://www.srf.ch/sport/fussball/super-league/11-runde-in-der-super-league-yb-beendet-st-gallens-serie-im-wankdorf",
      "time": "2026-10-24T20:33:41Z"
     },
     {
@@ -113,11 +118,6 @@
      "title": "Erst «ruhig», dann angespannt – Das war der «2. Akt» der Massenproteste in Frankreich",
      "url": "https://www.srf.ch/news/international/erst-ruhig-dann-angespannt-das-war-der-2-akt-der-massenproteste-in-frankreich",
      "time": "2026-10-24T19:27:14Z"
-    },
-    {
-     "title": "2:1 in der 11. SL-Runde – Knapper FCZ-Sieg dank Kénys Geniestreich und FCL-Chancenwucher",
-     "url": "https://www.srf.ch/sport/fussball/super-league/2-1-in-der-11-sl-runde-knapper-fcz-sieg-dank-kenys-geniestreich-und-fcl-chancenwucher",
-     "time": "2026-10-24T18:23:25Z"
     },
     {
      "title": "Wahlen in Israel – Nach dem Massaker: Wie wählt man in einem Kibbuz neben Gaza?",
@@ -156,6 +156,11 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Datafolha, per l'ultimo sondaggio Bolsonaro al 51%, Lula al 49%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/datafolha-per-lultimo-sondaggio-bolsonaro-al-51-lula-al-49_fe6bd86c-527f-4a9d-a102-098d978a6be1.html",
+     "time": "2026-10-24T22:00:45Z"
+    },
     {
      "title": "Scontri a Milano, fermato Youssef Siher 'mente' del Movimento 17 ottobre",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/scontri-a-milano-fermato-youssef-siher-mente-del-movimento-17-ottobre_2de4f860-7c65-4ef2-97e3-0536be9ff0a2.html",
@@ -200,11 +205,6 @@
      "title": "Obama, 'Trump e Hegseth non sono persone serie e gli americani pagano'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/obama-trump-e-hegseth-non-sono-persone-serie-e-gli-americani-pagano_fe6041b9-c67d-48ce-8a7f-5f8915ebce83.html",
      "time": "2026-10-24T19:14:21Z"
-    },
-    {
-     "title": "Violenti scontri nel centro di Tirana fra polizia e manifestanti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/violenti-scontri-nel-centro-di-tirana-fra-polizia-e-manifestanti_8770847f-89ed-4f1a-8eb5-d1c9a39d3845.html",
-     "time": "2026-10-24T18:04:39Z"
     }
    ]
   },
@@ -214,6 +214,16 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T23:02:06Z"
+    },
+    {
+     "title": "Who are the candidates in Brazil's presidential election?",
+     "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T22:08:47Z"
+    },
     {
      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
@@ -233,11 +243,6 @@
      "title": "Two rescued after Nairobi building collapse with five still missing",
      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T17:25:46Z"
-    },
-    {
-     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T17:21:42Z"
     },
     {
      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
@@ -268,11 +273,6 @@
      "title": "Three released without charge after fatal arson attack in Ireland",
      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-24T09:38:28Z"
-    },
-    {
-     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T07:17:44Z"
     }
    ]
   }
