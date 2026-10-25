@@ -1,6 +1,6 @@
 {
- "version": 103,
- "updated": "2026-10-25T05:10:53Z",
+ "version": 104,
+ "updated": "2026-10-25T10:04:30Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,51 @@
    ],
    "items": [
     {
+     "title": "\"Manja\" sorgt für stürmischen Sonntag",
+     "url": "https://www.tagesschau.de/inland/regional/herbststurm-mit-manja-drohen-dem-norden-wieder-orkanboeen,wetter-7178.html",
+     "time": "2026-10-25T09:46:52Z"
+    },
+    {
+     "title": "US-Präsident Trump gibt vorzeitig Stimme bei den Midterms ab",
+     "url": "https://www.tagesschau.de/video/video-1672204.html",
+     "time": "2026-10-25T09:26:27Z"
+    },
+    {
+     "title": "Proteste in Europa - auch mit Gewalt",
+     "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
+     "time": "2026-10-25T08:55:32Z"
+    },
+    {
+     "title": "Israel will Westjordanland am Wahltag abriegeln",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+     "time": "2026-10-25T08:51:16Z"
+    },
+    {
+     "title": "VW-Tochter Audi will neues Werk im US-Bundesstaat Georgia bauen",
+     "url": "https://www.tagesschau.de/video/video-1672184.html",
+     "time": "2026-10-25T08:36:25Z"
+    },
+    {
+     "title": "Militäreinsatz: Israels Regierung will gesamtes Westjordanland am Wahltag abriegeln",
+     "url": "https://www.tagesschau.de/video/video-1672180.html",
+     "time": "2026-10-25T08:31:56Z"
+    },
+    {
+     "title": "Anina Pommerenke, ARD-aktuell, zu den Protesten in Frankreich",
+     "url": "https://www.tagesschau.de/video/video-1672178.html",
+     "time": "2026-10-25T08:28:21Z"
+    },
+    {
+     "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+     "url": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+     "time": "2026-10-25T07:45:03Z"
+    },
+    {
+     "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+     "url": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+     "time": "2026-10-25T07:10:15Z"
+    },
+    {
      "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
      "url": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
      "time": "2026-10-25T04:10:34Z"
@@ -28,51 +73,6 @@
      "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
      "time": "2026-10-25T04:07:12Z"
-    },
-    {
-     "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
-     "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-     "time": "2026-10-25T01:11:58Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12940.html",
-     "time": "2026-10-24T21:49:15Z"
-    },
-    {
-     "title": "Die Meinung von Achim Wendler, BR, zum CSU-Parteitag",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1672140.html",
-     "time": "2026-10-24T21:35:09Z"
-    },
-    {
-     "title": "CSU-Parteitag in München: Kanzler Merz fordert Geschlossenheit",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1672138.html",
-     "time": "2026-10-24T21:32:09Z"
-    },
-    {
-     "title": "Israel vor den Wahlen: Militäroperation im Westjordanland",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1672136.html",
-     "time": "2026-10-24T21:29:23Z"
-    },
-    {
-     "title": "Italiens Jugend protestiert erneut gegen die hohen Lebenshaltungskosten",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1672134.html",
-     "time": "2026-10-24T21:26:29Z"
-    },
-    {
-     "title": "Wieder Proteste in Frankreich: Ausschreitungen in mehreren Städten",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1672132.html",
-     "time": "2026-10-24T21:23:23Z"
-    },
-    {
-     "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
-     "time": "2026-10-24T19:00:39Z"
-    },
-    {
-     "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
-     "url": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-     "time": "2026-10-24T18:59:09Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Krieg im Nahen Osten – Israels Armee: Lockdown im Westjordanland am Wahltag",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israels-armee-lockdown-im-westjordanland-am-wahltag",
-     "time": "2026-10-25T04:17:53Z"
-    },
-    {
      "title": "Erst «ruhig», dann angespannt – Das war der «2. Akt» der Massenproteste in Frankreich",
      "url": "https://www.srf.ch/news/international/erst-ruhig-dann-angespannt-das-war-der-2-akt-der-massenproteste-in-frankreich",
-     "time": "2026-10-25T01:28:24Z"
+     "time": "2026-10-25T09:46:08Z"
+    },
+    {
+     "title": "An Chilbi und Weihnachtsmarkt – Das süsse Nischengeschäft mit dem Magenbrot",
+     "url": "https://www.srf.ch/news/wirtschaft/an-chilbi-und-weihnachtsmarkt-das-suesse-nischengeschaeft-mit-dem-magenbrot",
+     "time": "2026-10-25T09:43:35Z"
+    },
+    {
+     "title": "Midterms-Wahlkampf – Obama spottet über Weisses Haus und greift Trump scharf an",
+     "url": "https://www.srf.ch/news/international/usa/midterms-wahlkampf-obama-spottet-ueber-weisses-haus-und-greift-trump-scharf-an",
+     "time": "2026-10-25T09:14:28Z"
+    },
+    {
+     "title": "Wirkung unserer Stimme – Stimme als Medizin – die Kraft des Singens",
+     "url": "https://www.srf.ch/kultur/musik/wirkung-unserer-stimme-stimme-als-medizin-die-kraft-des-singens",
+     "time": "2026-10-25T08:54:27Z"
+    },
+    {
+     "title": "265. «Clasico» steigt Sonntag – Geht Schere zwischen Barça und Real noch weiter auseinander?",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/265-clasico-steigt-sonntag-geht-schere-zwischen-barca-und-real-noch-weiter-auseinander",
+     "time": "2026-10-25T08:36:16Z"
+    },
+    {
+     "title": "Berghütten im Wandel – Zwischen Klimastress und Komfort – die Zukunft der SAC-Hütten",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/berghuetten-im-wandel-zwischen-klimastress-und-komfort-die-zukunft-der-sac-huetten",
+     "time": "2026-10-25T08:26:14Z"
+    },
+    {
+     "title": "Umnutzung – 125 Jahre Basler Pauluskirche: Vom Gotteshaus zum Kulturzentrum",
+     "url": "https://www.srf.ch/news/schweiz/umnutzung-125-jahre-basler-pauluskirche-vom-gotteshaus-zum-kulturzentrum",
+     "time": "2026-10-25T08:24:51Z"
+    },
+    {
+     "title": "Mutmasslicher Täter gefasst – Hitlers «Teehaus» erneut in Flammen",
+     "url": "https://www.srf.ch/news/international/mutmasslicher-taeter-gefasst-hitlers-teehaus-erneut-in-flammen",
+     "time": "2026-10-25T08:09:27Z"
+    },
+    {
+     "title": "– Hitlers «Teehaus» erneut in Flammen",
+     "url": "https://www.srf.ch/news/international/mutmasslicher-taeter-gefasst-hitlers-teehaus-erneut-in-flammen",
+     "time": "2026-10-25T08:09:27Z"
     },
     {
      "title": "Qualifying zum GP in Austin – Pole Position: Antonelli bringt sich für den WM-Titel in Position",
      "url": "https://www.srf.ch/sport/motorsport/formel-1/qualifying-zum-gp-in-austin-pole-position-antonelli-bringt-sich-fuer-den-wm-titel-in-position",
-     "time": "2026-10-24T22:09:57Z"
+     "time": "2026-10-25T07:56:55Z"
     },
     {
-     "title": "Unruhen in Frankreich – Hunderttausende demonstrierten – vereinzelte Zusammenstösse",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-hunderttausende-demonstrierten-vereinzelte-zusammenstoesse",
-     "time": "2026-10-24T20:39:14Z"
+     "title": "Es ist wieder Winterzeit – So meistert ein Uhrenmuseum die Zeitumstellung",
+     "url": "https://www.srf.ch/radio-srf-1/es-ist-wieder-winterzeit-so-meistert-ein-uhrenmuseum-die-zeitumstellung",
+     "time": "2026-10-25T06:29:03Z"
     },
     {
-     "title": "– Hunderttausende demonstrierten – vereinzelte Zusammenstösse",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-hunderttausende-demonstrierten-vereinzelte-zusammenstoesse",
-     "time": "2026-10-24T20:39:14Z"
-    },
-    {
-     "title": "11. Runde in der Super League – YB beendet St. Gallens Serie im Wankdorf",
-     "url": "https://www.srf.ch/sport/fussball/super-league/11-runde-in-der-super-league-yb-beendet-st-gallens-serie-im-wankdorf",
-     "time": "2026-10-24T20:33:41Z"
-    },
-    {
-     "title": "National League am Samstag – Kurashev schiesst Lausanne zum Sieg – Ambri festigt Platz 2",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-kurashev-schiesst-lausanne-zum-sieg-ambri-festigt-platz-2",
-     "time": "2026-10-24T20:27:17Z"
-    },
-    {
-     "title": "Arbeitsplätze der Zukunft? – Hier sollen sich Angestellte im Büro so wohlfühlen wie zu Hause",
-     "url": "https://www.srf.ch/news/schweiz/arbeitsplaetze-der-zukunft-hier-sollen-sich-angestellte-im-buero-so-wohlfuehlen-wie-zu-hause",
-     "time": "2026-10-24T20:15:39Z"
-    },
-    {
-     "title": "Wahlen in Israel – Nach dem Massaker: Wie wählt man in einem Kibbuz neben Gaza?",
-     "url": "https://www.srf.ch/news/international/wahlen-in-israel-nach-dem-massaker-wie-waehlt-man-in-einem-kibbuz-neben-gaza",
-     "time": "2026-10-24T18:11:47Z"
-    },
-    {
-     "title": "Feinmotorik, Koordination – Pingpong gegen Parkinson: Wie der Sport Betroffenen hilft",
-     "url": "https://www.srf.ch/news/gesellschaft/feinmotorik-koordination-pingpong-gegen-parkinson-wie-der-sport-betroffenen-hilft",
-     "time": "2026-10-24T17:01:07Z"
-    },
-    {
-     "title": "Kunstturn-WM in Rotterdam – Nemour rehabilitiert sich und holt überlegen Gold",
-     "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-in-rotterdam-nemour-rehabilitiert-sich-und-holt-ueberlegen-gold",
-     "time": "2026-10-24T16:00:43Z"
-    },
-    {
-     "title": "Sicherheit im 21. Jahrhundert – Die Demokratie als Opfer der Technologie",
-     "url": "https://www.srf.ch/news/international/sicherheit-im-21-jahrhundert-die-demokratie-als-opfer-der-technologie",
-     "time": "2026-10-24T15:38:03Z"
+     "title": "13. AHV-Rente – Stiftung fordert: Reiche Senioren sollen 13. AHV-Rente spenden",
+     "url": "https://www.srf.ch/news/schweiz/13-ahv-rente-stiftung-fordert-reiche-senioren-sollen-13-ahv-rente-spenden",
+     "time": "2026-10-25T05:53:01Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Polizia, 128 arresti e 15 agenti feriti per disordini a Barcellona",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/polizia-128-arresti-e-15-agenti-feriti-per-disordini-a-barcellona_0aba0d59-cb88-40dd-8e74-441e13367a5e.html",
+     "time": "2026-10-25T09:07:25Z"
+    },
+    {
+     "title": "Funzionari iraniani al Nyt, 'lecito colpire diplomatici americani'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/funzionari-iraniani-al-nyt-lecito-colpire-diplomatici-americani_96512585-d062-4c86-a044-5639ce0396e0.html",
+     "time": "2026-10-25T08:18:05Z"
+    },
+    {
+     "title": "Media: 'Un morto e dieci feriti in un attacco ucraino a Belgorod'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/media-un-morto-e-dieci-feriti-in-un-attacco-ucraino-a-belgorod_ecabcbb6-21d6-4a1e-8689-ba95f5f2d684.html",
+     "time": "2026-10-25T05:09:34Z"
+    },
     {
      "title": "MotoGP in Australia, gara annullata a causa del maltempo",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/motogp-in-australia-gara-annullata-a-causa-del-maltempo_bc9e5aa7-6b01-4615-9d36-6d285d59027d.html",
@@ -190,21 +205,6 @@
      "title": "Donald Trump ha votato in Florida per le midterm",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/donald-trump-ha-votato-in-florida-per-le-midterm_15b3dad0-f041-4862-abb6-3c464c6b42a3.html",
      "time": "2026-10-24T20:18:13Z"
-    },
-    {
-     "title": "Meloni, con le nuove misure libertà di manifestare senza città a ferro e fuoco",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/meloni-con-le-nuove-misure-liberta-di-manifestare-senza-citta-a-ferro-e-fuoco_1d4a317d-258b-45c5-a4ef-b78c2f180edc.html",
-     "time": "2026-10-24T19:49:57Z"
-    },
-    {
-     "title": "Piantedosi, 'isolati violenti, non c'è spazio per chi agisce nell'impunità",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/piantedosi-isolati-violenti-non-ce-spazio-per-chi-agisce-nellimpunita_12a026f2-9ef4-4c12-8cc0-8b0c3153c7ca.html",
-     "time": "2026-10-24T19:27:25Z"
-    },
-    {
-     "title": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_d92367ef-35ad-4aa2-863a-7c8fe78b898b.html",
-     "time": "2026-10-24T19:25:06Z"
     }
    ]
   },
@@ -217,62 +217,62 @@
     {
      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T04:16:52Z"
+     "time": "2026-10-25T09:32:59Z"
     },
     {
-     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T23:02:06Z"
+     "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T09:00:00Z"
     },
     {
-     "title": "Who are the candidates in Brazil's presidential election?",
-     "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T22:08:47Z"
+     "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+     "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T08:36:47Z"
     },
     {
-     "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-     "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T19:37:35Z"
+     "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T05:45:31Z"
     },
     {
-     "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-     "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T19:12:51Z"
+     "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T05:15:52Z"
     },
     {
-     "title": "Two rescued after Nairobi building collapse with five still missing",
-     "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T17:25:46Z"
+     "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+     "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T03:20:16Z"
     },
     {
-     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-     "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T17:11:56Z"
+     "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+     "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T02:27:15Z"
     },
     {
-     "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-     "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T15:56:48Z"
+     "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+     "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T23:50:02Z"
     },
     {
-     "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-     "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T15:21:44Z"
+     "title": "The bitter row over military service that could shape Israel's future",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T23:03:21Z"
     },
     {
-     "title": "Ukraine says Starlink connection 'now stable' after network limits",
-     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T12:12:40Z"
+     "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T23:03:09Z"
     },
     {
-     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T09:46:53Z"
+     "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+     "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T23:02:51Z"
     },
     {
-     "title": "Three released without charge after fatal arson attack in Ireland",
-     "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-24T09:38:28Z"
+     "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
+     "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-24T22:58:43Z"
     }
    ]
   }
