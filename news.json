@@ -1,6 +1,6 @@
 {
- "version": 108,
- "updated": "2026-10-25T23:09:34Z",
+ "version": 109,
+ "updated": "2026-10-26T01:35:05Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,21 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Lula gewinnt Wahl in Brasilien",
+     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+     "time": "2026-10-26T01:12:14Z"
+    },
+    {
+     "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
+     "url": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
+     "time": "2026-10-25T23:49:15Z"
+    },
+    {
+     "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
+     "url": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+     "time": "2026-10-25T23:07:11Z"
+    },
     {
      "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
      "url": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
@@ -55,24 +70,9 @@
      "time": "2026-10-25T22:38:18Z"
     },
     {
-     "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-     "url": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
-     "time": "2026-10-25T21:24:09Z"
-    },
-    {
      "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
      "time": "2026-10-25T20:43:16Z"
-    },
-    {
-     "title": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
-     "url": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html",
-     "time": "2026-10-25T19:41:15Z"
-    },
-    {
-     "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
-     "url": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
-     "time": "2026-10-25T19:25:14Z"
     }
    ]
   },
@@ -84,6 +84,11 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Stichwahl ums Präsidentenamt – Amtsinhaber Lula da Silva in Brasilien wiedergewählt",
+     "url": "https://www.srf.ch/news/international/stichwahl-ums-praesidentenamt-amtsinhaber-lula-da-silva-in-brasilien-wiedergewaehlt",
+     "time": "2026-10-26T01:30:45Z"
+    },
     {
      "title": "Grosser Preis der USA – Antonelli siegt in Austin – doch die WM-Entscheidung ist vertagt",
      "url": "https://www.srf.ch/sport/motorsport/formel-1/grosser-preis-der-usa-antonelli-siegt-in-austin-doch-die-wm-entscheidung-ist-vertagt",
@@ -138,11 +143,6 @@
      "title": "– «Politischer Übergriff»: Politologe kritisiert SVP-Strategie",
      "url": "https://www.srf.ch/news/schweiz/schielen-auf-justizdepartement-politischer-uebergriff-politologe-kritisiert-svp-strategie",
      "time": "2026-10-25T17:40:19Z"
-    },
-    {
-     "title": "Dinosaurier im Fricktal – Schweizer Dino-Hotspot: Noch vieles schlummert im Boden",
-     "url": "https://www.srf.ch/news/schweiz/dinosaurier-im-fricktal-schweizer-dino-hotspot-noch-vieles-schlummert-im-boden",
-     "time": "2026-10-25T17:07:53Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Lula rieletto presidente del Brasile",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/lula-rieletto-presidente-del-brasile_0c170807-4490-4d00-a1e7-a8a31221841c.html",
+     "time": "2026-10-26T00:32:34Z"
+    },
+    {
+     "title": "Borsa: Tokyo, apertura in calo (-0,39%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/borsa-tokyo-apertura-in-calo-039_459aaf02-2b44-42b7-b7c0-d72e2fba559f.html",
+     "time": "2026-10-26T00:27:46Z"
+    },
+    {
+     "title": "Proiezione di Datafolha: 'Lula ha vinto'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/proiezione-di-datafolha-lula-ha-vinto_8d6195f3-d2fe-4277-9be9-bf01f01bec72.html",
+     "time": "2026-10-26T00:07:12Z"
+    },
     {
      "title": "Antonelli vince ad Austin, il Mondiale è a un passo",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/antonelli-vince-ad-austin-il-mondiale-e-a-un-passo_9008b7c4-3fdd-414d-8686-72c526b40d22.html",
@@ -190,21 +205,6 @@
      "title": "Trump, 'Obama presidente incompetente e ora sostiene un jihadista anti-semita'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/trump-obama-presidente-incompetente-e-ora-sostiene-un-jihadista-anti-semita_911038c4-7e8e-46b8-9e18-f0f0776bf44a.html",
      "time": "2026-10-25T18:09:23Z"
-    },
-    {
-     "title": "Media, 'scontro fra bus e auto vicino Barcellona, 40 feriti di cui 20 gravi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/media-scontro-fra-bus-e-auto-vicino-barcellona-40-feriti-di-cui-20-gravi_52165a67-eb6c-4289-a660-5ab0e866465a.html",
-     "time": "2026-10-25T17:55:00Z"
-    },
-    {
-     "title": "Il premier albanese Rama vuole rendere più severa la gestione delle manifestazioni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/il-premier-albanese-rama-vuole-rendere-piu-severa-la-gestione-delle-manifestazioni_05e4bb9f-e7d6-4155-baa8-f7d0a52ee9c3.html",
-     "time": "2026-10-25T17:02:14Z"
-    },
-    {
-     "title": "Trump, 'Macron sta distruggendo la Francia, con i migranti'. E cita anche l'Italia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/trump-macron-sta-distruggendo-la-francia-con-i-migranti.-e-cita-anche-litalia_6fd7984a-421b-40af-b945-be9904a23b03.html",
-     "time": "2026-10-25T16:55:11Z"
     }
    ]
   },
@@ -215,9 +215,14 @@
    "countries": [],
    "items": [
     {
-     "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+     "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T22:54:57Z"
+     "time": "2026-10-26T01:07:05Z"
+    },
+    {
+     "title": "Venezuelan opposition leader María Machado returns after months in exile",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T23:33:14Z"
     },
     {
      "title": "Deeply divided Israel braces for pivotal election",
@@ -233,11 +238,6 @@
      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-25T19:14:27Z"
-    },
-    {
-     "title": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T18:29:00Z"
     },
     {
      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
