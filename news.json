@@ -1,6 +1,6 @@
 {
- "version": 112,
- "updated": "2026-10-26T20:06:13Z",
+ "version": 113,
+ "updated": "2026-10-26T23:48:46Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,14 +15,49 @@
    ],
    "items": [
     {
-     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-     "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
-     "time": "2026-10-26T19:56:04Z"
+     "title": "Harry Kane gewinnt Ballon d'Or",
+     "url": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
+     "time": "2026-10-26T23:20:35Z"
+    },
+    {
+     "title": "Alexia Putellas gewinnt zum dritten Mal Ballon d'Or",
+     "url": "https://www.sportschau.de/fussball/alexia-putellas-gewinnt-zum-dritten-mal-ballon-dor,alexia-putellas-ballon-d-or-100.html",
+     "time": "2026-10-26T23:03:29Z"
     },
     {
      "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
      "url": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
-     "time": "2026-10-26T19:45:53Z"
+     "time": "2026-10-26T22:30:15Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12950.html",
+     "time": "2026-10-26T21:58:41Z"
+    },
+    {
+     "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1673134.html",
+     "time": "2026-10-26T21:35:29Z"
+    },
+    {
+     "title": "Vedran Dzihic, Österreichisches Institut für internationale Politik, über die politischen Entwicklungen auf dem westlichen Balkan",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1673132.html",
+     "time": "2026-10-26T21:32:24Z"
+    },
+    {
+     "title": "Studentenliste gewinnt bei Wahl in Serbien",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1673130.html",
+     "time": "2026-10-26T21:26:29Z"
+    },
+    {
+     "title": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
+     "url": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
+     "time": "2026-10-26T20:36:08Z"
+    },
+    {
+     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+     "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+     "time": "2026-10-26T19:56:04Z"
     },
     {
      "title": "tagesschau mit Gebärdensprache",
@@ -35,44 +70,9 @@
      "time": "2026-10-26T19:17:47Z"
     },
     {
-     "title": "Lula da Silva gewinnt Stichwahl in Brasilien",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673078.html",
-     "time": "2026-10-26T19:13:52Z"
-    },
-    {
-     "title": "Andreas Bachmann, ARD Wien, zzt. Belgrad, über den Wahlsieg der Studentenliste in Serbien",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673076.html",
-     "time": "2026-10-26T19:11:55Z"
-    },
-    {
-     "title": "Serbien steht nach vorgezogener Parlamentswahlen vor Machtwechsel",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673072.html",
-     "time": "2026-10-26T19:10:51Z"
-    },
-    {
      "title": "Audi investiert in Amerika, Neckarsulm bangt",
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
      "time": "2026-10-26T17:56:22Z"
-    },
-    {
-     "title": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
-     "time": "2026-10-26T17:56:13Z"
-    },
-    {
-     "title": "Marktbericht: Klare Gewinne zum Wochenstart",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
-     "time": "2026-10-26T17:05:23Z"
-    },
-    {
-     "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-     "url": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
-     "time": "2026-10-26T16:57:08Z"
-    },
-    {
-     "title": "Thüringens ehemaliger Ministerpräsident Josef Duchač gestorben",
-     "url": "https://www.tagesschau.de/inland/regional/thueringen/ministerpraesident-gestorben-krankheit,josef-duchac-106.html",
-     "time": "2026-10-26T16:48:06Z"
     }
    ]
   },
@@ -85,19 +85,44 @@
    ],
    "items": [
     {
-     "title": "Unruhen in Frankreich – Frankreichs Regierung geht auf Forderung der Studenten ein",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-frankreichs-regierung-geht-auf-forderung-der-studenten-ein",
-     "time": "2026-10-26T19:52:36Z"
+     "title": "Yamal und Mbappé ausgestochen – Ballon d'Or erstmals an Kane und zum 3. Mal an Putellas",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/yamal-und-mbappe-ausgestochen-ballon-d-or-erstmals-an-kane-und-zum-3-mal-an-putellas",
+     "time": "2026-10-26T23:09:29Z"
     },
     {
      "title": "Krieg in der Ukraine – Kälte als Waffe: UNO-Fachleute werfen Moskau Verbrechen vor",
      "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-kaelte-als-waffe-uno-fachleute-werfen-moskau-verbrechen-vor",
-     "time": "2026-10-26T19:50:15Z"
+     "time": "2026-10-26T22:30:29Z"
     },
     {
      "title": "Krieg im Nahen Osten – Guterres: Zweistaatenlösung droht «plattgewalzt zu werden»",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-guterres-zweistaatenloesung-droht-plattgewalzt-zu-werden",
-     "time": "2026-10-26T19:44:01Z"
+     "time": "2026-10-26T22:30:26Z"
+    },
+    {
+     "title": "Unruhen in Frankreich – Frankreichs Regierung geht auf Forderung der Studenten ein",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-frankreichs-regierung-geht-auf-forderung-der-studenten-ein",
+     "time": "2026-10-26T22:30:23Z"
+    },
+    {
+     "title": "Swiss Indoors in Basel – Stricker gibt Spiel aus der Hand – Brunold zahlt Lehrgeld",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-in-basel-stricker-gibt-spiel-aus-der-hand-brunold-zahlt-lehrgeld",
+     "time": "2026-10-26T22:23:33Z"
+    },
+    {
+     "title": "Bisher Coach von Wawrinka – Sinner heuert offenbar Norman als neuen Trainer an",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/bisher-coach-von-wawrinka-sinner-heuert-offenbar-norman-als-neuen-trainer-an",
+     "time": "2026-10-26T21:24:42Z"
+    },
+    {
+     "title": "An Swiss Indoors gefeiert – «Stallone des Tennis»: Grosse Hommage an Stan Wawrinka in Basel",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/an-swiss-indoors-gefeiert-stallone-des-tennis-grosse-hommage-an-stan-wawrinka-in-basel",
+     "time": "2026-10-26T20:24:09Z"
+    },
+    {
+     "title": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
+     "url": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an",
+     "time": "2026-10-26T20:23:21Z"
     },
     {
      "title": "Basler Herbstmesse – Bevor der Looping startet: Experte prüft alle Bahnen",
@@ -118,31 +143,6 @@
      "title": "Kulturnews in Kurzform – Star-Trek-Schauspieler Walter Koenig ist tot",
      "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-star-trek-schauspieler-walter-koenig-ist-tot",
      "time": "2026-10-26T18:24:28Z"
-    },
-    {
-     "title": "Ernst Balzlis Hörspielserie – Gotthelf fesselte die Schweiz – und provozierte die Eliten",
-     "url": "https://www.srf.ch/radio-srf-1/mundart/ernst-balzlis-hoerspielserie-gotthelf-fesselte-die-schweiz-und-provozierte-die-eliten",
-     "time": "2026-10-26T18:00:24Z"
-    },
-    {
-     "title": "Lulas Sieg in Brasilien – «Viele hatten Angst, dass Bolsonaro die Demokratie zerstört»",
-     "url": "https://www.srf.ch/news/international/lulas-sieg-in-brasilien-viele-hatten-angst-dass-bolsonaro-die-demokratie-zerstoert",
-     "time": "2026-10-26T17:43:19Z"
-    },
-    {
-     "title": "WM-Premiere im kommenden Jahr – Volleyball-Nati trifft auf namhafte Gegner",
-     "url": "https://www.srf.ch/sport/mehr-sport/volleyball/wm-premiere-im-kommenden-jahr-volleyball-nati-trifft-auf-namhafte-gegner",
-     "time": "2026-10-26T17:32:00Z"
-    },
-    {
-     "title": "Nach Rückführung aus Nigeria – Schweizerin mit Ebola-Virus in Genfer Spital eingeliefert",
-     "url": "https://www.srf.ch/news/international/nach-rueckfuehrung-aus-nigeria-schweizerin-mit-ebola-virus-in-genfer-spital-eingeliefert",
-     "time": "2026-10-26T17:15:28Z"
-    },
-    {
-     "title": "PHP-Sicherheitslücke – Betrugsversuche nach Datenleck im Buchungssystem für TCS-Camping",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/php-sicherheitsluecke-betrugsversuche-nach-datenleck-im-buchungssystem-fuer-tcs-camping",
-     "time": "2026-10-26T17:04:31Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Flavio Bolsonaro, 'la polizia mi ha tolto il passaporto'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/flavio-bolsonaro-la-polizia-mi-ha-tolto-il-passaporto_79d74835-a94c-4db4-afdc-d9eeb3b698a3.html",
+     "time": "2026-10-26T20:24:33Z"
+    },
+    {
+     "title": "Kiev, missili russi vicino a stazione metro della capitale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/kiev-missili-russi-vicino-a-stazione-metro-della-capitale_e1710e4e-d516-4f68-b706-f3faa42ea197.html",
+     "time": "2026-10-26T20:23:12Z"
+    },
     {
      "title": "Studentessa denuncia una violenza sessuale nel pomeriggio a Milano",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/studentessa-denuncia-una-violenza-sessuale-nel-pomeriggio-a-milano_7715de6d-f726-4e40-a3cf-7c59ff5923c9.html",
@@ -195,16 +205,6 @@
      "title": "Crosetto, la linea dell'Italia sull'Ucraina non può cambiare",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/crosetto-la-linea-dellitalia-sullucraina-non-puo-cambiare_082fb015-6f5e-4a83-b001-62d37d675b82.html",
      "time": "2026-10-26T17:28:59Z"
-    },
-    {
-     "title": "Lo spread tra Btp e Bund chiude in forte calo a 112 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/lo-spread-tra-btp-e-bund-chiude-in-forte-calo-a-112-punti_4e892336-c2df-45a9-bf7c-7679655e940a.html",
-     "time": "2026-10-26T17:14:09Z"
-    },
-    {
-     "title": "Borsa: l'Europa chiude in rialzo e guarda alle banche centrali",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/borsa-leuropa-chiude-in-rialzo-e-guarda-alle-banche-centrali_58ad0768-5fd9-42ae-bf76-711c32d52d68.html",
-     "time": "2026-10-26T17:04:31Z"
     }
    ]
   },
@@ -215,19 +215,19 @@
    "countries": [],
    "items": [
     {
+     "title": "'Maxxing' selected as Dictionary.com word of the year",
+     "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T21:31:53Z"
+    },
+    {
      "title": "Lula wins fourth term in dramatic Brazil election comeback",
      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T20:00:30Z"
+     "time": "2026-10-26T21:02:47Z"
     },
     {
      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-26T19:27:21Z"
-    },
-    {
-     "title": "'Maxxing' selected as Dictionary.com word of the year",
-     "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T19:16:28Z"
     },
     {
      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
