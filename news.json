@@ -1,6 +1,6 @@
 {
- "version": 109,
- "updated": "2026-10-26T01:35:05Z",
+ "version": 110,
+ "updated": "2026-10-26T06:54:15Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Lula gewinnt Wahl in Brasilien",
+     "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+     "url": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
+     "time": "2026-10-26T06:42:00Z"
+    },
+    {
+     "title": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
+     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html",
+     "time": "2026-10-26T06:34:32Z"
+    },
+    {
+     "title": "Marktbericht: Anleger versuchen DAX zu stabilisieren",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+     "time": "2026-10-26T06:27:39Z"
+    },
+    {
+     "title": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
+     "url": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html",
+     "time": "2026-10-26T06:13:21Z"
+    },
+    {
+     "title": "Podcast 15 Minuten:",
+     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15-minuten-podcast-proteste-audi-kirschlorbeer-100.html",
+     "time": "2026-10-26T05:58:58Z"
+    },
+    {
+     "title": "Unwetter im Norden - neue Sturmflutwarnung",
+     "url": "https://www.tagesschau.de/inland/regional/unwetter-im-norden-neue-sturmflutwarnung-fuer-heute-mittag,wetter-7178.html",
+     "time": "2026-10-26T05:52:11Z"
+    },
+    {
+     "title": "11KM-Podcast: Frauen in der Bundeswehr - belästigt, gemobbt, missbraucht",
+     "url": "https://www.tagesschau.de/podcast-11km-frauen-bundeswehr-100.html",
+     "time": "2026-10-26T05:27:48Z"
+    },
+    {
+     "title": "Deutsche Geheimdienste setzen auf Cloud-System von Google",
+     "url": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html",
+     "time": "2026-10-26T05:11:08Z"
+    },
+    {
+     "title": "Frauen in der Bundeswehr: Belästigt, gemobbt, missbraucht",
+     "url": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-3976.html",
+     "time": "2026-10-26T05:00:00Z"
+    },
+    {
+     "title": "Reisen in die Boom-Region: Merz und Steinmeier gleichzeitig in Asien",
+     "url": "https://www.tagesschau.de/ausland/asien/asien-reise-merz-steinmeier-100.html",
+     "time": "2026-10-26T03:31:40Z"
+    },
+    {
+     "title": "Lula gewinnt Wahl - Bolsonaro erkennt Niederlage nicht an",
      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
-     "time": "2026-10-26T01:12:14Z"
+     "time": "2026-10-26T03:28:19Z"
     },
     {
-     "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-     "url": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
-     "time": "2026-10-25T23:49:15Z"
-    },
-    {
-     "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
-     "url": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
-     "time": "2026-10-25T23:07:11Z"
-    },
-    {
-     "title": "Beier befreit den BVB gegen Eintracht Frankfurt vom Pech",
-     "url": "https://www.sportschau.de/fussball/bundesliga/beier-befreit-bvb-gegen-frankfurt-vom-pech,spielbericht-borussia-dortmund-eintracht-frankfurt-112.html",
-     "time": "2026-10-25T23:00:37Z"
-    },
-    {
-     "title": "Leipzigs Halbzeit-Gala schickt Elversberg in die Auswärtskrise",
-     "url": "https://www.sportschau.de/fussball/bundesliga/leipzigs-halbzeit-gala-schickt-elversberg-in-die-auswaertskrise,spielbericht-rb-leipzig-sv-elverberg-100.html",
-     "time": "2026-10-25T23:00:37Z"
-    },
-    {
-     "title": "Hoffenheimer Arbeitssieg gegen Leverkusen",
-     "url": "https://www.sportschau.de/fussball/bundesliga/hoffenheim-siegt-im-endspurt-gegen-leverkusen,spielbericht-tsg-hoffenheim-bayer-leverkusen-102.html",
-     "time": "2026-10-25T23:00:27Z"
-    },
-    {
-     "title": "Trotz Personalsorgen: Bayern siegt in Freiburg und rückt an Tabellenspitze",
-     "url": "https://www.sportschau.de/fussball/bundesliga/bayern-erobern-sich-gegen-freiburg-tabellenspitze-zurueck,spielbericht-sc-freiburg-bayern-muenchen-108.html",
-     "time": "2026-10-25T23:00:11Z"
-    },
-    {
-     "title": "Parteitag in Orléans - Le Pen eröffnet Wahlkampf in Frankreich",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1672564.html",
-     "time": "2026-10-25T22:40:06Z"
-    },
-    {
-     "title": "Stichwahl um das Präsidentenamt in Brasilien",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1672562.html",
-     "time": "2026-10-25T22:39:20Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12930.html",
-     "time": "2026-10-25T22:38:35Z"
-    },
-    {
-     "title": "Historischer Abend für Serbien - Studentenliste gewinnt Parlamentswahl gegen Vucic",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1672560.html",
-     "time": "2026-10-25T22:38:18Z"
-    },
-    {
-     "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
-     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
-     "time": "2026-10-25T20:43:16Z"
+     "title": "Massenproteste gegen Rundfunkreform in Tschechien",
+     "url": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html",
+     "time": "2026-10-26T03:06:18Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
+     "title": "Falsche Flugbuchungen – Der neue Flughafen bei Sydney sorgt für Verwirrung",
+     "url": "https://www.srf.ch/news/international/falsche-flugbuchungen-der-neue-flughafen-bei-sydney-sorgt-fuer-verwirrung",
+     "time": "2026-10-26T06:52:36Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – neu Israels Armee: Westjordanland wird am Wahltag abgeriegelt",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-neu-israels-armee-westjordanland-wird-am-wahltag-abgeriegelt",
+     "time": "2026-10-26T06:33:29Z"
+    },
+    {
+     "title": "Eishockey NHL – 3-facher Josi gegen Avalanche – Bichsel mit Premiere",
+     "url": "https://www.srf.ch/sport/eishockey/nhl/nhl-in-der-nacht-auf-montag-3-facher-josi-gegen-avalanche-bichsel-mit-premiere",
+     "time": "2026-10-26T06:23:01Z"
+    },
+    {
+     "title": "Debakel um Chirurg Maisano – USZ-Herzklinik-Skandal: Behörde wollte «nicht zu penetrant» sein",
+     "url": "https://www.srf.ch/news/schweiz/debakel-um-chirurg-maisano-usz-herzklinik-skandal-behoerde-wollte-nicht-zu-penetrant-sein",
+     "time": "2026-10-26T05:36:51Z"
+    },
+    {
+     "title": "Stichwahl in Brasilien – Lula gewinnt – der Streit um die Wahl geht weiter",
+     "url": "https://www.srf.ch/news/international/stichwahl-in-brasilien-lula-gewinnt-der-streit-um-die-wahl-geht-weiter",
+     "time": "2026-10-26T05:24:32Z"
+    },
+    {
+     "title": "Wahlen in Serbien – Die Arbeit in Serbien beginnt jetzt",
+     "url": "https://www.srf.ch/news/international/wahlen-in-serbien-die-arbeit-in-serbien-beginnt-jetzt",
+     "time": "2026-10-26T05:17:02Z"
+    },
+    {
+     "title": "Verteidigung im Cyberspace – Schweizer KI-Modell Apertus: Segen oder Sicherheitsrisiko?",
+     "url": "https://www.srf.ch/news/dialog/verteidigung-im-cyberspace-schweizer-ki-modell-apertus-segen-oder-sicherheitsrisiko",
+     "time": "2026-10-26T05:11:47Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Selenski wirft Russland gezielte Tötung von Zivilisten vor",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-wirft-russland-gezielte-toetung-von-zivilisten-vor",
+     "time": "2026-10-26T04:53:15Z"
+    },
+    {
+     "title": "Natürliche Erosion – Dem Neuenburgersee geht das Ufer aus",
+     "url": "https://www.srf.ch/news/dialog/natuerliche-erosion-dem-neuenburgersee-geht-das-ufer-aus",
+     "time": "2026-10-26T04:30:59Z"
+    },
+    {
+     "title": "Nova Poshta – Die Ukraine hat die womöglich schnellste Post der Welt",
+     "url": "https://www.srf.ch/news/international/ukraine/nova-poshta-die-ukraine-hat-die-womoeglich-schnellste-post-der-welt",
+     "time": "2026-10-26T04:23:17Z"
+    },
+    {
+     "title": "Präsidentenamt in Frankreich – Le Pen startet mit einem Lächeln und Rückenwind in den Wahlkampf",
+     "url": "https://www.srf.ch/news/international/praesidentenamt-in-frankreich-le-pen-startet-mit-einem-laecheln-und-rueckenwind-in-den-wahlkampf",
+     "time": "2026-10-26T03:16:54Z"
+    },
+    {
      "title": "Stichwahl ums Präsidentenamt – Amtsinhaber Lula da Silva in Brasilien wiedergewählt",
      "url": "https://www.srf.ch/news/international/stichwahl-ums-praesidentenamt-amtsinhaber-lula-da-silva-in-brasilien-wiedergewaehlt",
-     "time": "2026-10-26T01:30:45Z"
-    },
-    {
-     "title": "Grosser Preis der USA – Antonelli siegt in Austin – doch die WM-Entscheidung ist vertagt",
-     "url": "https://www.srf.ch/sport/motorsport/formel-1/grosser-preis-der-usa-antonelli-siegt-in-austin-doch-die-wm-entscheidung-ist-vertagt",
-     "time": "2026-10-25T21:48:26Z"
-    },
-    {
-     "title": "Parlamentswahl in Serbien – Studentenbewegung triumphiert – Vucic gesteht Niederlage ein",
-     "url": "https://www.srf.ch/news/international/parlamentswahl-in-serbien-studentenbewegung-triumphiert-vucic-gesteht-niederlage-ein",
-     "time": "2026-10-25T21:35:32Z"
-    },
-    {
-     "title": "– Studentenbewegung triumphiert – Vucic gesteht Niederlage ein",
-     "url": "https://www.srf.ch/news/international/parlamentswahl-in-serbien-studentenbewegung-triumphiert-vucic-gesteht-niederlage-ein",
-     "time": "2026-10-25T21:35:32Z"
-    },
-    {
-     "title": "Sonne für Wein und Netz – Erstmals in der Schweiz: Solarstrom direkt aus dem Rebberg",
-     "url": "https://www.srf.ch/news/schweiz/sonne-fuer-wein-und-netz-erstmals-in-der-schweiz-solarstrom-direkt-aus-dem-rebberg",
-     "time": "2026-10-25T21:02:29Z"
-    },
-    {
-     "title": "Geldgeschichte – Wie die Schweiz zum Sparen erzogen wurde",
-     "url": "https://www.srf.ch/news/dialog/geldgeschichte-wie-die-schweiz-zum-sparen-erzogen-wurde",
-     "time": "2026-10-25T19:52:04Z"
-    },
-    {
-     "title": "Anführerin der Opposition – «Ich bin hier, bei euch»: Machado kehrt nach Venezuela zurück",
-     "url": "https://www.srf.ch/news/international/anfuehrerin-der-opposition-ich-bin-hier-bei-euch-machado-kehrt-nach-venezuela-zurueck",
-     "time": "2026-10-25T18:45:33Z"
-    },
-    {
-     "title": "Italien – Warum sich Salvinis Lega im Niedergang befindet",
-     "url": "https://www.srf.ch/news/international/italien-warum-sich-salvinis-lega-im-niedergang-befindet",
-     "time": "2026-10-25T18:25:26Z"
-    },
-    {
-     "title": "Tessiner Grenze – Brissago: Auf den Spuren eines Weltkriegsflüchtlings",
-     "url": "https://www.srf.ch/news/dialog/tessiner-grenze-brissago-auf-den-spuren-eines-weltkriegsfluechtlings",
-     "time": "2026-10-25T18:08:37Z"
-    },
-    {
-     "title": "Remis im St. Jakob-Park – GC holt sich mit Kampf und zwei Goalies ein 0:0 in Basel",
-     "url": "https://www.srf.ch/sport/fussball/super-league/remis-im-st-jakob-park-gc-holt-sich-mit-kampf-und-zwei-goalies-ein-0-0-in-basel",
-     "time": "2026-10-25T17:42:37Z"
-    },
-    {
-     "title": "Schielen auf Justizdepartement – «Politischer Übergriff»: Politologe kritisiert SVP-Strategie",
-     "url": "https://www.srf.ch/news/schweiz/schielen-auf-justizdepartement-politischer-uebergriff-politologe-kritisiert-svp-strategie",
-     "time": "2026-10-25T17:40:19Z"
-    },
-    {
-     "title": "– «Politischer Übergriff»: Politologe kritisiert SVP-Strategie",
-     "url": "https://www.srf.ch/news/schweiz/schielen-auf-justizdepartement-politischer-uebergriff-politologe-kritisiert-svp-strategie",
-     "time": "2026-10-25T17:40:19Z"
+     "time": "2026-10-26T02:45:32Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Von der Leyen, in Brasile hanno vinto democrazia e multilateralismo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/von-der-leyen-in-brasile-hanno-vinto-democrazia-e-multilateralismo_bd5fd3a7-4427-44d3-80e8-87c942e21615.html",
+     "time": "2026-10-26T06:38:07Z"
+    },
+    {
+     "title": "Bolsonaro: 'Non riconosco il risultato del voto, va annullato'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/bolsonaro-non-riconosco-il-risultato-del-voto-va-annullato_8d86a48c-2a7e-41bd-a2f9-d874c4beb710.html",
+     "time": "2026-10-26T02:07:08Z"
+    },
+    {
+     "title": "Messico, presidente Sheinbaum celebra la rielezione di Lula in Brasile",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/messico-presidente-sheinbaum-celebra-la-rielezione-di-lula-in-brasile_f07e8b5f-f842-4614-b764-0829b0a3d0d0.html",
+     "time": "2026-10-26T01:33:33Z"
+    },
     {
      "title": "Lula rieletto presidente del Brasile",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/lula-rieletto-presidente-del-brasile_0c170807-4490-4d00-a1e7-a8a31221841c.html",
@@ -190,21 +205,6 @@
      "title": "Migliaia di manifestanti a Praga contro l'abolizione del canone radio-tv",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/migliaia-di-manifestanti-a-praga-contro-labolizione-del-canone-radio-tv_85b46aea-ebb4-42cf-a6df-9bdd9be48fdb.html",
      "time": "2026-10-25T18:38:51Z"
-    },
-    {
-     "title": "Bulgaria verso ballottaggio, exit poll danno presidente uscente in leggero vantaggio",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/bulgaria-verso-ballottaggio-exit-poll-danno-presidente-uscente-in-leggero-vantaggio_9df787ef-de5d-4fb2-b35c-ae25189b978b.html",
-     "time": "2026-10-25T18:23:55Z"
-    },
-    {
-     "title": "Usgs, 'terremoto di magnitudo 5.2 in Afghanistan al confine con il Pakistan'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/usgs-terremoto-di-magnitudo-5.2-in-afghanistan-al-confine-con-il-pakistan_f73a566f-16af-4775-bdd0-0e7c3eed4347.html",
-     "time": "2026-10-25T18:23:12Z"
-    },
-    {
-     "title": "Trump, 'Obama presidente incompetente e ora sostiene un jihadista anti-semita'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/25/trump-obama-presidente-incompetente-e-ora-sostiene-un-jihadista-anti-semita_911038c4-7e8e-46b8-9e18-f0f0776bf44a.html",
-     "time": "2026-10-25T18:09:23Z"
     }
    ]
   },
@@ -215,14 +215,39 @@
    "countries": [],
    "items": [
     {
-     "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
-     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T01:07:05Z"
+     "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+     "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T06:16:15Z"
     },
     {
      "title": "Venezuelan opposition leader María Machado returns after months in exile",
      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T23:33:14Z"
+     "time": "2026-10-26T05:20:19Z"
+    },
+    {
+     "title": "Australian murderer loses bid to eat Vegemite in prison",
+     "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T04:05:28Z"
+    },
+    {
+     "title": "India's cartoonists built an audience online - now their posts are being restricted",
+     "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T01:09:41Z"
+    },
+    {
+     "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T01:07:05Z"
+    },
+    {
+     "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+     "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T23:44:34Z"
+    },
+    {
+     "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+     "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-25T23:33:19Z"
     },
     {
      "title": "Deeply divided Israel braces for pivotal election",
@@ -248,31 +273,6 @@
      "title": "Gabon says access to social media restored after eight-month ban",
      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-25T14:39:47Z"
-    },
-    {
-     "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-     "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T10:55:33Z"
-    },
-    {
-     "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-     "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T10:38:15Z"
-    },
-    {
-     "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T09:00:00Z"
-    },
-    {
-     "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-     "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T08:36:47Z"
-    },
-    {
-     "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-25T05:45:31Z"
     }
    ]
   }
