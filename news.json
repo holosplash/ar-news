@@ -1,6 +1,6 @@
 {
- "version": 111,
- "updated": "2026-10-26T14:07:19Z",
+ "version": 112,
+ "updated": "2026-10-26T20:06:13Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Brasiliens Kapitalmärkte stürzen ab",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html",
-     "time": "2026-10-26T13:47:15Z"
+     "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+     "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+     "time": "2026-10-26T19:56:04Z"
+    },
+    {
+     "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+     "url": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
+     "time": "2026-10-26T19:45:53Z"
+    },
+    {
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12342.html",
+     "time": "2026-10-26T19:42:46Z"
+    },
+    {
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81752.html",
+     "time": "2026-10-26T19:17:47Z"
+    },
+    {
+     "title": "Lula da Silva gewinnt Stichwahl in Brasilien",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673078.html",
+     "time": "2026-10-26T19:13:52Z"
+    },
+    {
+     "title": "Andreas Bachmann, ARD Wien, zzt. Belgrad, über den Wahlsieg der Studentenliste in Serbien",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673076.html",
+     "time": "2026-10-26T19:11:55Z"
+    },
+    {
+     "title": "Serbien steht nach vorgezogener Parlamentswahlen vor Machtwechsel",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673072.html",
+     "time": "2026-10-26T19:10:51Z"
+    },
+    {
+     "title": "Audi investiert in Amerika, Neckarsulm bangt",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
+     "time": "2026-10-26T17:56:22Z"
+    },
+    {
+     "title": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
+     "time": "2026-10-26T17:56:13Z"
+    },
+    {
+     "title": "Marktbericht: Klare Gewinne zum Wochenstart",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+     "time": "2026-10-26T17:05:23Z"
+    },
+    {
+     "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
+     "url": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
+     "time": "2026-10-26T16:57:08Z"
     },
     {
      "title": "Thüringens ehemaliger Ministerpräsident Josef Duchač gestorben",
      "url": "https://www.tagesschau.de/inland/regional/thueringen/ministerpraesident-gestorben-krankheit,josef-duchac-106.html",
-     "time": "2026-10-26T13:37:07Z"
-    },
-    {
-     "title": "Wachsende Branche: So viele Bestatter-Azubis wie nie",
-     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mehr-ausbildung-bestattungsfachkraft-100.html",
-     "time": "2026-10-26T13:34:05Z"
-    },
-    {
-     "title": "Welt-Schlaganfalltag, Straßenkünstler in Indonesien, Ahmedabad in Indien",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10528.html",
-     "time": "2026-10-26T13:25:15Z"
-    },
-    {
-     "title": "Andreas Herz, ARD Wien, zzt. Belgrad, zum überraschenden Wahlsieg der Studentenliste in Serbien",
-     "url": "https://www.tagesschau.de/video/video-1672792.html",
-     "time": "2026-10-26T13:15:28Z"
-    },
-    {
-     "title": "Lula gewinnt Präsidentenwahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
-     "url": "https://www.tagesschau.de/video/video-1672794.html",
-     "time": "2026-10-26T13:14:42Z"
-    },
-    {
-     "title": "Wohnungsbau: Regierung plant Gebäudetyp E gegen schleppenden Neubau",
-     "url": "https://www.tagesschau.de/video/video-1672798.html",
-     "time": "2026-10-26T13:13:48Z"
-    },
-    {
-     "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
-     "time": "2026-10-26T12:48:59Z"
-    },
-    {
-     "title": "Carl Zeiss Jenas Vereinsikone Heiko Weber gestorben",
-     "url": "https://www.tagesschau.de/inland/regional/regionalliga-trainerlegende-heiko-weber-gestorben,heiko-weber-tod-100.html",
-     "time": "2026-10-26T12:07:45Z"
-    },
-    {
-     "title": "Massenproteste gegen Rundfunkreform in Tschechien",
-     "url": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html",
-     "time": "2026-10-26T12:02:27Z"
-    },
-    {
-     "title": "Wahl in Serbien: Vucic räumt Niederlage ein",
-     "url": "https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html",
-     "time": "2026-10-26T10:30:56Z"
-    },
-    {
-     "title": "Großer Jubel in Brasilien: Lula da Silva gewinnt Präsidentenwahl",
-     "url": "https://www.tagesschau.de/video/video-1672716.html",
-     "time": "2026-10-26T10:29:54Z"
+     "time": "2026-10-26T16:48:06Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "13. AHV-Rente – Stiftung fordert: Reiche Senioren sollen 13. AHV-Rente spenden",
-     "url": "https://www.srf.ch/news/schweiz/13-ahv-rente-stiftung-fordert-reiche-senioren-sollen-13-ahv-rente-spenden",
-     "time": "2026-10-26T14:04:06Z"
+     "title": "Unruhen in Frankreich – Frankreichs Regierung geht auf Forderung der Studenten ein",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-frankreichs-regierung-geht-auf-forderung-der-studenten-ein",
+     "time": "2026-10-26T19:52:36Z"
     },
     {
-     "title": "SVP-Kandidatin für Bundesrat – Céline Amaudruz zeigt sich unbeeindruckt von der Kritik",
-     "url": "https://www.srf.ch/news/dialog/svp-kandidatin-fuer-bundesrat-celine-amaudruz-zeigt-sich-unbeeindruckt-von-der-kritik",
-     "time": "2026-10-26T14:02:03Z"
+     "title": "Krieg in der Ukraine – Kälte als Waffe: UNO-Fachleute werfen Moskau Verbrechen vor",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-kaelte-als-waffe-uno-fachleute-werfen-moskau-verbrechen-vor",
+     "time": "2026-10-26T19:50:15Z"
     },
     {
-     "title": "PHP-Sicherheitslücke – Betrugsversuche nach Datenleck im Buchungssystem von TCS-Camping",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/php-sicherheitsluecke-betrugsversuche-nach-datenleck-im-buchungssystem-von-tcs-camping",
-     "time": "2026-10-26T13:47:40Z"
+     "title": "Krieg im Nahen Osten – Guterres: Zweistaatenlösung droht «plattgewalzt zu werden»",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-guterres-zweistaatenloesung-droht-plattgewalzt-zu-werden",
+     "time": "2026-10-26T19:44:01Z"
     },
     {
-     "title": "Kulturnews in Kurzform – KI mit Elvis-Songs gefüttert: 41-Millionen-Dollar-Klage droht",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-ki-mit-elvis-songs-gefuettert-41-millionen-dollar-klage-droht",
-     "time": "2026-10-26T13:34:43Z"
+     "title": "Basler Herbstmesse – Bevor der Looping startet: Experte prüft alle Bahnen",
+     "url": "https://www.srf.ch/news/schweiz/basler-herbstmesse-bevor-der-looping-startet-experte-prueft-alle-bahnen",
+     "time": "2026-10-26T19:18:11Z"
     },
     {
-     "title": "Ebola-Virus – An Ebola erkrankte Schweizerin wird in die Schweiz gebracht",
-     "url": "https://www.srf.ch/news/international/ebola-virus-an-ebola-erkrankte-schweizerin-wird-in-die-schweiz-gebracht",
-     "time": "2026-10-26T13:22:25Z"
+     "title": "Tötungsdelikt in Tuggen – Mutmasslicher Täter soll Mitglied von Neonazi-Netzwerk sein",
+     "url": "https://www.srf.ch/news/schweiz/toetungsdelikt-in-tuggen-mutmasslicher-taeter-soll-mitglied-von-neonazi-netzwerk-sein",
+     "time": "2026-10-26T19:11:14Z"
     },
     {
-     "title": "Stimmen aus der Community – «dialog»-Community: «Rauchverbot an allen Bahnhöfen durchsetzen»",
-     "url": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-dialog-community-rauchverbot-an-allen-bahnhoefen-durchsetzen",
-     "time": "2026-10-26T13:10:29Z"
+     "title": "Ungewöhnlicher Umzug – Zoo Zürich nimmt Abschied von seinen Kamelen",
+     "url": "https://www.srf.ch/news/schweiz/ungewoehnlicher-umzug-zoo-zuerich-nimmt-abschied-von-seinen-kamelen",
+     "time": "2026-10-26T19:01:59Z"
     },
     {
-     "title": "Fakten und Fakes – Wie anfällig ist die Schweizer Bevölkerung für Desinformation?",
-     "url": "https://www.srf.ch/news/schweiz/fakten-und-fakes-wie-anfaellig-ist-die-schweizer-bevoelkerung-fuer-desinformation",
-     "time": "2026-10-26T13:05:39Z"
+     "title": "Kulturnews in Kurzform – Star-Trek-Schauspieler Walter Koenig ist tot",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-star-trek-schauspieler-walter-koenig-ist-tot",
+     "time": "2026-10-26T18:24:28Z"
     },
     {
-     "title": "Unsicherheit an Wall Street – Abwärtstrend bei Techaktien: Kurzer Schluckauf oder fataler Hype?",
-     "url": "https://www.srf.ch/news/wirtschaft/unsicherheit-an-wall-street-abwaertstrend-bei-techaktien-kurzer-schluckauf-oder-fataler-hype",
-     "time": "2026-10-26T12:49:42Z"
+     "title": "Ernst Balzlis Hörspielserie – Gotthelf fesselte die Schweiz – und provozierte die Eliten",
+     "url": "https://www.srf.ch/radio-srf-1/mundart/ernst-balzlis-hoerspielserie-gotthelf-fesselte-die-schweiz-und-provozierte-die-eliten",
+     "time": "2026-10-26T18:00:24Z"
     },
     {
-     "title": "Nach «Clasico»-Sieg von Real – Dank «Mourinho-Masterclass» ist die Spannung in LaLiga zurück",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-clasico-sieg-von-real-dank-mourinho-masterclass-ist-die-spannung-in-laliga-zurueck",
-     "time": "2026-10-26T11:33:26Z"
+     "title": "Lulas Sieg in Brasilien – «Viele hatten Angst, dass Bolsonaro die Demokratie zerstört»",
+     "url": "https://www.srf.ch/news/international/lulas-sieg-in-brasilien-viele-hatten-angst-dass-bolsonaro-die-demokratie-zerstoert",
+     "time": "2026-10-26T17:43:19Z"
     },
     {
-     "title": "Umbau beim Detailhändler – Migros-Führung will Konzern komplett umbauen",
-     "url": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-fuehrung-will-konzern-komplett-umbauen",
-     "time": "2026-10-26T11:29:33Z"
+     "title": "WM-Premiere im kommenden Jahr – Volleyball-Nati trifft auf namhafte Gegner",
+     "url": "https://www.srf.ch/sport/mehr-sport/volleyball/wm-premiere-im-kommenden-jahr-volleyball-nati-trifft-auf-namhafte-gegner",
+     "time": "2026-10-26T17:32:00Z"
     },
     {
-     "title": "Leichenfund in Stein AG – Teile einer männlichen Leiche in Säcken im Rhein gefunden",
-     "url": "https://www.srf.ch/news/schweiz/leichenfund-in-stein-ag-teile-einer-maennlichen-leiche-in-saecken-im-rhein-gefunden",
-     "time": "2026-10-26T10:58:06Z"
+     "title": "Nach Rückführung aus Nigeria – Schweizerin mit Ebola-Virus in Genfer Spital eingeliefert",
+     "url": "https://www.srf.ch/news/international/nach-rueckfuehrung-aus-nigeria-schweizerin-mit-ebola-virus-in-genfer-spital-eingeliefert",
+     "time": "2026-10-26T17:15:28Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Israel dementiert Bericht zu Angriff auf Iran vor Parlamentswahl",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-dementiert-bericht-zu-angriff-auf-iran-vor-parlamentswahl",
-     "time": "2026-10-26T10:49:20Z"
+     "title": "PHP-Sicherheitslücke – Betrugsversuche nach Datenleck im Buchungssystem für TCS-Camping",
+     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/php-sicherheitsluecke-betrugsversuche-nach-datenleck-im-buchungssystem-fuer-tcs-camping",
+     "time": "2026-10-26T17:04:31Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Anthropic al Nasdaq a novembre, verso Ipo fino a 100 miliardi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/anthropic-al-nasdaq-a-novembre-verso-ipo-fino-a-100-miliardi_40c9de54-79aa-4f21-bd6f-89a5702205fd.html",
-     "time": "2026-10-26T13:46:20Z"
+     "title": "Studentessa denuncia una violenza sessuale nel pomeriggio a Milano",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/studentessa-denuncia-una-violenza-sessuale-nel-pomeriggio-a-milano_7715de6d-f726-4e40-a3cf-7c59ff5923c9.html",
+     "time": "2026-10-26T19:28:40Z"
     },
     {
-     "title": "Bce, ulteriore stretta alle condizioni di finanziamento per le imprese",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/bce-ulteriore-stretta-alle-condizioni-di-finanziamento-per-le-imprese_557c7c12-db80-4f89-bc26-4600eb64b7fc.html",
-     "time": "2026-10-26T13:42:52Z"
+     "title": "L'aumento di Unipol per Mps sottoscritto al 98,4%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/laumento-di-unipol-per-mps-sottoscritto-al-984_c1b54b11-9c43-438d-8460-9c85e90ea046.html",
+     "time": "2026-10-26T19:04:38Z"
     },
     {
-     "title": "Wall Street apre in rialzo, Dj +0,42%, Nasdaq +0,29%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/wall-street-apre-in-rialzo-dj-042-nasdaq-029_b089585e-046d-4f60-8551-419690d3d2a1.html",
-     "time": "2026-10-26T13:35:26Z"
+     "title": "Commissione d'inchiesta Onu accusa Mosca di crimini contro l'umanita' in Ucraina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/commissione-dinchiesta-onu-accusa-mosca-di-crimini-contro-lumanita-in-ucraina_4be11634-b9fc-4a07-859a-10aac46f90ab.html",
+     "time": "2026-10-26T18:05:12Z"
     },
     {
-     "title": "Pm chiede carcere per Siher, 'può sviluppare strategia rivoluzionaria'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/pm-chiede-carcere-per-siher-puo-sviluppare-strategia-rivoluzionaria_07892d37-05bd-4bf3-8758-7603e4458a92.html",
-     "time": "2026-10-26T13:21:06Z"
+     "title": "Meloni, congratulazioni a Lula e ai brasiliani per la straordinaria partecipazione",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/meloni-congratulazioni-a-lula-e-ai-brasiliani-per-la-straordinaria-partecipazione_417e76cf-024a-4477-a4f8-3c3b4b299c4b.html",
+     "time": "2026-10-26T18:00:28Z"
     },
     {
-     "title": "Il petrolio è in calo a New York a 101,09 dollari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/il-petrolio-e-in-calo-a-new-york-a-10109-dollari_f56c5c67-f98a-4b1b-b823-c55b1a38c878.html",
-     "time": "2026-10-26T13:16:12Z"
+     "title": "Dem pubblicano testimonianza shock, 'Trump mi violentò brutalmente nel '93'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/dem-pubblicano-testimonianza-shock-trump-mi-violento-brutalmente-nel-93_85c0188f-6bdc-4040-bdaf-201fc758c4e8.html",
+     "time": "2026-10-26T17:56:49Z"
     },
     {
-     "title": "Ex Ilva, procura chiede i domiciliari per Lucia Morselli e altri due",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/ex-ilva-procura-chiede-i-domiciliari-per-lucia-morselli-e-altri-due_d2639971-4b77-4b10-9268-36a9daf91dac.html",
-     "time": "2026-10-26T13:14:55Z"
+     "title": "Il gas in serata sale a 96,17 euro al megawattora",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/il-gas-in-serata-sale-a-9617-euro-al-megawattora_01531e09-3ed0-457d-becb-971d68fa7c8f.html",
+     "time": "2026-10-26T17:34:37Z"
     },
     {
-     "title": "Aggressione a Londra nel 2023, condannato a 8 mesi il rapper Chris Brown",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/aggressione-a-londra-nel-2023-condannato-a-8-mesi-il-rapper-chris-brown_9a30bd01-957c-4894-b730-70869a0e4f9e.html",
-     "time": "2026-10-26T13:02:00Z"
+     "title": "Pm Milano, i messaggi di Siher una dichiarazione di guerra continua",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/pm-milano-i-messaggi-di-siher-una-dichiarazione-di-guerra-continua_3d9b6f7a-35c4-4851-aa5d-e6d0b5e45e18.html",
+     "time": "2026-10-26T17:31:47Z"
     },
     {
-     "title": "Borsa: l'Europa prosegue in rialzo, Milano +1,1%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/borsa-leuropa-prosegue-in-rialzo-milano-11_b419c82b-98c3-41fe-9ba7-b360c75c1b86.html",
-     "time": "2026-10-26T12:48:10Z"
+     "title": "Crosetto, la linea dell'Italia sull'Ucraina non può cambiare",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/crosetto-la-linea-dellitalia-sullucraina-non-puo-cambiare_082fb015-6f5e-4a83-b001-62d37d675b82.html",
+     "time": "2026-10-26T17:28:59Z"
     },
     {
-     "title": "Villa Pamphili, chiesto ergastolo per Kaufmann",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/villa-pamphili-chiesto-ergastolo-per-kaufmann_3478a8a2-b5f0-45d9-97d1-1b225fd2e262.html",
-     "time": "2026-10-26T12:25:12Z"
+     "title": "Lo spread tra Btp e Bund chiude in forte calo a 112 punti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/lo-spread-tra-btp-e-bund-chiude-in-forte-calo-a-112-punti_4e892336-c2df-45a9-bf7c-7679655e940a.html",
+     "time": "2026-10-26T17:14:09Z"
     },
     {
-     "title": "Meta punta a vendere azioni per 95 miliardi di dollari per finanziare l'IA",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/meta-punta-a-vendere-azioni-per-95-miliardi-di-dollari-per-finanziare-lia_9f2738c7-0394-4790-a815-8d16ad2f449e.html",
-     "time": "2026-10-26T12:17:35Z"
+     "title": "Borsa: l'Europa chiude in rialzo e guarda alle banche centrali",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/26/borsa-leuropa-chiude-in-rialzo-e-guarda-alle-banche-centrali_58ad0768-5fd9-42ae-bf76-711c32d52d68.html",
+     "time": "2026-10-26T17:04:31Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
-     "title": "AI giant Anthropic unveils plans for blockbuster share listing",
+     "title": "Lula wins fourth term in dramatic Brazil election comeback",
+     "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T20:00:30Z"
+    },
+    {
+     "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+     "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T19:27:21Z"
+    },
+    {
+     "title": "'Maxxing' selected as Dictionary.com word of the year",
+     "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T19:16:28Z"
+    },
+    {
+     "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+     "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T18:00:10Z"
+    },
+    {
+     "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T17:00:09Z"
+    },
+    {
+     "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T16:31:09Z"
+    },
+    {
+     "title": "Israel and the US are both going to the polls - the consequences will be global",
+     "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T16:30:34Z"
+    },
+    {
+     "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T13:58:40Z"
+     "time": "2026-10-26T16:27:17Z"
     },
     {
-     "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-     "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T13:25:29Z"
+     "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+     "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T15:46:31Z"
     },
     {
-     "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-     "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T12:57:58Z"
+     "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T15:45:30Z"
     },
     {
-     "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-     "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T12:52:16Z"
+     "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T15:37:33Z"
     },
     {
-     "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-     "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T11:39:16Z"
-    },
-    {
-     "title": "Five ways Trump has changed immigration in the US",
-     "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T11:29:02Z"
-    },
-    {
-     "title": "Stunning photos capture October's Hunter's Moon around the world",
-     "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T11:27:39Z"
-    },
-    {
-     "title": "Crowds welcome Venezuela's María Machado after months in exile",
-     "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T09:31:12Z"
-    },
-    {
-     "title": "China's big political meeting could see Xi 'tighten discipline' in party",
-     "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T07:40:57Z"
-    },
-    {
-     "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T06:19:12Z"
-    },
-    {
-     "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-     "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T06:16:15Z"
-    },
-    {
-     "title": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-26T05:20:19Z"
+     "title": "Part of Antarctica named after former BBC science correspondent",
+     "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-26T14:54:40Z"
     }
    ]
   }
