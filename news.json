@@ -1,6 +1,6 @@
 {
- "version": 117,
- "updated": "2026-10-27T20:36:13Z",
+ "version": 118,
+ "updated": "2026-10-27T23:58:35Z",
  "fallback": "en",
  "regions": [
   {
@@ -17,7 +17,47 @@
     {
      "title": "Keine klare Mehrheit bei Parlamentswahl in Israel",
      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
-     "time": "2026-10-27T20:34:27Z"
+     "time": "2026-10-27T23:55:00Z"
+    },
+    {
+     "title": "Trotz Füllkrug-Toren: Sabitzer vermiest Bremen das Comeback-Märchen",
+     "url": "https://www.sportschau.de/fussball/dfbpokal/sabitzer-vermiest-bremen-comeback-maerchen,spielbericht-dfb-pokal-dortmund-bremen-100.html",
+     "time": "2026-10-27T21:53:13Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12944.html",
+     "time": "2026-10-27T21:27:42Z"
+    },
+    {
+     "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
+     "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+     "time": "2026-10-27T21:16:24Z"
+    },
+    {
+     "title": "Claudia Major, German Marshall Fund, zum Vorstoß von Norwegen und Finnland im Ukraine-Krieg",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1673754.html",
+     "time": "2026-10-27T21:12:25Z"
+    },
+    {
+     "title": "Finnlands Präsident Stubb und Norwegens Ministerpräsident Störe telefonieren mit Kremlchef Putin",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1673748.html",
+     "time": "2026-10-27T21:09:30Z"
+    },
+    {
+     "title": "Netanjahu oder Eisenkot - Wer setzt sich durch bei der Parlamentswahl in Israel?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1673750.html",
+     "time": "2026-10-27T21:08:02Z"
+    },
+    {
+     "title": "Die Meinung von Christian Limpert, BR, zur Knesset-Wahl",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1673746.html",
+     "time": "2026-10-27T21:03:46Z"
+    },
+    {
+     "title": "Bahnstrecke Hamburg-Berlin nach Bombenfund wieder frei",
+     "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/raketenteil-in-muessen-geborgen-bahnstrecke-hamburg-berlin-wieder-frei,muessen-100.html",
+     "time": "2026-10-27T20:43:58Z"
     },
     {
      "title": "Niedersachsen: Auto in Menschengruppe gesteuert - mehrere Verletzte",
@@ -33,46 +73,6 @@
      "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
      "url": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
      "time": "2026-10-27T19:52:58Z"
-    },
-    {
-     "title": "Frankfurt gewinnt Duell beim HSV",
-     "url": "https://www.sportschau.de/fussball/dfbpokal/frankfurt-bestraft-hsv-chancenwucher,spielbericht-dfb-pokal-hamburg-frankfurt-100.html",
-     "time": "2026-10-27T19:36:18Z"
-    },
-    {
-     "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
-     "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-     "time": "2026-10-27T19:25:34Z"
-    },
-    {
-     "title": "FC Augsburg schlägt Sonnenhof Großaspach nach kurzem Zittern",
-     "url": "https://www.sportschau.de/regional/br/br-fc-augsburg-schlaegt-pokal-underdog-nach-kurzem-zittern-102.html",
-     "time": "2026-10-27T19:23:33Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81716.html",
-     "time": "2026-10-27T19:17:51Z"
-    },
-    {
-     "title": "Suche nach Atommüll-Endlager konzentriert sich auf fünf Prozent der Bundesfläche",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673702.html",
-     "time": "2026-10-27T19:17:09Z"
-    },
-    {
-     "title": "EU-Kommission schlägt deutlich mehr Befugnisse für Frontex vor",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673698.html",
-     "time": "2026-10-27T19:15:23Z"
-    },
-    {
-     "title": "Pflegekommission nimmt Arbeit auf",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673696.html",
-     "time": "2026-10-27T19:12:39Z"
-    },
-    {
-     "title": "Knesset-Wahl: Kopf-an-Kopf-Rennen in Israel erwartet",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1673692.html",
-     "time": "2026-10-27T19:08:47Z"
     }
    ]
   },
@@ -85,9 +85,39 @@
    ],
    "items": [
     {
+     "title": "Schicksalswahl in Israel – Das bedeuten die ersten Ergebnisse zur Parlamentswahl",
+     "url": "https://www.srf.ch/news/international/nahost/schicksalswahl-in-israel-das-bedeuten-die-ersten-ergebnisse-zur-parlamentswahl",
+     "time": "2026-10-27T23:40:50Z"
+    },
+    {
+     "title": "Swiss Indoors in Basel – Ende einer eindrücklichen Karriere: Wawrinka unterliegt Lehecka",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-in-basel-ende-einer-eindruecklichen-karriere-wawrinka-unterliegt-lehecka",
+     "time": "2026-10-27T23:17:41Z"
+    },
+    {
+     "title": "Nach Wahlniederlage – Flávio Bolsonaro ist offenbar auf dem Weg in die USA",
+     "url": "https://www.srf.ch/news/international/nach-wahlniederlage-flavio-bolsonaro-ist-offenbar-auf-dem-weg-in-die-usa",
+     "time": "2026-10-27T21:43:37Z"
+    },
+    {
+     "title": "National League am Dienstag – ZSC weiter eine Klasse für sich – Tigers deklassieren Lausanne",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-zsc-weiter-eine-klasse-fuer-sich-tigers-deklassieren-lausanne",
+     "time": "2026-10-27T21:16:40Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Israel: Keine klare Mehrheit bei Parlamentswahl",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-keine-klare-mehrheit-bei-parlamentswahl",
+     "time": "2026-10-27T20:36:48Z"
+    },
+    {
      "title": "Curling-EM in Ostrava – Schweizerinnen starten mit Sieg über Tschechien ins Turnier",
      "url": "https://www.srf.ch/sport/mehr-sport/curling/curling-em-in-ostrava-schweizerinnen-starten-mit-sieg-ueber-tschechien-ins-turnier",
      "time": "2026-10-27T20:12:44Z"
+    },
+    {
+     "title": "Swiss Indoors am Dienstag – Zum richtigen Moment bereit: Kym wirft Rinderknech raus",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-am-dienstag-zum-richtigen-moment-bereit-kym-wirft-rinderknech-raus",
+     "time": "2026-10-27T19:48:24Z"
     },
     {
      "title": "Nassrasierer im Test – Auch günstige Rasierer schneiden gut ab",
@@ -105,11 +135,6 @@
      "time": "2026-10-27T19:03:11Z"
     },
     {
-     "title": "Nach Wahlniederlage – Flávio Bolsonaro ist offenbar auf dem Weg in die USA",
-     "url": "https://www.srf.ch/news/international/nach-wahlniederlage-flavio-bolsonaro-ist-offenbar-auf-dem-weg-in-die-usa",
-     "time": "2026-10-27T18:16:00Z"
-    },
-    {
      "title": "Kampf um den «American Dream» – Ungleichheit statt Aufstieg: Amerikas Linke sucht neue Antworten",
      "url": "https://www.srf.ch/news/international/usa/kampf-um-den-american-dream-ungleichheit-statt-aufstieg-amerikas-linke-sucht-neue-antworten",
      "time": "2026-10-27T18:00:23Z"
@@ -118,31 +143,6 @@
      "title": "Zitterpartie für Netanjahu – Israel wählt – die wichtigsten Fragen und Antworten",
      "url": "https://www.srf.ch/news/international/nahost/zitterpartie-fuer-netanjahu-israel-waehlt-die-wichtigsten-fragen-und-antworten",
      "time": "2026-10-27T17:24:10Z"
-    },
-    {
-     "title": "Lac des Brenets im Jura – Nach drei Monaten Trockenheit fahren die Schiffe wieder",
-     "url": "https://www.srf.ch/news/dialog/lac-des-brenets-im-jura-nach-drei-monaten-trockenheit-fahren-die-schiffe-wieder",
-     "time": "2026-10-27T17:23:18Z"
-    },
-    {
-     "title": "Erfolgsrezept für Proteste – Unbequem und geeint – so erreichen Proteste ihr Ziel",
-     "url": "https://www.srf.ch/news/international/erfolgsrezept-fuer-proteste-unbequem-und-geeint-so-erreichen-proteste-ihr-ziel",
-     "time": "2026-10-27T17:07:47Z"
-    },
-    {
-     "title": "«The Pitt»-Star – Noah Wyle zum «Sexiest Man Alive» gekürt",
-     "url": "https://www.srf.ch/news/gesellschaft/the-pitt-star-noah-wyle-zum-sexiest-man-alive-gekuert",
-     "time": "2026-10-27T17:01:33Z"
-    },
-    {
-     "title": "Q&A zu Midterms – «Was passiert, wenn es zu einer Pattsituation im Senat kommt?»",
-     "url": "https://www.srf.ch/news/srf-news-chats/q-a-zu-midterms-was-passiert-wenn-es-zu-einer-pattsituation-im-senat-kommt",
-     "time": "2026-10-27T17:01:10Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Putin telefoniert mit Finnland und Norwegen über Ukraine",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-putin-telefoniert-mit-finnland-und-norwegen-ueber-ukraine",
-     "time": "2026-10-27T17:00:30Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Brasile, Flávio Bolsonaro arriva in Florida e incontra il fratello Eduardo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/brasile-flavio-bolsonaro-arriva-in-florida-e-incontra-il-fratello-eduardo_639cab00-a540-49fb-b942-61651b3ba502.html",
+     "time": "2026-10-27T23:49:04Z"
+    },
+    {
+     "title": "Cnn, gli Usa rilasceranno il visto a Bolsonaro e famiglia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/cnn-gli-usa-rilasceranno-il-visto-a-bolsonaro-e-famiglia_566d2e9b-834d-4d70-9d90-c47d1fc70cb2.html",
+     "time": "2026-10-27T21:20:34Z"
+    },
     {
      "title": "Eisenkot, 'risultati preliminari indicano chiara sfiducia per governo Netanyahu'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/eisenkot-risultati-preliminari-indicano-chiara-sfiducia-per-governo-netanyahu_f18ba60b-bbe2-4ff3-a718-c9882f80f449.html",
@@ -195,16 +205,6 @@
      "title": "Cnn Brasil, 'Usa appoggiano mossa di Bolsonaro, possibile l'asilo'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/cnn-brasil-usa-appoggiano-mossa-di-bolsonaro-possibile-lasilo_acc30fff-7f68-424f-92c2-49680547048d.html",
      "time": "2026-10-27T19:21:31Z"
-    },
-    {
-     "title": "Israele, affluenza alle 20 al 74,3%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/israele-affluenza-alle-20-al-743_8a7d886d-1026-4cc3-96c1-7c91c21aaffe.html",
-     "time": "2026-10-27T19:18:59Z"
-    },
-    {
-     "title": "Il petrolio chiude in calo a New York a 99,90 dollari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/il-petrolio-chiude-in-calo-a-new-york-a-9990-dollari_1bba1fbb-54d3-41dc-8a69-626df81fd1b3.html",
-     "time": "2026-10-27T18:36:41Z"
     }
    ]
   },
@@ -215,12 +215,32 @@
    "countries": [],
    "items": [
     {
-     "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T20:19:53Z"
+     "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+     "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-27T23:41:23Z"
     },
     {
-     "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+     "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-27T22:11:08Z"
+    },
+    {
+     "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-27T21:09:12Z"
+    },
+    {
+     "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+     "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-27T20:44:40Z"
+    },
+    {
+     "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+     "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-27T20:42:38Z"
+    },
+    {
+     "title": "Dutch zookeeper dies after being mauled by leopard",
      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-27T19:30:37Z"
     },
@@ -250,29 +270,9 @@
      "time": "2026-10-27T17:10:15Z"
     },
     {
-     "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-     "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T16:11:35Z"
-    },
-    {
      "title": "West warns of famine risk in Sudan as civil war grinds on",
      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-27T15:41:46Z"
-    },
-    {
-     "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T14:29:39Z"
-    },
-    {
-     "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-     "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T13:25:54Z"
-    },
-    {
-     "title": "How Kane defied doubters to become world's best",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T12:46:39Z"
     }
    ]
   }
