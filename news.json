@@ -1,6 +1,6 @@
 {
- "version": 118,
- "updated": "2026-10-27T23:58:35Z",
+ "version": 119,
+ "updated": "2026-10-28T05:25:24Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,21 @@
    ],
    "items": [
     {
+     "title": "Patt nach Parlamentswahl in Israel",
+     "url": "https://www.tagesschau.de/video/video-1673780.html",
+     "time": "2026-10-28T05:15:50Z"
+    },
+    {
+     "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar in USA eingetroffen",
+     "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+     "time": "2026-10-28T03:21:25Z"
+    },
+    {
+     "title": "Knesset-Wahl in Israel: Prognosen deuten auf Patt-Situation hin",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
+     "time": "2026-10-28T03:17:52Z"
+    },
+    {
      "title": "Keine klare Mehrheit bei Parlamentswahl in Israel",
      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
      "time": "2026-10-27T23:55:00Z"
@@ -28,11 +43,6 @@
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12944.html",
      "time": "2026-10-27T21:27:42Z"
-    },
-    {
-     "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
-     "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-     "time": "2026-10-27T21:16:24Z"
     },
     {
      "title": "Claudia Major, German Marshall Fund, zum Vorstoß von Norwegen und Finnland im Ukraine-Krieg",
@@ -50,29 +60,19 @@
      "time": "2026-10-27T21:08:02Z"
     },
     {
-     "title": "Die Meinung von Christian Limpert, BR, zur Knesset-Wahl",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1673746.html",
-     "time": "2026-10-27T21:03:46Z"
-    },
-    {
      "title": "Bahnstrecke Hamburg-Berlin nach Bombenfund wieder frei",
      "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/raketenteil-in-muessen-geborgen-bahnstrecke-hamburg-berlin-wieder-frei,muessen-100.html",
      "time": "2026-10-27T20:43:58Z"
     },
     {
-     "title": "Niedersachsen: Auto in Menschengruppe gesteuert - mehrere Verletzte",
-     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/auto-in-menschenmenge-gesteuert-polizei-nimmt-drei-verdaechtige-fest,neustadt-158.html",
-     "time": "2026-10-27T20:24:51Z"
-    },
-    {
-     "title": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
-     "url": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
-     "time": "2026-10-27T20:05:11Z"
-    },
-    {
      "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
      "url": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
      "time": "2026-10-27T19:52:58Z"
+    },
+    {
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81716.html",
+     "time": "2026-10-27T19:17:51Z"
     }
    ]
   },
@@ -85,9 +85,34 @@
    ],
    "items": [
     {
+     "title": "Übermüdete Piloten – Jeder dritte Pilot fühlt sich nicht erholt",
+     "url": "https://www.srf.ch/news/international/uebermuedete-piloten-jeder-dritte-pilot-fuehlt-sich-nicht-erholt",
+     "time": "2026-10-28T05:10:16Z"
+    },
+    {
+     "title": "Anthropic vor Börsengang – Anthropic-Börsengang macht Firmengründer zu Milliardären",
+     "url": "https://www.srf.ch/news/wirtschaft/anthropic-vor-boersengang-anthropic-boersengang-macht-firmengruender-zu-milliardaeren",
+     "time": "2026-10-28T05:09:13Z"
+    },
+    {
+     "title": "Abstimmung über Waffenexport – Das sind die Schweizer «Exportschlager» – und das sind die Trends",
+     "url": "https://www.srf.ch/news/schweiz/abstimmung-ueber-waffenexport-das-sind-die-schweizer-exportschlager-und-das-sind-die-trends",
+     "time": "2026-10-28T05:08:22Z"
+    },
+    {
+     "title": "Wahl in Israel – Die arabischen Parteien gewinnen – Eisenkot ist in der Zwickmühle",
+     "url": "https://www.srf.ch/news/international/nahost/wahl-in-israel-die-arabischen-parteien-gewinnen-eisenkot-ist-in-der-zwickmuehle",
+     "time": "2026-10-28T05:02:56Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Israel: Keine klare Mehrheit bei Parlamentswahl",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-keine-klare-mehrheit-bei-parlamentswahl",
+     "time": "2026-10-28T04:34:23Z"
+    },
+    {
      "title": "Schicksalswahl in Israel – Das bedeuten die ersten Ergebnisse zur Parlamentswahl",
      "url": "https://www.srf.ch/news/international/nahost/schicksalswahl-in-israel-das-bedeuten-die-ersten-ergebnisse-zur-parlamentswahl",
-     "time": "2026-10-27T23:40:50Z"
+     "time": "2026-10-28T03:24:49Z"
     },
     {
      "title": "Swiss Indoors in Basel – Ende einer eindrücklichen Karriere: Wawrinka unterliegt Lehecka",
@@ -95,19 +120,14 @@
      "time": "2026-10-27T23:17:41Z"
     },
     {
-     "title": "Nach Wahlniederlage – Flávio Bolsonaro ist offenbar auf dem Weg in die USA",
-     "url": "https://www.srf.ch/news/international/nach-wahlniederlage-flavio-bolsonaro-ist-offenbar-auf-dem-weg-in-die-usa",
+     "title": "Nach Wahlniederlage – Flávio Bolsonaro soll in die USA geflohen sein",
+     "url": "https://www.srf.ch/news/international/nach-wahlniederlage-flavio-bolsonaro-soll-in-die-usa-geflohen-sein",
      "time": "2026-10-27T21:43:37Z"
     },
     {
      "title": "National League am Dienstag – ZSC weiter eine Klasse für sich – Tigers deklassieren Lausanne",
      "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-zsc-weiter-eine-klasse-fuer-sich-tigers-deklassieren-lausanne",
      "time": "2026-10-27T21:16:40Z"
-    },
-    {
-     "title": "Krieg im Nahen Osten – Israel: Keine klare Mehrheit bei Parlamentswahl",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-keine-klare-mehrheit-bei-parlamentswahl",
-     "time": "2026-10-27T20:36:48Z"
     },
     {
      "title": "Curling-EM in Ostrava – Schweizerinnen starten mit Sieg über Tschechien ins Turnier",
@@ -123,26 +143,6 @@
      "title": "Nassrasierer im Test – Auch günstige Rasierer schneiden gut ab",
      "url": "https://www.srf.ch/sendungen/kassensturz-espresso/tests/beauty-mode/nassrasierer-im-test-auch-guenstige-rasierer-schneiden-gut-ab",
      "time": "2026-10-27T19:37:45Z"
-    },
-    {
-     "title": "Beziehungen zu Pjöngjang – Aussenminister Cassis auf diplomatischer Mission in Nordkorea",
-     "url": "https://www.srf.ch/news/international/beziehungen-zu-pjoengjang-aussenminister-cassis-auf-diplomatischer-mission-in-nordkorea",
-     "time": "2026-10-27T19:25:21Z"
-    },
-    {
-     "title": "Schutz der EU-Aussengrenzen – Brüssel plant massiven Ausbau von Frontex",
-     "url": "https://www.srf.ch/news/international/schutz-der-eu-aussengrenzen-bruessel-plant-massiven-ausbau-von-frontex",
-     "time": "2026-10-27T19:03:11Z"
-    },
-    {
-     "title": "Kampf um den «American Dream» – Ungleichheit statt Aufstieg: Amerikas Linke sucht neue Antworten",
-     "url": "https://www.srf.ch/news/international/usa/kampf-um-den-american-dream-ungleichheit-statt-aufstieg-amerikas-linke-sucht-neue-antworten",
-     "time": "2026-10-27T18:00:23Z"
-    },
-    {
-     "title": "Zitterpartie für Netanjahu – Israel wählt – die wichtigsten Fragen und Antworten",
-     "url": "https://www.srf.ch/news/international/nahost/zitterpartie-fuer-netanjahu-israel-waehlt-die-wichtigsten-fragen-und-antworten",
-     "time": "2026-10-27T17:24:10Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Israele: ad un quarto dei seggi scrutinati Likud in testa con il 23,36%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/israele-ad-un-quarto-dei-seggi-scrutinati-likud-in-testa-con-il-2336_7deb335d-addd-4b29-b6c3-516b4cc75f31.html",
+     "time": "2026-10-28T02:31:27Z"
+    },
+    {
+     "title": "Netanyahu, 'attesa, ma è chiaro che Likud partito più grande'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/netanyahu-attesa-ma-e-chiaro-che-likud-partito-piu-grande_0fdd69d2-cbf3-4a93-903f-fe36d654ac51.html",
+     "time": "2026-10-28T01:29:50Z"
+    },
+    {
+     "title": "Borsa: Tokyo, apertura in rialzo (+0,66%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/borsa-tokyo-apertura-in-rialzo-066_4b6d84fe-c5d3-4fd1-95c9-c5500869903d.html",
+     "time": "2026-10-28T00:19:36Z"
+    },
     {
      "title": "Brasile, Flávio Bolsonaro arriva in Florida e incontra il fratello Eduardo",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/brasile-flavio-bolsonaro-arriva-in-florida-e-incontra-il-fratello-eduardo_639cab00-a540-49fb-b942-61651b3ba502.html",
@@ -190,21 +205,6 @@
      "title": "Exit poll Israele, Netanyahu avanti con 24 seggi, Eisenkot a 22",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/exit-poll-israele-netanyahu-avanti-con-24-seggi-eisenkot-a-22_03e7a155-930a-4b1b-8442-c4b0071b5b81.html",
      "time": "2026-10-27T20:04:19Z"
-    },
-    {
-     "title": "Mit precetta sciopero trasporti del 30. Usb, 'lo confermiamo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/mit-precetta-sciopero-trasporti-del-30.-usb-lo-confermiamo_a5821a56-2cff-47a5-92b0-773f154cf7bf.html",
-     "time": "2026-10-27T20:03:35Z"
-    },
-    {
-     "title": "Dalla Bce via libera a Intesa Sanpaolo all'acquisizione di Mps",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/dalla-bce-via-libera-a-intesa-sanpaolo-allacquisizione-di-mps_ed31d0aa-d9ab-4fad-a862-4b9f74f429dd.html",
-     "time": "2026-10-27T19:49:23Z"
-    },
-    {
-     "title": "Cnn Brasil, 'Usa appoggiano mossa di Bolsonaro, possibile l'asilo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/cnn-brasil-usa-appoggiano-mossa-di-bolsonaro-possibile-lasilo_acc30fff-7f68-424f-92c2-49680547048d.html",
-     "time": "2026-10-27T19:21:31Z"
     }
    ]
   },
@@ -217,7 +217,7 @@
     {
      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T23:41:23Z"
+     "time": "2026-10-28T02:20:25Z"
     },
     {
      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
