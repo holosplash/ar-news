@@ -1,6 +1,6 @@
 {
- "version": 119,
- "updated": "2026-10-28T05:25:24Z",
+ "version": 120,
+ "updated": "2026-10-28T11:33:34Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Patt nach Parlamentswahl in Israel",
-     "url": "https://www.tagesschau.de/video/video-1673780.html",
-     "time": "2026-10-28T05:15:50Z"
-    },
-    {
-     "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar in USA eingetroffen",
-     "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-     "time": "2026-10-28T03:21:25Z"
-    },
-    {
-     "title": "Knesset-Wahl in Israel: Prognosen deuten auf Patt-Situation hin",
+     "title": "Knesset-Wahl in Israel: Hochrechnungen zeigen Patt-Situation in Israel",
      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
-     "time": "2026-10-28T03:17:52Z"
+     "time": "2026-10-28T11:32:28Z"
     },
     {
-     "title": "Keine klare Mehrheit bei Parlamentswahl in Israel",
-     "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
-     "time": "2026-10-27T23:55:00Z"
+     "title": "\"Amtliches Ergebnis nächste Woche\", Pia Steckelbach, ARD Tel Aviv, zur Knesset-Wahl in Israel",
+     "url": "https://www.tagesschau.de/video/video-1673922.html",
+     "time": "2026-10-28T11:21:23Z"
     },
     {
-     "title": "Trotz Füllkrug-Toren: Sabitzer vermiest Bremen das Comeback-Märchen",
-     "url": "https://www.sportschau.de/fussball/dfbpokal/sabitzer-vermiest-bremen-comeback-maerchen,spielbericht-dfb-pokal-dortmund-bremen-100.html",
-     "time": "2026-10-27T21:53:13Z"
+     "title": "Nach Niederlage bei Präsidentschaftswahl in Brasilien reist Flavio Bolsonaro trotz Verbots in USA",
+     "url": "https://www.tagesschau.de/video/video-1673926.html",
+     "time": "2026-10-28T11:19:47Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12944.html",
-     "time": "2026-10-27T21:27:42Z"
+     "title": "\"Probleme mit Signalsystem\", Sebastian Kisters, ARD Madrid, zum Zugunglück in Spanien",
+     "url": "https://www.tagesschau.de/video/video-1673924.html",
+     "time": "2026-10-28T11:17:46Z"
     },
     {
-     "title": "Claudia Major, German Marshall Fund, zum Vorstoß von Norwegen und Finnland im Ukraine-Krieg",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1673754.html",
-     "time": "2026-10-27T21:12:25Z"
+     "title": "Denkmalschutz: Wer sich für unser kulturelles Erbe einsetzt",
+     "url": "https://www.tagesschau.de/kultur/denkmalschutz-deutschland-100.html",
+     "time": "2026-10-28T11:04:30Z"
     },
     {
-     "title": "Finnlands Präsident Stubb und Norwegens Ministerpräsident Störe telefonieren mit Kremlchef Putin",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1673748.html",
-     "time": "2026-10-27T21:09:30Z"
+     "title": "Mindestens 30 Tote nach Zugunglück in Spanien",
+     "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
+     "time": "2026-10-28T10:43:13Z"
     },
     {
-     "title": "Netanjahu oder Eisenkot - Wer setzt sich durch bei der Parlamentswahl in Israel?",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1673750.html",
-     "time": "2026-10-27T21:08:02Z"
+     "title": "Wahl in Israel: \"Patt-Situation vielleicht gar nicht auflösbar\"",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-100.html",
+     "time": "2026-10-28T10:30:22Z"
     },
     {
-     "title": "Bahnstrecke Hamburg-Berlin nach Bombenfund wieder frei",
-     "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/raketenteil-in-muessen-geborgen-bahnstrecke-hamburg-berlin-wieder-frei,muessen-100.html",
-     "time": "2026-10-27T20:43:58Z"
+     "title": "Wie Meta-Chef Mark Zuckerberg eine Reichensteuer umgehen will",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zuckerberg-reichensteuer-usa-100.html",
+     "time": "2026-10-28T10:17:20Z"
     },
     {
-     "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
-     "time": "2026-10-27T19:52:58Z"
+     "title": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+     "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
+     "time": "2026-10-28T09:54:58Z"
     },
     {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81716.html",
-     "time": "2026-10-27T19:17:51Z"
+     "title": "\"Sehr irritiert, dass es Frau Claus werden soll\", Omid Nouripour, B'90/Die Grünen, zur Debatte um neue Spitze Bundespräsidentenamt",
+     "url": "https://www.tagesschau.de/video/video-1673888.html",
+     "time": "2026-10-28T09:53:24Z"
+    },
+    {
+     "title": "Marktbericht: DAX noch unentschieden",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
+     "time": "2026-10-28T09:36:36Z"
+    },
+    {
+     "title": "Brasilien: Bolsonaro trotz Ausreiseverbots laut US-Medien in USA eingetroffen",
+     "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+     "time": "2026-10-28T09:06:35Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Übermüdete Piloten – Jeder dritte Pilot fühlt sich nicht erholt",
-     "url": "https://www.srf.ch/news/international/uebermuedete-piloten-jeder-dritte-pilot-fuehlt-sich-nicht-erholt",
-     "time": "2026-10-28T05:10:16Z"
+     "title": "Zugunglück südlich von Madrid – Spanien: Hochgeschwindigkeitszüge kollidieren, mindestens 30 Tote",
+     "url": "https://www.srf.ch/news/international/zugunglueck-suedlich-von-madrid-spanien-hochgeschwindigkeitszuege-kollidieren-mindestens-30-tote",
+     "time": "2026-10-28T11:12:02Z"
     },
     {
-     "title": "Anthropic vor Börsengang – Anthropic-Börsengang macht Firmengründer zu Milliardären",
-     "url": "https://www.srf.ch/news/wirtschaft/anthropic-vor-boersengang-anthropic-boersengang-macht-firmengruender-zu-milliardaeren",
-     "time": "2026-10-28T05:09:13Z"
-    },
-    {
-     "title": "Abstimmung über Waffenexport – Das sind die Schweizer «Exportschlager» – und das sind die Trends",
-     "url": "https://www.srf.ch/news/schweiz/abstimmung-ueber-waffenexport-das-sind-die-schweizer-exportschlager-und-das-sind-die-trends",
-     "time": "2026-10-28T05:08:22Z"
-    },
-    {
-     "title": "Wahl in Israel – Die arabischen Parteien gewinnen – Eisenkot ist in der Zwickmühle",
-     "url": "https://www.srf.ch/news/international/nahost/wahl-in-israel-die-arabischen-parteien-gewinnen-eisenkot-ist-in-der-zwickmuehle",
-     "time": "2026-10-28T05:02:56Z"
+     "title": "Brandkatastrophe Crans-Montana – Staatsanwältinnen verzichten auf Befragung von Jessica Moretti",
+     "url": "https://www.srf.ch/news/dialog/brandkatastrophe-crans-montana-staatsanwaeltinnen-verzichten-auf-befragung-von-jessica-moretti",
+     "time": "2026-10-28T11:07:01Z"
     },
     {
      "title": "Krieg im Nahen Osten – Israel: Keine klare Mehrheit bei Parlamentswahl",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-keine-klare-mehrheit-bei-parlamentswahl",
-     "time": "2026-10-28T04:34:23Z"
+     "time": "2026-10-28T11:05:38Z"
     },
     {
      "title": "Schicksalswahl in Israel – Das bedeuten die ersten Ergebnisse zur Parlamentswahl",
      "url": "https://www.srf.ch/news/international/nahost/schicksalswahl-in-israel-das-bedeuten-die-ersten-ergebnisse-zur-parlamentswahl",
-     "time": "2026-10-28T03:24:49Z"
+     "time": "2026-10-28T11:05:01Z"
     },
     {
-     "title": "Swiss Indoors in Basel – Ende einer eindrücklichen Karriere: Wawrinka unterliegt Lehecka",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-in-basel-ende-einer-eindruecklichen-karriere-wawrinka-unterliegt-lehecka",
-     "time": "2026-10-27T23:17:41Z"
+     "title": "Wetterextreme – Klimakrise: Forschende fordern weltweite Gesundheitsnotlage",
+     "url": "https://www.srf.ch/news/international/wetterextreme-klimakrise-forschende-fordern-weltweite-gesundheitsnotlage",
+     "time": "2026-10-28T11:03:49Z"
     },
     {
-     "title": "Nach Wahlniederlage – Flávio Bolsonaro soll in die USA geflohen sein",
-     "url": "https://www.srf.ch/news/international/nach-wahlniederlage-flavio-bolsonaro-soll-in-die-usa-geflohen-sein",
-     "time": "2026-10-27T21:43:37Z"
+     "title": "Wawrinka nach Abschied – Zitrone ausgepresst, alles geliebt und keine Angst vor einem Loch",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/wawrinka-nach-abschied-zitrone-ausgepresst-alles-geliebt-und-keine-angst-vor-einem-loch",
+     "time": "2026-10-28T10:56:15Z"
     },
     {
-     "title": "National League am Dienstag – ZSC weiter eine Klasse für sich – Tigers deklassieren Lausanne",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-zsc-weiter-eine-klasse-fuer-sich-tigers-deklassieren-lausanne",
-     "time": "2026-10-27T21:16:40Z"
+     "title": "Charlotte Brontës «Jane Eyre» – Wieso Chinas Schüler einen feministischen Klassiker lesen müssen",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/charlotte-brontes-jane-eyre-wieso-chinas-schueler-einen-feministischen-klassiker-lesen-muessen",
+     "time": "2026-10-28T10:48:19Z"
     },
     {
-     "title": "Curling-EM in Ostrava – Schweizerinnen starten mit Sieg über Tschechien ins Turnier",
-     "url": "https://www.srf.ch/sport/mehr-sport/curling/curling-em-in-ostrava-schweizerinnen-starten-mit-sieg-ueber-tschechien-ins-turnier",
-     "time": "2026-10-27T20:12:44Z"
+     "title": "«1 gegen 100»-Quiz – Wissen Sie, was «finocchio» bedeutet?",
+     "url": "https://www.srf.ch/sendungen/unterhaltungssendungen/1-gegen-100-quiz-wissen-sie-was-finocchio-bedeutet",
+     "time": "2026-10-28T10:32:04Z"
     },
     {
-     "title": "Swiss Indoors am Dienstag – Zum richtigen Moment bereit: Kym wirft Rinderknech raus",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-am-dienstag-zum-richtigen-moment-bereit-kym-wirft-rinderknech-raus",
-     "time": "2026-10-27T19:48:24Z"
+     "title": "Wegen Kontakt zu Alvarez – Barcelona kassiert 602 Euro Strafe – und will nicht zahlen",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/wegen-kontakt-zu-alvarez-barcelona-kassiert-602-euro-strafe-und-will-nicht-zahlen",
+     "time": "2026-10-28T10:04:00Z"
     },
     {
-     "title": "Nassrasierer im Test – Auch günstige Rasierer schneiden gut ab",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/tests/beauty-mode/nassrasierer-im-test-auch-guenstige-rasierer-schneiden-gut-ab",
-     "time": "2026-10-27T19:37:45Z"
+     "title": "Flatternde Illusion – Wie Schmetterlingsmuster Fressfeinde verwirren",
+     "url": "https://www.srf.ch/wissen/natur-tiere/flatternde-illusion-wie-schmetterlingsmuster-fressfeinde-verwirren",
+     "time": "2026-10-28T09:59:28Z"
+    },
+    {
+     "title": "Liefermarkt im Umbruch – Uber Eats fährt lokale Velokuriere aus dem Markt",
+     "url": "https://www.srf.ch/news/schweiz/liefermarkt-im-umbruch-uber-eats-faehrt-lokale-velokuriere-aus-dem-markt",
+     "time": "2026-10-28T09:52:44Z"
+    },
+    {
+     "title": "Nach Rückführung aus Nigeria – Ist es riskant, Ebola-Patienten in Schweizer Spitälern zu haben?",
+     "url": "https://www.srf.ch/news/schweiz/nach-rueckfuehrung-aus-nigeria-ist-es-riskant-ebola-patienten-in-schweizer-spitaelern-zu-haben",
+     "time": "2026-10-28T09:49:16Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Israele: ad un quarto dei seggi scrutinati Likud in testa con il 23,36%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/israele-ad-un-quarto-dei-seggi-scrutinati-likud-in-testa-con-il-2336_7deb335d-addd-4b29-b6c3-516b4cc75f31.html",
-     "time": "2026-10-28T02:31:27Z"
+     "title": "Mattarella, guerre dissennate e progetti militari sottraggono risorse alla medicina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/mattarella-guerre-dissennate-e-progetti-militari-sottraggono-risorse-alla-medicina_eaeaf4d7-f9b2-4bdf-93f1-01619f5d9dcc.html",
+     "time": "2026-10-28T11:13:14Z"
     },
     {
-     "title": "Netanyahu, 'attesa, ma è chiaro che Likud partito più grande'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/netanyahu-attesa-ma-e-chiaro-che-likud-partito-piu-grande_0fdd69d2-cbf3-4a93-903f-fe36d654ac51.html",
-     "time": "2026-10-28T01:29:50Z"
+     "title": "'Spionaggio e repressione sui dissidenti cinesi a Milano', 10 indagati",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/spionaggio-e-repressione-sui-dissidenti-cinesi-a-milano-10-indagati_22bdbaa7-3015-4158-a978-ff4dbd76822f.html",
+     "time": "2026-10-28T11:10:17Z"
     },
     {
-     "title": "Borsa: Tokyo, apertura in rialzo (+0,66%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/borsa-tokyo-apertura-in-rialzo-066_4b6d84fe-c5d3-4fd1-95c9-c5500869903d.html",
-     "time": "2026-10-28T00:19:36Z"
+     "title": "Craxi (Fi), sanatoria sui medici radiati è errore, al Senato chiederemo modifiche",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/craxi-fi-sanatoria-sui-medici-radiati-e-errore-al-senato-chiederemo-modifiche_078dc796-f0ce-48d5-8cd8-d7e93ec55cab.html",
+     "time": "2026-10-28T11:08:35Z"
     },
     {
-     "title": "Brasile, Flávio Bolsonaro arriva in Florida e incontra il fratello Eduardo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/brasile-flavio-bolsonaro-arriva-in-florida-e-incontra-il-fratello-eduardo_639cab00-a540-49fb-b942-61651b3ba502.html",
-     "time": "2026-10-27T23:49:04Z"
+     "title": "El Pais, 'scontro dovuto a errore umano dopo guasto a sistema segnalamento'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/el-pais-scontro-dovuto-a-errore-umano-dopo-guasto-a-sistema-segnalamento_7d035537-76da-470f-9ce6-00e07c3a1f70.html",
+     "time": "2026-10-28T10:47:49Z"
     },
     {
-     "title": "Cnn, gli Usa rilasceranno il visto a Bolsonaro e famiglia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/cnn-gli-usa-rilasceranno-il-visto-a-bolsonaro-e-famiglia_566d2e9b-834d-4d70-9d90-c47d1fc70cb2.html",
-     "time": "2026-10-27T21:20:34Z"
+     "title": "Meloni, oggi in Consiglio dei ministri la riforma dell'artigianato",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/meloni-oggi-in-consiglio-dei-ministri-la-riforma-dellartigianato_c8b23e40-c9f6-408b-b5c8-d2ecc219bddc.html",
+     "time": "2026-10-28T10:33:19Z"
     },
     {
-     "title": "Eisenkot, 'risultati preliminari indicano chiara sfiducia per governo Netanyahu'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/eisenkot-risultati-preliminari-indicano-chiara-sfiducia-per-governo-netanyahu_f18ba60b-bbe2-4ff3-a718-c9882f80f449.html",
-     "time": "2026-10-27T20:32:53Z"
+     "title": "Neil Young fa causa allo staff di Trump per aver suonato 'Rockin' in the Free World'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/neil-young-fa-causa-allo-staff-di-trump-per-aver-suonato-rockin_7207687c-ce19-4552-922f-49e7ef351fbb.html",
+     "time": "2026-10-28T10:29:45Z"
     },
     {
-     "title": "Meloni, con la manovra manteniamo gli impegni facendo quadrare i conti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/meloni-con-la-manovra-manteniamo-gli-impegni-facendo-quadrare-i-conti_b18fa60f-6ec5-49a4-9821-9976168cb38a.html",
-     "time": "2026-10-27T20:21:29Z"
+     "title": "Capo Lista Unita araba, 'chi vuole alternativa a Netanyahu dovrà parlare con noi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/capo-lista-unita-araba-chi-vuole-alternativa-a-netanyahu-dovra-parlare_6a3e859b-c152-45e9-b83a-4c0904a40546.html",
+     "time": "2026-10-28T10:28:51Z"
     },
     {
-     "title": "Exit poll Israele, boom dei partiti arabi verso 18 seggi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/exit-poll-israele-boom-dei-partiti-arabi-verso-18-seggi_89e06d5d-cd64-4f80-ae1e-be3dc81a8371.html",
-     "time": "2026-10-27T20:16:09Z"
+     "title": "Meloni, vicini al popolo spagnolo per il drammatico incidente di Toledo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/meloni-vicini-al-popolo-spagnolo-per-il-drammatico-incidente-di-toledo_7f3b94f1-fd28-477d-9d60-a89510699e39.html",
+     "time": "2026-10-28T10:01:51Z"
     },
     {
-     "title": "Exit poll Israele, blocco Eisenkot a 52 seggi, blocco Netanyahu a 50",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/exit-poll-israele-blocco-eisenkot-a-52-seggi-blocco-netanyahu-a-50_63fe9e71-471a-4e91-a829-efeca06a828c.html",
-     "time": "2026-10-27T20:10:04Z"
+     "title": "Ciriani, non sarebbe tragico votare a maggio-giugno, noi siamo pronti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/ciriani-non-sarebbe-tragico-votare-a-maggio-giugno-noi-siamo-pronti_f0f8b7ae-07f0-469d-84c2-fe6b20079baa.html",
+     "time": "2026-10-28T09:56:32Z"
     },
     {
-     "title": "Exit poll Israele, Netanyahu avanti con 24 seggi, Eisenkot a 22",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/27/exit-poll-israele-netanyahu-avanti-con-24-seggi-eisenkot-a-22_03e7a155-930a-4b1b-8442-c4b0071b5b81.html",
-     "time": "2026-10-27T20:04:19Z"
+     "title": "Mattarella, artigianato custode della rinascita e dell'identità nazionale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/mattarella-artigianato-custode-della-rinascita-e-dellidentita-nazionale_6ed7d60e-67d4-4b84-98e7-9bfcaad3141a.html",
+     "time": "2026-10-28T09:56:08Z"
     }
    ]
   },
@@ -215,14 +215,44 @@
    "countries": [],
    "items": [
     {
+     "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+     "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-28T10:35:13Z"
+    },
+    {
+     "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+     "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-28T10:31:22Z"
+    },
+    {
+     "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-28T04:32:36Z"
+    },
+    {
      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-28T02:20:25Z"
     },
     {
+     "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+     "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-28T01:01:02Z"
+    },
+    {
+     "title": "China's families are now supporting more old people than kids",
+     "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-27T23:16:08Z"
+    },
+    {
      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-27T22:11:08Z"
+    },
+    {
+     "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+     "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-27T21:46:43Z"
     },
     {
      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
@@ -243,36 +273,6 @@
      "title": "Dutch zookeeper dies after being mauled by leopard",
      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-27T19:30:37Z"
-    },
-    {
-     "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-     "url": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T19:01:16Z"
-    },
-    {
-     "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-     "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T18:43:41Z"
-    },
-    {
-     "title": "Controversial Islamic cleric shot dead in northern Nigeria",
-     "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T18:35:02Z"
-    },
-    {
-     "title": "Norway and Finland leaders hold rare call with Putin",
-     "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T18:28:23Z"
-    },
-    {
-     "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-     "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T17:10:15Z"
-    },
-    {
-     "title": "West warns of famine risk in Sudan as civil war grinds on",
-     "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-27T15:41:46Z"
     }
    ]
   }
