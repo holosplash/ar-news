@@ -1,6 +1,6 @@
 {
- "version": 122,
- "updated": "2026-10-28T21:52:53Z",
+ "version": 123,
+ "updated": "2026-10-29T01:43:05Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,21 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Zugunglück in Spanien: Der Schock sitzt tief",
+     "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
+     "time": "2026-10-29T00:52:51Z"
+    },
+    {
+     "title": "Bayern München gegen Magdeburg auch ohne Harry Kane gnadenlos",
+     "url": "https://www.sportschau.de/fussball/dfbpokal/fc-bayern-gegen-magdeburg-ohne-weltfussballer-und-ohne-gnade,spielbericht-dfb-pokal-bayern-magdeburg-100.html",
+     "time": "2026-10-28T23:12:56Z"
+    },
+    {
+     "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+     "url": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
+     "time": "2026-10-28T21:56:25Z"
+    },
     {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12954.html",
@@ -58,21 +73,6 @@
      "title": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
      "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
      "time": "2026-10-28T19:03:51Z"
-    },
-    {
-     "title": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
-     "url": "https://www.tagesschau.de/ausland/europa/gb-labour-haushalt-burnham-100.html",
-     "time": "2026-10-28T18:20:51Z"
-    },
-    {
-     "title": "Marktbericht: Der DAX behauptet sich",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
-     "time": "2026-10-28T17:38:51Z"
-    },
-    {
-     "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
-     "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
-     "time": "2026-10-28T17:22:57Z"
     }
    ]
   },
@@ -84,6 +84,11 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "2. Runde im DFB-Pokal – Bayern und Leverkusen in Torlaune – Schalke und Hoffenheim out",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/2-runde-im-dfb-pokal-bayern-und-leverkusen-in-torlaune-schalke-und-hoffenheim-out",
+     "time": "2026-10-28T22:35:58Z"
+    },
     {
      "title": "Machtkampf um Brasilien – Bolsonaro in Miami: Wie weit geht Trumps Unterstützung?",
      "url": "https://www.srf.ch/news/international/machtkampf-um-brasilien-bolsonaro-in-miami-wie-weit-geht-trumps-unterstuetzung",
@@ -138,11 +143,6 @@
      "title": "Drittes Quartal – UBS: 2.7 Milliarden Dollar Gewinn – CS-Integration 2026 beendet",
      "url": "https://www.srf.ch/news/wirtschaft/drittes-quartal-ubs-2-7-milliarden-dollar-gewinn-cs-integration-2026-beendet",
      "time": "2026-10-28T19:28:04Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Grossbritannien sagt der Ukraine zehn Milliarden Pfund zu",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-grossbritannien-sagt-der-ukraine-zehn-milliarden-pfund-zu",
-     "time": "2026-10-28T19:20:49Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Una legge dello Stato di New York vieta ai minori interazioni con i chatbot",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/una-legge-dello-stato-di-new-york-vieta-ai-minori-interazioni-con_fede5a51-05e5-487f-9527-602e15c1a6b4.html",
+     "time": "2026-10-29T00:10:19Z"
+    },
+    {
+     "title": "Scontro treni in Spagna, 'audio puntano il dito su centro controllo di Atocha'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/scontro-treni-in-spagna-audio-puntano-il-dito-su-centro-controllo-di-atocha_1af21c04-6c84-42c5-86ad-2744246bb945.html",
+     "time": "2026-10-28T22:10:05Z"
+    },
+    {
+     "title": "Farnesina, tre le italiane disperse nell'incidente ferroviario in Spagna",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/farnesina-tre-le-italiane-disperse-nellincidente-ferroviario-in-spagna_15b6b4a4-b550-48c2-8e4f-c9c110fa9f8c.html",
+     "time": "2026-10-28T21:50:33Z"
+    },
     {
      "title": "Trump, 'Bolsonaro rivendica presidenza del Brasile? Non voglio essere coinvolto'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/trump-bolsonaro-rivendica-presidenza-del-brasile-non-voglio-essere-coinvolto_5e295d6f-843c-487b-8e40-66692b721a47.html",
@@ -190,21 +205,6 @@
      "title": "In manovra aumento Ires di 3 punti per banche e assicurazioni",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/in-manovra-aumento-ires-di-3-punti-per-banche-e-assicurazioni_ef80a5b5-4a51-497d-8881-05c0e3449291.html",
      "time": "2026-10-28T19:18:16Z"
-    },
-    {
-     "title": "In manovra confermati bonus ristrutturazioni e bonus mobili fino a 5mila euro",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/in-manovra-confermati-bonus-ristrutturazioni-e-bonus-mobili-fino-a-5mila-euro_687026ed-830b-4209-8bc2-0f1fb6f1edd4.html",
-     "time": "2026-10-28T19:11:02Z"
-    },
-    {
-     "title": "Farnesina, '7 italiani coinvolti nell'incidente tra treni in Spagna, due disperse'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/farnesina-7-italiani-coinvolti-nellincidente-tra-treni-in-spagna-due-disperse_8b985c0c-bf98-4b12-ac5f-61abbec40024.html",
-     "time": "2026-10-28T19:01:20Z"
-    },
-    {
-     "title": "'Trump, dobbiamo finire il lavoro in Iran, con accordo o in altro modo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/28/trump-dobbiamo-finire-il-lavoro-in-iran-con-accordo-o-in-altro-modo_1455055d-7fb9-4a50-a623-c4aff744e812.html",
-     "time": "2026-10-28T18:58:05Z"
     }
    ]
   },
@@ -214,6 +214,16 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+     "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-29T01:14:01Z"
+    },
+    {
+     "title": "Girl seriously injured in wolf attack at German wildlife park",
+     "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-28T22:08:52Z"
+    },
     {
      "title": "High-speed train crash kills at least 68 people in Spain",
      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
@@ -228,11 +238,6 @@
      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-28T21:16:30Z"
-    },
-    {
-     "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-     "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-28T21:07:06Z"
     },
     {
      "title": "Israel's election deadlock is a sign of the country's deep divisions",
@@ -268,11 +273,6 @@
      "title": "Israel's election result is messy - here's why",
      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-28T14:26:24Z"
-    },
-    {
-     "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-     "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-28T10:31:22Z"
     }
    ]
   }
