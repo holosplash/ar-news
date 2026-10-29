@@ -1,6 +1,6 @@
 {
- "version": 125,
- "updated": "2026-10-29T15:29:11Z",
+ "version": 126,
+ "updated": "2026-10-29T20:29:58Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Europäische Zentralbank hält Leitzins unverändert",
-     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html",
-     "time": "2026-10-29T15:18:04Z"
+     "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
+     "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
+     "time": "2026-10-29T20:12:03Z"
     },
     {
-     "title": "Eralp reagiert auf Spiegel-Bericht",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/nach-spiegel-bericht-eralp-100.html",
-     "time": "2026-10-29T15:14:39Z"
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12340.html",
+     "time": "2026-10-29T19:36:23Z"
     },
     {
-     "title": "Schauspielerin Elke Sommer gestorben",
-     "url": "https://www.tagesschau.de/video/video-1674560.html",
-     "time": "2026-10-29T15:12:56Z"
+     "title": "Alexander Zverev krönt sich in Wien zur Nummer eins der Tennis-Welt",
+     "url": "https://www.sportschau.de/tennis/zverev-ab-montag-die-nummer-eins-der-tennis-welt,atp-wien-zverev-griekspoor-100.html",
+     "time": "2026-10-29T19:35:30Z"
     },
     {
-     "title": "Deutsches Rotes Kreuz eröffnet neues Zentrum für Bevölkerungsschutz in Brandenburg",
-     "url": "https://www.tagesschau.de/video/video-1674562.html",
-     "time": "2026-10-29T15:11:36Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81738.html",
+     "time": "2026-10-29T19:33:35Z"
     },
     {
-     "title": "Was bringt der \"Tankrabat\"?",
-     "url": "https://www.tagesschau.de/video/video-1674558.html",
-     "time": "2026-10-29T15:07:40Z"
+     "title": "Rede von Bundespräsident Steinmeier bei Besuch in China",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674802.html",
+     "time": "2026-10-29T19:10:57Z"
     },
     {
-     "title": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
-     "url": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
-     "time": "2026-10-29T14:25:14Z"
+     "title": "Bilanz der Asienreise von Kanzler Merz",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674800.html",
+     "time": "2026-10-29T19:08:47Z"
     },
     {
-     "title": "Hohe Spritpreise: Bringt der \"Tankrabatt\" wirklich etwas?",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-entlastung-bilanz-100.html",
-     "time": "2026-10-29T14:23:49Z"
+     "title": "Sicherheits-Debatte nach Spiegel-Interview der Berliner Linken-Politikerin Eralp",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674798.html",
+     "time": "2026-10-29T19:06:29Z"
     },
     {
-     "title": "Bergungsarbeiten nach Zugunglück in Spanien dauern an",
-     "url": "https://www.tagesschau.de/video/video-1674532.html",
-     "time": "2026-10-29T14:08:11Z"
+     "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
+     "time": "2026-10-29T18:40:44Z"
     },
     {
-     "title": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
-     "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html",
-     "time": "2026-10-29T14:04:36Z"
+     "title": "Weltballetttag, Vulkan Semeru auf Java, Ausstellung von Jaume Plensa",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10534.html",
+     "time": "2026-10-29T18:39:54Z"
     },
     {
-     "title": "Marktbericht: Warum Autoreparaturen immer teurer werden",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-autoreparaturen-100.html",
-     "time": "2026-10-29T13:14:08Z"
+     "title": "Marktbericht: DAX setzt Klettertour fort",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+     "time": "2026-10-29T17:32:38Z"
     },
     {
-     "title": "Was bringt eine EU-Allianz mit Kanada den Verbrauchern in Europa?",
-     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-eu-allianz-folgen-verbraucher-100.html",
-     "time": "2026-10-29T13:12:47Z"
+     "title": "Linken-Politikerin Klein neue Parlamentspräsidentin",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
+     "time": "2026-10-29T17:31:06Z"
     },
     {
-     "title": "Wie Kanada unter Trumps Zöllen leidet",
-     "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-trump-eu-100.html",
-     "time": "2026-10-29T13:12:09Z"
+     "title": "OVG Lüneburg: AfD darf in Niedersachsen weiter überwacht werden",
+     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/afd-niedersachsen-darf-weiter-ueberwacht-werden,afd-1332.html",
+     "time": "2026-10-29T17:15:16Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "News aus der Nati – Schweiz spielt in Maribor anstatt in Ljubljana",
-     "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/news-aus-der-nati-schweiz-spielt-in-maribor-anstatt-in-ljubljana",
-     "time": "2026-10-29T15:00:13Z"
+     "title": "Bekannt aus Star Trek – Patrick Stewart stirbt 86-jährig",
+     "url": "https://www.srf.ch/news/bekannt-aus-star-trek-patrick-stewart-stirbt-86-jaehrig",
+     "time": "2026-10-29T20:00:43Z"
     },
     {
-     "title": "Bundesgerichtsurteil – Freiheitsstrafe von 4 Jahren und 7 Monaten für Ex-SBB-Kadermann",
-     "url": "https://www.srf.ch/news/schweiz/bundesgerichtsurteil-freiheitsstrafe-von-4-jahren-und-7-monaten-fuer-ex-sbb-kadermann",
-     "time": "2026-10-29T14:53:13Z"
+     "title": "EU-Kanada-Gipfel – Warum die EU und Kanada stärker zusammenrücken wollen",
+     "url": "https://www.srf.ch/news/international/eu-kanada-gipfel-warum-die-eu-und-kanada-staerker-zusammenruecken-wollen",
+     "time": "2026-10-29T19:43:33Z"
     },
     {
-     "title": "Die Natur des Wolfs – «Abschüsse fördern die Fortpflanzung der Tiere»",
-     "url": "https://www.srf.ch/wissen/natur-tiere/die-natur-des-wolfs-abschuesse-foerdern-die-fortpflanzung-der-tiere",
-     "time": "2026-10-29T14:53:13Z"
+     "title": "Fussball aus den Topligen – Monteiro mit Premierentreffer bei Klatsche in Frosinone",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-monteiro-mit-premierentreffer-bei-klatsche-in-frosinone",
+     "time": "2026-10-29T19:41:39Z"
     },
     {
-     "title": "Q&A zu Protesten in Frankreich – Unruhen in Frankreich: Antworten auf Ihre Fragen",
-     "url": "https://www.srf.ch/news/international/q-a-zu-protesten-in-frankreich-unruhen-in-frankreich-antworten-auf-ihre-fragen",
-     "time": "2026-10-29T14:37:58Z"
+     "title": "Luzerns Verwaltung zieht um – 1200 Arbeitsplätze für 2000 Kantonsangestellte? So funktioniert's",
+     "url": "https://www.srf.ch/news/schweiz/luzerns-verwaltung-zieht-um-1200-arbeitsplaetze-fuer-2000-kantonsangestellte-so-funktioniert-s",
+     "time": "2026-10-29T19:34:01Z"
     },
     {
-     "title": "500 NL-Spiele in Serie gemacht – Dauerbrenner Bertschy schwört dann doch eher auf Wasser denn Cola",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/500-nl-spiele-in-serie-gemacht-dauerbrenner-bertschy-schwoert-dann-doch-eher-auf-wasser-denn-cola",
-     "time": "2026-10-29T14:29:36Z"
+     "title": "Als 30. Spieler – Zverev ab Montag erstmals die Nummer 1 der Weltrangliste",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/als-30-spieler-zverev-ab-montag-erstmals-die-nummer-1-der-weltrangliste",
+     "time": "2026-10-29T19:33:30Z"
     },
     {
-     "title": "Swiss Indoors in Basel – Nach umkämpften Dreisätzer: Jodar scheitert überraschend",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-in-basel-nach-umkaempften-dreisaetzer-jodar-scheitert-ueberraschend",
-     "time": "2026-10-29T14:18:00Z"
+     "title": "Krieg im Nahen Osten – Vorläufiges Endergebnis: Patt nach Wahl in Israel",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-vorlaeufiges-endergebnis-patt-nach-wahl-in-israel",
+     "time": "2026-10-29T19:16:22Z"
     },
     {
-     "title": "Süditalien – Regierung prüft bei Protesten Mafia-Verbindungen",
-     "url": "https://www.srf.ch/news/dialog/sueditalien-regierung-prueft-bei-protesten-mafia-verbindungen",
-     "time": "2026-10-29T14:11:11Z"
+     "title": "49 Prozent machen Lehre – Schweizer Unternehmen halten ihr Lehrstellenangebot konstant",
+     "url": "https://www.srf.ch/news/schweiz/49-prozent-machen-lehre-schweizer-unternehmen-halten-ihr-lehrstellenangebot-konstant",
+     "time": "2026-10-29T19:05:51Z"
     },
     {
-     "title": "Russland-Afrika-Gipfel – Afrikas Mächtige reisen nach Moskau – mit eigener Agenda",
-     "url": "https://www.srf.ch/news/international/russland-afrika-gipfel-afrikas-maechtige-reisen-nach-moskau-mit-eigener-agenda",
-     "time": "2026-10-29T13:58:32Z"
+     "title": "Spanien in Trauer – Tränen, Wut und Verunsicherung nach verheerendem Zugunglück",
+     "url": "https://www.srf.ch/news/international/spanien-in-trauer-traenen-wut-und-verunsicherung-nach-verheerendem-zugunglueck",
+     "time": "2026-10-29T18:54:13Z"
     },
     {
-     "title": "Europäische Zentralbank – Nach Rücktrittsankündigung: Lagarde belässt Leitzins",
-     "url": "https://www.srf.ch/news/wirtschaft/europaeische-zentralbank-nach-ruecktrittsankuendigung-lagarde-belaesst-leitzins",
-     "time": "2026-10-29T13:32:31Z"
+     "title": "Verbot von lautem Feuerwerk – Was Graubünden schon kennt und die Feuerwerksbranche fürchtet",
+     "url": "https://www.srf.ch/news/verbot-von-lautem-feuerwerk-was-graubuenden-schon-kennt-und-die-feuerwerksbranche-fuerchtet",
+     "time": "2026-10-29T18:45:25Z"
     },
     {
-     "title": "Aus dem Aargau in die Welt – Wie es Schweizer Barockklänge bis nach Südamerika schafften",
-     "url": "https://www.srf.ch/kultur/musik/aus-dem-aargau-in-die-welt-wie-es-schweizer-barockklaenge-bis-nach-suedamerika-schafften",
-     "time": "2026-10-29T13:00:06Z"
+     "title": "Unruhen in Frankreich – Für Halloween: Innenminister Nunez mobilisiert 70'000 Polizisten",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-fuer-halloween-innenminister-nunez-mobilisiert-70-000-polizisten",
+     "time": "2026-10-29T18:44:10Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Behörde meldet brennendes Schiff in Strasse von Hormus",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-behoerde-meldet-brennendes-schiff-in-strasse-von-hormus",
-     "time": "2026-10-29T12:56:05Z"
+     "title": "Ukrainische Frontstadt – So soll die Evakuierung im zerstörten Oleschky ablaufen",
+     "url": "https://www.srf.ch/news/international/ukraine/ukrainische-frontstadt-so-soll-die-evakuierung-im-zerstoerten-oleschky-ablaufen",
+     "time": "2026-10-29T18:32:43Z"
     },
     {
-     "title": "Zugunglück südlich von Madrid – Rettungskräfte im Dauereinsatz: Suche nach Opfern dauert an",
-     "url": "https://www.srf.ch/news/international/zugunglueck-suedlich-von-madrid-rettungskraefte-im-dauereinsatz-suche-nach-opfern-dauert-an",
-     "time": "2026-10-29T12:54:19Z"
+     "title": "Batterie-Lokomotive – Fertig Diesel: Brienz Rothorn Bahn plant erste Elektro-Lokomotive",
+     "url": "https://www.srf.ch/news/schweiz/batterie-lokomotive-fertig-diesel-brienz-rothorn-bahn-plant-erste-elektro-lokomotive",
+     "time": "2026-10-29T18:28:44Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "I soci Mps bocciano anche l'offerta su Banca Generali",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/i-soci-mps-bocciano-anche-lofferta-su-banca-generali_a1729eba-0f73-4ae8-ab7b-8f008aa726ca.html",
-     "time": "2026-10-29T15:14:41Z"
+     "title": "E' morto Patrick Stewart, l'attore di Star Trek e X-Men",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/e-morto-patrick-stewart-lattore-di-star-trek-e-x-men_3f406db5-43a3-4ec1-8223-10486367ce17.html",
+     "time": "2026-10-29T20:12:32Z"
     },
     {
-     "title": "Manovra, nel 2027 in arrivo un doppio rincaro sulle sigarette",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/manovra-nel-2027-in-arrivo-un-doppio-rincaro-sulle-sigarette_6f4b70d4-9aff-4984-82b6-2d93447fcb20.html",
-     "time": "2026-10-29T15:07:07Z"
+     "title": "Crosetto 'dolore immenso, nessuno dei feriti rischia la vita'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/crosetto-dolore-immenso-nessuno-dei-feriti-rischia-la-vita_377f4053-0012-464f-b536-78f5409c68e0.html",
+     "time": "2026-10-29T19:49:19Z"
     },
     {
-     "title": "FdI, via Fornero? Con fondo in manovra pensioni per lavori usuranti o misure sociali",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/fdi-via-fornero-con-fondo-in-manovra-pensioni-per-lavori-usuranti_f32f1e1f-7e64-4b19-a206-89c11356fee2.html",
-     "time": "2026-10-29T15:04:19Z"
+     "title": "Farnesina, '5 attivisti italiani fermati in Cisgiordania, chiesto rilascio immediato'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/farnesina-5-attivisti-italiani-fermati-in-cisgiordania-chiesto-rilascio-immediato_1aa9dbc8-87a3-4d84-afca-41d7b4b60b45.html",
+     "time": "2026-10-29T19:38:56Z"
     },
     {
-     "title": "Soci Mps bocciano l'offerta su Bpm, primo stop al piano Lovaglio",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/soci-mps-bocciano-lofferta-su-bpm-primo-stop-al-piano-lovaglio_2b98cb1a-b035-4e38-924e-6816cf66c3c2.html",
-     "time": "2026-10-29T14:48:15Z"
+     "title": "Leonardo Maria Del Vecchio, lavoro mio padre resti patrimonio Italia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/leonardo-maria-del-vecchio-lavoro-mio-padre-resti-patrimonio-italia_71fd8671-a7a8-47bd-a2a6-3ca30c19ff9a.html",
+     "time": "2026-10-29T19:27:40Z"
     },
     {
-     "title": "Von der Leyen, 'con il Canada Alleanza per il futuro e spazio comune'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/von-der-leyen-con-il-canada-alleanza-per-il-futuro-e-spazio-comune_619fff40-fc70-4368-8116-078404183f79.html",
-     "time": "2026-10-29T14:22:41Z"
+     "title": "Mattarella, cordoglio per la morte dei militari nel tragico incidente in Bosnia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/mattarella-cordoglio-per-la-morte-dei-militari-nel-tragico-incidente-in-bosnia_8e016eba-3b38-405c-b148-46730143abe4.html",
+     "time": "2026-10-29T19:13:37Z"
     },
     {
-     "title": "Crolla un 'camino delle fate' in Cappadocia, due morti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/crolla-un-camino-delle-fate-in-cappadocia-due-morti_19293d48-6112-4a74-acb5-a0519f558aec.html",
-     "time": "2026-10-29T14:05:54Z"
+     "title": "Meloni, 'tragico incidente in Bosnia, profondo dolore per le vittime'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/meloni-tragico-incidente-in-bosnia-profondo-dolore-per-le-vittime_7c3228fc-97a8-43fd-9d4b-f856cbc3b5df.html",
+     "time": "2026-10-29T19:10:12Z"
     },
     {
-     "title": "Cassazione rigetta tutti i ricorsi contro lo stop area a caldo dell'ex Ilva",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/cassazione-rigetta-tutti-i-ricorsi-contro-lo-stop-area-a-caldo-dellex-ilva_3a167682-6cf2-4e36-8100-52e74944ec44.html",
-     "time": "2026-10-29T13:55:54Z"
+     "title": "Il petrolio chiude in calo a New York a 102 dollari",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/il-petrolio-chiude-in-calo-a-new-york-a-102-dollari_96c85470-ed49-4cab-bf69-181345c6f461.html",
+     "time": "2026-10-29T18:38:14Z"
     },
     {
-     "title": "Cairo, 'dispiaciuto per l'addio di Mentana, nelle prossime settimane il successore'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/cairo-dispiaciuto-per-laddio-di-mentana-nelle-prossime-settimane-il-successore_3494d60c-3edd-4aca-ba0f-f5c982d7e6f8.html",
-     "time": "2026-10-29T13:17:19Z"
+     "title": "Orsini, 'associazioni dell'artigianato non difendano solo propri interessi e bilanci'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/orsini-associazioni-dellartigianato-non-difendano-solo-propri-interessi-e-bilanci_d67c09dc-cfab-4a1e-88d9-133a2abc6ba3.html",
+     "time": "2026-10-29T18:22:07Z"
     },
     {
-     "title": "La Bce lascia i tassi fermi, depositi al 2,50%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/la-bce-lascia-i-tassi-fermi-depositi-al-250_3dceb1fb-51a5-42e7-b017-4b1cc7d59ec3.html",
-     "time": "2026-10-29T13:16:25Z"
+     "title": "Dal ceco Strnad offerta da 30 miliardi per Delfin. No comment dalla holding",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/dal-ceco-strnad-offerta-da-30-miliardi-per-delfin.-no-comment-dalla-holding_544a413c-a63e-4e26-9907-eb037a9fa5f2.html",
+     "time": "2026-10-29T18:07:38Z"
     },
     {
-     "title": "Italgas, domanda gas stabile o in lieve crescita in Italia e Grecia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/italgas-domanda-gas-stabile-o-in-lieve-crescita-in-italia-e-grecia_b608eeb0-33c1-4da3-a014-3001374d21d7.html",
-     "time": "2026-10-29T13:06:44Z"
+     "title": "Midterm, 'dipartimento di Giustizia spicca mandati su sfida in Alaska'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/midterm-dipartimento-di-giustizia-spicca-mandati-su-sfida-in-alaska_51491bb0-8b6f-4bbf-9e85-7dc86ead03e9.html",
+     "time": "2026-10-29T18:06:56Z"
     }
    ]
   },
@@ -217,22 +217,32 @@
     {
      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T15:15:05Z"
+     "time": "2026-10-29T20:15:05Z"
+    },
+    {
+     "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-29T20:05:57Z"
     },
     {
      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T15:14:34Z"
+     "time": "2026-10-29T17:02:59Z"
+    },
+    {
+     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-29T15:47:20Z"
+    },
+    {
+     "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+     "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-29T14:58:28Z"
     },
     {
      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-29T14:17:35Z"
-    },
-    {
-     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-     "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T13:49:04Z"
     },
     {
      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
@@ -255,7 +265,7 @@
      "time": "2026-10-29T11:25:16Z"
     },
     {
-     "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+     "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-29T11:07:35Z"
     },
@@ -263,16 +273,6 @@
      "title": "What we know so far about deadly Spain train crash",
      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-29T10:02:37Z"
-    },
-    {
-     "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-     "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T09:30:03Z"
-    },
-    {
-     "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
-     "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T09:17:05Z"
     }
    ]
   }
