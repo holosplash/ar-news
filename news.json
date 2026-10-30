@@ -1,6 +1,6 @@
 {
- "version": 129,
- "updated": "2026-10-30T13:26:47Z",
+ "version": 130,
+ "updated": "2026-10-30T18:47:25Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "In Italien rufen Gewerkschaften zu landesweiten Protesten auf",
-     "url": "https://www.tagesschau.de/video/video-1675064.html",
-     "time": "2026-10-30T13:15:50Z"
+     "title": "Emma Hübner, \"Gen Z regelt\" Köln, zu den Jugendprotesten",
+     "url": "https://www.tagesschau.de/video/video-1675346.html",
+     "time": "2026-10-30T18:31:31Z"
     },
     {
-     "title": "Antje Erhard, HR, zum Hackerangriff auf weltgrößte Kryptowährung Binance",
-     "url": "https://www.tagesschau.de/video/video-1675072.html",
-     "time": "2026-10-30T13:15:39Z"
+     "title": "Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren",
+     "url": "https://www.tagesschau.de/kultur/videospiel-klassiker-100.html",
+     "time": "2026-10-30T18:27:55Z"
+    },
+    {
+     "title": "Marc Langebeck, ARD-aktuell, zur Stellungnahme Pikes nach gescheiterter Hinrichtung",
+     "url": "https://www.tagesschau.de/video/video-1675342.html",
+     "time": "2026-10-30T18:21:01Z"
     },
     {
      "title": "Remscheider Waffenprozess: Illegaler Waffensammler zu Haftstrafe verurteilt",
      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waffenfund-remscheid-urteil-100.html",
-     "time": "2026-10-30T13:08:00Z"
+     "time": "2026-10-30T17:45:00Z"
     },
     {
-     "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
-     "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
-     "time": "2026-10-30T12:32:41Z"
+     "title": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
+     "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
+     "time": "2026-10-30T17:23:20Z"
     },
     {
-     "title": "Experte zum Krypto-Angriff: \"Drei Milliarden sind definitiv weg\"",
-     "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",
-     "time": "2026-10-30T12:32:21Z"
+     "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+     "time": "2026-10-30T17:22:12Z"
     },
     {
-     "title": "Aus für die Nowaja Gaseta in Russland: \"Die Zeitung gibt es nicht mehr\"",
-     "url": "https://www.tagesschau.de/ausland/asien/kremlkritische-zeitung-russland-geschlossen-100.html",
-     "time": "2026-10-30T12:20:47Z"
+     "title": "Erste Einwohner aus besetzter ukrainischer Stadt Oleschky evakuiert",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
+     "time": "2026-10-30T16:49:53Z"
     },
     {
-     "title": "Hilfstransporte für die ukrainische Frontstadt Oleschky laufen an",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-102.html",
-     "time": "2026-10-30T11:54:46Z"
+     "title": "Nach 30 Jahren: Kreml zwingt die Nowaja Gaseta zum Schweigen",
+     "url": "https://www.tagesschau.de/video/video-1675264.html",
+     "time": "2026-10-30T16:46:57Z"
     },
     {
-     "title": "1992 in Halle veröffentlicht: Die Drahtzieher hinter der Stasi-Liste",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/stasi-liste-halle-100.html",
-     "time": "2026-10-30T11:51:06Z"
+     "title": "Debatte um Eralp überlagert Regierungsbildung",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
+     "time": "2026-10-30T16:44:36Z"
     },
     {
-     "title": "CAS erteilt Russland Startrecht für Eishockey-WM",
-     "url": "https://www.sportschau.de/eishockey/wm/cas-erteilt-russland-startrecht-fuer-eishockey-wm-in-deutschland,eishockey-russland-bei-wm-in-deutschland-100.html",
-     "time": "2026-10-30T11:33:22Z"
+     "title": "Zehntausende Menschen protestieren in Italien gegen hohe Inflation und niedrige Löhne",
+     "url": "https://www.tagesschau.de/video/video-1675266.html",
+     "time": "2026-10-30T16:44:28Z"
     },
     {
-     "title": "Hackerangriff auf weltgrößte Kryptobörse Binance kreiert Schaden in Milliardenhöhe",
-     "url": "https://www.tagesschau.de/video/video-1675024.html",
-     "time": "2026-10-30T11:23:38Z"
+     "title": "tagesschau in Einfacher Sprache",
+     "url": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1484.html",
+     "time": "2026-10-30T16:43:05Z"
     },
     {
-     "title": "OVG Lüneburg: AfD darf in Niedersachsen weiter überwacht werden",
-     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/afd-niedersachsen-darf-weiterhin-ueberwacht-werden,afd-1332.html",
-     "time": "2026-10-30T11:19:44Z"
-    },
-    {
-     "title": "Merz hofft auf friedliche Wiedervereinigung Koreas",
-     "url": "https://www.tagesschau.de/ausland/asien/merz-asienreise-suedkorea-100.html",
-     "time": "2026-10-30T11:14:51Z"
+     "title": "Oleschky wird unter schwierigen Bedingungen evakuiert - neue Sorgen an der Front",
+     "url": "https://www.tagesschau.de/video/video-1675254.html",
+     "time": "2026-10-30T16:42:18Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Nach der Wahl – Israels Isolation ist nicht so schnell vorbei",
-     "url": "https://www.srf.ch/news/international/nahost/nach-der-wahl-israels-isolation-ist-nicht-so-schnell-vorbei",
-     "time": "2026-10-30T13:25:26Z"
+     "title": "Viertelfinal Swiss Indoors – Nach Wawrinkas Karriere endet auch Kyms Lauf gegen Lehecka",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/viertelfinal-swiss-indoors-nach-wawrinkas-karriere-endet-auch-kyms-lauf-gegen-lehecka",
+     "time": "2026-10-30T18:40:07Z"
     },
     {
-     "title": "Kulturnews in Kurzform – Rapper Haftbefehl überrascht mit neuem Song",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-rapper-haftbefehl-ueberrascht-mit-neuem-song",
-     "time": "2026-10-30T13:17:14Z"
+     "title": "Gipfelabschluss in Montreal – Die EU und Kanada wollen eine «Allianz für die Zukunft» schmieden",
+     "url": "https://www.srf.ch/news/international/gipfelabschluss-in-montreal-die-eu-und-kanada-wollen-eine-allianz-fuer-die-zukunft-schmieden",
+     "time": "2026-10-30T18:30:41Z"
     },
     {
-     "title": "Strafanzeigen bei Ruag MRO – Millionenklage: Bundesrat Pfister informiert zum Ruag-Betrugsfall",
-     "url": "https://www.srf.ch/news/schweiz/strafanzeigen-bei-ruag-mro-millionenklage-bundesrat-pfister-informiert-zum-ruag-betrugsfall",
-     "time": "2026-10-30T13:14:37Z"
+     "title": "Umstrittene Therapie – Long Covid mit Hirntraining behandeln: Was steckt dahinter?",
+     "url": "https://www.srf.ch/wissen/corona/umstrittene-therapie-long-covid-mit-hirntraining-behandeln-was-steckt-dahinter",
+     "time": "2026-10-30T18:01:38Z"
     },
     {
-     "title": "Drag-Lesung gestört – Mitglieder der «Jungen Tat» verurteilt",
-     "url": "https://www.srf.ch/news/schweiz/drag-lesung-gestoert-mitglieder-der-jungen-tat-verurteilt",
-     "time": "2026-10-30T12:53:19Z"
+     "title": "Historische Premiere – Papst hat in USA gewählt – Leo gibt per Briefwahl Stimme ab",
+     "url": "https://www.srf.ch/news/international/usa/historische-premiere-papst-hat-in-usa-gewaehlt-leo-gibt-per-briefwahl-stimme-ab",
+     "time": "2026-10-30T17:57:02Z"
     },
     {
-     "title": "Abschaffung der Heiratsstrafe – Geht die Mitte-Partei mit einem blauen Auge ins Wahljahr?",
-     "url": "https://www.srf.ch/news/abschaffung-der-heiratsstrafe-geht-die-mitte-partei-mit-einem-blauen-auge-ins-wahljahr",
-     "time": "2026-10-30T12:48:00Z"
+     "title": "US-Midterms – Fünf umstrittene Praktiken der US-Politik",
+     "url": "https://www.srf.ch/news/international/us-midterms-fuenf-umstrittene-praktiken-der-us-politik",
+     "time": "2026-10-30T17:49:15Z"
     },
     {
-     "title": "Proteste in Albanien – Albanische Regierung schränkt Demonstrationsrecht ein",
-     "url": "https://www.srf.ch/news/international/proteste-in-albanien-albanische-regierung-schraenkt-demonstrationsrecht-ein",
-     "time": "2026-10-30T12:40:23Z"
+     "title": "Kein Alleingang – Mehr Mitsprache, weniger Tempo bei Windkraft im Kanton Bern",
+     "url": "https://www.srf.ch/news/schweiz/kein-alleingang-mehr-mitsprache-weniger-tempo-bei-windkraft-im-kanton-bern",
+     "time": "2026-10-30T17:22:57Z"
     },
     {
-     "title": "Abstimmung vom 29. November – Ja-Kampagne zum Kriegsmaterialgesetz mit Drei-Millionen-Budget",
-     "url": "https://www.srf.ch/news/schweiz/abstimmung-vom-29-november-ja-kampagne-zum-kriegsmaterialgesetz-mit-drei-millionen-budget",
-     "time": "2026-10-30T12:32:24Z"
+     "title": "Sportpolitik-Kenner Aumüller – «Russland spätestens 2028 vollständig zurück im Weltsport»",
+     "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/sportpolitik-kenner-aumueller-russland-spaetestens-2028-vollstaendig-zurueck-im-weltsport",
+     "time": "2026-10-30T17:14:23Z"
     },
     {
-     "title": "Annäherung an China – Expertin: «Wir sind nicht ausreichend vorbereitet»",
-     "url": "https://www.srf.ch/news/dialog/annaeherung-an-china-expertin-wir-sind-nicht-ausreichend-vorbereitet",
-     "time": "2026-10-30T11:32:22Z"
+     "title": "Swiss Indoors: Round-up – Fils muss verletzt aufgeben – Fritz im Halbfinal gegen Vacherot",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-round-up-fils-muss-verletzt-aufgeben-fritz-im-halbfinal-gegen-vacherot",
+     "time": "2026-10-30T16:36:19Z"
     },
     {
-     "title": "News aus dem Skisport – Von Allmen gewinnt den «Skieur d'Or»",
-     "url": "https://www.srf.ch/sport/ski-alpin/news-aus-dem-skisport-von-allmen-gewinnt-den-skieur-d-or",
-     "time": "2026-10-30T11:06:58Z"
+     "title": "«Star Trek»-Interview – Patrick Stewart: Warum er als Picard der ideale Captain war",
+     "url": "https://www.srf.ch/kultur/film-serien/star-trek-interview-patrick-stewart-warum-er-als-picard-der-ideale-captain-war",
+     "time": "2026-10-30T16:34:42Z"
     },
     {
-     "title": "Besser schlafen – Was bei Schlafstörungen wirklich hilft",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/kassensturz/besser-schlafen-was-bei-schlafstoerungen-wirklich-hilft",
-     "time": "2026-10-30T11:06:44Z"
+     "title": "Curling-EM in Ostrava – Schweizer verpassen Halbfinals trotz Sieg gegen Polen",
+     "url": "https://www.srf.ch/sport/mehr-sport/curling/curling-em-in-ostrava-schweizer-verpassen-halbfinals-trotz-sieg-gegen-polen",
+     "time": "2026-10-30T16:20:47Z"
     },
     {
-     "title": "Parmelin in Peking – Schweiz und China erneuern Freihandelsabkommen",
-     "url": "https://www.srf.ch/news/international/parmelin-in-peking-schweiz-und-china-erneuern-freihandelsabkommen",
-     "time": "2026-10-30T11:01:07Z"
+     "title": "Faszination Logikrätsel – Sudoku trifft Cluedo: Warum Murdoku so fasziniert",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/faszination-logikraetsel-sudoku-trifft-cluedo-warum-murdoku-so-fasziniert",
+     "time": "2026-10-30T16:14:41Z"
     },
     {
-     "title": "Südöstlich von Manila – Vulkan Mayon auf den Philippinen ausgebrochen",
-     "url": "https://www.srf.ch/news/international/suedoestlich-von-manila-vulkan-mayon-auf-den-philippinen-ausgebrochen",
-     "time": "2026-10-30T11:00:09Z"
+     "title": "Schweizer Bundesgericht – 20 Jahre Haft für liberianischen Ex-Rebellenführer bestätigt",
+     "url": "https://www.srf.ch/news/schweiz/schweizer-bundesgericht-20-jahre-haft-fuer-liberianischen-ex-rebellenfuehrer-bestaetigt",
+     "time": "2026-10-30T16:11:46Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Morì nel 1987 per un'aggressione, 39 anni dopo si indaga per omicidio",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/mori-nel-1987-per-unaggressione-39-anni-dopo-si-indaga-per-omicidio_eb913bf1-2561-4cc1-9491-1dfaabea2f59.html",
-     "time": "2026-10-30T12:51:16Z"
+     "title": "Mef, manovra bollinata, il testo inviato a palazzo Chigi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/mef-manovra-bollinata-il-testo-inviato-a-palazzo-chigi_2eb51a68-cd88-44f2-bba8-123d91278f3a.html",
+     "time": "2026-10-30T18:17:10Z"
     },
     {
-     "title": "Caso Siher, Anm Milano 'inauditi attacchi sessisti a giudice e pm'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/caso-siher-anm-milano-inauditi-attacchi-sessisti-a-giudice-e-pm_919da537-8173-420c-8273-6609f05a8636.html",
-     "time": "2026-10-30T12:42:05Z"
+     "title": "Il gas in forte aumento (+5%) a 103 euro al Megawattora",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/il-gas-in-forte-aumento-5-a-103-euro-al-megawattora_73dd043e-c76c-4ad6-ad53-58158d0f0dfa.html",
+     "time": "2026-10-30T17:08:01Z"
     },
     {
-     "title": "Giorgetti, alta inflazione 'drammatica conseguenza' caro energia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/giorgetti-alta-inflazione-drammatica-conseguenza-caro-energia_05581221-12e6-4ab5-95cc-d6bf8de8c959.html",
-     "time": "2026-10-30T12:25:12Z"
+     "title": "Lo spread tra Btp e Bund chiude in lieve rialzo a 118 punti base",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/lo-spread-tra-btp-e-bund-chiude-in-lieve-rialzo-a-118-punti-base_9c1ccf87-639a-4602-8527-9c9ec1842183.html",
+     "time": "2026-10-30T17:06:05Z"
     },
     {
-     "title": "Giorgetti, tutti devono contribuire, per le banche oneri significativi ma assorbibili",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/giorgetti-tutti-devono-contribuire-per-le-banche-oneri-significativi-ma-assorbibili_0c75d66b-22fc-42dd-aa2b-9cacad8b9cf5.html",
-     "time": "2026-10-30T12:21:02Z"
+     "title": "Hit Parade, Amateur di Cremonini debutta in vetta alla classifica",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/hit-parade-amateur-di-cremonini-debutta-in-vetta-alla-classifica_4e61b7bb-82d3-45f6-abeb-4897ad99257c.html",
+     "time": "2026-10-30T17:02:33Z"
     },
     {
-     "title": "Michele Tadini nuovo direttore del settore Musica della Biennale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/michele-tadini-nuovo-direttore-del-settore-musica-della-biennale_ca504250-f589-4b5d-be24-871ad5d84cc3.html",
-     "time": "2026-10-30T11:59:24Z"
+     "title": "Ue e Canada firmano la nuova 'Alleanza per il futuro'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/ue-e-canada-firmano-la-nuova-alleanza-per-il-futuro_bb5f81ce-43ef-4ad8-9b12-cf12e538ec73.html",
+     "time": "2026-10-30T16:47:01Z"
     },
     {
-     "title": "Maxi-attacco hacker a Binance in soli 20 minuti, 'é il furto del secolo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/maxi-attacco-hacker-a-binance-in-soli-20-minuti-e-il-furto-del-secolo_6039ac99-c627-4596-b706-4612cbce3737.html",
-     "time": "2026-10-30T11:51:59Z"
+     "title": "Borsa: l'Europa conclude debole, Londra sulla parità",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/borsa-leuropa-conclude-debole-londra-sulla-parita_a613896e-133e-470c-82c7-c8ca88113118.html",
+     "time": "2026-10-30T16:43:44Z"
     },
     {
-     "title": "Meloni chiude a Vannacci, chiederò agli italiani di governare senza ricatti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/meloni-chiude-a-vannacci-chiedero-agli-italiani-di-governare-senza-ricatti_8fc8c084-ad00-407a-93ce-81b38a395a47.html",
-     "time": "2026-10-30T11:50:26Z"
+     "title": "Borsa: Milano chiude in calo, Ftse Mib -1%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/borsa-milano-chiude-in-calo-ftse-mib-1_6fbfae15-66a1-4777-a70d-603a4a5bab77.html",
+     "time": "2026-10-30T16:40:35Z"
     },
     {
-     "title": "Messina, nessun incremento dell'offerta su Mps",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/messina-nessun-incremento-dellofferta-su-mps_62f49106-cbd5-4d63-ad7a-df19919cfb42.html",
-     "time": "2026-10-30T11:46:50Z"
+     "title": "Caso Siher, Tribunale chiede di verificare se serve tutela per gip",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/caso-siher-tribunale-chiede-di-verificare-se-serve-tutela-per-gip_088e28b2-7db5-4168-b57e-44d70b8e0df7.html",
+     "time": "2026-10-30T16:00:07Z"
     },
     {
-     "title": "Meloni, l'appoggio a Kiev può avere un prezzo politico ma non cambio posizione",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/meloni-lappoggio-a-kiev-puo-avere-un-prezzo-politico-ma-non-cambio-posizione_28bc15e0-5b8d-47cd-a6c1-39539a60b0ca.html",
-     "time": "2026-10-30T11:43:10Z"
+     "title": "Kiev, 'iniziative come a Oleshky possono portare a pace tra Russia e Ucraina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/kiev-iniziative-come-a-oleshky-possono-portare-a-pace-tra-russia-e-ucraina_7c48558a-7a77-4012-a07d-e19407966cb7.html",
+     "time": "2026-10-30T15:47:32Z"
     },
     {
-     "title": "Polizia scozzese indaga sui soggiorni di Andrea con Epstein a Balmoral",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/polizia-scozzese-indaga-sui-soggiorni-di-andrea-con-epstein-a-balmoral_ef9f1991-da8b-4a61-ae58-4a0d14da1d00.html",
-     "time": "2026-10-30T11:20:48Z"
+     "title": "Kiev, 'partiti i civili evacuati da Oleshky'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/kiev-partiti-i-civili-evacuati-da-oleshky_069a5887-605f-4256-902d-ddd02d6246ac.html",
+     "time": "2026-10-30T15:32:32Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
+     "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T18:17:27Z"
+    },
+    {
+     "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T17:47:01Z"
+    },
+    {
+     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T17:39:43Z"
+    },
+    {
+     "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+     "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T17:25:20Z"
+    },
+    {
+     "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+     "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T17:07:19Z"
+    },
+    {
+     "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+     "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T17:00:32Z"
+    },
+    {
+     "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+     "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T16:26:11Z"
+    },
+    {
+     "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+     "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T15:17:11Z"
+    },
+    {
+     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+     "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T15:09:29Z"
+    },
+    {
+     "title": "Six dead after helicopter crashes in northern Indian state",
+     "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T15:06:05Z"
+    },
+    {
      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T13:03:34Z"
+     "time": "2026-10-30T15:03:39Z"
     },
     {
-     "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-     "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T12:36:55Z"
-    },
-    {
-     "title": "What we know about Binance's $6.3bn hack",
-     "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T12:27:28Z"
-    },
-    {
-     "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-     "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T12:25:53Z"
-    },
-    {
-     "title": "China denies allegations of spy operation targeting Nvidia CEO",
-     "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T12:20:04Z"
-    },
-    {
-     "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-     "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T12:04:02Z"
-    },
-    {
-     "title": "Helicopter carrying six people crashes in northern Indian state",
-     "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T10:07:58Z"
-    },
-    {
-     "title": "How Kenyans got caught in $130m US ghost student scam",
-     "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T08:32:35Z"
-    },
-    {
-     "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-     "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T07:53:38Z"
-    },
-    {
-     "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
-     "url": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T07:33:27Z"
-    },
-    {
-     "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-     "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T06:02:23Z"
-    },
-    {
-     "title": "New York police will now investigate Cornell sex complaints, governor says",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T03:32:44Z"
+     "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+     "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T14:48:22Z"
     }
    ]
   }
