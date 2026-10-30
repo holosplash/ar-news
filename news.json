@@ -1,6 +1,6 @@
 {
- "version": 126,
- "updated": "2026-10-29T20:29:58Z",
+ "version": 127,
+ "updated": "2026-10-30T00:13:24Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,41 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
+     "time": "2026-10-30T00:01:06Z"
+    },
+    {
+     "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
+     "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
+     "time": "2026-10-29T23:05:38Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12948.html",
+     "time": "2026-10-29T22:27:56Z"
+    },
+    {
+     "title": "Nach dem Zugunglück: Wie Spanien mit der Tragödie umgeht",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1674870.html",
+     "time": "2026-10-29T21:36:17Z"
+    },
+    {
+     "title": "Martin Hikel, SPD/Bezirksbürgermeister Berlin-Neukölln, über die Sicherheits-Debatte",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1674868.html",
+     "time": "2026-10-29T21:31:37Z"
+    },
+    {
+     "title": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1674866.html",
+     "time": "2026-10-29T21:24:23Z"
+    },
+    {
+     "title": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
+     "url": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
+     "time": "2026-10-29T20:53:05Z"
+    },
     {
      "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
      "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
@@ -35,44 +70,9 @@
      "time": "2026-10-29T19:33:35Z"
     },
     {
-     "title": "Rede von Bundespräsident Steinmeier bei Besuch in China",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674802.html",
-     "time": "2026-10-29T19:10:57Z"
-    },
-    {
-     "title": "Bilanz der Asienreise von Kanzler Merz",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674800.html",
-     "time": "2026-10-29T19:08:47Z"
-    },
-    {
-     "title": "Sicherheits-Debatte nach Spiegel-Interview der Berliner Linken-Politikerin Eralp",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1674798.html",
-     "time": "2026-10-29T19:06:29Z"
-    },
-    {
      "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
      "time": "2026-10-29T18:40:44Z"
-    },
-    {
-     "title": "Weltballetttag, Vulkan Semeru auf Java, Ausstellung von Jaume Plensa",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10534.html",
-     "time": "2026-10-29T18:39:54Z"
-    },
-    {
-     "title": "Marktbericht: DAX setzt Klettertour fort",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
-     "time": "2026-10-29T17:32:38Z"
-    },
-    {
-     "title": "Linken-Politikerin Klein neue Parlamentspräsidentin",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
-     "time": "2026-10-29T17:31:06Z"
-    },
-    {
-     "title": "OVG Lüneburg: AfD darf in Niedersachsen weiter überwacht werden",
-     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/afd-niedersachsen-darf-weiter-ueberwacht-werden,afd-1332.html",
-     "time": "2026-10-29T17:15:16Z"
     }
    ]
   },
@@ -85,19 +85,44 @@
    ],
    "items": [
     {
+     "title": "Swiss Indoors: Achtelfinal – Coup nach Umweg geglückt: Kym eliminiert Shelton",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-achtelfinal-coup-nach-umweg-geglueckt-kym-eliminiert-shelton",
+     "time": "2026-10-29T23:58:23Z"
+    },
+    {
+     "title": "Krieg im Sudan – Jedes Telefonat mit einem Verwandten könnte das letzte sein",
+     "url": "https://www.srf.ch/radio-srf-1/krieg-im-sudan-jedes-telefonat-mit-einem-verwandten-koennte-das-letzte-sein",
+     "time": "2026-10-29T22:15:57Z"
+    },
+    {
      "title": "Bekannt aus Star Trek – Patrick Stewart stirbt 86-jährig",
      "url": "https://www.srf.ch/news/bekannt-aus-star-trek-patrick-stewart-stirbt-86-jaehrig",
-     "time": "2026-10-29T20:00:43Z"
+     "time": "2026-10-29T22:08:52Z"
+    },
+    {
+     "title": "Swiss Indoors: Achtelfinal – Djokovic scheitert in Basel trotz Satzführung an Struff",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-achtelfinal-djokovic-scheitert-in-basel-trotz-satzfuehrung-an-struff",
+     "time": "2026-10-29T21:11:48Z"
+    },
+    {
+     "title": "Flucht des Wahlverlierers – Bolsonaro stösst nach Ausreise auf Kritik im eigenen Lager",
+     "url": "https://www.srf.ch/news/international/flucht-des-wahlverlierers-bolsonaro-stoesst-nach-ausreise-auf-kritik-im-eigenen-lager",
+     "time": "2026-10-29T20:40:12Z"
+    },
+    {
+     "title": "Spanien in Trauer – Tränen, Wut und Verunsicherung nach verheerendem Zugunglück",
+     "url": "https://www.srf.ch/news/international/spanien-in-trauer-traenen-wut-und-verunsicherung-nach-verheerendem-zugunglueck",
+     "time": "2026-10-29T20:32:03Z"
+    },
+    {
+     "title": "Kriegsmaterialgesetz – SP reicht Beschwerde gegen Abstimmungsbüchlein ein",
+     "url": "https://www.srf.ch/news/kriegsmaterialgesetz-sp-reicht-beschwerde-gegen-abstimmungsbuechlein-ein",
+     "time": "2026-10-29T20:29:52Z"
     },
     {
      "title": "EU-Kanada-Gipfel – Warum die EU und Kanada stärker zusammenrücken wollen",
      "url": "https://www.srf.ch/news/international/eu-kanada-gipfel-warum-die-eu-und-kanada-staerker-zusammenruecken-wollen",
      "time": "2026-10-29T19:43:33Z"
-    },
-    {
-     "title": "Fussball aus den Topligen – Monteiro mit Premierentreffer bei Klatsche in Frosinone",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-monteiro-mit-premierentreffer-bei-klatsche-in-frosinone",
-     "time": "2026-10-29T19:41:39Z"
     },
     {
      "title": "Luzerns Verwaltung zieht um – 1200 Arbeitsplätze für 2000 Kantonsangestellte? So funktioniert's",
@@ -118,31 +143,6 @@
      "title": "49 Prozent machen Lehre – Schweizer Unternehmen halten ihr Lehrstellenangebot konstant",
      "url": "https://www.srf.ch/news/schweiz/49-prozent-machen-lehre-schweizer-unternehmen-halten-ihr-lehrstellenangebot-konstant",
      "time": "2026-10-29T19:05:51Z"
-    },
-    {
-     "title": "Spanien in Trauer – Tränen, Wut und Verunsicherung nach verheerendem Zugunglück",
-     "url": "https://www.srf.ch/news/international/spanien-in-trauer-traenen-wut-und-verunsicherung-nach-verheerendem-zugunglueck",
-     "time": "2026-10-29T18:54:13Z"
-    },
-    {
-     "title": "Verbot von lautem Feuerwerk – Was Graubünden schon kennt und die Feuerwerksbranche fürchtet",
-     "url": "https://www.srf.ch/news/verbot-von-lautem-feuerwerk-was-graubuenden-schon-kennt-und-die-feuerwerksbranche-fuerchtet",
-     "time": "2026-10-29T18:45:25Z"
-    },
-    {
-     "title": "Unruhen in Frankreich – Für Halloween: Innenminister Nunez mobilisiert 70'000 Polizisten",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-fuer-halloween-innenminister-nunez-mobilisiert-70-000-polizisten",
-     "time": "2026-10-29T18:44:10Z"
-    },
-    {
-     "title": "Ukrainische Frontstadt – So soll die Evakuierung im zerstörten Oleschky ablaufen",
-     "url": "https://www.srf.ch/news/international/ukraine/ukrainische-frontstadt-so-soll-die-evakuierung-im-zerstoerten-oleschky-ablaufen",
-     "time": "2026-10-29T18:32:43Z"
-    },
-    {
-     "title": "Batterie-Lokomotive – Fertig Diesel: Brienz Rothorn Bahn plant erste Elektro-Lokomotive",
-     "url": "https://www.srf.ch/news/schweiz/batterie-lokomotive-fertig-diesel-brienz-rothorn-bahn-plant-erste-elektro-lokomotive",
-     "time": "2026-10-29T18:28:44Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Israele, risultati definitivi: schieramento Netanyahu in testa ma senza maggioranza",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/israele-risultati-definitivi-schieramento-netanyahu-in-testa-ma-senza-maggioranza_c02347d8-1ab2-4e98-88f0-58e212562125.html",
+     "time": "2026-10-30T00:07:39Z"
+    },
+    {
+     "title": "Elicottero caduto, una sergente della Croce Rossa tra i morti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/elicottero-caduto-una-sergente-della-croce-rossa-tra-i-morti_d8ba262b-f9b0-4390-8ec4-cf7e7198511d.html",
+     "time": "2026-10-29T21:35:26Z"
+    },
     {
      "title": "E' morto Patrick Stewart, l'attore di Star Trek e X-Men",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/e-morto-patrick-stewart-lattore-di-star-trek-e-x-men_3f406db5-43a3-4ec1-8223-10486367ce17.html",
@@ -195,16 +205,6 @@
      "title": "Orsini, 'associazioni dell'artigianato non difendano solo propri interessi e bilanci'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/orsini-associazioni-dellartigianato-non-difendano-solo-propri-interessi-e-bilanci_d67c09dc-cfab-4a1e-88d9-133a2abc6ba3.html",
      "time": "2026-10-29T18:22:07Z"
-    },
-    {
-     "title": "Dal ceco Strnad offerta da 30 miliardi per Delfin. No comment dalla holding",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/dal-ceco-strnad-offerta-da-30-miliardi-per-delfin.-no-comment-dalla-holding_544a413c-a63e-4e26-9907-eb037a9fa5f2.html",
-     "time": "2026-10-29T18:07:38Z"
-    },
-    {
-     "title": "Midterm, 'dipartimento di Giustizia spicca mandati su sfida in Alaska'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/midterm-dipartimento-di-giustizia-spicca-mandati-su-sfida-in-alaska_51491bb0-8b6f-4bbf-9e85-7dc86ead03e9.html",
-     "time": "2026-10-29T18:06:56Z"
     }
    ]
   },
@@ -215,9 +215,19 @@
    "countries": [],
    "items": [
     {
+     "title": "Young athlete and former minister among victims of Spain train crash",
+     "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-29T21:33:35Z"
+    },
+    {
      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T20:15:05Z"
+     "time": "2026-10-29T21:31:12Z"
+    },
+    {
+     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+     "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-29T20:21:54Z"
     },
     {
      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
@@ -228,11 +238,6 @@
      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-29T17:02:59Z"
-    },
-    {
-     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-     "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T15:47:20Z"
     },
     {
      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
@@ -268,11 +273,6 @@
      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-29T11:07:35Z"
-    },
-    {
-     "title": "What we know so far about deadly Spain train crash",
-     "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T10:02:37Z"
     }
    ]
   }
