@@ -1,6 +1,6 @@
 {
- "version": 128,
- "updated": "2026-10-30T06:20:49Z",
+ "version": 129,
+ "updated": "2026-10-30T13:26:47Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Podcast 15 Minuten: Gen-Z-Proteste, Telefonbetrug, Bevölkerungsschutz",
-     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15min-podcast-gen-z-demos-telefonbetrug-100.html",
-     "time": "2026-10-30T05:51:57Z"
+     "title": "In Italien rufen Gewerkschaften zu landesweiten Protesten auf",
+     "url": "https://www.tagesschau.de/video/video-1675064.html",
+     "time": "2026-10-30T13:15:50Z"
     },
     {
-     "title": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
-     "url": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
-     "time": "2026-10-30T05:46:43Z"
+     "title": "Antje Erhard, HR, zum Hackerangriff auf weltgrößte Kryptowährung Binance",
+     "url": "https://www.tagesschau.de/video/video-1675072.html",
+     "time": "2026-10-30T13:15:39Z"
     },
     {
-     "title": "11KM-Podcast: Trump und der Frust der jungen Generation vor den Midterms",
-     "url": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-trump-midterms-100.html",
-     "time": "2026-10-30T05:16:19Z"
+     "title": "Remscheider Waffenprozess: Illegaler Waffensammler zu Haftstrafe verurteilt",
+     "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waffenfund-remscheid-urteil-100.html",
+     "time": "2026-10-30T13:08:00Z"
     },
     {
-     "title": "Trump vor den Midterms: Der Frust der jungen Generation",
-     "url": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-3992.html",
-     "time": "2026-10-30T05:00:00Z"
+     "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
+     "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
+     "time": "2026-10-30T12:32:41Z"
     },
     {
-     "title": "Oppositionspolitikerin Machado: Was bedeutet ihre Rückkehr für Venezuela?",
-     "url": "https://www.tagesschau.de/ausland/amerika/venezuela-machado-106.html",
-     "time": "2026-10-30T03:22:31Z"
+     "title": "Experte zum Krypto-Angriff: \"Drei Milliarden sind definitiv weg\"",
+     "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",
+     "time": "2026-10-30T12:32:21Z"
     },
     {
-     "title": "Frankreich bereitet sich auf neue Schülerproteste vor",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
-     "time": "2026-10-30T01:44:07Z"
+     "title": "Aus für die Nowaja Gaseta in Russland: \"Die Zeitung gibt es nicht mehr\"",
+     "url": "https://www.tagesschau.de/ausland/asien/kremlkritische-zeitung-russland-geschlossen-100.html",
+     "time": "2026-10-30T12:20:47Z"
     },
     {
-     "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
-     "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
-     "time": "2026-10-30T00:01:06Z"
+     "title": "Hilfstransporte für die ukrainische Frontstadt Oleschky laufen an",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-102.html",
+     "time": "2026-10-30T11:54:46Z"
     },
     {
-     "title": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
-     "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
-     "time": "2026-10-29T23:05:38Z"
+     "title": "1992 in Halle veröffentlicht: Die Drahtzieher hinter der Stasi-Liste",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/stasi-liste-halle-100.html",
+     "time": "2026-10-30T11:51:06Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12948.html",
-     "time": "2026-10-29T22:27:56Z"
+     "title": "CAS erteilt Russland Startrecht für Eishockey-WM",
+     "url": "https://www.sportschau.de/eishockey/wm/cas-erteilt-russland-startrecht-fuer-eishockey-wm-in-deutschland,eishockey-russland-bei-wm-in-deutschland-100.html",
+     "time": "2026-10-30T11:33:22Z"
     },
     {
-     "title": "Nach dem Zugunglück: Wie Spanien mit der Tragödie umgeht",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1674870.html",
-     "time": "2026-10-29T21:36:17Z"
+     "title": "Hackerangriff auf weltgrößte Kryptobörse Binance kreiert Schaden in Milliardenhöhe",
+     "url": "https://www.tagesschau.de/video/video-1675024.html",
+     "time": "2026-10-30T11:23:38Z"
     },
     {
-     "title": "Martin Hikel, SPD/Bezirksbürgermeister Berlin-Neukölln, über die Sicherheits-Debatte",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1674868.html",
-     "time": "2026-10-29T21:31:37Z"
+     "title": "OVG Lüneburg: AfD darf in Niedersachsen weiter überwacht werden",
+     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/afd-niedersachsen-darf-weiterhin-ueberwacht-werden,afd-1332.html",
+     "time": "2026-10-30T11:19:44Z"
     },
     {
-     "title": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1674866.html",
-     "time": "2026-10-29T21:24:23Z"
+     "title": "Merz hofft auf friedliche Wiedervereinigung Koreas",
+     "url": "https://www.tagesschau.de/ausland/asien/merz-asienreise-suedkorea-100.html",
+     "time": "2026-10-30T11:14:51Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Bob Dylan in Zürich – «I’m Not There»: Warum ich Bob Dylan lieber in Erinnerung behalte",
-     "url": "https://www.srf.ch/radio-srf-3/bob-dylan-in-zuerich-i-m-not-there-warum-ich-bob-dylan-lieber-in-erinnerung-behalte",
-     "time": "2026-10-30T06:00:30Z"
+     "title": "Nach der Wahl – Israels Isolation ist nicht so schnell vorbei",
+     "url": "https://www.srf.ch/news/international/nahost/nach-der-wahl-israels-isolation-ist-nicht-so-schnell-vorbei",
+     "time": "2026-10-30T13:25:26Z"
     },
     {
-     "title": "Feuerwerksinitiative – URL der Gegenseite gekapert: Gehört das zum Abstimmungskampf?",
-     "url": "https://www.srf.ch/news/schweiz/feuerwerksinitiative-url-der-gegenseite-gekapert-gehoert-das-zum-abstimmungskampf",
-     "time": "2026-10-30T05:09:31Z"
+     "title": "Kulturnews in Kurzform – Rapper Haftbefehl überrascht mit neuem Song",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-rapper-haftbefehl-ueberrascht-mit-neuem-song",
+     "time": "2026-10-30T13:17:14Z"
     },
     {
-     "title": "Kult-Auto aus den 80ern – Kult-Auto «K.I.T.T.» aus «Knight Rider» wird versteigert",
-     "url": "https://www.srf.ch/news/schweiz/kult-auto-aus-den-80ern-kult-auto-k-i-t-t-aus-knight-rider-wird-versteigert",
-     "time": "2026-10-30T05:05:41Z"
+     "title": "Strafanzeigen bei Ruag MRO – Millionenklage: Bundesrat Pfister informiert zum Ruag-Betrugsfall",
+     "url": "https://www.srf.ch/news/schweiz/strafanzeigen-bei-ruag-mro-millionenklage-bundesrat-pfister-informiert-zum-ruag-betrugsfall",
+     "time": "2026-10-30T13:14:37Z"
     },
     {
-     "title": "Midterms in den USA – Las Vegas: Wenn das Leben unbezahlbar wird",
-     "url": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-las-vegas-wenn-das-leben-unbezahlbar-wird",
-     "time": "2026-10-30T05:03:03Z"
+     "title": "Drag-Lesung gestört – Mitglieder der «Jungen Tat» verurteilt",
+     "url": "https://www.srf.ch/news/schweiz/drag-lesung-gestoert-mitglieder-der-jungen-tat-verurteilt",
+     "time": "2026-10-30T12:53:19Z"
     },
     {
-     "title": "Drohnen-Krieg in der Ukraine – Schweizer Bauteile auch in neuen russischen Waffen entdeckt",
-     "url": "https://www.srf.ch/news/schweiz/drohnen-krieg-in-der-ukraine-schweizer-bauteile-auch-in-neuen-russischen-waffen-entdeckt",
-     "time": "2026-10-30T04:56:31Z"
+     "title": "Abschaffung der Heiratsstrafe – Geht die Mitte-Partei mit einem blauen Auge ins Wahljahr?",
+     "url": "https://www.srf.ch/news/abschaffung-der-heiratsstrafe-geht-die-mitte-partei-mit-einem-blauen-auge-ins-wahljahr",
+     "time": "2026-10-30T12:48:00Z"
     },
     {
-     "title": "Bekannt aus Star Trek – Patrick Stewart stirbt 86-jährig",
-     "url": "https://www.srf.ch/news/bekannt-aus-star-trek-patrick-stewart-stirbt-86-jaehrig",
-     "time": "2026-10-30T04:11:16Z"
+     "title": "Proteste in Albanien – Albanische Regierung schränkt Demonstrationsrecht ein",
+     "url": "https://www.srf.ch/news/international/proteste-in-albanien-albanische-regierung-schraenkt-demonstrationsrecht-ein",
+     "time": "2026-10-30T12:40:23Z"
     },
     {
-     "title": "Grösste Kryptobörse gehackt – Hackerangriff auf Binance: «Krypto ist mit Risiko verbunden»",
-     "url": "https://www.srf.ch/news/wirtschaft/groesste-kryptoboerse-gehackt-hackerangriff-auf-binance-krypto-ist-mit-risiko-verbunden",
-     "time": "2026-10-30T03:44:30Z"
+     "title": "Abstimmung vom 29. November – Ja-Kampagne zum Kriegsmaterialgesetz mit Drei-Millionen-Budget",
+     "url": "https://www.srf.ch/news/schweiz/abstimmung-vom-29-november-ja-kampagne-zum-kriegsmaterialgesetz-mit-drei-millionen-budget",
+     "time": "2026-10-30T12:32:24Z"
     },
     {
-     "title": "Swiss Indoors: Achtelfinal – Coup nach Umweg geglückt: Kym eliminiert Shelton",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-achtelfinal-coup-nach-umweg-geglueckt-kym-eliminiert-shelton",
-     "time": "2026-10-29T23:58:23Z"
+     "title": "Annäherung an China – Expertin: «Wir sind nicht ausreichend vorbereitet»",
+     "url": "https://www.srf.ch/news/dialog/annaeherung-an-china-expertin-wir-sind-nicht-ausreichend-vorbereitet",
+     "time": "2026-10-30T11:32:22Z"
     },
     {
-     "title": "Krieg im Sudan – Jedes Telefonat mit einem Verwandten könnte das letzte sein",
-     "url": "https://www.srf.ch/radio-srf-1/krieg-im-sudan-jedes-telefonat-mit-einem-verwandten-koennte-das-letzte-sein",
-     "time": "2026-10-29T22:15:57Z"
+     "title": "News aus dem Skisport – Von Allmen gewinnt den «Skieur d'Or»",
+     "url": "https://www.srf.ch/sport/ski-alpin/news-aus-dem-skisport-von-allmen-gewinnt-den-skieur-d-or",
+     "time": "2026-10-30T11:06:58Z"
     },
     {
-     "title": "Swiss Indoors: Achtelfinal – Djokovic scheitert in Basel trotz Satzführung an Struff",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-achtelfinal-djokovic-scheitert-in-basel-trotz-satzfuehrung-an-struff",
-     "time": "2026-10-29T21:11:48Z"
+     "title": "Besser schlafen – Was bei Schlafstörungen wirklich hilft",
+     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/kassensturz/besser-schlafen-was-bei-schlafstoerungen-wirklich-hilft",
+     "time": "2026-10-30T11:06:44Z"
     },
     {
-     "title": "Flucht des Wahlverlierers – Bolsonaro stösst nach Ausreise auf Kritik im eigenen Lager",
-     "url": "https://www.srf.ch/news/international/flucht-des-wahlverlierers-bolsonaro-stoesst-nach-ausreise-auf-kritik-im-eigenen-lager",
-     "time": "2026-10-29T20:40:12Z"
+     "title": "Parmelin in Peking – Schweiz und China erneuern Freihandelsabkommen",
+     "url": "https://www.srf.ch/news/international/parmelin-in-peking-schweiz-und-china-erneuern-freihandelsabkommen",
+     "time": "2026-10-30T11:01:07Z"
     },
     {
-     "title": "Spanien in Trauer – Tränen, Wut und Verunsicherung nach verheerendem Zugunglück",
-     "url": "https://www.srf.ch/news/international/spanien-in-trauer-traenen-wut-und-verunsicherung-nach-verheerendem-zugunglueck",
-     "time": "2026-10-29T20:32:03Z"
+     "title": "Südöstlich von Manila – Vulkan Mayon auf den Philippinen ausgebrochen",
+     "url": "https://www.srf.ch/news/international/suedoestlich-von-manila-vulkan-mayon-auf-den-philippinen-ausgebrochen",
+     "time": "2026-10-30T11:00:09Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "MotoGp, Marc Marquez il più veloce nelle prime libere in Malesia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/motogp-marc-marquez-il-piu-veloce-nelle-prime-libere-in-malesia_75ee7eb2-5d3e-44cb-b040-8c12e8552b52.html",
-     "time": "2026-10-30T04:28:53Z"
+     "title": "Morì nel 1987 per un'aggressione, 39 anni dopo si indaga per omicidio",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/mori-nel-1987-per-unaggressione-39-anni-dopo-si-indaga-per-omicidio_eb913bf1-2561-4cc1-9491-1dfaabea2f59.html",
+     "time": "2026-10-30T12:51:16Z"
     },
     {
-     "title": "Borsa: Tokyo, apertura in calo (-0,31%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/borsa-tokyo-apertura-in-calo-031_f3ce5827-45ff-4513-8c96-76acf6e1e03f.html",
-     "time": "2026-10-30T00:33:23Z"
+     "title": "Caso Siher, Anm Milano 'inauditi attacchi sessisti a giudice e pm'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/caso-siher-anm-milano-inauditi-attacchi-sessisti-a-giudice-e-pm_919da537-8173-420c-8273-6609f05a8636.html",
+     "time": "2026-10-30T12:42:05Z"
     },
     {
-     "title": "Israele, risultati definitivi: schieramento Netanyahu in testa ma senza maggioranza",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/israele-risultati-definitivi-schieramento-netanyahu-in-testa-ma-senza-maggioranza_c02347d8-1ab2-4e98-88f0-58e212562125.html",
-     "time": "2026-10-30T00:07:39Z"
+     "title": "Giorgetti, alta inflazione 'drammatica conseguenza' caro energia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/giorgetti-alta-inflazione-drammatica-conseguenza-caro-energia_05581221-12e6-4ab5-95cc-d6bf8de8c959.html",
+     "time": "2026-10-30T12:25:12Z"
     },
     {
-     "title": "Elicottero caduto, una sergente della Croce Rossa tra i morti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/elicottero-caduto-una-sergente-della-croce-rossa-tra-i-morti_d8ba262b-f9b0-4390-8ec4-cf7e7198511d.html",
-     "time": "2026-10-29T21:35:26Z"
+     "title": "Giorgetti, tutti devono contribuire, per le banche oneri significativi ma assorbibili",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/giorgetti-tutti-devono-contribuire-per-le-banche-oneri-significativi-ma-assorbibili_0c75d66b-22fc-42dd-aa2b-9cacad8b9cf5.html",
+     "time": "2026-10-30T12:21:02Z"
     },
     {
-     "title": "E' morto Patrick Stewart, l'attore di Star Trek e X-Men",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/e-morto-patrick-stewart-lattore-di-star-trek-e-x-men_3f406db5-43a3-4ec1-8223-10486367ce17.html",
-     "time": "2026-10-29T20:12:32Z"
+     "title": "Michele Tadini nuovo direttore del settore Musica della Biennale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/michele-tadini-nuovo-direttore-del-settore-musica-della-biennale_ca504250-f589-4b5d-be24-871ad5d84cc3.html",
+     "time": "2026-10-30T11:59:24Z"
     },
     {
-     "title": "Crosetto 'dolore immenso, nessuno dei feriti rischia la vita'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/crosetto-dolore-immenso-nessuno-dei-feriti-rischia-la-vita_377f4053-0012-464f-b536-78f5409c68e0.html",
-     "time": "2026-10-29T19:49:19Z"
+     "title": "Maxi-attacco hacker a Binance in soli 20 minuti, 'é il furto del secolo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/maxi-attacco-hacker-a-binance-in-soli-20-minuti-e-il-furto-del-secolo_6039ac99-c627-4596-b706-4612cbce3737.html",
+     "time": "2026-10-30T11:51:59Z"
     },
     {
-     "title": "Farnesina, '5 attivisti italiani fermati in Cisgiordania, chiesto rilascio immediato'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/farnesina-5-attivisti-italiani-fermati-in-cisgiordania-chiesto-rilascio-immediato_1aa9dbc8-87a3-4d84-afca-41d7b4b60b45.html",
-     "time": "2026-10-29T19:38:56Z"
+     "title": "Meloni chiude a Vannacci, chiederò agli italiani di governare senza ricatti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/meloni-chiude-a-vannacci-chiedero-agli-italiani-di-governare-senza-ricatti_8fc8c084-ad00-407a-93ce-81b38a395a47.html",
+     "time": "2026-10-30T11:50:26Z"
     },
     {
-     "title": "Leonardo Maria Del Vecchio, lavoro mio padre resti patrimonio Italia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/leonardo-maria-del-vecchio-lavoro-mio-padre-resti-patrimonio-italia_71fd8671-a7a8-47bd-a2a6-3ca30c19ff9a.html",
-     "time": "2026-10-29T19:27:40Z"
+     "title": "Messina, nessun incremento dell'offerta su Mps",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/messina-nessun-incremento-dellofferta-su-mps_62f49106-cbd5-4d63-ad7a-df19919cfb42.html",
+     "time": "2026-10-30T11:46:50Z"
     },
     {
-     "title": "Mattarella, cordoglio per la morte dei militari nel tragico incidente in Bosnia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/mattarella-cordoglio-per-la-morte-dei-militari-nel-tragico-incidente-in-bosnia_8e016eba-3b38-405c-b148-46730143abe4.html",
-     "time": "2026-10-29T19:13:37Z"
+     "title": "Meloni, l'appoggio a Kiev può avere un prezzo politico ma non cambio posizione",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/meloni-lappoggio-a-kiev-puo-avere-un-prezzo-politico-ma-non-cambio-posizione_28bc15e0-5b8d-47cd-a6c1-39539a60b0ca.html",
+     "time": "2026-10-30T11:43:10Z"
     },
     {
-     "title": "Meloni, 'tragico incidente in Bosnia, profondo dolore per le vittime'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/meloni-tragico-incidente-in-bosnia-profondo-dolore-per-le-vittime_7c3228fc-97a8-43fd-9d4b-f856cbc3b5df.html",
-     "time": "2026-10-29T19:10:12Z"
+     "title": "Polizia scozzese indaga sui soggiorni di Andrea con Epstein a Balmoral",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/polizia-scozzese-indaga-sui-soggiorni-di-andrea-con-epstein-a-balmoral_ef9f1991-da8b-4a61-ae58-4a0d14da1d00.html",
+     "time": "2026-10-30T11:20:48Z"
     }
    ]
   },
@@ -215,9 +215,54 @@
    "countries": [],
    "items": [
     {
-     "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
-     "url": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T06:10:50Z"
+     "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+     "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T13:03:34Z"
+    },
+    {
+     "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T12:36:55Z"
+    },
+    {
+     "title": "What we know about Binance's $6.3bn hack",
+     "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T12:27:28Z"
+    },
+    {
+     "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+     "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T12:25:53Z"
+    },
+    {
+     "title": "China denies allegations of spy operation targeting Nvidia CEO",
+     "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T12:20:04Z"
+    },
+    {
+     "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+     "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T12:04:02Z"
+    },
+    {
+     "title": "Helicopter carrying six people crashes in northern Indian state",
+     "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T10:07:58Z"
+    },
+    {
+     "title": "How Kenyans got caught in $130m US ghost student scam",
+     "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T08:32:35Z"
+    },
+    {
+     "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+     "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T07:53:38Z"
+    },
+    {
+     "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
+     "url": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T07:33:27Z"
     },
     {
      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
@@ -225,54 +270,9 @@
      "time": "2026-10-30T06:02:23Z"
     },
     {
-     "title": "Crypto giant Binance hit by hack suspected to be largest in history",
-     "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T05:15:16Z"
-    },
-    {
-     "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-     "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T03:24:12Z"
-    },
-    {
-     "title": "Three dead after two helicopters collide midair near Oregon airport",
-     "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T03:05:17Z"
-    },
-    {
-     "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-     "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T01:35:40Z"
-    },
-    {
-     "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-     "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T22:17:52Z"
-    },
-    {
-     "title": "Young athlete and former minister among victims of Spain train crash",
-     "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T21:33:35Z"
-    },
-    {
-     "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-     "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T21:31:12Z"
-    },
-    {
-     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-     "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T20:21:54Z"
-    },
-    {
-     "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-     "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T20:05:57Z"
-    },
-    {
-     "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T17:02:59Z"
+     "title": "New York police will now investigate Cornell sex complaints, governor says",
+     "url": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T03:32:44Z"
     }
    ]
   }
