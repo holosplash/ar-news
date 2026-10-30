@@ -1,6 +1,6 @@
 {
- "version": 127,
- "updated": "2026-10-30T00:13:24Z",
+ "version": 128,
+ "updated": "2026-10-30T06:20:49Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,12 +15,42 @@
    ],
    "items": [
     {
+     "title": "Podcast 15 Minuten: Gen-Z-Proteste, Telefonbetrug, Bevölkerungsschutz",
+     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15min-podcast-gen-z-demos-telefonbetrug-100.html",
+     "time": "2026-10-30T05:51:57Z"
+    },
+    {
+     "title": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
+     "url": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
+     "time": "2026-10-30T05:46:43Z"
+    },
+    {
+     "title": "11KM-Podcast: Trump und der Frust der jungen Generation vor den Midterms",
+     "url": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-trump-midterms-100.html",
+     "time": "2026-10-30T05:16:19Z"
+    },
+    {
+     "title": "Trump vor den Midterms: Der Frust der jungen Generation",
+     "url": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-3992.html",
+     "time": "2026-10-30T05:00:00Z"
+    },
+    {
+     "title": "Oppositionspolitikerin Machado: Was bedeutet ihre Rückkehr für Venezuela?",
+     "url": "https://www.tagesschau.de/ausland/amerika/venezuela-machado-106.html",
+     "time": "2026-10-30T03:22:31Z"
+    },
+    {
+     "title": "Frankreich bereitet sich auf neue Schülerproteste vor",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
+     "time": "2026-10-30T01:44:07Z"
+    },
+    {
      "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
      "time": "2026-10-30T00:01:06Z"
     },
     {
-     "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
+     "title": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
      "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
      "time": "2026-10-29T23:05:38Z"
     },
@@ -43,36 +73,6 @@
      "title": "Angst vor Hamas-Sympathisanten: Debatte um Sicherheit in Berlin",
      "url": "https://www.tagesschau.de/tagesthemen/video-1674866.html",
      "time": "2026-10-29T21:24:23Z"
-    },
-    {
-     "title": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
-     "url": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
-     "time": "2026-10-29T20:53:05Z"
-    },
-    {
-     "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
-     "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
-     "time": "2026-10-29T20:12:03Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12340.html",
-     "time": "2026-10-29T19:36:23Z"
-    },
-    {
-     "title": "Alexander Zverev krönt sich in Wien zur Nummer eins der Tennis-Welt",
-     "url": "https://www.sportschau.de/tennis/zverev-ab-montag-die-nummer-eins-der-tennis-welt,atp-wien-zverev-griekspoor-100.html",
-     "time": "2026-10-29T19:35:30Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81738.html",
-     "time": "2026-10-29T19:33:35Z"
-    },
-    {
-     "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-     "time": "2026-10-29T18:40:44Z"
     }
    ]
   },
@@ -85,6 +85,41 @@
    ],
    "items": [
     {
+     "title": "Bob Dylan in Zürich – «I’m Not There»: Warum ich Bob Dylan lieber in Erinnerung behalte",
+     "url": "https://www.srf.ch/radio-srf-3/bob-dylan-in-zuerich-i-m-not-there-warum-ich-bob-dylan-lieber-in-erinnerung-behalte",
+     "time": "2026-10-30T06:00:30Z"
+    },
+    {
+     "title": "Feuerwerksinitiative – URL der Gegenseite gekapert: Gehört das zum Abstimmungskampf?",
+     "url": "https://www.srf.ch/news/schweiz/feuerwerksinitiative-url-der-gegenseite-gekapert-gehoert-das-zum-abstimmungskampf",
+     "time": "2026-10-30T05:09:31Z"
+    },
+    {
+     "title": "Kult-Auto aus den 80ern – Kult-Auto «K.I.T.T.» aus «Knight Rider» wird versteigert",
+     "url": "https://www.srf.ch/news/schweiz/kult-auto-aus-den-80ern-kult-auto-k-i-t-t-aus-knight-rider-wird-versteigert",
+     "time": "2026-10-30T05:05:41Z"
+    },
+    {
+     "title": "Midterms in den USA – Las Vegas: Wenn das Leben unbezahlbar wird",
+     "url": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-las-vegas-wenn-das-leben-unbezahlbar-wird",
+     "time": "2026-10-30T05:03:03Z"
+    },
+    {
+     "title": "Drohnen-Krieg in der Ukraine – Schweizer Bauteile auch in neuen russischen Waffen entdeckt",
+     "url": "https://www.srf.ch/news/schweiz/drohnen-krieg-in-der-ukraine-schweizer-bauteile-auch-in-neuen-russischen-waffen-entdeckt",
+     "time": "2026-10-30T04:56:31Z"
+    },
+    {
+     "title": "Bekannt aus Star Trek – Patrick Stewart stirbt 86-jährig",
+     "url": "https://www.srf.ch/news/bekannt-aus-star-trek-patrick-stewart-stirbt-86-jaehrig",
+     "time": "2026-10-30T04:11:16Z"
+    },
+    {
+     "title": "Grösste Kryptobörse gehackt – Hackerangriff auf Binance: «Krypto ist mit Risiko verbunden»",
+     "url": "https://www.srf.ch/news/wirtschaft/groesste-kryptoboerse-gehackt-hackerangriff-auf-binance-krypto-ist-mit-risiko-verbunden",
+     "time": "2026-10-30T03:44:30Z"
+    },
+    {
      "title": "Swiss Indoors: Achtelfinal – Coup nach Umweg geglückt: Kym eliminiert Shelton",
      "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-achtelfinal-coup-nach-umweg-geglueckt-kym-eliminiert-shelton",
      "time": "2026-10-29T23:58:23Z"
@@ -93,11 +128,6 @@
      "title": "Krieg im Sudan – Jedes Telefonat mit einem Verwandten könnte das letzte sein",
      "url": "https://www.srf.ch/radio-srf-1/krieg-im-sudan-jedes-telefonat-mit-einem-verwandten-koennte-das-letzte-sein",
      "time": "2026-10-29T22:15:57Z"
-    },
-    {
-     "title": "Bekannt aus Star Trek – Patrick Stewart stirbt 86-jährig",
-     "url": "https://www.srf.ch/news/bekannt-aus-star-trek-patrick-stewart-stirbt-86-jaehrig",
-     "time": "2026-10-29T22:08:52Z"
     },
     {
      "title": "Swiss Indoors: Achtelfinal – Djokovic scheitert in Basel trotz Satzführung an Struff",
@@ -113,36 +143,6 @@
      "title": "Spanien in Trauer – Tränen, Wut und Verunsicherung nach verheerendem Zugunglück",
      "url": "https://www.srf.ch/news/international/spanien-in-trauer-traenen-wut-und-verunsicherung-nach-verheerendem-zugunglueck",
      "time": "2026-10-29T20:32:03Z"
-    },
-    {
-     "title": "Kriegsmaterialgesetz – SP reicht Beschwerde gegen Abstimmungsbüchlein ein",
-     "url": "https://www.srf.ch/news/kriegsmaterialgesetz-sp-reicht-beschwerde-gegen-abstimmungsbuechlein-ein",
-     "time": "2026-10-29T20:29:52Z"
-    },
-    {
-     "title": "EU-Kanada-Gipfel – Warum die EU und Kanada stärker zusammenrücken wollen",
-     "url": "https://www.srf.ch/news/international/eu-kanada-gipfel-warum-die-eu-und-kanada-staerker-zusammenruecken-wollen",
-     "time": "2026-10-29T19:43:33Z"
-    },
-    {
-     "title": "Luzerns Verwaltung zieht um – 1200 Arbeitsplätze für 2000 Kantonsangestellte? So funktioniert's",
-     "url": "https://www.srf.ch/news/schweiz/luzerns-verwaltung-zieht-um-1200-arbeitsplaetze-fuer-2000-kantonsangestellte-so-funktioniert-s",
-     "time": "2026-10-29T19:34:01Z"
-    },
-    {
-     "title": "Als 30. Spieler – Zverev ab Montag erstmals die Nummer 1 der Weltrangliste",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/als-30-spieler-zverev-ab-montag-erstmals-die-nummer-1-der-weltrangliste",
-     "time": "2026-10-29T19:33:30Z"
-    },
-    {
-     "title": "Krieg im Nahen Osten – Vorläufiges Endergebnis: Patt nach Wahl in Israel",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-vorlaeufiges-endergebnis-patt-nach-wahl-in-israel",
-     "time": "2026-10-29T19:16:22Z"
-    },
-    {
-     "title": "49 Prozent machen Lehre – Schweizer Unternehmen halten ihr Lehrstellenangebot konstant",
-     "url": "https://www.srf.ch/news/schweiz/49-prozent-machen-lehre-schweizer-unternehmen-halten-ihr-lehrstellenangebot-konstant",
-     "time": "2026-10-29T19:05:51Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "MotoGp, Marc Marquez il più veloce nelle prime libere in Malesia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/motogp-marc-marquez-il-piu-veloce-nelle-prime-libere-in-malesia_75ee7eb2-5d3e-44cb-b040-8c12e8552b52.html",
+     "time": "2026-10-30T04:28:53Z"
+    },
+    {
+     "title": "Borsa: Tokyo, apertura in calo (-0,31%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/borsa-tokyo-apertura-in-calo-031_f3ce5827-45ff-4513-8c96-76acf6e1e03f.html",
+     "time": "2026-10-30T00:33:23Z"
+    },
     {
      "title": "Israele, risultati definitivi: schieramento Netanyahu in testa ma senza maggioranza",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/israele-risultati-definitivi-schieramento-netanyahu-in-testa-ma-senza-maggioranza_c02347d8-1ab2-4e98-88f0-58e212562125.html",
@@ -195,16 +205,6 @@
      "title": "Meloni, 'tragico incidente in Bosnia, profondo dolore per le vittime'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/meloni-tragico-incidente-in-bosnia-profondo-dolore-per-le-vittime_7c3228fc-97a8-43fd-9d4b-f856cbc3b5df.html",
      "time": "2026-10-29T19:10:12Z"
-    },
-    {
-     "title": "Il petrolio chiude in calo a New York a 102 dollari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/il-petrolio-chiude-in-calo-a-new-york-a-102-dollari_96c85470-ed49-4cab-bf69-181345c6f461.html",
-     "time": "2026-10-29T18:38:14Z"
-    },
-    {
-     "title": "Orsini, 'associazioni dell'artigianato non difendano solo propri interessi e bilanci'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/29/orsini-associazioni-dellartigianato-non-difendano-solo-propri-interessi-e-bilanci_d67c09dc-cfab-4a1e-88d9-133a2abc6ba3.html",
-     "time": "2026-10-29T18:22:07Z"
     }
    ]
   },
@@ -214,6 +214,41 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
+     "url": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T06:10:50Z"
+    },
+    {
+     "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+     "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T06:02:23Z"
+    },
+    {
+     "title": "Crypto giant Binance hit by hack suspected to be largest in history",
+     "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T05:15:16Z"
+    },
+    {
+     "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T03:24:12Z"
+    },
+    {
+     "title": "Three dead after two helicopters collide midair near Oregon airport",
+     "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T03:05:17Z"
+    },
+    {
+     "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+     "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T01:35:40Z"
+    },
+    {
+     "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+     "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-29T22:17:52Z"
+    },
     {
      "title": "Young athlete and former minister among victims of Spain train crash",
      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
@@ -238,41 +273,6 @@
      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-29T17:02:59Z"
-    },
-    {
-     "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-     "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T14:58:28Z"
-    },
-    {
-     "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T14:17:35Z"
-    },
-    {
-     "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-     "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T13:44:39Z"
-    },
-    {
-     "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-     "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T13:25:07Z"
-    },
-    {
-     "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-     "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T12:49:17Z"
-    },
-    {
-     "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-     "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T11:25:16Z"
-    },
-    {
-     "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-     "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-29T11:07:35Z"
     }
    ]
   }
