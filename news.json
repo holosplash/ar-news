@@ -1,6 +1,6 @@
 {
- "version": 135,
- "updated": "2026-10-31T19:29:56Z",
+ "version": 136,
+ "updated": "2026-10-31T22:45:59Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "FC Bayern im Bundesliga-Topspiel gegen Dortmund",
-     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
-     "time": "2026-10-31T19:29:06Z"
+     "title": "Erneut Proteste und Zusammenstöße in Frankreich",
+     "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+     "time": "2026-10-31T22:32:55Z"
+    },
+    {
+     "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+     "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+     "time": "2026-10-31T20:36:43Z"
+    },
+    {
+     "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+     "time": "2026-10-31T20:33:42Z"
+    },
+    {
+     "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+     "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+     "time": "2026-10-31T20:11:14Z"
+    },
+    {
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12344.html",
+     "time": "2026-10-31T19:45:53Z"
     },
     {
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81764.html",
-     "time": "2026-10-31T19:18:42Z"
+     "time": "2026-10-31T19:33:34Z"
     },
     {
-     "title": "Erneut Proteste und Zusammenstöße in Frankreich",
-     "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
-     "time": "2026-10-31T19:02:09Z"
+     "title": "Protestanten feiern Reformationstag",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675894.html",
+     "time": "2026-10-31T19:28:19Z"
     },
     {
-     "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
-     "time": "2026-10-31T18:05:02Z"
+     "title": "Linke in Berlin macht Weg frei für Koalitionsverhandlungen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675892.html",
+     "time": "2026-10-31T19:27:09Z"
     },
     {
-     "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
-     "time": "2026-10-31T18:00:40Z"
+     "title": "Machtkampf um Verfassungsgericht in Polen spitzt sich zu",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675896.html",
+     "time": "2026-10-31T19:25:25Z"
     },
     {
-     "title": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler",
-     "url": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
-     "time": "2026-10-31T17:38:42Z"
+     "title": "Evakuierte aus umkämpfter ukrainischer Stadt Oleschky zurück bei ihren Angehörigen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675888.html",
+     "time": "2026-10-31T19:23:29Z"
     },
     {
-     "title": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
-     "url": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
-     "time": "2026-10-31T16:54:43Z"
+     "title": "US-Regierung genehmigt Patriot-Verkauf an Ukraine",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675886.html",
+     "time": "2026-10-31T19:21:29Z"
     },
     {
-     "title": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
-     "time": "2026-10-31T16:54:21Z"
-    },
-    {
-     "title": "Frankreich erwartet Hunderttausende bei neuen Protesten",
-     "url": "https://www.tagesschau.de/video/video-1675760.html",
-     "time": "2026-10-31T16:35:43Z"
-    },
-    {
-     "title": "RB Leipzig ohne Mühe - Bei Schalke 04 steht die Doppel-Null",
-     "url": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
-     "time": "2026-10-31T16:34:14Z"
-    },
-    {
-     "title": "Eskalation um Polens Verfassungsgericht",
-     "url": "https://www.tagesschau.de/video/video-1675766.html",
-     "time": "2026-10-31T16:31:46Z"
-    },
-    {
-     "title": "Stuttgart siegt, Leverkusen fühlt sich benachteiligt",
-     "url": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
-     "time": "2026-10-31T16:26:24Z"
+     "title": "Mehr als 300.000 Menschen bei Protesten in Frankreich",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675884.html",
+     "time": "2026-10-31T19:19:34Z"
     }
    ]
   },
@@ -85,9 +85,39 @@
    ],
    "items": [
     {
-     "title": "Unruhen in Frankreich – 320'000 demonstrieren in Frankreich +++ über 400 Festnahmen",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-320-000-demonstrieren-in-frankreich-ueber-400-festnahmen",
-     "time": "2026-10-31T19:26:28Z"
+     "title": "Deutsche Jugendproteste – Zwischenfälle nach friedlichem Protest: Plünderungen in Frankfurt",
+     "url": "https://www.srf.ch/news/international/deutsche-jugendproteste-zwischenfaelle-nach-friedlichem-protest-pluenderungen-in-frankfurt",
+     "time": "2026-10-31T21:39:13Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Selenski denkt über Patriot-Tauschhandel nach",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-denkt-ueber-patriot-tauschhandel-nach",
+     "time": "2026-10-31T21:03:54Z"
+    },
+    {
+     "title": "Neue Wohnmodelle – Saisonpersonal aus Andermatt belebt leere Wohnungen im Tessin",
+     "url": "https://www.srf.ch/news/dialog/neue-wohnmodelle-saisonpersonal-aus-andermatt-belebt-leere-wohnungen-im-tessin",
+     "time": "2026-10-31T20:40:42Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Iran knüpft Gespräche mit den USA an sieben Bedingungen",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-iran-knuepft-gespraeche-mit-den-usa-an-sieben-bedingungen",
+     "time": "2026-10-31T20:39:28Z"
+    },
+    {
+     "title": "Nach Hackerangriff – Binance ersetzt 90 Prozent der gestohlenen Werte",
+     "url": "https://www.srf.ch/news/wirtschaft/nach-hackerangriff-binance-ersetzt-90-prozent-der-gestohlenen-werte",
+     "time": "2026-10-31T20:15:52Z"
+    },
+    {
+     "title": "Unruhen in Frankreich – 320'000 demonstrieren in Frankreich +++ über 500 Festnahmen",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-320-000-demonstrieren-in-frankreich-ueber-500-festnahmen",
+     "time": "2026-10-31T20:03:55Z"
+    },
+    {
+     "title": "Westsahara – UNO-Friedensmission vor dem Aus – wie geht es weiter?",
+     "url": "https://www.srf.ch/news/international/westsahara-uno-friedensmission-vor-dem-aus-wie-geht-es-weiter",
+     "time": "2026-10-31T19:31:16Z"
     },
     {
      "title": "Super League: 12. Runde – Lee rettet GC im Kellerduell gegen Vaduz einen späten Punkt",
@@ -95,19 +125,9 @@
      "time": "2026-10-31T19:12:22Z"
     },
     {
-     "title": "12. Runde der Super League – 2:1 gegen Servette: St. Gallen feiert 2. Heimsieg in Serie",
-     "url": "https://www.srf.ch/sport/fussball/super-league/12-runde-der-super-league-2-1-gegen-servette-st-gallen-feiert-2-heimsieg-in-serie",
-     "time": "2026-10-31T19:08:48Z"
-    },
-    {
      "title": "Russlands kriselnde Wirtschaft – Der Krieg zieht Sibiriens Kohleregion in die Krise",
      "url": "https://www.srf.ch/news/international/russlands-kriselnde-wirtschaft-der-krieg-zieht-sibiriens-kohleregion-in-die-krise",
      "time": "2026-10-31T19:00:51Z"
-    },
-    {
-     "title": "Deutsche Jugendproteste – Ausschreitungen in Deutschland nach friedlichen Protesten",
-     "url": "https://www.srf.ch/news/international/deutsche-jugendproteste-ausschreitungen-in-deutschland-nach-friedlichen-protesten",
-     "time": "2026-10-31T18:50:44Z"
     },
     {
      "title": "Artenschutzkonferenz Armenien – Ein Schritt vorwärts – trotz vieler Kompromisse",
@@ -123,26 +143,6 @@
      "title": "G20-Aussenministertreffen – Es reichte nicht mal für das traditionelle «Familienfoto»",
      "url": "https://www.srf.ch/news/international/g20-aussenministertreffen-es-reichte-nicht-mal-fuer-das-traditionelle-familienfoto",
      "time": "2026-10-31T17:15:43Z"
-    },
-    {
-     "title": "«SRF 3 Showcase – Songcircle» – So klingt der Eagles-Hit «Hotel California» auf Schweizerdeutsch",
-     "url": "https://www.srf.ch/radio-srf-3/musik/srf-3-showcase-songcircle-so-klingt-der-eagles-hit-hotel-california-auf-schweizerdeutsch",
-     "time": "2026-10-31T16:49:10Z"
-    },
-    {
-     "title": "Regierungsbildung in Berlin – Berliner Linke billigt Koalitionsverhandlungen mit SPD und Grünen",
-     "url": "https://www.srf.ch/news/international/regierungsbildung-in-berlin-berliner-linke-billigt-koalitionsverhandlungen-mit-spd-und-gruenen",
-     "time": "2026-10-31T16:47:23Z"
-    },
-    {
-     "title": "Eskalation in Warschau – Machtkampf um Polens Verfassungsgericht – das steckt dahinter",
-     "url": "https://www.srf.ch/news/international/eskalation-in-warschau-machtkampf-um-polens-verfassungsgericht-das-steckt-dahinter",
-     "time": "2026-10-31T16:05:16Z"
-    },
-    {
-     "title": "Zwei Jahre nach dem Unwetter – Neue Visletto-Brücke über Maggia eingeweiht",
-     "url": "https://www.srf.ch/news/schweiz/zwei-jahre-nach-dem-unwetter-neue-visletto-bruecke-ueber-maggia-eingeweiht",
-     "time": "2026-10-31T15:40:13Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Lite in stazione finisce a coltellate, un morto nel Frusinate",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/lite-in-stazione-finisce-a-coltellate-un-morto-nel-frusinate_0caf2441-edb1-43a2-b744-e208f103bf09.html",
+     "time": "2026-10-31T22:15:26Z"
+    },
+    {
+     "title": "'Fbi, Corea del Nord responsabile dell'attacco hacker a Binance'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/fbi-corea-del-nord-responsabile-dellattacco-hacker-a-binance_0ca5866c-982c-4d9b-92d3-cc6a4b371932.html",
+     "time": "2026-10-31T22:12:05Z"
+    },
+    {
+     "title": "Commissione Ue, 'presidente Polonia convalidi la nomina dei nuovi giudici'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/commissione-ue-presidente-polonia-convalidi-la-nomina-dei-nuovi-giudici_43d398cf-c569-4f54-83dd-36823b8855d4.html",
+     "time": "2026-10-31T21:21:07Z"
+    },
     {
      "title": "Tusk, 'attacco alla Corte è nuova violazione dello stato di diritto del Pis'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/tusk-attacco-alla-corte-e-nuova-violazione-dello-stato-di-diritto-del_da89c096-6261-47fc-92b8-654d4e2218b4.html",
@@ -190,21 +205,6 @@
      "title": "Binance reintegra il 90% degli asset sottratti con l'attacco informatico",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/binance-reintegra-il-90-degli-asset-sottratti-con-lattacco-informatico_8b01ca13-0a00-4f34-ab7e-6fda1f811b2d.html",
      "time": "2026-10-31T17:27:54Z"
-    },
-    {
-     "title": "Mattarella, in tempi non facili il futuro va disegnato dai giovani",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/mattarella-in-tempi-non-facili-il-futuro-va-disegnato-dai-giovani_b3df3410-4e5d-4bc2-af8d-518724e15017.html",
-     "time": "2026-10-31T16:57:59Z"
-    },
-    {
-     "title": "Rubio, non so se Putin sarà a Miami, con Lavrov discusso possibile incontro ad Apec",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/rubio-non-so-se-putin-sara-a-miami-con-lavrov-discusso-possibile-incontro_f2f2a3fc-3c1c-4a71-aa2e-eab9e5258fc0.html",
-     "time": "2026-10-31T16:56:45Z"
-    },
-    {
-     "title": "Muore dopo essere stato accoltellato al bar, un fermo nel Comasco",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/muore-dopo-essere-stato-accoltellato-al-bar-un-fermo-nel-comasco_054c94e1-3a05-4ae7-b0ec-706aa25a3d35.html",
-     "time": "2026-10-31T16:54:18Z"
     }
    ]
   },
@@ -215,14 +215,29 @@
    "countries": [],
    "items": [
     {
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T22:11:45Z"
+    },
+    {
+     "title": "Thousands demonstrate in Paris as protests spread across Europe",
+     "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T21:29:01Z"
+    },
+    {
+     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+     "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T19:22:26Z"
+    },
+    {
      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-31T17:53:35Z"
     },
     {
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T16:32:08Z"
+     "title": "Emotional reunions with loved ones for Oleshky evacuees",
+     "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T16:55:47Z"
     },
     {
      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
@@ -233,11 +248,6 @@
      "title": "Ethiopian PM puts ministers through military training",
      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-31T14:28:15Z"
-    },
-    {
-     "title": "US approves sale of 500 Patriot missiles to Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T12:21:25Z"
     },
     {
      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
@@ -263,16 +273,6 @@
      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-31T02:12:19Z"
-    },
-    {
-     "title": "The Indian chef who brought curry to America - then vanished",
-     "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T02:02:16Z"
-    },
-    {
-     "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-     "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T01:32:33Z"
     }
    ]
   }
