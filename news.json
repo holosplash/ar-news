@@ -1,6 +1,6 @@
 {
- "version": 131,
- "updated": "2026-10-30T22:55:16Z",
+ "version": 132,
+ "updated": "2026-10-31T02:14:20Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,16 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+     "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+     "time": "2026-10-31T01:03:28Z"
+    },
+    {
+     "title": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+     "time": "2026-10-30T23:56:24Z"
+    },
     {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12942.html",
@@ -63,16 +73,6 @@
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81690.html",
      "time": "2026-10-30T20:01:59Z"
-    },
-    {
-     "title": "Cyberkriminelle erbeuten Milliarden von Kryptobörse Binance",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675456.html",
-     "time": "2026-10-30T19:42:51Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12334.html",
-     "time": "2026-10-30T19:29:35Z"
     }
    ]
   },
@@ -125,8 +125,8 @@
      "time": "2026-10-30T19:43:07Z"
     },
     {
-     "title": "40 Jahre Schweizerhalle – Ein Mahnmal erinnert an die Katastrophe – aber niemand kennt es",
-     "url": "https://www.srf.ch/news/schweiz/40-jahre-schweizerhalle-ein-mahnmal-erinnert-an-die-katastrophe-aber-niemand-kennt-es",
+     "title": "40 Jahre Schweizerhalle – Das Mahnmal, welches Sandoz verhindern wollte",
+     "url": "https://www.srf.ch/news/schweiz/40-jahre-schweizerhalle-das-mahnmal-welches-sandoz-verhindern-wollte",
      "time": "2026-10-30T19:36:58Z"
     },
     {
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Tensioni e proteste in Polonia dopo la sospensione del presidente Corte costituzionale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/tensioni-e-proteste-in-polonia-dopo-la-sospensione-del-presidente-corte-costituzionale_0f35a3af-265e-4f32-b650-9941730f20c2.html",
+     "time": "2026-10-30T23:31:46Z"
+    },
+    {
+     "title": "F1: Messico;Ferrari Leclerc domina seconde libere, quarto tempo per Mercedes Antonelli",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/f1-messicoferrari-leclerc-domina-seconde-libere-quarto-tempo-per-mercedes-antonelli_6a425791-9b57-4520-a14d-65fe36ff47a9.html",
+     "time": "2026-10-30T23:04:08Z"
+    },
     {
      "title": "Kallas, 'da Lavrov menzogne al G20, nessun segnale di apertura'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/kallas-da-lavrov-menzogne-al-g20-nessun-segnale-di-apertura_2eae8714-a9b9-4448-a74f-ca93f1b7c6e6.html",
@@ -195,16 +205,6 @@
      "title": "Il gas in forte aumento (+5%) a 103 euro al Megawattora",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/il-gas-in-forte-aumento-5-a-103-euro-al-megawattora_73dd043e-c76c-4ad6-ad53-58158d0f0dfa.html",
      "time": "2026-10-30T17:08:01Z"
-    },
-    {
-     "title": "Lo spread tra Btp e Bund chiude in lieve rialzo a 118 punti base",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/lo-spread-tra-btp-e-bund-chiude-in-lieve-rialzo-a-118-punti-base_9c1ccf87-639a-4602-8527-9c9ec1842183.html",
-     "time": "2026-10-30T17:06:05Z"
-    },
-    {
-     "title": "Hit Parade, Amateur di Cremonini debutta in vetta alla classifica",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/hit-parade-amateur-di-cremonini-debutta-in-vetta-alla-classifica_4e61b7bb-82d3-45f6-abeb-4897ad99257c.html",
-     "time": "2026-10-30T17:02:33Z"
     }
    ]
   },
@@ -215,9 +215,54 @@
    "countries": [],
    "items": [
     {
+     "title": "Three dead after two helicopters collide midair near Oregon airport",
+     "url": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T02:09:47Z"
+    },
+    {
+     "title": "The Indian chef who brought curry to America - then vanished",
+     "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T02:02:16Z"
+    },
+    {
+     "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+     "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T01:32:33Z"
+    },
+    {
+     "title": "Global nature talks reach deal but money remains an issue",
+     "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T01:27:05Z"
+    },
+    {
+     "title": "Police deployed during stand-off over control of top Poland court",
+     "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T01:11:43Z"
+    },
+    {
      "title": "US approves sale of 500 Patriot missiles to Ukraine",
      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T22:20:52Z"
+     "time": "2026-10-31T00:40:43Z"
+    },
+    {
+     "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T00:29:58Z"
+    },
+    {
+     "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+     "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T00:16:03Z"
+    },
+    {
+     "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+     "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T23:26:16Z"
+    },
+    {
+     "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+     "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-30T23:19:17Z"
     },
     {
      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
@@ -228,51 +273,6 @@
      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-30T21:13:14Z"
-    },
-    {
-     "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-     "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T20:55:18Z"
-    },
-    {
-     "title": "Police deployed during stand-off over control of top Poland court",
-     "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T20:52:01Z"
-    },
-    {
-     "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-     "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T20:41:51Z"
-    },
-    {
-     "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T20:34:46Z"
-    },
-    {
-     "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-     "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T17:07:19Z"
-    },
-    {
-     "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-     "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T17:00:32Z"
-    },
-    {
-     "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-     "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T16:26:11Z"
-    },
-    {
-     "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-     "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T15:17:11Z"
-    },
-    {
-     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-     "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T15:09:29Z"
     }
    ]
   }
