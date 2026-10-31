@@ -1,6 +1,6 @@
 {
- "version": 133,
- "updated": "2026-10-31T08:47:35Z",
+ "version": 134,
+ "updated": "2026-10-31T15:15:18Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-     "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
-     "time": "2026-10-31T08:25:36Z"
+     "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
+     "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
+     "time": "2026-10-31T15:06:39Z"
     },
     {
-     "title": "Verlauf angekündigter GenZ-Proteste wird mit Spannung erwartet",
-     "url": "https://www.tagesschau.de/video/video-1675602.html",
-     "time": "2026-10-31T08:20:28Z"
+     "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+     "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+     "time": "2026-10-31T13:57:56Z"
     },
     {
-     "title": "USA genehmigen \"Patriot\"-Lieferungen an Ukraine",
-     "url": "https://www.tagesschau.de/video/video-1675598.html",
-     "time": "2026-10-31T08:16:11Z"
+     "title": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
+     "time": "2026-10-31T13:45:21Z"
     },
     {
-     "title": "Zahl der Ebola-Toten im Kongo steigt auf über 5.000",
-     "url": "https://www.tagesschau.de/video/video-1675600.html",
-     "time": "2026-10-31T08:13:19Z"
+     "title": "Catrina am Dia de los Muertos, Krokusblüten, Olympische Jugendspiele",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10538.html",
+     "time": "2026-10-31T13:42:16Z"
     },
     {
-     "title": "Eskalation bei Streit um polnisches Verfassungsgericht",
-     "url": "https://www.tagesschau.de/video/video-1675592.html",
-     "time": "2026-10-31T08:07:55Z"
+     "title": "Palina Milling, ARD Warschau, zu Protesten um Verfassungsgericht",
+     "url": "https://www.tagesschau.de/video/video-1675706.html",
+     "time": "2026-10-31T13:22:26Z"
     },
     {
-     "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
-     "time": "2026-10-31T07:45:19Z"
+     "title": "Claudia Kornmeier, ARD Paris, zu Protestankündigungen in Frankreich",
+     "url": "https://www.tagesschau.de/video/video-1675690.html",
+     "time": "2026-10-31T13:14:36Z"
     },
     {
-     "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
-     "time": "2026-10-31T07:43:12Z"
+     "title": "Eskalation um Polens Verfassungsgericht",
+     "url": "https://www.tagesschau.de/video/video-1675694.html",
+     "time": "2026-10-31T13:12:26Z"
     },
     {
-     "title": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
-     "url": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
-     "time": "2026-10-31T07:09:41Z"
+     "title": "\"Scheint heute ein bisschen ins Wasser zu fallen\", Rupert Wiederwald, WDR, zu GenZ-Protesten in Köln",
+     "url": "https://www.tagesschau.de/video/video-1675688.html",
+     "time": "2026-10-31T12:57:50Z"
     },
     {
-     "title": "Jugendproteste in mehr als 30 Städten geplant",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
-     "time": "2026-10-31T04:52:31Z"
+     "title": "\"Viel Unterstützung durch Bundeslinke\", Andreas König, RBB, zum Parteitag der Berliner Linke",
+     "url": "https://www.tagesschau.de/video/video-1675684.html",
+     "time": "2026-10-31T12:55:00Z"
     },
     {
-     "title": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html",
-     "time": "2026-10-31T04:52:21Z"
+     "title": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
+     "url": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
+     "time": "2026-10-31T12:08:42Z"
     },
     {
-     "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-     "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-     "time": "2026-10-31T03:57:32Z"
+     "title": "Merz nach Asienreise: \"Hat sich in mehrfacher Hinsicht gelohnt\"",
+     "url": "https://www.tagesschau.de/ausland/asien/merz-asienreise-abschluss-100.html",
+     "time": "2026-10-31T11:56:25Z"
     },
     {
-     "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
-     "url": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
-     "time": "2026-10-31T03:05:42Z"
+     "title": "Ebola-Virus: Mehr als 5.000 Tote in der Demokratischen Republik Kongo",
+     "url": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html",
+     "time": "2026-10-31T11:45:52Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Proteste in Polen – Chaos und Machtkampf um Polens Verfassungsgericht",
-     "url": "https://www.srf.ch/news/international/proteste-in-polen-chaos-und-machtkampf-um-polens-verfassungsgericht",
-     "time": "2026-10-31T08:44:05Z"
+     "title": "Deutsche Jugendproteste – Tausende Jugendliche gehen in ganz Deutschland auf die Strasse",
+     "url": "https://www.srf.ch/news/international/deutsche-jugendproteste-tausende-jugendliche-gehen-in-ganz-deutschland-auf-die-strasse",
+     "time": "2026-10-31T14:52:30Z"
     },
     {
-     "title": "Krieg in der Ukraine – Bewohnerinnen und Bewohner aus Oleschky ausgeflogen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-bewohnerinnen-und-bewohner-aus-oleschky-ausgeflogen",
-     "time": "2026-10-31T08:43:18Z"
+     "title": "Cyberangriff im Kanton Waadt – Hacker stehlen Daten von über 40'000 Schülern und Lehrkräften",
+     "url": "https://www.srf.ch/news/schweiz/cyberangriff-im-kanton-waadt-hacker-stehlen-daten-von-ueber-40-000-schuelern-und-lehrkraeften",
+     "time": "2026-10-31T14:51:31Z"
     },
     {
-     "title": "Halloween-Lektüre – Nichts für schwache Nerven: 5 schaurig-schöne Buchtipps",
-     "url": "https://www.srf.ch/kultur/literatur/halloween-lektuere-nichts-fuer-schwache-nerven-5-schaurig-schoene-buchtipps",
-     "time": "2026-10-31T08:20:52Z"
+     "title": "Eskalation in Warschau – Machtkampf um Polens Verfassungsgericht – das steckt dahinter",
+     "url": "https://www.srf.ch/news/international/eskalation-in-warschau-machtkampf-um-polens-verfassungsgericht-das-steckt-dahinter",
+     "time": "2026-10-31T14:22:36Z"
     },
     {
-     "title": "Wird Amerika zur Gefahr? – «Wehtun kann die Schweiz den USA mit dem feinen Skalpell»",
-     "url": "https://www.srf.ch/wird-amerika-zur-gefahr-wehtun-kann-die-schweiz-den-usa-mit-dem-feinen-skalpell",
-     "time": "2026-10-31T08:08:48Z"
+     "title": "Lärmstreit auf dem Land – Landwirtschaftslärm treibt Nachbarschaft auf die Barrikaden",
+     "url": "https://www.srf.ch/news/schweiz/laermstreit-auf-dem-land-landwirtschaftslaerm-treibt-nachbarschaft-auf-die-barrikaden",
+     "time": "2026-10-31T14:15:15Z"
     },
     {
-     "title": "Turbulenzen an der US-Börse – Wochenbilanz – wie stark Google, Intel und Co. abtauchen",
-     "url": "https://www.srf.ch/news/wirtschaft/turbulenzen-an-der-us-boerse-wochenbilanz-wie-stark-google-intel-und-co-abtauchen",
-     "time": "2026-10-31T08:00:41Z"
+     "title": "Münzschatz im Maulwurfshügel – Das Rätsel um die römischen Münzen vom Fricktal ist gelöst",
+     "url": "https://www.srf.ch/news/schweiz/muenzschatz-im-maulwurfshuegel-das-raetsel-um-die-roemischen-muenzen-vom-fricktal-ist-geloest",
+     "time": "2026-10-31T14:14:46Z"
     },
     {
-     "title": "Wirbel um Elif Eralp – Berliner Linke im Auge des Sturms",
-     "url": "https://www.srf.ch/news/international/wirbel-um-elif-eralp-berliner-linke-im-auge-des-sturms",
-     "time": "2026-10-31T07:33:11Z"
+     "title": "Krieg im Nahen Osten – Iran: Derzeit keine Notwendigkeit für Treffen mit US-Vertretern",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-iran-derzeit-keine-notwendigkeit-fuer-treffen-mit-us-vertretern",
+     "time": "2026-10-31T14:08:25Z"
     },
     {
-     "title": "Innovation in der Medizin – Winzige Drohnen fliegen dank Ultraschall durch den Körper",
-     "url": "https://www.srf.ch/news/dialog/innovation-in-der-medizin-winzige-drohnen-fliegen-dank-ultraschall-durch-den-koerper",
-     "time": "2026-10-31T07:08:58Z"
+     "title": "Krieg in der Ukraine – Evakuierte Bewohner von Oleschky zurück in der Ukraine",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-evakuierte-bewohner-von-oleschky-zurueck-in-der-ukraine",
+     "time": "2026-10-31T13:59:43Z"
     },
     {
-     "title": "Erhöhtes Darmkrebsrisiko – Salami und Wurst: Warum verarbeitetes Fleisch problematisch ist",
-     "url": "https://www.srf.ch/news/dialog/erhoehtes-darmkrebsrisiko-salami-und-wurst-warum-verarbeitetes-fleisch-problematisch-ist",
-     "time": "2026-10-31T07:01:07Z"
+     "title": "Nachfolge Parmelin – Grünen-Präsidentin hat «grosse Probleme» mit Céline Amaudruz",
+     "url": "https://www.srf.ch/news/schweiz/nachfolge-parmelin-gruenen-praesidentin-hat-grosse-probleme-mit-celine-amaudruz",
+     "time": "2026-10-31T13:37:02Z"
     },
     {
-     "title": "Politischer Austausch – Cassis: «Fruchtbare» Gespräche in Pjöngjang",
-     "url": "https://www.srf.ch/news/international/politischer-austausch-cassis-fruchtbare-gespraeche-in-pjoengjang",
-     "time": "2026-10-31T06:36:34Z"
+     "title": "Fledermaus – Gestalt der Nacht – Sechs Mythen und Fakten zum geheimnisvollsten Säugetier",
+     "url": "https://www.srf.ch/radio-srf-1/fledermaus-gestalt-der-nacht-sechs-mythen-und-fakten-zum-geheimnisvollsten-saeugetier",
+     "time": "2026-10-31T13:11:45Z"
     },
     {
-     "title": "Formel 1: Training GP Mexiko – Antonelli im Soll – Verstappen und Lawson bestraft",
-     "url": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-training-gp-mexiko-antonelli-im-soll-verstappen-und-lawson-bestraft",
-     "time": "2026-10-31T06:17:00Z"
+     "title": "Die etwas anderen News – Parmelin-Nachfolge: Die SVP sucht den Superstar",
+     "url": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-parmelin-nachfolge-die-svp-sucht-den-superstar",
+     "time": "2026-10-31T13:11:03Z"
     },
     {
-     "title": "«3 vo 5» – das Kultquiz – Süsses oder Saures! Wie gut kennen Sie Halloween?",
-     "url": "https://www.srf.ch/radio-srf-1/3-vo-5-das-kultquiz-suesses-oder-saures-wie-gut-kennen-sie-halloween",
-     "time": "2026-10-31T06:01:14Z"
+     "title": "Newsquiz der Woche – Wie heisst das Deutschschweizer Jugendwort des Jahres?",
+     "url": "https://www.srf.ch/news/gesellschaft/newsquiz-der-woche-wie-heisst-das-deutschschweizer-jugendwort-des-jahres",
+     "time": "2026-10-31T13:08:28Z"
     },
     {
-     "title": "«Abstimmungs-Arena» – Bundesrätin Keller-Sutter: «Es stimmt nicht, was Herr Bregy sagt»",
-     "url": "https://www.srf.ch/news/schweiz/abstimmungs-arena-bundesraetin-keller-sutter-es-stimmt-nicht-was-herr-bregy-sagt",
-     "time": "2026-10-30T22:52:40Z"
+     "title": "Serbien im Wandel – Was die Wände von Belgrad erzählen",
+     "url": "https://www.srf.ch/news/international/serbien-im-wandel-was-die-waende-von-belgrad-erzaehlen",
+     "time": "2026-10-31T11:56:06Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "MotoGP: Sepang; Acosta vince la gara sprint, secondo Marc Marquez, terzo Bezzecchi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/motogp-sepang-acosta-vince-la-gara-sprint-secondo-marc-marquez-terzo_1889bc9e-c366-4be7-b119-6ebcb6d4f63d.html",
-     "time": "2026-10-31T07:50:37Z"
+     "title": "Guerini (Pd),se al governo dovremmo dare più aiuti militari a Kiev di quelli di Meloni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/guerini-pdse-al-governo-dovremmo-dare-piu-aiuti-militari-a-kiev-di-quelli_819a4936-b618-40a2-a6d6-f2768b387867.html",
+     "time": "2026-10-31T15:10:38Z"
     },
     {
-     "title": "Zelensky, 'i 500 Patriot Usa fra anni, ma dobbiamo difenderci questo inverno'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/zelensky-i-500-patriot-usa-fra-anni-ma-dobbiamo-difenderci-questo-inverno_8d224cb3-a893-48d0-87ef-9a6ba9c0516e.html",
-     "time": "2026-10-31T06:48:32Z"
+     "title": "Schlein, parte dell'establishment non vuole la sinistra al governo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/schlein-parte-dellestablishment-non-vuole-la-sinistra-al-governo_6c9b8579-1722-4602-a2a1-17e1cbfa620b.html",
+     "time": "2026-10-31T15:07:57Z"
     },
     {
-     "title": "MotoGp: Malesia, Alex Marquez in pole davanti al fratello Marc",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/motogp-malesia-alex-marquez-in-pole-davanti-al-fratello-marc_179b8d97-c800-40c8-9ce9-86e7d6eb48e6.html",
-     "time": "2026-10-31T04:54:42Z"
+     "title": "Dalla stretta su rivalutazione delle pensioni risparmi lordi per 14,2 miliardi in 10 anni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/dalla-stretta-su-rivalutazione-delle-pensioni-risparmi-lordi-per-142-miliardi_d7c8a93d-48a1-4746-9a6e-c23b3e2c6d1f.html",
+     "time": "2026-10-31T14:46:11Z"
     },
     {
-     "title": "Tensioni e proteste in Polonia dopo la sospensione del presidente Corte costituzionale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/tensioni-e-proteste-in-polonia-dopo-la-sospensione-del-presidente-corte-costituzionale_0f35a3af-265e-4f32-b650-9941730f20c2.html",
-     "time": "2026-10-30T23:31:46Z"
+     "title": "Manovra, dai ministeri tagli alla spesa per 4,7 miliardi in tre anni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/manovra-dai-ministeri-tagli-alla-spesa-per-47-miliardi-in-tre-anni_2f6684c3-67d7-4626-92a3-97e76d063d03.html",
+     "time": "2026-10-31T14:43:27Z"
     },
     {
-     "title": "F1: Messico;Ferrari Leclerc domina seconde libere, quarto tempo per Mercedes Antonelli",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/f1-messicoferrari-leclerc-domina-seconde-libere-quarto-tempo-per-mercedes-antonelli_6a425791-9b57-4520-a14d-65fe36ff47a9.html",
-     "time": "2026-10-30T23:04:08Z"
+     "title": "Kiev, 'rispettiamo la tregua a Oleshky, Mosca tenta di screditarci'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/kiev-rispettiamo-la-tregua-a-oleshky-mosca-tenta-di-screditarci_0c6466de-dbf7-45ab-801a-3d43551cfb8a.html",
+     "time": "2026-10-31T14:12:24Z"
     },
     {
-     "title": "Kallas, 'da Lavrov menzogne al G20, nessun segnale di apertura'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/kallas-da-lavrov-menzogne-al-g20-nessun-segnale-di-apertura_2eae8714-a9b9-4448-a74f-ca93f1b7c6e6.html",
-     "time": "2026-10-30T22:09:57Z"
+     "title": "Il reddito reale delle famiglie Ue cresce appena dello 0,1%, volano i prezzi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/il-reddito-reale-delle-famiglie-ue-cresce-appena-dello-01-volano-i-prezzi_a271f70c-d25c-46dd-9b6a-e9577ea35489.html",
+     "time": "2026-10-31T12:39:02Z"
     },
     {
-     "title": "Tennis: Vienna; Berrettini ko, in semifinale va De Minaur",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/tennis-vienna-berrettini-ko-in-semifinale-va-de-minaur_f82df0e2-e7e9-4ad1-b2c3-bbb970f418e5.html",
-     "time": "2026-10-30T21:06:09Z"
+     "title": "Manovra: si rivede il riparto dei fondi per gli asili nido per il calo nascite",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_6932288f-3483-4e18-9437-ca94bd8d781a.html",
+     "time": "2026-10-31T11:57:06Z"
     },
     {
-     "title": "F1: Messico; Ferrari Leclerc davanti in prime libere, poi Mercedes Antonelli",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/f1-messico-ferrari-leclerc-davanti-in-prime-libere-poi-mercedes-antonelli_ce40553a-2fd7-45e2-b829-00203024091b.html",
-     "time": "2026-10-30T19:36:44Z"
+     "title": "Mosca, 'Kiev ha violato la tregua a Oleshky, attacco su un'auto civile'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/mosca-kiev-ha-violato-la-tregua-a-oleshky-attacco-su-unauto-civile_ed55e80f-4829-45c4-a0c8-998770fedd0c.html",
+     "time": "2026-10-31T11:51:48Z"
     },
     {
-     "title": "'Gli Usa approvano la possibile vendita di Patriot all'Ucraina per 2,1 miliardi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/gli-usa-approvano-la-possibile-vendita-di-patriot-allucraina-per-21-miliardi_e86117ad-8940-4e9d-b10e-9ee25d20bbf7.html",
-     "time": "2026-10-30T19:13:04Z"
+     "title": "L'export di Gnl attraverso Hormuz ancora ad un terzo dai livelli pre-guerra",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/lexport-di-gnl-attraverso-hormuz-ancora-ad-un-terzo-dai-livelli-pre-guerra_ba2927e2-cce7-4756-943f-9189d8277379.html",
+     "time": "2026-10-31T11:25:35Z"
     },
     {
-     "title": "I The Jackal a Sanremo, condurranno il Primafestival",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/30/i-the-jackal-a-sanremo-condurranno-il-primafestival_bddc5399-16e5-4d2c-8a6e-30e64d642723.html",
-     "time": "2026-10-30T19:08:03Z"
+     "title": "L'ayatollah Khamenei agli Usa, risponderemo a ogni minaccia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/layatollah-khamenei-agli-usa-risponderemo-a-ogni-minaccia_ba174af9-1830-4256-b308-6b7d4f7930f6.html",
+     "time": "2026-10-31T11:08:04Z"
     }
    ]
   },
@@ -214,6 +214,31 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T14:53:34Z"
+    },
+    {
+     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+     "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T14:48:49Z"
+    },
+    {
+     "title": "Ethiopian PM puts ministers through military training",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T14:28:15Z"
+    },
+    {
+     "title": "US approves sale of 500 Patriot missiles to Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T12:21:25Z"
+    },
+    {
+     "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+     "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T09:16:14Z"
+    },
     {
      "title": "Spain train disaster clouds Sánchez chances of re-election",
      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
@@ -225,7 +250,7 @@
      "time": "2026-10-31T04:32:07Z"
     },
     {
-     "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+     "title": "The fight to save Canadian town threatened by Trump's tariffs",
      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-31T02:39:25Z"
     },
@@ -248,31 +273,6 @@
      "title": "Global nature talks reach deal but money remains an issue",
      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-31T01:27:05Z"
-    },
-    {
-     "title": "Police deployed during stand-off over control of top Poland court",
-     "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T01:11:43Z"
-    },
-    {
-     "title": "US approves sale of 500 Patriot missiles to Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T00:40:43Z"
-    },
-    {
-     "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-     "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T00:29:58Z"
-    },
-    {
-     "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
-     "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T00:16:03Z"
-    },
-    {
-     "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-     "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-30T23:26:16Z"
     }
    ]
   }
