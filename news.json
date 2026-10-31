@@ -1,6 +1,6 @@
 {
- "version": 134,
- "updated": "2026-10-31T15:15:18Z",
+ "version": 135,
+ "updated": "2026-10-31T19:29:56Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-     "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
-     "time": "2026-10-31T15:06:39Z"
+     "title": "FC Bayern im Bundesliga-Topspiel gegen Dortmund",
+     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194434/bayern-muenchen_borussia-dortmund/liveticker",
+     "time": "2026-10-31T19:29:06Z"
     },
     {
-     "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-     "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-     "time": "2026-10-31T13:57:56Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81764.html",
+     "time": "2026-10-31T19:18:42Z"
     },
     {
-     "title": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
-     "time": "2026-10-31T13:45:21Z"
+     "title": "Erneut Proteste und Zusammenstöße in Frankreich",
+     "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+     "time": "2026-10-31T19:02:09Z"
     },
     {
-     "title": "Catrina am Dia de los Muertos, Krokusblüten, Olympische Jugendspiele",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10538.html",
-     "time": "2026-10-31T13:42:16Z"
+     "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
+     "time": "2026-10-31T18:05:02Z"
     },
     {
-     "title": "Palina Milling, ARD Warschau, zu Protesten um Verfassungsgericht",
-     "url": "https://www.tagesschau.de/video/video-1675706.html",
-     "time": "2026-10-31T13:22:26Z"
+     "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
+     "time": "2026-10-31T18:00:40Z"
     },
     {
-     "title": "Claudia Kornmeier, ARD Paris, zu Protestankündigungen in Frankreich",
-     "url": "https://www.tagesschau.de/video/video-1675690.html",
-     "time": "2026-10-31T13:14:36Z"
+     "title": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler",
+     "url": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
+     "time": "2026-10-31T17:38:42Z"
+    },
+    {
+     "title": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
+     "url": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
+     "time": "2026-10-31T16:54:43Z"
+    },
+    {
+     "title": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
+     "time": "2026-10-31T16:54:21Z"
+    },
+    {
+     "title": "Frankreich erwartet Hunderttausende bei neuen Protesten",
+     "url": "https://www.tagesschau.de/video/video-1675760.html",
+     "time": "2026-10-31T16:35:43Z"
+    },
+    {
+     "title": "RB Leipzig ohne Mühe - Bei Schalke 04 steht die Doppel-Null",
+     "url": "https://www.sportschau.de/fussball/bundesliga/leipzig-siegt-klar-bei-schalke-steht-die-doppel-null,spielbericht-schalke-04-rb-leipzig-100.html",
+     "time": "2026-10-31T16:34:14Z"
     },
     {
      "title": "Eskalation um Polens Verfassungsgericht",
-     "url": "https://www.tagesschau.de/video/video-1675694.html",
-     "time": "2026-10-31T13:12:26Z"
+     "url": "https://www.tagesschau.de/video/video-1675766.html",
+     "time": "2026-10-31T16:31:46Z"
     },
     {
-     "title": "\"Scheint heute ein bisschen ins Wasser zu fallen\", Rupert Wiederwald, WDR, zu GenZ-Protesten in Köln",
-     "url": "https://www.tagesschau.de/video/video-1675688.html",
-     "time": "2026-10-31T12:57:50Z"
-    },
-    {
-     "title": "\"Viel Unterstützung durch Bundeslinke\", Andreas König, RBB, zum Parteitag der Berliner Linke",
-     "url": "https://www.tagesschau.de/video/video-1675684.html",
-     "time": "2026-10-31T12:55:00Z"
-    },
-    {
-     "title": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
-     "url": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
-     "time": "2026-10-31T12:08:42Z"
-    },
-    {
-     "title": "Merz nach Asienreise: \"Hat sich in mehrfacher Hinsicht gelohnt\"",
-     "url": "https://www.tagesschau.de/ausland/asien/merz-asienreise-abschluss-100.html",
-     "time": "2026-10-31T11:56:25Z"
-    },
-    {
-     "title": "Ebola-Virus: Mehr als 5.000 Tote in der Demokratischen Republik Kongo",
-     "url": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html",
-     "time": "2026-10-31T11:45:52Z"
+     "title": "Stuttgart siegt, Leverkusen fühlt sich benachteiligt",
+     "url": "https://www.sportschau.de/fussball/bundesliga/stuttgarts-effizienz-sticht-leverkusen-aus,spielbericht-bayer-leverkusen-vfb-stuttgart-110.html",
+     "time": "2026-10-31T16:26:24Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Deutsche Jugendproteste – Tausende Jugendliche gehen in ganz Deutschland auf die Strasse",
-     "url": "https://www.srf.ch/news/international/deutsche-jugendproteste-tausende-jugendliche-gehen-in-ganz-deutschland-auf-die-strasse",
-     "time": "2026-10-31T14:52:30Z"
+     "title": "Unruhen in Frankreich – 320'000 demonstrieren in Frankreich +++ über 400 Festnahmen",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-320-000-demonstrieren-in-frankreich-ueber-400-festnahmen",
+     "time": "2026-10-31T19:26:28Z"
     },
     {
-     "title": "Cyberangriff im Kanton Waadt – Hacker stehlen Daten von über 40'000 Schülern und Lehrkräften",
-     "url": "https://www.srf.ch/news/schweiz/cyberangriff-im-kanton-waadt-hacker-stehlen-daten-von-ueber-40-000-schuelern-und-lehrkraeften",
-     "time": "2026-10-31T14:51:31Z"
+     "title": "Super League: 12. Runde – Lee rettet GC im Kellerduell gegen Vaduz einen späten Punkt",
+     "url": "https://www.srf.ch/sport/fussball/super-league/super-league-12-runde-lee-rettet-gc-im-kellerduell-gegen-vaduz-einen-spaeten-punkt",
+     "time": "2026-10-31T19:12:22Z"
+    },
+    {
+     "title": "12. Runde der Super League – 2:1 gegen Servette: St. Gallen feiert 2. Heimsieg in Serie",
+     "url": "https://www.srf.ch/sport/fussball/super-league/12-runde-der-super-league-2-1-gegen-servette-st-gallen-feiert-2-heimsieg-in-serie",
+     "time": "2026-10-31T19:08:48Z"
+    },
+    {
+     "title": "Russlands kriselnde Wirtschaft – Der Krieg zieht Sibiriens Kohleregion in die Krise",
+     "url": "https://www.srf.ch/news/international/russlands-kriselnde-wirtschaft-der-krieg-zieht-sibiriens-kohleregion-in-die-krise",
+     "time": "2026-10-31T19:00:51Z"
+    },
+    {
+     "title": "Deutsche Jugendproteste – Ausschreitungen in Deutschland nach friedlichen Protesten",
+     "url": "https://www.srf.ch/news/international/deutsche-jugendproteste-ausschreitungen-in-deutschland-nach-friedlichen-protesten",
+     "time": "2026-10-31T18:50:44Z"
+    },
+    {
+     "title": "Artenschutzkonferenz Armenien – Ein Schritt vorwärts – trotz vieler Kompromisse",
+     "url": "https://www.srf.ch/wissen/nachhaltigkeit/artenschutzkonferenz-armenien-ein-schritt-vorwaerts-trotz-vieler-kompromisse",
+     "time": "2026-10-31T18:30:37Z"
+    },
+    {
+     "title": "Anbauland für Drogen – Warum die Opiumproduktion in Afghanistan trotz Verbot ansteigt",
+     "url": "https://www.srf.ch/news/international/anbauland-fuer-drogen-warum-die-opiumproduktion-in-afghanistan-trotz-verbot-ansteigt",
+     "time": "2026-10-31T18:03:27Z"
+    },
+    {
+     "title": "G20-Aussenministertreffen – Es reichte nicht mal für das traditionelle «Familienfoto»",
+     "url": "https://www.srf.ch/news/international/g20-aussenministertreffen-es-reichte-nicht-mal-fuer-das-traditionelle-familienfoto",
+     "time": "2026-10-31T17:15:43Z"
+    },
+    {
+     "title": "«SRF 3 Showcase – Songcircle» – So klingt der Eagles-Hit «Hotel California» auf Schweizerdeutsch",
+     "url": "https://www.srf.ch/radio-srf-3/musik/srf-3-showcase-songcircle-so-klingt-der-eagles-hit-hotel-california-auf-schweizerdeutsch",
+     "time": "2026-10-31T16:49:10Z"
+    },
+    {
+     "title": "Regierungsbildung in Berlin – Berliner Linke billigt Koalitionsverhandlungen mit SPD und Grünen",
+     "url": "https://www.srf.ch/news/international/regierungsbildung-in-berlin-berliner-linke-billigt-koalitionsverhandlungen-mit-spd-und-gruenen",
+     "time": "2026-10-31T16:47:23Z"
     },
     {
      "title": "Eskalation in Warschau – Machtkampf um Polens Verfassungsgericht – das steckt dahinter",
      "url": "https://www.srf.ch/news/international/eskalation-in-warschau-machtkampf-um-polens-verfassungsgericht-das-steckt-dahinter",
-     "time": "2026-10-31T14:22:36Z"
+     "time": "2026-10-31T16:05:16Z"
     },
     {
-     "title": "Lärmstreit auf dem Land – Landwirtschaftslärm treibt Nachbarschaft auf die Barrikaden",
-     "url": "https://www.srf.ch/news/schweiz/laermstreit-auf-dem-land-landwirtschaftslaerm-treibt-nachbarschaft-auf-die-barrikaden",
-     "time": "2026-10-31T14:15:15Z"
-    },
-    {
-     "title": "Münzschatz im Maulwurfshügel – Das Rätsel um die römischen Münzen vom Fricktal ist gelöst",
-     "url": "https://www.srf.ch/news/schweiz/muenzschatz-im-maulwurfshuegel-das-raetsel-um-die-roemischen-muenzen-vom-fricktal-ist-geloest",
-     "time": "2026-10-31T14:14:46Z"
-    },
-    {
-     "title": "Krieg im Nahen Osten – Iran: Derzeit keine Notwendigkeit für Treffen mit US-Vertretern",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-iran-derzeit-keine-notwendigkeit-fuer-treffen-mit-us-vertretern",
-     "time": "2026-10-31T14:08:25Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Evakuierte Bewohner von Oleschky zurück in der Ukraine",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-evakuierte-bewohner-von-oleschky-zurueck-in-der-ukraine",
-     "time": "2026-10-31T13:59:43Z"
-    },
-    {
-     "title": "Nachfolge Parmelin – Grünen-Präsidentin hat «grosse Probleme» mit Céline Amaudruz",
-     "url": "https://www.srf.ch/news/schweiz/nachfolge-parmelin-gruenen-praesidentin-hat-grosse-probleme-mit-celine-amaudruz",
-     "time": "2026-10-31T13:37:02Z"
-    },
-    {
-     "title": "Fledermaus – Gestalt der Nacht – Sechs Mythen und Fakten zum geheimnisvollsten Säugetier",
-     "url": "https://www.srf.ch/radio-srf-1/fledermaus-gestalt-der-nacht-sechs-mythen-und-fakten-zum-geheimnisvollsten-saeugetier",
-     "time": "2026-10-31T13:11:45Z"
-    },
-    {
-     "title": "Die etwas anderen News – Parmelin-Nachfolge: Die SVP sucht den Superstar",
-     "url": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-parmelin-nachfolge-die-svp-sucht-den-superstar",
-     "time": "2026-10-31T13:11:03Z"
-    },
-    {
-     "title": "Newsquiz der Woche – Wie heisst das Deutschschweizer Jugendwort des Jahres?",
-     "url": "https://www.srf.ch/news/gesellschaft/newsquiz-der-woche-wie-heisst-das-deutschschweizer-jugendwort-des-jahres",
-     "time": "2026-10-31T13:08:28Z"
-    },
-    {
-     "title": "Serbien im Wandel – Was die Wände von Belgrad erzählen",
-     "url": "https://www.srf.ch/news/international/serbien-im-wandel-was-die-waende-von-belgrad-erzaehlen",
-     "time": "2026-10-31T11:56:06Z"
+     "title": "Zwei Jahre nach dem Unwetter – Neue Visletto-Brücke über Maggia eingeweiht",
+     "url": "https://www.srf.ch/news/schweiz/zwei-jahre-nach-dem-unwetter-neue-visletto-bruecke-ueber-maggia-eingeweiht",
+     "time": "2026-10-31T15:40:13Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Guerini (Pd),se al governo dovremmo dare più aiuti militari a Kiev di quelli di Meloni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/guerini-pdse-al-governo-dovremmo-dare-piu-aiuti-militari-a-kiev-di-quelli_819a4936-b618-40a2-a6d6-f2768b387867.html",
-     "time": "2026-10-31T15:10:38Z"
+     "title": "Tusk, 'attacco alla Corte è nuova violazione dello stato di diritto del Pis'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/tusk-attacco-alla-corte-e-nuova-violazione-dello-stato-di-diritto-del_da89c096-6261-47fc-92b8-654d4e2218b4.html",
+     "time": "2026-10-31T19:21:39Z"
     },
     {
-     "title": "Schlein, parte dell'establishment non vuole la sinistra al governo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/schlein-parte-dellestablishment-non-vuole-la-sinistra-al-governo_6c9b8579-1722-4602-a2a1-17e1cbfa620b.html",
-     "time": "2026-10-31T15:07:57Z"
+     "title": "Conte a Schlein, su Renzi no veti personali, ma senza garanzie non ci stiamo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/conte-a-schlein-su-renzi-no-veti-personali-ma-senza-garanzie-non-ci-stiamo_dd43c13f-073b-455b-a6d8-afed4e8732a8.html",
+     "time": "2026-10-31T18:30:19Z"
     },
     {
-     "title": "Dalla stretta su rivalutazione delle pensioni risparmi lordi per 14,2 miliardi in 10 anni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/dalla-stretta-su-rivalutazione-delle-pensioni-risparmi-lordi-per-142-miliardi_d7c8a93d-48a1-4746-9a6e-c23b3e2c6d1f.html",
-     "time": "2026-10-31T14:46:11Z"
+     "title": "Salvini, 'se il Parlamento vuole un contributo maggiore dalle banche è sovrano'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_43cbac03-32c2-46d6-bc0c-8cd83afb00a4.html",
+     "time": "2026-10-31T18:06:27Z"
     },
     {
-     "title": "Manovra, dai ministeri tagli alla spesa per 4,7 miliardi in tre anni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/manovra-dai-ministeri-tagli-alla-spesa-per-47-miliardi-in-tre-anni_2f6684c3-67d7-4626-92a3-97e76d063d03.html",
-     "time": "2026-10-31T14:43:27Z"
+     "title": "Salvini, io non pagherei per avere la targa personalizzata",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/salvini-io-non-pagherei-per-avere-la-targa-personalizzata_d15dbe5d-a73f-41e1-9b9b-473f5b1f6bd3.html",
+     "time": "2026-10-31T17:46:30Z"
     },
     {
-     "title": "Kiev, 'rispettiamo la tregua a Oleshky, Mosca tenta di screditarci'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/kiev-rispettiamo-la-tregua-a-oleshky-mosca-tenta-di-screditarci_0c6466de-dbf7-45ab-801a-3d43551cfb8a.html",
-     "time": "2026-10-31T14:12:24Z"
+     "title": "Conte, primarie aperte, chi siamo io e Schlein per decidere chi partecipa?",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/conte-primarie-aperte-chi-siamo-io-e-schlein-per-decidere-chi-partecipa_62a29423-2f35-40bd-9c2d-0198df22cdaa.html",
+     "time": "2026-10-31T17:32:34Z"
     },
     {
-     "title": "Il reddito reale delle famiglie Ue cresce appena dello 0,1%, volano i prezzi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/il-reddito-reale-delle-famiglie-ue-cresce-appena-dello-01-volano-i-prezzi_a271f70c-d25c-46dd-9b6a-e9577ea35489.html",
-     "time": "2026-10-31T12:39:02Z"
+     "title": "Salvini, se il Parlamento vuole un contributo maggiore dalle banche è sovrano",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_be302793-8656-4050-917a-73850326657b.html",
+     "time": "2026-10-31T17:31:30Z"
     },
     {
-     "title": "Manovra: si rivede il riparto dei fondi per gli asili nido per il calo nascite",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_6932288f-3483-4e18-9437-ca94bd8d781a.html",
-     "time": "2026-10-31T11:57:06Z"
+     "title": "Binance reintegra il 90% degli asset sottratti con l'attacco informatico",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/binance-reintegra-il-90-degli-asset-sottratti-con-lattacco-informatico_8b01ca13-0a00-4f34-ab7e-6fda1f811b2d.html",
+     "time": "2026-10-31T17:27:54Z"
     },
     {
-     "title": "Mosca, 'Kiev ha violato la tregua a Oleshky, attacco su un'auto civile'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/mosca-kiev-ha-violato-la-tregua-a-oleshky-attacco-su-unauto-civile_ed55e80f-4829-45c4-a0c8-998770fedd0c.html",
-     "time": "2026-10-31T11:51:48Z"
+     "title": "Mattarella, in tempi non facili il futuro va disegnato dai giovani",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/mattarella-in-tempi-non-facili-il-futuro-va-disegnato-dai-giovani_b3df3410-4e5d-4bc2-af8d-518724e15017.html",
+     "time": "2026-10-31T16:57:59Z"
     },
     {
-     "title": "L'export di Gnl attraverso Hormuz ancora ad un terzo dai livelli pre-guerra",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/lexport-di-gnl-attraverso-hormuz-ancora-ad-un-terzo-dai-livelli-pre-guerra_ba2927e2-cce7-4756-943f-9189d8277379.html",
-     "time": "2026-10-31T11:25:35Z"
+     "title": "Rubio, non so se Putin sarà a Miami, con Lavrov discusso possibile incontro ad Apec",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/rubio-non-so-se-putin-sara-a-miami-con-lavrov-discusso-possibile-incontro_f2f2a3fc-3c1c-4a71-aa2e-eab9e5258fc0.html",
+     "time": "2026-10-31T16:56:45Z"
     },
     {
-     "title": "L'ayatollah Khamenei agli Usa, risponderemo a ogni minaccia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/layatollah-khamenei-agli-usa-risponderemo-a-ogni-minaccia_ba174af9-1830-4256-b308-6b7d4f7930f6.html",
-     "time": "2026-10-31T11:08:04Z"
+     "title": "Muore dopo essere stato accoltellato al bar, un fermo nel Comasco",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/muore-dopo-essere-stato-accoltellato-al-bar-un-fermo-nel-comasco_054c94e1-3a05-4ae7-b0ec-706aa25a3d35.html",
+     "time": "2026-10-31T16:54:18Z"
     }
    ]
   },
@@ -215,14 +215,19 @@
    "countries": [],
    "items": [
     {
-     "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T14:53:34Z"
+     "time": "2026-10-31T17:53:35Z"
+    },
+    {
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T16:32:08Z"
     },
     {
      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T14:48:49Z"
+     "time": "2026-10-31T15:16:20Z"
     },
     {
      "title": "Ethiopian PM puts ministers through military training",
@@ -268,11 +273,6 @@
      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-31T01:32:33Z"
-    },
-    {
-     "title": "Global nature talks reach deal but money remains an issue",
-     "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T01:27:05Z"
     }
    ]
   }
