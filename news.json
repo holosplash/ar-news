@@ -1,6 +1,6 @@
 {
- "version": 139,
- "updated": "2026-11-01T16:16:29Z",
+ "version": 140,
+ "updated": "2026-11-01T20:46:16Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Union Berlin trifft erneut auf den 1. FC Köln",
-     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12194458/1-fc-union-berlin_1-fc-koeln/liveticker",
-     "time": "2026-11-01T16:09:18Z"
+     "title": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
+     "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
+     "time": "2026-11-01T20:37:14Z"
     },
     {
-     "title": "Jakob Schaumann, HR, zur Lage nach \"Gen Z regelt\"-Protesten",
-     "url": "https://www.tagesschau.de/video/video-1676120.html",
-     "time": "2026-11-01T15:14:54Z"
+     "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
+     "time": "2026-11-01T20:27:02Z"
     },
     {
-     "title": "Warum sich junge Paare gegen Kinder entscheiden",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/kinderlos-elternschaft-millennials-100.html",
-     "time": "2026-11-01T14:51:00Z"
+     "title": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
+     "time": "2026-11-01T19:59:02Z"
     },
     {
-     "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-     "time": "2026-11-01T14:46:12Z"
+     "title": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
+     "url": "https://www.tagesschau.de/ausland/nasa-mars-108.html",
+     "time": "2026-11-01T19:42:19Z"
     },
     {
-     "title": "Polizei zieht Bilanz zu Krawallen in Frankfurt",
-     "url": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html",
-     "time": "2026-11-01T14:34:28Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81720.html",
+     "time": "2026-11-01T19:39:24Z"
     },
     {
-     "title": "Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel",
-     "url": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html",
-     "time": "2026-11-01T14:25:24Z"
+     "title": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche",
+     "url": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
+     "time": "2026-11-01T19:37:59Z"
     },
     {
-     "title": "Wahlkampf der US-Demokraten: Links, rechts - oder am besten in der Mitte?",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-colorado-100.html",
-     "time": "2026-11-01T14:25:00Z"
+     "title": "Krieg im Nahen Osten: Golfstaaten blicken mit Sorge auf Midterms in den USA",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676342.html",
+     "time": "2026-11-01T19:28:14Z"
+    },
+    {
+     "title": "Bearbeitungsgebühr für Pakete aus Drittstaaten",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676346.html",
+     "time": "2026-11-01T19:28:12Z"
+    },
+    {
+     "title": "Katholiken feiern in vielen Teilen Deutschlands Allerheiligen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676344.html",
+     "time": "2026-11-01T19:28:11Z"
     },
     {
      "title": "Beatles-Wegbereiter Horst Fascher gestorben",
      "url": "https://www.ndr.de/kultur/musik/pop/sein-star-club-machte-sie-gross-beatles-wegbereiter-horst-fascher-gestorben,horstfascher-100.html",
-     "time": "2026-11-01T14:16:10Z"
+     "time": "2026-11-01T19:22:54Z"
     },
     {
-     "title": "Nach mehr als 500 Produktionen: Filmproduzentin Regina Ziegler gestorben",
-     "url": "https://www.tagesschau.de/kultur/ziegler-regina-gestorben-100.html",
-     "time": "2026-11-01T14:12:27Z"
+     "title": "Reaktion in Berlin auf Krawalle nach friedlichen Protesten von \"Gen Z regelt\"",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676336.html",
+     "time": "2026-11-01T19:13:18Z"
     },
     {
-     "title": "EU-Kommission unterstützt Polens Regierung",
-     "url": "https://www.tagesschau.de/video/video-1676090.html",
-     "time": "2026-11-01T13:20:21Z"
-    },
-    {
-     "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-     "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-     "time": "2026-11-01T13:07:16Z"
-    },
-    {
-     "title": "Füllstandsvorgaben bei Gasspeichern nicht erreicht",
-     "url": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html",
-     "time": "2026-11-01T12:53:52Z"
+     "title": "Mutmaßlich Hackerangriff auf Abgeordnete und Regierungsmitglieder",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676338.html",
+     "time": "2026-11-01T19:13:17Z"
     }
    ]
   },
@@ -87,7 +87,47 @@
     {
      "title": "Unverständnis und Forderungen – Nach der Krawallnacht in Zürich – so reagiert die Politik",
      "url": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik",
-     "time": "2026-11-01T15:55:16Z"
+     "time": "2026-11-01T18:39:52Z"
+    },
+    {
+     "title": "Fussgänger gegen Velo – Luzerner Bahnhofstrasse – Zwist zwischen Velos und Fussgängern",
+     "url": "https://www.srf.ch/news/schweiz/fussgaenger-gegen-velo-luzerner-bahnhofstrasse-zwist-zwischen-velos-und-fussgaengern",
+     "time": "2026-11-01T18:26:46Z"
+    },
+    {
+     "title": "St. Gallens Stadtbach – Neuer Anlauf für die alte Idee einer offenen Steinach",
+     "url": "https://www.srf.ch/news/schweiz/st-gallens-stadtbach-neuer-anlauf-fuer-die-alte-idee-einer-offenen-steinach",
+     "time": "2026-11-01T18:11:21Z"
+    },
+    {
+     "title": "Kanton Waadt – «Habe Albträume» – Flüchtlinge seit Monaten in Zivilschutzanlagen",
+     "url": "https://www.srf.ch/news/dialog/kanton-waadt-habe-albtraeume-fluechtlinge-seit-monaten-in-zivilschutzanlagen",
+     "time": "2026-11-01T17:42:41Z"
+    },
+    {
+     "title": "2:1-Heimsieg in der 12. Runde – Passives Lugano feiert knappen Sieg über Basel und distanziert YB",
+     "url": "https://www.srf.ch/sport/fussball/super-league/2-1-heimsieg-in-der-12-runde-passives-lugano-feiert-knappen-sieg-ueber-basel-und-distanziert-yb",
+     "time": "2026-11-01T17:41:31Z"
+    },
+    {
+     "title": "«Netz Natur» und mehr – Andreas Moser machte Tiere zu Fernsehstars",
+     "url": "https://www.srf.ch/radio-srf-1/netz-natur-und-mehr-andreas-moser-machte-tiere-zu-fernsehstars",
+     "time": "2026-11-01T16:57:12Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Kämpfe im Jemen treiben über 300'000 Menschen in die Flucht",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-kaempfe-im-jemen-treiben-ueber-300-000-menschen-in-die-flucht",
+     "time": "2026-11-01T16:42:37Z"
+    },
+    {
+     "title": "Final an den Swiss Indoors – Vacherot bodigt Lehecka und reiht sich unter die Basel-Champions",
+     "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/final-an-den-swiss-indoors-vacherot-bodigt-lehecka-und-reiht-sich-unter-die-basel-champions",
+     "time": "2026-11-01T16:38:48Z"
+    },
+    {
+     "title": "Eierwürfe und Böller – Halloween hält Polizei in Schweizer Städten auf Trab",
+     "url": "https://www.srf.ch/news/schweiz/eierwuerfe-und-boeller-halloween-haelt-polizei-in-schweizer-staedten-auf-trab",
+     "time": "2026-11-01T16:28:57Z"
     },
     {
      "title": "KI in der Literatur – Skandal um Schriftsteller wirft Fragen auf",
@@ -100,49 +140,9 @@
      "time": "2026-11-01T15:29:44Z"
     },
     {
-     "title": "Abschied nehmen – Wenn der Tod kommt und niemand vorbereitet ist",
-     "url": "https://www.srf.ch/news/gesellschaft/abschied-nehmen-wenn-der-tod-kommt-und-niemand-vorbereitet-ist",
+     "title": "Bestattungswegweiser hilft – Wenn der Tod kommt und niemand vorbereitet ist",
+     "url": "https://www.srf.ch/news/gesellschaft/bestattungswegweiser-hilft-wenn-der-tod-kommt-und-niemand-vorbereitet-ist",
      "time": "2026-11-01T15:14:54Z"
-    },
-    {
-     "title": "Tag der Toten in Mexiko – Día de Muertos: 1.6 Millionen verfolgen Parade in Mexiko-Stadt",
-     "url": "https://www.srf.ch/news/international/tag-der-toten-in-mexiko-dia-de-muertos-1-6-millionen-verfolgen-parade-in-mexiko-stadt",
-     "time": "2026-11-01T15:13:55Z"
-    },
-    {
-     "title": "Artenschutz – Der Retter der Seebären",
-     "url": "https://www.srf.ch/news/dialog/artenschutz-der-retter-der-seebaeren",
-     "time": "2026-11-01T15:12:47Z"
-    },
-    {
-     "title": "Preisgekrönter Dokumentarfilm – «Vom Umgang mit dem Tod»: Funktioniert Vielfalt bis ins Grab?",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/preisgekroenter-dokumentarfilm-vom-umgang-mit-dem-tod-funktioniert-vielfalt-bis-ins-grab",
-     "time": "2026-11-01T14:10:18Z"
-    },
-    {
-     "title": "Kulturnews in Kurzform – Filmproduzentin Regina Ziegler mit 82 Jahren gestorben",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-filmproduzentin-regina-ziegler-mit-82-jahren-gestorben",
-     "time": "2026-11-01T14:07:10Z"
-    },
-    {
-     "title": "Swiss Indoors: Doppel – Bernet/Stricker verpassen den Titel in Basel knapp",
-     "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-doppel-bernet-stricker-verpassen-den-titel-in-basel-knapp",
-     "time": "2026-11-01T14:06:04Z"
-    },
-    {
-     "title": "– Brennende Barrikaden und Krawall bei Demos in Zürich und Basel",
-     "url": "https://www.srf.ch/news/schweiz/ausschreitungen-in-zh-und-bs-brennende-barrikaden-und-krawall-bei-demos-in-zuerich-und-basel",
-     "time": "2026-11-01T13:53:18Z"
-    },
-    {
-     "title": "Unruhen in Frankreich – Die Bilanz: Knapp 780 Festnahmen und 515 bekämpfte Brände",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-die-bilanz-knapp-780-festnahmen-und-515-bekaempfte-braende",
-     "time": "2026-11-01T13:42:48Z"
-    },
-    {
-     "title": "Deutsche Jugendproteste – Krawalle nach friedlichem Protest: 100 verletzte Polizisten",
-     "url": "https://www.srf.ch/news/international/deutsche-jugendproteste-krawalle-nach-friedlichem-protest-100-verletzte-polizisten",
-     "time": "2026-11-01T13:40:15Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Teheran, 'se le nostre richieste saranno soddisfatte, Hormuz riaprirà il giorno dopo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/teheran-se-le-nostre-richieste-saranno-soddisfatte-hormuz-riaprira-il-giorno-dopo_187db00c-20c0-431b-8013-7777683f8047.html",
-     "time": "2026-11-01T16:13:16Z"
+     "title": "Cnn, 'Trump chiuderà domani la campagna per le midterm al Lincoln Memorial'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/cnn-trump-chiudera-domani-la-campagna-per-le-midterm-al-lincoln-memorial_150270e3-4dde-4b5c-b16a-febcae37a04d.html",
+     "time": "2026-11-01T19:44:27Z"
     },
     {
-     "title": "Gb, cinque adolescenti feriti a coltellate a una festa di Halloween",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/gb-cinque-adolescenti-feriti-a-coltellate-a-una-festa-di-halloween_e1a10742-a0be-4924-8274-927f87b9fbf0.html",
-     "time": "2026-11-01T16:11:22Z"
+     "title": "Gp Messico: Antonelli 'farò del mio meglio per portare in alto il tricolore'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/gp-messico-antonelli-faro-del-mio-meglio-per-portare-in-alto-il-tricolore_2771f672-0d71-4abe-925b-22cc4f1e7143.html",
+     "time": "2026-11-01T19:16:49Z"
     },
     {
-     "title": "'Putin non ha mai rifiutato di parlare con Zelensky, è libero di venire a Mosca'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/putin-non-ha-mai-rifiutato-di-parlare-con-zelensky-e-libero-di-venire-a-mosca_d118934d-7e9e-4879-8bb5-2834c45901e3.html",
-     "time": "2026-11-01T16:07:38Z"
+     "title": "Incassi Usa, You Can See Everything guida il fiacco box office di Halloween",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/incassi-usa-you-can-see-everything-guida-il-fiacco-box-office_5d304e91-212a-4028-b326-5208c0bf431d.html",
+     "time": "2026-11-01T18:28:58Z"
     },
     {
-     "title": "Manovra dimezza i fondi antisismici per gli edifici pubblici nel 2027 e 2028",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/manovra-dimezza-i-fondi-antisismici-per-gli-edifici-pubblici-nel-2027_96016895-4cd4-4acc-92ef-f81cb9e9ae11.html",
-     "time": "2026-11-01T16:06:20Z"
+     "title": "Anm, tutela stipendi è condizione per salvaguardia dell'indipendenza",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/anm-tutela-stipendi-e-condizione-per-salvaguardia-dellindipendenza_1c1275af-8c14-4d26-b722-a5ee5fdd89a4.html",
+     "time": "2026-11-01T18:25:05Z"
     },
     {
-     "title": "Manovra: 17 milioni per le alluvioni in Emilia-Romagna, Marche e Toscana",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/manovra-17-milioni-per-le-alluvioni-in-emilia-romagna-marche-e-toscana_3f8b6cd1-d92a-4d07-a3f5-88155f652d59.html",
-     "time": "2026-11-01T16:02:38Z"
+     "title": "Exit poll, la presidente Yotova vince il ballottaggio in Bulgaria",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/exit-poll-la-presidente-yotova-vince-il-ballottaggio-in-bulgaria_10c560bd-41cf-43df-bea1-b9bd0a510f9f.html",
+     "time": "2026-11-01T18:21:31Z"
     },
     {
-     "title": "Manovra: per il reddito di libertà delle donne 2 milioni in più all'anno",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/manovra-per-il-reddito-di-liberta-delle-donne-2-milioni-in-piu-allanno_3d35079a-94c3-4cc1-8a89-410e313aa0e6.html",
-     "time": "2026-11-01T16:00:43Z"
+     "title": "Giudice Alaska respinge causa di Trump sul blocco della certificazione dei voti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/giudice-alaska-respinge-causa-di-trump-sul-blocco-della-certificazione-dei_bd95c173-4581-47fc-9d74-5b6e7913cd14.html",
+     "time": "2026-11-01T18:19:42Z"
     },
     {
-     "title": "Trump, 'diventerò Mr Veto se i democratici vincono la maggioranza'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/trump-diventero-mr-veto-se-i-democratici-vincono-la-maggioranza_90eeb82b-d6dd-4289-97d7-678f4cc0836a.html",
-     "time": "2026-11-01T15:39:28Z"
+     "title": "Axios, 'pressing Netanyahu su Trump per colpire l'Iran dopo le midterm'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/axios-pressing-netanyahu-su-trump-per-colpire-liran-dopo-le-midterm_34efb4d3-b7d7-4e83-b498-931932f1277f.html",
+     "time": "2026-11-01T18:17:23Z"
     },
     {
-     "title": "Manovra: Uil, 'i tagli alla scuola indeboliscono il Paese, vanno cancellati'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/manovra-uil-i-tagli-alla-scuola-indeboliscono-il-paese-vanno-cancellati_3ed86927-1e25-4ed4-a1b8-b8b2921a99c3.html",
-     "time": "2026-11-01T14:43:19Z"
+     "title": "Commissione elettorale Israele, 'voto regolare, sospetti non pregiudicano esito'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/commissione-elettorale-israele-voto-regolare-sospetti-non-pregiudicano-esito_b3cd58e3-9b78-4c73-b028-612fd8c5c623.html",
+     "time": "2026-11-01T18:02:22Z"
     },
     {
-     "title": "Manovra, 358 milioni per gli ammortizzatori sociali, 15 all'ex Ilva",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/manovra-358-milioni-per-gli-ammortizzatori-sociali-15-allex-ilva_2584ce0c-85fc-4f23-b8a1-1664591bbfa4.html",
-     "time": "2026-11-01T14:41:42Z"
+     "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_516083df-7e30-4737-9ff6-48eec4624bb1.html",
+     "time": "2026-11-01T17:22:38Z"
     },
     {
-     "title": "Il Papa, dopo tregua per civili a Oleshky, crescano le inizative di pace",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/il-papa-dopo-tregua-per-civili-a-oleshky-crescano-le-inizative-di-pace_26686106-ce54-44f4-b598-a26bd6de1ea6.html",
-     "time": "2026-11-01T14:23:56Z"
+     "title": "Nbc, 52% elettori vogliono Congresso a guida dem, il 45% per i repubblicani",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/nbc-52-elettori-vogliono-congresso-a-guida-dem-il-45-per-i-repubblicani_14b7792d-b561-4a24-81be-53a3f5881cfd.html",
+     "time": "2026-11-01T17:19:43Z"
     }
    ]
   },
@@ -214,6 +214,41 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T20:11:26Z"
+    },
+    {
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T19:48:17Z"
+    },
+    {
+     "title": "Peaceful protests in Germany spiral into violence and looting",
+     "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T18:51:56Z"
+    },
+    {
+     "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T17:56:47Z"
+    },
+    {
+     "title": "Lindsay Clancy is back in court - where will her case go next?",
+     "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T17:29:08Z"
+    },
+    {
+     "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+     "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T17:06:32Z"
+    },
+    {
+     "title": "University of Cambridge scientist among those who died in Spanish train crash",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T17:05:18Z"
+    },
     {
      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
@@ -238,41 +273,6 @@
      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-01T01:37:26Z"
-    },
-    {
-     "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-     "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-01T00:55:06Z"
-    },
-    {
-     "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-     "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-01T00:46:12Z"
-    },
-    {
-     "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-     "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-01T00:41:24Z"
-    },
-    {
-     "title": "Judge orders Trump administration to stop threatening US election officials",
-     "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-01T00:27:33Z"
-    },
-    {
-     "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-     "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T23:06:13Z"
-    },
-    {
-     "title": "Thousands demonstrate in Paris as protests spread across Europe",
-     "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T21:29:01Z"
-    },
-    {
-     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-     "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T19:22:26Z"
     }
    ]
   }
