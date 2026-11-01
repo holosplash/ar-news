@@ -1,6 +1,6 @@
 {
- "version": 136,
- "updated": "2026-10-31T22:45:59Z",
+ "version": 137,
+ "updated": "2026-11-01T02:06:07Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,41 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+     "time": "2026-11-01T01:44:46Z"
+    },
+    {
+     "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+     "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+     "time": "2026-11-01T00:26:06Z"
+    },
+    {
+     "title": "Jakob Schaumann, HR, zu den Ausschreitungen in Frankfurt nach friedlichen Protesten der GenZ",
+     "url": "https://www.tagesschau.de/video/video-1675946.html",
+     "time": "2026-10-31T23:43:00Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12952.html",
+     "time": "2026-10-31T23:14:02Z"
+    },
+    {
+     "title": "Erneute Ausschreitungen bei Protesten in Frankreich",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1675938.html",
+     "time": "2026-10-31T22:48:28Z"
+    },
+    {
+     "title": "Machtkampf um Polens Verfassungsgericht",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1675934.html",
+     "time": "2026-10-31T22:47:07Z"
+    },
+    {
+     "title": "Zusammenstöße mit der Polizei nach \"GenZ\"-Protesten in mehreren Städten",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1675932.html",
+     "time": "2026-10-31T22:45:13Z"
+    },
     {
      "title": "Erneut Proteste und Zusammenstöße in Frankreich",
      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
@@ -38,41 +73,6 @@
      "title": "tagesschau mit Gebärdensprache",
      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12344.html",
      "time": "2026-10-31T19:45:53Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81764.html",
-     "time": "2026-10-31T19:33:34Z"
-    },
-    {
-     "title": "Protestanten feiern Reformationstag",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675894.html",
-     "time": "2026-10-31T19:28:19Z"
-    },
-    {
-     "title": "Linke in Berlin macht Weg frei für Koalitionsverhandlungen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675892.html",
-     "time": "2026-10-31T19:27:09Z"
-    },
-    {
-     "title": "Machtkampf um Verfassungsgericht in Polen spitzt sich zu",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675896.html",
-     "time": "2026-10-31T19:25:25Z"
-    },
-    {
-     "title": "Evakuierte aus umkämpfter ukrainischer Stadt Oleschky zurück bei ihren Angehörigen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675888.html",
-     "time": "2026-10-31T19:23:29Z"
-    },
-    {
-     "title": "US-Regierung genehmigt Patriot-Verkauf an Ukraine",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675886.html",
-     "time": "2026-10-31T19:21:29Z"
-    },
-    {
-     "title": "Mehr als 300.000 Menschen bei Protesten in Frankreich",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1675884.html",
-     "time": "2026-10-31T19:19:34Z"
     }
    ]
   },
@@ -87,7 +87,32 @@
     {
      "title": "Deutsche Jugendproteste – Zwischenfälle nach friedlichem Protest: Plünderungen in Frankfurt",
      "url": "https://www.srf.ch/news/international/deutsche-jugendproteste-zwischenfaelle-nach-friedlichem-protest-pluenderungen-in-frankfurt",
-     "time": "2026-10-31T21:39:13Z"
+     "time": "2026-11-01T01:41:21Z"
+    },
+    {
+     "title": "Ausschreitungen in ZH und BS – Brennende Barrikaden bei Demos in Zürich und Basel",
+     "url": "https://www.srf.ch/news/schweiz/ausschreitungen-in-zh-und-bs-brennende-barrikaden-bei-demos-in-zuerich-und-basel",
+     "time": "2026-11-01T00:59:24Z"
+    },
+    {
+     "title": "Unruhen in Frankreich – 320'000 demonstrieren in Frankreich +++ über 500 Festnahmen",
+     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-320-000-demonstrieren-in-frankreich-ueber-500-festnahmen",
+     "time": "2026-10-31T23:02:26Z"
+    },
+    {
+     "title": "GP Mexiko: Qualifying – Hamilton mit 1. Ferrari-Pole – Antonelli geschlagen",
+     "url": "https://www.srf.ch/sport/motorsport/formel-1/gp-mexiko-qualifying-hamilton-mit-1-ferrari-pole-antonelli-geschlagen",
+     "time": "2026-10-31T22:13:19Z"
+    },
+    {
+     "title": "Super League 12. Runde – Boteli vergibt Elfmeter bei Remis zwischen Luzern und Sion",
+     "url": "https://www.srf.ch/sport/fussball/super-league/super-league-12-runde-boteli-vergibt-elfmeter-bei-remis-zwischen-luzern-und-sion",
+     "time": "2026-10-31T21:51:15Z"
+    },
+    {
+     "title": "National League am Samstag – Ambri und ZSC feiern Derbysiege – Zug kantert Bern nieder",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-ambri-und-zsc-feiern-derbysiege-zug-kantert-bern-nieder",
+     "time": "2026-10-31T21:23:35Z"
     },
     {
      "title": "Krieg in der Ukraine – Selenski denkt über Patriot-Tauschhandel nach",
@@ -110,11 +135,6 @@
      "time": "2026-10-31T20:15:52Z"
     },
     {
-     "title": "Unruhen in Frankreich – 320'000 demonstrieren in Frankreich +++ über 500 Festnahmen",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-320-000-demonstrieren-in-frankreich-ueber-500-festnahmen",
-     "time": "2026-10-31T20:03:55Z"
-    },
-    {
      "title": "Westsahara – UNO-Friedensmission vor dem Aus – wie geht es weiter?",
      "url": "https://www.srf.ch/news/international/westsahara-uno-friedensmission-vor-dem-aus-wie-geht-es-weiter",
      "time": "2026-10-31T19:31:16Z"
@@ -123,26 +143,6 @@
      "title": "Super League: 12. Runde – Lee rettet GC im Kellerduell gegen Vaduz einen späten Punkt",
      "url": "https://www.srf.ch/sport/fussball/super-league/super-league-12-runde-lee-rettet-gc-im-kellerduell-gegen-vaduz-einen-spaeten-punkt",
      "time": "2026-10-31T19:12:22Z"
-    },
-    {
-     "title": "Russlands kriselnde Wirtschaft – Der Krieg zieht Sibiriens Kohleregion in die Krise",
-     "url": "https://www.srf.ch/news/international/russlands-kriselnde-wirtschaft-der-krieg-zieht-sibiriens-kohleregion-in-die-krise",
-     "time": "2026-10-31T19:00:51Z"
-    },
-    {
-     "title": "Artenschutzkonferenz Armenien – Ein Schritt vorwärts – trotz vieler Kompromisse",
-     "url": "https://www.srf.ch/wissen/nachhaltigkeit/artenschutzkonferenz-armenien-ein-schritt-vorwaerts-trotz-vieler-kompromisse",
-     "time": "2026-10-31T18:30:37Z"
-    },
-    {
-     "title": "Anbauland für Drogen – Warum die Opiumproduktion in Afghanistan trotz Verbot ansteigt",
-     "url": "https://www.srf.ch/news/international/anbauland-fuer-drogen-warum-die-opiumproduktion-in-afghanistan-trotz-verbot-ansteigt",
-     "time": "2026-10-31T18:03:27Z"
-    },
-    {
-     "title": "G20-Aussenministertreffen – Es reichte nicht mal für das traditionelle «Familienfoto»",
-     "url": "https://www.srf.ch/news/international/g20-aussenministertreffen-es-reichte-nicht-mal-fuer-das-traditionelle-familienfoto",
-     "time": "2026-10-31T17:15:43Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "In Texas hanno già votato 7,5 milioni di elettori, è record",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/in-texas-hanno-gia-votato-75-milioni-di-elettori-e-record_e6d6a7cf-92b9-4b51-b23d-48e4620cca73.html",
+     "time": "2026-11-01T00:52:11Z"
+    },
+    {
+     "title": "Trump: 'Non abbiamo fretta sull'Iran, abbiamo uno o due siti di cui occuparci'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/trump-non-abbiamo-fretta-sulliran-abbiamo-uno-o-due-siti-di-cui_502b70e6-4f9b-4853-8ebe-e83d054eba8c.html",
+     "time": "2026-11-01T00:22:16Z"
+    },
+    {
+     "title": "Città del Messico, parata da 1,6 milioni di spettatori per i defunti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/citta-del-messico-parata-da-16-milioni-di-spettatori-per-i-defunti_2664dbd0-43ce-4d28-bdbf-9cd05bacac4b.html",
+     "time": "2026-11-01T00:09:10Z"
+    },
     {
      "title": "Lite in stazione finisce a coltellate, un morto nel Frusinate",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/lite-in-stazione-finisce-a-coltellate-un-morto-nel-frusinate_0caf2441-edb1-43a2-b744-e208f103bf09.html",
@@ -190,21 +205,6 @@
      "title": "Salvini, io non pagherei per avere la targa personalizzata",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/salvini-io-non-pagherei-per-avere-la-targa-personalizzata_d15dbe5d-a73f-41e1-9b9b-473f5b1f6bd3.html",
      "time": "2026-10-31T17:46:30Z"
-    },
-    {
-     "title": "Conte, primarie aperte, chi siamo io e Schlein per decidere chi partecipa?",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/conte-primarie-aperte-chi-siamo-io-e-schlein-per-decidere-chi-partecipa_62a29423-2f35-40bd-9c2d-0198df22cdaa.html",
-     "time": "2026-10-31T17:32:34Z"
-    },
-    {
-     "title": "Salvini, se il Parlamento vuole un contributo maggiore dalle banche è sovrano",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_be302793-8656-4050-917a-73850326657b.html",
-     "time": "2026-10-31T17:31:30Z"
-    },
-    {
-     "title": "Binance reintegra il 90% degli asset sottratti con l'attacco informatico",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/31/binance-reintegra-il-90-degli-asset-sottratti-con-lattacco-informatico_8b01ca13-0a00-4f34-ab7e-6fda1f811b2d.html",
-     "time": "2026-10-31T17:27:54Z"
     }
    ]
   },
@@ -214,6 +214,21 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+     "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T00:55:06Z"
+    },
+    {
+     "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+     "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T00:12:07Z"
+    },
+    {
+     "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-10-31T23:06:13Z"
+    },
     {
      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
@@ -258,21 +273,6 @@
      "title": "Spain train disaster clouds Sánchez chances of re-election",
      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
      "time": "2026-10-31T05:44:21Z"
-    },
-    {
-     "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-     "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T04:32:07Z"
-    },
-    {
-     "title": "The fight to save Canadian town threatened by Trump's tariffs",
-     "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T02:39:25Z"
-    },
-    {
-     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-10-31T02:12:19Z"
     }
    ]
   }
