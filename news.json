@@ -1,6 +1,6 @@
 {
- "version": 140,
- "updated": "2026-11-01T20:46:16Z",
+ "version": 141,
+ "updated": "2026-11-02T00:33:06Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
-     "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
-     "time": "2026-11-01T20:37:14Z"
+     "title": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
+     "time": "2026-11-01T23:50:04Z"
     },
     {
-     "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-     "time": "2026-11-01T20:27:02Z"
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12946.html",
+     "time": "2026-11-01T23:12:32Z"
     },
     {
-     "title": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
-     "time": "2026-11-01T19:59:02Z"
+     "title": "Ukraine greift mit selbstentwickelten Langstreckendrohnen Ziele im russischen Hinterland an",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1676404.html",
+     "time": "2026-11-01T23:08:05Z"
     },
     {
-     "title": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
-     "url": "https://www.tagesschau.de/ausland/nasa-mars-108.html",
-     "time": "2026-11-01T19:42:19Z"
+     "title": "Gipfel in Bahrain: Golfstaaten fürchten Wiederaufflammen des Irankriegs",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1676402.html",
+     "time": "2026-11-01T23:05:46Z"
     },
     {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81720.html",
-     "time": "2026-11-01T19:39:24Z"
+     "title": "Roman Poseck, Innenminister Hessen, zu den Krawallen und Plünderungen in Frankfurt am Main",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1676400.html",
+     "time": "2026-11-01T23:04:01Z"
+    },
+    {
+     "title": "Debatte über Ursachen nach Ausschreitungen im Anschluss an Protesten von \"Gen Z regelt\"",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1676398.html",
+     "time": "2026-11-01T23:03:57Z"
     },
     {
      "title": "Wieder 3:1 - Frankfurt legt nach, HSV verpasst Revanche",
      "url": "https://www.sportschau.de/fussball/bundesliga/wieder-31-frankfurt-legt-nach-hsv-verpasst-revanche,spielbericht-eintracht-frankfurt-hamburger-sv-102.html",
-     "time": "2026-11-01T19:37:59Z"
+     "time": "2026-11-01T23:00:00Z"
     },
     {
-     "title": "Krieg im Nahen Osten: Golfstaaten blicken mit Sorge auf Midterms in den USA",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676342.html",
-     "time": "2026-11-01T19:28:14Z"
+     "title": "El Mala rettet 1. FC Köln bei Union Berlin - aber nicht Said",
+     "url": "https://www.sportschau.de/fussball/bundesliga/el-mala-rettet-koeln-bei-union-aber-nicht-said,spielbericht-union-berlin-koeln-102.html",
+     "time": "2026-11-01T23:00:00Z"
     },
     {
-     "title": "Bearbeitungsgebühr für Pakete aus Drittstaaten",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676346.html",
-     "time": "2026-11-01T19:28:12Z"
+     "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+     "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+     "time": "2026-11-01T23:00:00Z"
     },
     {
-     "title": "Katholiken feiern in vielen Teilen Deutschlands Allerheiligen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676344.html",
-     "time": "2026-11-01T19:28:11Z"
+     "title": "Bremen schlägt Hoffenheim: Füllkrug trifft wie einst Völler",
+     "url": "https://www.sportschau.de/fussball/bundesliga/werder-beendet-schwarze-serie-gegen-hoffenheim,spielbericht-werder-bremen-tsg-hoffenheim-106.html",
+     "time": "2026-11-01T23:00:00Z"
     },
     {
-     "title": "Beatles-Wegbereiter Horst Fascher gestorben",
-     "url": "https://www.ndr.de/kultur/musik/pop/sein-star-club-machte-sie-gross-beatles-wegbereiter-horst-fascher-gestorben,horstfascher-100.html",
-     "time": "2026-11-01T19:22:54Z"
+     "title": "Antonelli krönt sich zum Formel-1-Weltmeister",
+     "url": "https://www.sportschau.de/motorsport/formel1/antonelli-kroent-sich-zum-formel-1-weltmeister,gp-mexiko-antonelli-100.html",
+     "time": "2026-11-01T22:44:54Z"
     },
     {
-     "title": "Reaktion in Berlin auf Krawalle nach friedlichen Protesten von \"Gen Z regelt\"",
+     "title": "Reaktionen in Berlin auf Krawalle nach friedlichen Protesten von \"Gen Z regelt\"",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676336.html",
-     "time": "2026-11-01T19:13:18Z"
-    },
-    {
-     "title": "Mutmaßlich Hackerangriff auf Abgeordnete und Regierungsmitglieder",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1676338.html",
-     "time": "2026-11-01T19:13:17Z"
+     "time": "2026-11-01T22:30:20Z"
     }
    ]
   },
@@ -84,6 +84,26 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Bob Dylan im Hallenstadion – Niemand enttäuscht so gut wie Bob Dylan – der Konzertcheck",
+     "url": "https://www.srf.ch/radio-srf-3/musik/bob-dylan-im-hallenstadion-niemand-enttaeuscht-so-gut-wie-bob-dylan-der-konzertcheck",
+     "time": "2026-11-01T23:37:48Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Ukrainische App zur Warnung vor Luftangriffen gehackt",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukrainische-app-zur-warnung-vor-luftangriffen-gehackt",
+     "time": "2026-11-01T22:59:10Z"
+    },
+    {
+     "title": "Grosser Preis in Mexiko-Stadt – Rang 3 genügt locker: Antonelli macht WM-Titel perfekt",
+     "url": "https://www.srf.ch/sport/motorsport/formel-1/grosser-preis-in-mexiko-stadt-rang-3-genuegt-locker-antonelli-macht-wm-titel-perfekt",
+     "time": "2026-11-01T22:27:52Z"
+    },
+    {
+     "title": "«Präsidentin des Friedens» – Ilijana Jotowa gewinnt Stichwahl in Bulgarien",
+     "url": "https://www.srf.ch/news/international/praesidentin-des-friedens-ilijana-jotowa-gewinnt-stichwahl-in-bulgarien",
+     "time": "2026-11-01T21:10:44Z"
+    },
     {
      "title": "Unverständnis und Forderungen – Nach der Krawallnacht in Zürich – so reagiert die Politik",
      "url": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik",
@@ -123,26 +143,6 @@
      "title": "Final an den Swiss Indoors – Vacherot bodigt Lehecka und reiht sich unter die Basel-Champions",
      "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/final-an-den-swiss-indoors-vacherot-bodigt-lehecka-und-reiht-sich-unter-die-basel-champions",
      "time": "2026-11-01T16:38:48Z"
-    },
-    {
-     "title": "Eierwürfe und Böller – Halloween hält Polizei in Schweizer Städten auf Trab",
-     "url": "https://www.srf.ch/news/schweiz/eierwuerfe-und-boeller-halloween-haelt-polizei-in-schweizer-staedten-auf-trab",
-     "time": "2026-11-01T16:28:57Z"
-    },
-    {
-     "title": "KI in der Literatur – Skandal um Schriftsteller wirft Fragen auf",
-     "url": "https://www.srf.ch/news/dialog/ki-in-der-literatur-skandal-um-schriftsteller-wirft-fragen-auf",
-     "time": "2026-11-01T15:32:13Z"
-    },
-    {
-     "title": "Schweizer Kleinstädte beleben – Laufenburger Altstadt wurde aufgemöbelt – mit Geld der Stadt",
-     "url": "https://www.srf.ch/news/schweiz/schweizer-kleinstaedte-beleben-laufenburger-altstadt-wurde-aufgemoebelt-mit-geld-der-stadt",
-     "time": "2026-11-01T15:29:44Z"
-    },
-    {
-     "title": "Bestattungswegweiser hilft – Wenn der Tod kommt und niemand vorbereitet ist",
-     "url": "https://www.srf.ch/news/gesellschaft/bestattungswegweiser-hilft-wenn-der-tod-kommt-und-niemand-vorbereitet-ist",
-     "time": "2026-11-01T15:14:54Z"
     }
    ]
   },
@@ -157,6 +157,41 @@
    ],
    "items": [
     {
+     "title": "Borsa: Tokyo, apertura in calo (-0,44%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/borsa-tokyo-apertura-in-calo-044_dbaca9c3-ff86-4df2-b85a-4a70844b56cf.html",
+     "time": "2026-11-02T00:23:17Z"
+    },
+    {
+     "title": "Valentino Rossi' Kimi mi assomiglia, diventerà uno dei piloti più forti storia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/valentino-rossi-kimi-mi-assomiglia-diventera-uno-dei-piloti-piu-forti_06267cc9-8c63-4a07-bb3a-6d0dc7b61fe5.html",
+     "time": "2026-11-01T23:10:33Z"
+    },
+    {
+     "title": "Antonelli campione mondo e in lacrime gioia 'una stagione incredibile'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/antonelli-campione-mondo-e-in-lacrime-gioia-una-stagione-incredibile_f4790e7c-e9c7-4154-a603-6ced7e8d4f14.html",
+     "time": "2026-11-01T22:36:33Z"
+    },
+    {
+     "title": "F1:Antonelli campione;La Russa(Aci) 'l'Italia è tornata,celebriamo orgoglio tricolore'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/f1antonelli-campionela-russaaci-litalia-e-tornatacelebriamo-orgoglio-tricolore_8bb244b8-1eab-4d44-8583-eb0f5153bb4f.html",
+     "time": "2026-11-01T22:28:00Z"
+    },
+    {
+     "title": "Verstappen vince in Messico davanti ad Hamilton, terzo Antonelli",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/verstappen-vince-in-messico-davanti-ad-hamilton-terzo-antonelli_d927fc28-605b-4698-a8d1-6d84f1b14d95.html",
+     "time": "2026-11-01T22:25:29Z"
+    },
+    {
+     "title": "Antonelli è campione del mondo di F1, un italiano 73 anni dopo Ascari",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/antonelli-e-campione-del-mondo-di-f1-un-italiano-73-anni-dopo-ascari_a9324b3b-909a-4630-8010-ed0eac014cf3.html",
+     "time": "2026-11-01T22:25:12Z"
+    },
+    {
+     "title": "Kiev, sospetto hackeraggio app allerta attacchi aerei in ucraina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/kiev-sospetto-hackeraggio-app-allerta-attacchi-aerei-in-ucraina_67b895ca-e0b9-46dc-9452-3bcda6069fe3.html",
+     "time": "2026-11-01T21:48:48Z"
+    },
+    {
      "title": "Cnn, 'Trump chiuderà domani la campagna per le midterm al Lincoln Memorial'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/cnn-trump-chiudera-domani-la-campagna-per-le-midterm-al-lincoln-memorial_150270e3-4dde-4b5c-b16a-febcae37a04d.html",
      "time": "2026-11-01T19:44:27Z"
@@ -170,41 +205,6 @@
      "title": "Incassi Usa, You Can See Everything guida il fiacco box office di Halloween",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/incassi-usa-you-can-see-everything-guida-il-fiacco-box-office_5d304e91-212a-4028-b326-5208c0bf431d.html",
      "time": "2026-11-01T18:28:58Z"
-    },
-    {
-     "title": "Anm, tutela stipendi è condizione per salvaguardia dell'indipendenza",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/anm-tutela-stipendi-e-condizione-per-salvaguardia-dellindipendenza_1c1275af-8c14-4d26-b722-a5ee5fdd89a4.html",
-     "time": "2026-11-01T18:25:05Z"
-    },
-    {
-     "title": "Exit poll, la presidente Yotova vince il ballottaggio in Bulgaria",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/exit-poll-la-presidente-yotova-vince-il-ballottaggio-in-bulgaria_10c560bd-41cf-43df-bea1-b9bd0a510f9f.html",
-     "time": "2026-11-01T18:21:31Z"
-    },
-    {
-     "title": "Giudice Alaska respinge causa di Trump sul blocco della certificazione dei voti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/giudice-alaska-respinge-causa-di-trump-sul-blocco-della-certificazione-dei_bd95c173-4581-47fc-9d74-5b6e7913cd14.html",
-     "time": "2026-11-01T18:19:42Z"
-    },
-    {
-     "title": "Axios, 'pressing Netanyahu su Trump per colpire l'Iran dopo le midterm'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/axios-pressing-netanyahu-su-trump-per-colpire-liran-dopo-le-midterm_34efb4d3-b7d7-4e83-b498-931932f1277f.html",
-     "time": "2026-11-01T18:17:23Z"
-    },
-    {
-     "title": "Commissione elettorale Israele, 'voto regolare, sospetti non pregiudicano esito'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/commissione-elettorale-israele-voto-regolare-sospetti-non-pregiudicano-esito_b3cd58e3-9b78-4c73-b028-612fd8c5c623.html",
-     "time": "2026-11-01T18:02:22Z"
-    },
-    {
-     "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_516083df-7e30-4737-9ff6-48eec4624bb1.html",
-     "time": "2026-11-01T17:22:38Z"
-    },
-    {
-     "title": "Nbc, 52% elettori vogliono Congresso a guida dem, il 45% per i repubblicani",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/01/nbc-52-elettori-vogliono-congresso-a-guida-dem-il-45-per-i-repubblicani_14b7792d-b561-4a24-81be-53a3f5881cfd.html",
-     "time": "2026-11-01T17:19:43Z"
     }
    ]
   },
@@ -215,14 +215,19 @@
    "countries": [],
    "items": [
     {
-     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-01T20:11:26Z"
+     "time": "2026-11-02T00:02:15Z"
     },
     {
-     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+     "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-01T22:38:24Z"
+    },
+    {
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-01T19:48:17Z"
+     "time": "2026-11-01T21:55:01Z"
     },
     {
      "title": "Peaceful protests in Germany spiral into violence and looting",
@@ -268,11 +273,6 @@
      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
      "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-01T06:03:57Z"
-    },
-    {
-     "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-     "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-01T01:37:26Z"
     }
    ]
   }
