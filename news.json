@@ -1,6 +1,6 @@
 {
- "version": 144,
- "updated": "2026-11-02T23:50:49Z",
+ "version": 145,
+ "updated": "2026-11-03T06:31:02Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,14 +15,54 @@
    ],
    "items": [
     {
+     "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+     "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
+     "time": "2026-11-03T06:26:47Z"
+    },
+    {
+     "title": "Warum Tschechiens Rundfunk heute streikt",
+     "url": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-streik-100.html",
+     "time": "2026-11-03T06:19:48Z"
+    },
+    {
+     "title": "Marktbericht: DAX fällt vor US-Midterms wohl zurück",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
+     "time": "2026-11-03T06:19:00Z"
+    },
+    {
+     "title": "11KM-Podcast: Chip im Gehirn - wie KI und Mensch verbunden werden",
+     "url": "https://www.tagesschau.de/multimedia/podcast/11km/chips-hirn-schnittstelle-ki-100.html",
+     "time": "2026-11-03T06:03:56Z"
+    },
+    {
+     "title": "Torben Börgers, ARD Washington, zu den Zwischenwahlen in den USA",
+     "url": "https://www.tagesschau.de/video/video-1677060.html",
+     "time": "2026-11-03T05:38:02Z"
+    },
+    {
+     "title": "USA greifen offenbar iranische Ziele in Straße von Hormus an",
+     "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
+     "time": "2026-11-03T05:33:48Z"
+    },
+    {
+     "title": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
+     "url": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
+     "time": "2026-11-03T03:55:28Z"
+    },
+    {
+     "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
+     "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
+     "time": "2026-11-03T02:25:42Z"
+    },
+    {
+     "title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+     "url": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
+     "time": "2026-11-03T00:44:25Z"
+    },
+    {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12966.html",
      "time": "2026-11-02T21:56:39Z"
-    },
-    {
-     "title": "Wie sieht die Realität Jugendlicher heutzutage aus?, Burak Caniperk, Sozialarbeiter",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1676962.html",
-     "time": "2026-11-02T21:40:38Z"
     },
     {
      "title": "Debatte um Dobrindt-Äußerung nach deutschlandweiten Gen-Z-Demonstrationen",
@@ -33,46 +73,6 @@
      "title": "Wie wird KI die deutsche Industrie verändern?",
      "url": "https://www.tagesschau.de/tagesthemen/video-1676958.html",
      "time": "2026-11-02T21:31:23Z"
-    },
-    {
-     "title": "Bundesregierung will Deutschland für KI-Wettbewerb stärken",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1676956.html",
-     "time": "2026-11-02T21:25:52Z"
-    },
-    {
-     "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-     "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-     "time": "2026-11-02T21:21:05Z"
-    },
-    {
-     "title": "Jüdische Akademie in Frankfurt eröffnet",
-     "url": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html",
-     "time": "2026-11-02T20:37:43Z"
-    },
-    {
-     "title": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
-     "time": "2026-11-02T20:15:15Z"
-    },
-    {
-     "title": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
-     "url": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
-     "time": "2026-11-02T20:00:49Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81918.html",
-     "time": "2026-11-02T19:17:43Z"
-    },
-    {
-     "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-     "url": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
-     "time": "2026-11-02T18:33:00Z"
-    },
-    {
-     "title": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
-     "url": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html",
-     "time": "2026-11-02T18:30:17Z"
     }
    ]
   },
@@ -85,19 +85,44 @@
    ],
    "items": [
     {
-     "title": "Kritischer Aufsichtsbericht – Finanzkontrolle kritisiert harzende Planung bei VBS-Immobilien",
-     "url": "https://www.srf.ch/news/schweiz/kritischer-aufsichtsbericht-finanzkontrolle-kritisiert-harzende-planung-bei-vbs-immobilien",
-     "time": "2026-11-02T23:35:35Z"
+     "title": "Zulassung Russlands – Turku droht mit WM-Rückgabe, Finnen mit Russland-Boykott",
+     "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/zulassung-russlands-turku-droht-mit-wm-rueckgabe-finnen-mit-russland-boykott",
+     "time": "2026-11-03T06:28:45Z"
+    },
+    {
+     "title": "Expertin gibt Rat – Jobkiller KI: So treten Sie der Angst entgegen",
+     "url": "https://www.srf.ch/news/schweiz/expertin-gibt-rat-jobkiller-ki-so-treten-sie-der-angst-entgegen",
+     "time": "2026-11-03T06:18:25Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Witkoff: Nächste Woche Verhandlungen mit Ukraine und Russland",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-witkoff-naechste-woche-verhandlungen-mit-ukraine-und-russland",
+     "time": "2026-11-03T06:02:15Z"
     },
     {
      "title": "Krieg im Nahen Osten – Netanjahu fordert breite Koalition – ohne arabische Parteien",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-netanjahu-fordert-breite-koalition-ohne-arabische-parteien",
-     "time": "2026-11-02T21:55:57Z"
+     "time": "2026-11-03T05:16:33Z"
     },
     {
-     "title": "Krieg in der Ukraine – Selenski: Über 20 Tote bei russischem Luftangriff auf Saporischja",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-ueber-20-tote-bei-russischem-luftangriff-auf-saporischja",
-     "time": "2026-11-02T21:55:48Z"
+     "title": "Steigender Konsum – Snus-Boom: Politik übernimmt umstrittene Argumente der Tabaklobby",
+     "url": "https://www.srf.ch/news/schweiz/steigender-konsum-snus-boom-politik-uebernimmt-umstrittene-argumente-der-tabaklobby",
+     "time": "2026-11-03T05:05:39Z"
+    },
+    {
+     "title": "Midterms in den USA – Wo das Rennen um den Senat entschieden wird",
+     "url": "https://www.srf.ch/news/international/midterms-in-den-usa-wo-das-rennen-um-den-senat-entschieden-wird",
+     "time": "2026-11-03T05:01:46Z"
+    },
+    {
+     "title": "Jahresbilanz – Apple macht 132 Milliarden Dollar Gewinn – ein neuer Rekord",
+     "url": "https://www.srf.ch/news/wirtschaft/jahresbilanz-apple-macht-132-milliarden-dollar-gewinn-ein-neuer-rekord",
+     "time": "2026-11-03T05:00:06Z"
+    },
+    {
+     "title": "Kritischer Aufsichtsbericht – Immobilien-Organisation der Armee kann Aufgabe nicht erfüllen",
+     "url": "https://www.srf.ch/news/schweiz/kritischer-aufsichtsbericht-immobilien-organisation-der-armee-kann-aufgabe-nicht-erfuellen",
+     "time": "2026-11-02T23:35:35Z"
     },
     {
      "title": "Q&A Frühdemenz – «Ab welchem Alter muss man überhaupt an das Thema Demenz denken?»",
@@ -118,31 +143,6 @@
      "title": "OSZE-Ministerkonferenz – Lugano wird zur Hochsicherheitszone",
      "url": "https://www.srf.ch/news/schweiz/osze-ministerkonferenz-lugano-wird-zur-hochsicherheitszone",
      "time": "2026-11-02T19:59:24Z"
-    },
-    {
-     "title": "Generalsekretär Alain Berset – «Es ist verrückt, ein Wahlresultat nicht zu akzeptieren»",
-     "url": "https://www.srf.ch/news/schweiz/generalsekretaer-alain-berset-es-ist-verrueckt-ein-wahlresultat-nicht-zu-akzeptieren",
-     "time": "2026-11-02T19:18:13Z"
-    },
-    {
-     "title": "Pressefreiheit in Russland – Der «Novaya Gazeta» geht die Luft aus",
-     "url": "https://www.srf.ch/news/international/pressefreiheit-in-russland-der-novaya-gazeta-geht-die-luft-aus",
-     "time": "2026-11-02T19:08:06Z"
-    },
-    {
-     "title": "Reformierte Kirche Schweiz – Genugtuung für Betroffene von sexuellen Übergriffen",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/reformierte-kirche-schweiz-genugtuung-fuer-betroffene-von-sexuellen-uebergriffen",
-     "time": "2026-11-02T19:04:03Z"
-    },
-    {
-     "title": "Zulassung Russlands – Turku droht mit Rückgabe der Junioren-WM 2027",
-     "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/zulassung-russlands-turku-droht-mit-rueckgabe-der-junioren-wm-2027",
-     "time": "2026-11-02T18:28:46Z"
-    },
-    {
-     "title": "Norwegisches Königshaus – Norwegisches Gericht will Høiby aus U-Haft freilassen",
-     "url": "https://www.srf.ch/news/international/norwegisches-koenigshaus-norwegisches-gericht-will-hoiby-aus-u-haft-freilassen",
-     "time": "2026-11-02T18:04:06Z"
     }
    ]
   },
@@ -156,6 +156,31 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Attacco russo su struttura sanitaria a Kharkiv, 62 feriti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/attacco-russo-su-struttura-sanitaria-a-kharkiv-62-feriti_abfb640f-ce8e-428e-bea0-525c514ba306.html",
+     "time": "2026-11-03T05:16:23Z"
+    },
+    {
+     "title": "Trump, 'con Iran sorta di guerra che può degenerare, ottime probabilità di accordo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/trump-con-iran-sorta-di-guerra-che-puo-degenerare-ottime-probabilita_f281f837-4e98-4019-a415-b8a83b9d15ef.html",
+     "time": "2026-11-03T03:11:38Z"
+    },
+    {
+     "title": "Droni ucraini colpiscono una raffineria di petrolio in Russia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/droni-ucraini-colpiscono-una-raffineria-di-petrolio-in-russia_94d1153c-0ed7-400b-bd52-ad12302bcd9e.html",
+     "time": "2026-11-03T03:01:40Z"
+    },
+    {
+     "title": "Giappone, piano difesa da 500 miliardi di dollari in cinque anni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/giappone-piano-difesa-da-500-miliardi-di-dollari-in-cinque-anni_484287d3-9f53-4013-807f-c414536fef08.html",
+     "time": "2026-11-03T02:21:09Z"
+    },
+    {
+     "title": "Wsj, 'attacco limitato Usa contro l'isola iraniana di Qeshm'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/wsj-attacco-limitato-usa-contro-lisola-iraniana-di-qeshm_f97443bf-f3fb-4715-a644-7b851526f148.html",
+     "time": "2026-11-03T02:02:50Z"
+    },
     {
      "title": "Witkoff, 'Usa medieranno colloqui Abu Dhabi a livello tecnico tra Russia e Ucraina'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/witkoff-usa-medieranno-colloqui-abu-dhabi-a-livello-tecnico-tra-russia_673a7d30-31d6-44ab-8403-e3e302bc08e3.html",
@@ -180,31 +205,6 @@
      "title": "Trump, 'le midterm più importanti della storia, dai dem candidati jihadisti'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/trump-le-midterm-piu-importanti-della-storia-dai-dem-candidati-jihadisti_d125eb9f-f57f-482c-a016-ebcc894ba49a.html",
      "time": "2026-11-02T19:43:27Z"
-    },
-    {
-     "title": "Il petrolio chiude in forte calo a New York, a -7,45%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/il-petrolio-chiude-in-forte-calo-a-new-york-a-745_a3e4a8ae-9071-4564-a017-8a4c2f84eef5.html",
-     "time": "2026-11-02T19:41:56Z"
-    },
-    {
-     "title": "Attacchi hacker ai supermercati, si muove anche il Copasir",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_69c68627-9934-4d8d-a4e4-dbf44d078ada.html",
-     "time": "2026-11-02T19:36:50Z"
-    },
-    {
-     "title": "Domani a Palazzo Chigi riunione con Mantovano e i Servizi su attacchi hacker",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/domani-a-palazzo-chigi-riunione-con-mantovano-e-i-servizi-su-attacchi-hacker_b4e197f6-e7d1-4364-a612-b650c34cda17.html",
-     "time": "2026-11-02T19:36:47Z"
-    },
-    {
-     "title": "Attacchi hacker a sistemi refrigerazione dei supermercati della Sicilia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/attacchi-hacker-a-sistemi-refrigerazione-dei-supermercati-della-sicilia_898b88c3-e0fb-466e-9d38-f9b754bff241.html",
-     "time": "2026-11-02T19:19:46Z"
-    },
-    {
-     "title": "Netanyahu, 'aperto al dialogo per un ampio governo nazionale'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/02/netanyahu-aperto-al-dialogo-per-un-ampio-governo-nazionale_820f6a47-827e-495f-8984-ebe0e971c849.html",
-     "time": "2026-11-02T19:10:26Z"
     }
    ]
   },
@@ -214,6 +214,51 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "North Korea denies being behind record $6.3bn Binance hack",
+     "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T06:22:29Z"
+    },
+    {
+     "title": "US strikes Iran ahead of midterm elections",
+     "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T03:39:08Z"
+    },
+    {
+     "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T03:32:36Z"
+    },
+    {
+     "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+     "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T03:30:16Z"
+    },
+    {
+     "title": "Trump to remove Rwanda and South Africa from US trade deal",
+     "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T03:00:36Z"
+    },
+    {
+     "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T01:56:27Z"
+    },
+    {
+     "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+     "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T00:09:13Z"
+    },
+    {
+     "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+     "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T00:08:14Z"
+    },
+    {
+     "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+     "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T00:07:05Z"
+    },
     {
      "title": "Legal challenge to Australia's social media ban to start in High Court",
      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
@@ -225,54 +270,9 @@
      "time": "2026-11-02T23:02:01Z"
     },
     {
-     "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-02T21:10:04Z"
-    },
-    {
      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
      "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-02T20:54:44Z"
-    },
-    {
-     "title": "Man guilty of stealing cash from farm owned by South African president",
-     "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-02T20:08:51Z"
-    },
-    {
-     "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-     "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-02T19:58:34Z"
-    },
-    {
-     "title": "What Florida jet audio and flight data tells us about its final moments",
-     "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-02T19:49:22Z"
-    },
-    {
-     "title": "Trump to remove Rwanda and South Africa from US trade deal",
-     "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-02T19:33:10Z"
-    },
-    {
-     "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-02T18:34:24Z"
-    },
-    {
-     "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-     "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-02T18:25:01Z"
-    },
-    {
-     "title": "Shop freezers in seven European countries hit by cyber-attack",
-     "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-02T17:38:11Z"
-    },
-    {
-     "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-     "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-02T17:34:58Z"
     }
    ]
   }
