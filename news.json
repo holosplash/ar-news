@@ -1,6 +1,6 @@
 {
- "version": 147,
- "updated": "2026-11-03T20:36:21Z",
+ "version": 148,
+ "updated": "2026-11-04T00:52:11Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,49 @@
    ],
    "items": [
     {
-     "title": "Jetzt live - Bayern sucht gegen Atletico die Lücke",
-     "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma12517728/atletico-madrid_bayern-muenchen/liveticker",
-     "time": "2026-11-03T20:29:48Z"
+     "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
+     "url": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+     "time": "2026-11-04T00:39:30Z"
+    },
+    {
+     "title": "Champions League: Bayern München gewinnt bei Atletico Madrid",
+     "url": "https://www.sportschau.de/fussball/championsleague/karl-und-laimer-treffen-bayern-gelingen-big-points-in-madrid,spielbericht-cl-atletico-bayern-100.html",
+     "time": "2026-11-03T22:54:11Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12960.html",
+     "time": "2026-11-03T21:52:42Z"
+    },
+    {
+     "title": "Hacker legen Kühlanlagen in deutschen Supermärkten lahm",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1677648.html",
+     "time": "2026-11-03T21:45:20Z"
+    },
+    {
+     "title": "Vassili Golod, ARD Kiew, über die Erwartungen der Ukraine an Berlin",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1677646.html",
+     "time": "2026-11-03T21:38:38Z"
+    },
+    {
+     "title": "Matthias Deiß, ARD Berlin, zu Merz' Werben um Ukraine-Hilfen",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1677644.html",
+     "time": "2026-11-03T21:36:38Z"
+    },
+    {
+     "title": "Selenskyj in Europas Sicherheit im Mittelpunkt der Gespräche",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1677642.html",
+     "time": "2026-11-03T21:34:52Z"
+    },
+    {
+     "title": "Midterms in den USA: Machtprobe für Trump",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1677632.html",
+     "time": "2026-11-03T21:28:14Z"
+    },
+    {
+     "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
+     "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
+     "time": "2026-11-03T20:58:56Z"
     },
     {
      "title": "Champions League: VfB Stuttgart verliert in Istanbul bei Galatasaray",
@@ -33,46 +73,6 @@
      "title": "tagesschau",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81856.html",
      "time": "2026-11-03T19:18:17Z"
-    },
-    {
-     "title": "Renten könnten 2027 um 4,1 Prozent steigen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
-     "time": "2026-11-03T19:05:51Z"
-    },
-    {
-     "title": "Die US-Midterms - die nächste wichtige Wahl für Israel",
-     "url": "https://www.tagesschau.de/ausland/asien/israel-usa-midterms-100.html",
-     "time": "2026-11-03T18:40:26Z"
-    },
-    {
-     "title": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
-     "url": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html",
-     "time": "2026-11-03T18:39:26Z"
-    },
-    {
-     "title": "Selenskyj, Merz und der Kampf gegen die Zweifel",
-     "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html",
-     "time": "2026-11-03T18:27:43Z"
-    },
-    {
-     "title": "Spanien beschließt nach Zugunglück neue Sicherheitsmaßnahmen im Bahnverkehr",
-     "url": "https://www.tagesschau.de/ausland/spanien-sicherheitsmassnahmen-100.html",
-     "time": "2026-11-03T17:32:23Z"
-    },
-    {
-     "title": "Marktbericht: DAX fällt leicht zurück",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
-     "time": "2026-11-03T17:10:25Z"
-    },
-    {
-     "title": "Weitere gefährliche Halloween-Süßigkeiten entdeckt - auch im Ausland",
-     "url": "https://www.tagesschau.de/inland/halloween-suessigkeiten-nadeln-100.html",
-     "time": "2026-11-03T17:02:41Z"
-    },
-    {
-     "title": "Umfragen zufolge könnte Trump deutlich an Zustimmung verlieren: Midterms in den USA",
-     "url": "https://www.tagesschau.de/video/video-1677408.html",
-     "time": "2026-11-03T16:18:38Z"
     }
    ]
   },
@@ -85,9 +85,34 @@
    ],
    "items": [
     {
-     "title": "Midterms 2026 – Wahlen in vollem Gang +++ Auf diese Wählergruppen kommt es an",
-     "url": "https://www.srf.ch/news/international/midterms-2026-wahlen-in-vollem-gang-auf-diese-waehlergruppen-kommt-es-an",
-     "time": "2026-11-03T20:28:34Z"
+     "title": "Midterms in den USA – Wer kontrolliert künftig den US-Kongress? Die neuesten Resultate",
+     "url": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-wer-kontrolliert-kuenftig-den-us-kongress-die-neuesten-resultate",
+     "time": "2026-11-04T00:28:29Z"
+    },
+    {
+     "title": "Midterms 2026 – Auszählungen laufen +++ Technische Pannen an Wahlstationen",
+     "url": "https://www.srf.ch/news/international/midterms-2026-auszaehlungen-laufen-technische-pannen-an-wahlstationen",
+     "time": "2026-11-04T00:24:58Z"
+    },
+    {
+     "title": "Champions League, 4. Spieltag – Yamal und Manzambi auffällig: Barça schlägt Aston Villa verdient",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-4-spieltag-yamal-und-manzambi-auffaellig-barca-schlaegt-aston-villa-verdient",
+     "time": "2026-11-03T22:07:19Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Trump kündigt Ende milliardenschwerer Hilfen an Israel an",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-trump-kuendigt-ende-milliardenschwerer-hilfen-an-israel-an",
+     "time": "2026-11-03T21:59:24Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Merz: Ukraine kann weiter auf deutsche Unterstützung zählen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-merz-ukraine-kann-weiter-auf-deutsche-unterstuetzung-zaehlen",
+     "time": "2026-11-03T21:59:10Z"
+    },
+    {
+     "title": "CL: Deutscher Jubel und Frust – Bayern atmet bei Atletico auf – Stuttgart muss untendurch",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/cl-deutscher-jubel-und-frust-bayern-atmet-bei-atletico-auf-stuttgart-muss-untendurch",
+     "time": "2026-11-03T21:58:27Z"
     },
     {
      "title": "Olympische Jugendspiele – Schwingen geht in Dakar ein bisschen anders",
@@ -118,31 +143,6 @@
      "title": "Krawallnacht in Zürich – Zwei Männer sollen nach Ausschreitungen in Zürich ins Gefängnis",
      "url": "https://www.srf.ch/news/schweiz/krawallnacht-in-zuerich-zwei-maenner-sollen-nach-ausschreitungen-in-zuerich-ins-gefaengnis",
      "time": "2026-11-03T19:06:38Z"
-    },
-    {
-     "title": "Krieg im Nahen Osten – Trump kündigt Ende milliardenschwerer Hilfen an Israel an",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-trump-kuendigt-ende-milliardenschwerer-hilfen-an-israel-an",
-     "time": "2026-11-03T19:05:10Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Merz: Ukraine kann weiter auf deutsche Unterstützung zählen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-merz-ukraine-kann-weiter-auf-deutsche-unterstuetzung-zaehlen",
-     "time": "2026-11-03T19:04:56Z"
-    },
-    {
-     "title": "Exklusive, neue Zahlen – Immer mehr Krebsbetroffene in der Schweiz",
-     "url": "https://www.srf.ch/news/schweiz/exklusive-neue-zahlen-immer-mehr-krebsbetroffene-in-der-schweiz",
-     "time": "2026-11-03T18:30:01Z"
-    },
-    {
-     "title": "Mr. Gay und seine Mission – «Wie Affen im Zoo»: Was queere Menschen im Sprechzimmer erleben",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/mr-gay-und-seine-mission-wie-affen-im-zoo-was-queere-menschen-im-sprechzimmer-erleben",
-     "time": "2026-11-03T18:00:37Z"
-    },
-    {
-     "title": "News aus der National League – Auf eigenen Wunsch: Wüthrich will weg von Ambri",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/news-aus-der-national-league-auf-eigenen-wunsch-wuethrich-will-weg-von-ambri",
-     "time": "2026-11-03T17:12:42Z"
     }
    ]
   },
@@ -157,6 +157,46 @@
    ],
    "items": [
     {
+     "title": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_0c05678b-8f6d-4df9-9425-4fa465ff1588.html",
+     "time": "2026-11-04T00:37:13Z"
+    },
+    {
+     "title": "Trump, nessun piano immediato per attaccare l'Iran",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_1883022c-a32c-485f-9793-233d484d2221.html",
+     "time": "2026-11-03T23:50:29Z"
+    },
+    {
+     "title": "Primi seggi per le Midterm chiudono in Indiana e Kentucky",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky_c7b8485a-0d2e-409d-8a01-5a4b849e7b27.html",
+     "time": "2026-11-03T23:14:28Z"
+    },
+    {
+     "title": "Champions: Chivu, in campo migliore versione dell'Inter",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/champions-chivu-in-campo-migliore-versione-dellinter_6eeb0b04-b07e-42e2-8681-aeba5b8b4f9c.html",
+     "time": "2026-11-03T22:34:58Z"
+    },
+    {
+     "title": "Champions:Gasperini, partita diversa rispetto al Real, rigore ha dato slancio a United",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/championsgasperini-partita-diversa-rispetto-al-real-rigore-ha-dato-slancio-a-united_72f661b8-180c-406a-9aa6-547d28408cb3.html",
+     "time": "2026-11-03T22:28:39Z"
+    },
+    {
+     "title": "Ap, '6 americani su 10 non approvano la gestione di Trump'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/ap-6-americani-su-10-non-approvano-la-gestione-di-trump_d841b18f-4705-489d-8c4a-8ddf37f27d18.html",
+     "time": "2026-11-03T22:28:18Z"
+    },
+    {
+     "title": "Champions: festa Inter a Rotterdam, la Roma si fa rimontare a Manchester",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/champions-festa-inter-a-rotterdam-la-roma-si-fa-rimontare-a-manchester_a74fba9a-2f5d-450c-935e-580ecee6d07e.html",
+     "time": "2026-11-03T21:59:08Z"
+    },
+    {
+     "title": "Eisenkot accusa Netanyahu di 'pogrom contro la democrazia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/eisenkot-accusa-netanyahu-di-pogrom-contro-la-democrazia_7c9f10e1-065e-4681-a4eb-f352f944df12.html",
+     "time": "2026-11-03T21:50:50Z"
+    },
+    {
      "title": "Si dimette il ministro dei Trasporti spagnolo per l'incidente ferroviario a Toledo",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/si-dimette-il-ministro-dei-trasporti-spagnolo-per-lincidente-ferroviario-a-toledo_c2936787-1d65-4d79-97eb-0d746c98be69.html",
      "time": "2026-11-03T20:31:34Z"
@@ -165,46 +205,6 @@
      "title": "Fonti, rilasciato su cauzione l'italiano arrestato dall'Ice in Usa",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/fonti-rilasciato-su-cauzione-litaliano-arrestato-dallice-in-usa_59cff292-e5e3-4f0a-bb5d-6f5bc9109ff6.html",
      "time": "2026-11-03T20:19:08Z"
-    },
-    {
-     "title": "Nyt, 'Usa hanno piano per colpire l'Iran subito dopo il voto'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/nyt-usa-hanno-piano-per-colpire-liran-subito-dopo-il-voto_d7c1a2e6-15c5-4450-8fe6-56bb36990440.html",
-     "time": "2026-11-03T20:09:10Z"
-    },
-    {
-     "title": "Il petrolio chiude in calo a New York a 96,09 dollari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/il-petrolio-chiude-in-calo-a-new-york-a-9609-dollari_49cd03f6-b328-4aea-b1c6-461cbdc34008.html",
-     "time": "2026-11-03T19:58:49Z"
-    },
-    {
-     "title": "Il leader dei dem in Senato, 'ottimisti ma non cantiamo vittoria troppo presto'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/il-leader-dei-dem-in-senato-ottimisti-ma-non-cantiamo-vittoria-troppo-presto_953fdd10-75dd-4cc3-9813-eb5b47a45d72.html",
-     "time": "2026-11-03T19:26:02Z"
-    },
-    {
-     "title": "Valditara, 'su tetto stranieri andiamo avanti, nessuna discriminazione'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/valditara-su-tetto-stranieri-andiamo-avanti-nessuna-discriminazione_9295adf4-43b9-41ad-9e88-f49c55301e5b.html",
-     "time": "2026-11-03T19:11:06Z"
-    },
-    {
-     "title": "Felipe VI riceve 4 presidenti al Palazzo reale per il vertice iberoamericano",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/felipe-vi-riceve-4-presidenti-al-palazzo-reale-per-il-vertice-iberoamericano_959f53a4-d1f7-4f38-99b5-86b595919ae1.html",
-     "time": "2026-11-03T18:50:23Z"
-    },
-    {
-     "title": "Scontri al confine tra esercito del Venezuela e guerriglia colombiana, otto morti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/scontri-al-confine-tra-esercito-del-venezuela-e-guerriglia-colombiana-otto-morti_ad35e866-2d80-4275-8597-b9d1395efc23.html",
-     "time": "2026-11-03T18:34:48Z"
-    },
-    {
-     "title": "Ipotesi emendamento FdI per riaprire il condono edilizio per la Campania",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/ipotesi-emendamento-fdi-per-riaprire-il-condono-edilizio-per-la-campania_b5f94975-5736-4f68-96e9-202101d323b1.html",
-     "time": "2026-11-03T18:34:13Z"
-    },
-    {
-     "title": "Italiano arrestato dall'Ice in New Jersey per 'frode elettorale'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/italiano-arrestato-dallice-in-new-jersey-per-frode-elettorale_d02a86be-592c-4d60-a579-212ca57164e6.html",
-     "time": "2026-11-03T18:33:32Z"
     }
    ]
   },
@@ -215,9 +215,29 @@
    "countries": [],
    "items": [
     {
+     "title": "ANC under pressure to reverse South Africa decline",
+     "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T00:03:19Z"
+    },
+    {
+     "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+     "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T23:58:36Z"
+    },
+    {
+     "title": "Spanish transport minister resigns days after deadly train crash",
+     "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T22:45:59Z"
+    },
+    {
+     "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+     "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-03T21:53:38Z"
+    },
+    {
      "title": "Seven flights across Europe targeted by suspected bomb threats",
      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T17:56:03Z"
+     "time": "2026-11-03T20:42:47Z"
     },
     {
      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
@@ -253,26 +273,6 @@
      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
      "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-03T13:44:44Z"
-    },
-    {
-     "title": "Trump to remove Rwanda and South Africa from US trade deal",
-     "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T13:28:30Z"
-    },
-    {
-     "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T13:26:19Z"
-    },
-    {
-     "title": "US urges Venezuela to release remaining political prisoners",
-     "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T12:09:20Z"
-    },
-    {
-     "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-     "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T11:51:08Z"
     }
    ]
   }
