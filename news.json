@@ -1,6 +1,6 @@
 {
- "version": 148,
- "updated": "2026-11-04T00:52:11Z",
+ "version": 149,
+ "updated": "2026-11-04T07:26:18Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "Siegeszug in Serie für Demokraten bei Midterms",
+     "url": "https://www.tagesschau.de/video/video-1677784.html",
+     "time": "2026-11-04T07:13:19Z"
+    },
+    {
+     "title": "Midterms: Demokraten holen auch Mehrheit im US-Repräsentantenhaus",
+     "url": "https://www.tagesschau.de/eilmeldung/eilmeldung-repraesentantenhaus-usa-midterms-100.html",
+     "time": "2026-11-04T06:57:34Z"
+    },
+    {
+     "title": "11KM-Podcast: Wie die Demokraten das US-Parlament zurückerobern",
+     "url": "https://www.tagesschau.de/multimedia/podcast/11km/midterms-usa-102.html",
+     "time": "2026-11-04T06:51:07Z"
+    },
+    {
+     "title": "\"Abstand der Demokraten wird von Stunde zu Stunde größer\", Jörg Schönenborn, ARD-Wahlexperte, zu Midtermsergebnissen",
+     "url": "https://www.tagesschau.de/video/video-1677772.html",
+     "time": "2026-11-04T06:50:25Z"
+    },
+    {
+     "title": "Marktbericht: Zwischen Zahlenflut und US-Politik",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
+     "time": "2026-11-04T06:46:08Z"
+    },
+    {
+     "title": "USA: \"Es ist eine Wahl gegen Donald Trump\"",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html",
+     "time": "2026-11-04T06:35:46Z"
+    },
+    {
      "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
      "url": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-     "time": "2026-11-04T00:39:30Z"
+     "time": "2026-11-04T06:33:21Z"
     },
     {
-     "title": "Champions League: Bayern München gewinnt bei Atletico Madrid",
-     "url": "https://www.sportschau.de/fussball/championsleague/karl-und-laimer-treffen-bayern-gelingen-big-points-in-madrid,spielbericht-cl-atletico-bayern-100.html",
-     "time": "2026-11-03T22:54:11Z"
+     "title": "\"Sehr, sehr heftige Schlappe für Trump\", Torben Börgers, ARD Washington, zu Midtermsergebnisse",
+     "url": "https://www.tagesschau.de/video/video-1677768.html",
+     "time": "2026-11-04T06:30:57Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12960.html",
-     "time": "2026-11-03T21:52:42Z"
+     "title": "\"Demokraten werden beide Häuser anführen\"",
+     "url": "https://www.tagesschau.de/video/video-1677760.html",
+     "time": "2026-11-04T06:19:50Z"
     },
     {
-     "title": "Hacker legen Kühlanlagen in deutschen Supermärkten lahm",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1677648.html",
-     "time": "2026-11-03T21:45:20Z"
+     "title": "Wie US-Präsident Trump auf Midterms-Ergebnisse reagiert",
+     "url": "https://www.tagesschau.de/video/video-1677758.html",
+     "time": "2026-11-04T06:14:12Z"
     },
     {
-     "title": "Vassili Golod, ARD Kiew, über die Erwartungen der Ukraine an Berlin",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1677646.html",
-     "time": "2026-11-03T21:38:38Z"
+     "title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
+     "url": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html",
+     "time": "2026-11-04T06:10:55Z"
     },
     {
-     "title": "Matthias Deiß, ARD Berlin, zu Merz' Werben um Ukraine-Hilfen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1677644.html",
-     "time": "2026-11-03T21:36:38Z"
-    },
-    {
-     "title": "Selenskyj in Europas Sicherheit im Mittelpunkt der Gespräche",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1677642.html",
-     "time": "2026-11-03T21:34:52Z"
-    },
-    {
-     "title": "Midterms in den USA: Machtprobe für Trump",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1677632.html",
-     "time": "2026-11-03T21:28:14Z"
-    },
-    {
-     "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
-     "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
-     "time": "2026-11-03T20:58:56Z"
-    },
-    {
-     "title": "Champions League: VfB Stuttgart verliert in Istanbul bei Galatasaray",
-     "url": "https://www.sportschau.de/fussball/championsleague/stuttgart-laesst-bei-galatasaray-zu-viel-liegen,spielbericht-cl-galatasaray-stuttgart-100.html",
-     "time": "2026-11-03T20:16:15Z"
-    },
-    {
-     "title": "Tausende protestieren gegen tschechische Rundfunk-Pläne",
-     "url": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html",
-     "time": "2026-11-03T19:52:48Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81856.html",
-     "time": "2026-11-03T19:18:17Z"
+     "title": "\"Er sei Mister Veto\": ARD-Korrespondent zu Trumps Statements über Midterms-Ergebnisse",
+     "url": "https://www.tagesschau.de/video/video-1677742.html",
+     "time": "2026-11-04T05:51:47Z"
     }
    ]
   },
@@ -85,14 +85,54 @@
    ],
    "items": [
     {
-     "title": "Midterms in den USA – Wer kontrolliert künftig den US-Kongress? Die neuesten Resultate",
-     "url": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-wer-kontrolliert-kuenftig-den-us-kongress-die-neuesten-resultate",
-     "time": "2026-11-04T00:28:29Z"
+     "title": "Midterms 2026 – Machtwechsel im US-Kongress – die Reaktionen",
+     "url": "https://www.srf.ch/news/international/midterms-2026-machtwechsel-im-us-kongress-die-reaktionen",
+     "time": "2026-11-04T07:14:19Z"
     },
     {
-     "title": "Midterms 2026 – Auszählungen laufen +++ Technische Pannen an Wahlstationen",
-     "url": "https://www.srf.ch/news/international/midterms-2026-auszaehlungen-laufen-technische-pannen-an-wahlstationen",
-     "time": "2026-11-04T00:24:58Z"
+     "title": "Internationaler Hochhauspreis – «Hochhäuser bedeuten nicht unbedingt Verdichtung»",
+     "url": "https://www.srf.ch/kultur/kunst/internationaler-hochhauspreis-hochhaeuser-bedeuten-nicht-unbedingt-verdichtung",
+     "time": "2026-11-04T07:08:32Z"
+    },
+    {
+     "title": "«Unüberbrückbare Differenzen» – Knall bei Rieter: Designierter CEO stolpert über Bonus-Streit",
+     "url": "https://www.srf.ch/news/wirtschaft/unueberbrueckbare-differenzen-knall-bei-rieter-designierter-ceo-stolpert-ueber-bonus-streit",
+     "time": "2026-11-04T07:05:46Z"
+    },
+    {
+     "title": "Zwischenwahlen in den USA – Republikaner für Trump-Treue bestraft – Demokraten mit Sensation",
+     "url": "https://www.srf.ch/news/international/usa/zwischenwahlen-in-den-usa-republikaner-fuer-trump-treue-bestraft-demokraten-mit-sensation",
+     "time": "2026-11-04T07:02:35Z"
+    },
+    {
+     "title": "Kongresswahlen – Blaue Welle im Kongress – die Grafiken",
+     "url": "https://www.srf.ch/news/international/usa/kongresswahlen-blaue-welle-in-den-usa-die-grafiken",
+     "time": "2026-11-04T05:28:52Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Merz: Ukraine kann weiter auf deutsche Unterstützung zählen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-merz-ukraine-kann-weiter-auf-deutsche-unterstuetzung-zaehlen",
+     "time": "2026-11-04T05:01:49Z"
+    },
+    {
+     "title": "Midterms 2026 – Demokraten erobern Mehrheit im Senat und Repräsentantenhaus",
+     "url": "https://www.srf.ch/news/international/midterms-2026-demokraten-erobern-mehrheit-im-senat-und-repraesentantenhaus",
+     "time": "2026-11-04T05:01:29Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Trump kündigt Ende milliardenschwerer Hilfen an Israel an",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-trump-kuendigt-ende-milliardenschwerer-hilfen-an-israel-an",
+     "time": "2026-11-04T04:56:14Z"
+    },
+    {
+     "title": "Serbien nach der Wahl – Wieso mit Vucic nicht auch der Nationalismus endet",
+     "url": "https://www.srf.ch/news/international/serbien-nach-der-wahl-wieso-mit-vucic-nicht-auch-der-nationalismus-endet",
+     "time": "2026-11-04T04:53:50Z"
+    },
+    {
+     "title": "Projekt der SBB und ETH – Dieser Roboter soll bald im Gotthard-Basistunnel arbeiten",
+     "url": "https://www.srf.ch/news/schweiz/projekt-der-sbb-und-eth-dieser-roboter-soll-bald-im-gotthard-basistunnel-arbeiten",
+     "time": "2026-11-04T04:53:29Z"
     },
     {
      "title": "Champions League, 4. Spieltag – Yamal und Manzambi auffällig: Barça schlägt Aston Villa verdient",
@@ -100,49 +140,9 @@
      "time": "2026-11-03T22:07:19Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Trump kündigt Ende milliardenschwerer Hilfen an Israel an",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-trump-kuendigt-ende-milliardenschwerer-hilfen-an-israel-an",
-     "time": "2026-11-03T21:59:24Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Merz: Ukraine kann weiter auf deutsche Unterstützung zählen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-merz-ukraine-kann-weiter-auf-deutsche-unterstuetzung-zaehlen",
-     "time": "2026-11-03T21:59:10Z"
-    },
-    {
      "title": "CL: Deutscher Jubel und Frust – Bayern atmet bei Atletico auf – Stuttgart muss untendurch",
      "url": "https://www.srf.ch/sport/fussball/champions-league/cl-deutscher-jubel-und-frust-bayern-atmet-bei-atletico-auf-stuttgart-muss-untendurch",
      "time": "2026-11-03T21:58:27Z"
-    },
-    {
-     "title": "Olympische Jugendspiele – Schwingen geht in Dakar ein bisschen anders",
-     "url": "https://www.srf.ch/news/international/olympische-jugendspiele-schwingen-geht-in-dakar-ein-bisschen-anders",
-     "time": "2026-11-03T19:59:11Z"
-    },
-    {
-     "title": "Deutsche Trainer-Ikone – Nach fast 20 Jahren: Frank Schmidt verlässt Heidenheim im Sommer",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/deutsche-trainer-ikone-nach-fast-20-jahren-frank-schmidt-verlaesst-heidenheim-im-sommer",
-     "time": "2026-11-03T19:38:20Z"
-    },
-    {
-     "title": "Kassensturz-Test – Tagescremen im Test – die günstigste ist die beste",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/kassensturz/feuchtigkeitscremes-im-test-grosse-unterschiede-bei-inhaltsstoffen-und-hautfeuchtigkeit",
-     "time": "2026-11-03T19:30:40Z"
-    },
-    {
-     "title": "Konflikt USA-Iran – «Wir stecken schon jetzt im schlimmsten Szenario»",
-     "url": "https://www.srf.ch/news/international/konflikt-usa-iran-wir-stecken-schon-jetzt-im-schlimmsten-szenario",
-     "time": "2026-11-03T19:09:51Z"
-    },
-    {
-     "title": "Treibstoffknappheit – Kerosin-Versorgung: Bund gibt erneut Pflichtlagerreserven frei",
-     "url": "https://www.srf.ch/news/schweiz/treibstoffknappheit-kerosin-versorgung-bund-gibt-erneut-pflichtlagerreserven-frei",
-     "time": "2026-11-03T19:08:16Z"
-    },
-    {
-     "title": "Krawallnacht in Zürich – Zwei Männer sollen nach Ausschreitungen in Zürich ins Gefängnis",
-     "url": "https://www.srf.ch/news/schweiz/krawallnacht-in-zuerich-zwei-maenner-sollen-nach-ausschreitungen-in-zuerich-ins-gefaengnis",
-     "time": "2026-11-03T19:06:38Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "'Il dem Ossoff mantiene il suo seggio per il Senato in Georgia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/il-dem-ossoff-mantiene-il-suo-seggio-per-il-senato-in-georgia_0c05678b-8f6d-4df9-9425-4fa465ff1588.html",
-     "time": "2026-11-04T00:37:13Z"
+     "title": "Borsa: i future sull'Europa in lieve calo dopo il voto Usa",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/borsa-i-future-sulleuropa-in-lieve-calo-dopo-il-voto-usa_b8b08901-90d9-4ce0-b8bb-d5bcc14bdc9e.html",
+     "time": "2026-11-04T07:22:51Z"
     },
     {
-     "title": "Trump, nessun piano immediato per attaccare l'Iran",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-nessun-piano-immediato-per-attaccare-liran_1883022c-a32c-485f-9793-233d484d2221.html",
-     "time": "2026-11-03T23:50:29Z"
+     "title": "Petrolio in lieve rialzo in apertura di giornata, Wti a 96,46 dollari (+0,39%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/petrolio-in-lieve-rialzo-in-apertura-di-giornata-wti-a-9646-dollari-039_70a23a1b-851f-4cdd-9f93-3433f04d1f81.html",
+     "time": "2026-11-04T07:16:34Z"
     },
     {
-     "title": "Primi seggi per le Midterm chiudono in Indiana e Kentucky",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/primi-seggi-per-le-midterm-chiudono-in-indiana-e-kentucky_c7b8485a-0d2e-409d-8a01-5a4b849e7b27.html",
-     "time": "2026-11-03T23:14:28Z"
+     "title": "Le Borse recuperano dopo il voto Usa, i future su Wall Street azzerano i ribassi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/le-borse-recuperano-dopo-il-voto-usa-i-future-su-wall-street-azzerano-i-ribassi_516e3912-7d11-4ae6-9e58-0ba7adefda28.html",
+     "time": "2026-11-04T07:15:46Z"
     },
     {
-     "title": "Champions: Chivu, in campo migliore versione dell'Inter",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/champions-chivu-in-campo-migliore-versione-dellinter_6eeb0b04-b07e-42e2-8681-aeba5b8b4f9c.html",
-     "time": "2026-11-03T22:34:58Z"
+     "title": "I dem hanno raggiunto quota 218 seggi alla Camera",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/i-dem-hanno-raggiunto-quota-218-seggi-alla-camera_f6d5e407-8d33-4a59-ba44-6b6a0ce996ea.html",
+     "time": "2026-11-04T06:33:06Z"
     },
     {
-     "title": "Champions:Gasperini, partita diversa rispetto al Real, rigore ha dato slancio a United",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/championsgasperini-partita-diversa-rispetto-al-real-rigore-ha-dato-slancio-a-united_72f661b8-180c-406a-9aa6-547d28408cb3.html",
-     "time": "2026-11-03T22:28:39Z"
+     "title": "Media, il dem El-Sayed vince la corsa al Senato in Michigan",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/media-il-dem-el-sayed-vince-la-corsa-al-senato-in-michigan_eca699db-078f-46b2-87ef-71fc72621305.html",
+     "time": "2026-11-04T06:29:17Z"
     },
     {
-     "title": "Ap, '6 americani su 10 non approvano la gestione di Trump'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/ap-6-americani-su-10-non-approvano-la-gestione-di-trump_d841b18f-4705-489d-8c4a-8ddf37f27d18.html",
-     "time": "2026-11-03T22:28:18Z"
+     "title": "L'oro corre col voto Usa, salgono i Treasury, debole il Bitcoin",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/loro-corre-col-voto-usa-salgono-i-treasury-debole-il-bitcoin_726aaa98-fdd5-455c-80a9-5a704ccac19e.html",
+     "time": "2026-11-04T06:21:16Z"
     },
     {
-     "title": "Champions: festa Inter a Rotterdam, la Roma si fa rimontare a Manchester",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/champions-festa-inter-a-rotterdam-la-roma-si-fa-rimontare-a-manchester_a74fba9a-2f5d-450c-935e-580ecee6d07e.html",
-     "time": "2026-11-03T21:59:08Z"
+     "title": "Mimit, intesa su Electrolux, 100 milioni investimenti e salvaguardia stabilimenti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/mimit-intesa-su-electrolux-100-milioni-investimenti-e-salvaguardia-stabilimenti_9962742a-fc06-4eb7-9dda-62eb34b8384d.html",
+     "time": "2026-11-04T06:16:12Z"
     },
     {
-     "title": "Eisenkot accusa Netanyahu di 'pogrom contro la democrazia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/eisenkot-accusa-netanyahu-di-pogrom-contro-la-democrazia_7c9f10e1-065e-4681-a4eb-f352f944df12.html",
-     "time": "2026-11-03T21:50:50Z"
+     "title": "Teheran, 'il messaggio degli americani è no alla guerra'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/teheran-il-messaggio-degli-americani-e-no-alla-guerra_77075686-346e-4934-a884-32574d1a1822.html",
+     "time": "2026-11-04T06:07:10Z"
     },
     {
-     "title": "Si dimette il ministro dei Trasporti spagnolo per l'incidente ferroviario a Toledo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/si-dimette-il-ministro-dei-trasporti-spagnolo-per-lincidente-ferroviario-a-toledo_c2936787-1d65-4d79-97eb-0d746c98be69.html",
-     "time": "2026-11-03T20:31:34Z"
+     "title": "Le Borse recuperano dopo il voto Usa, Seul gira in rialzo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/le-borse-recuperano-dopo-il-voto-usa-seul-gira-in-rialzo_06c37c22-e9dd-4cbd-8c37-1853e3a0b9a7.html",
+     "time": "2026-11-04T06:05:32Z"
     },
     {
-     "title": "Fonti, rilasciato su cauzione l'italiano arrestato dall'Ice in Usa",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/03/fonti-rilasciato-su-cauzione-litaliano-arrestato-dallice-in-usa_59cff292-e5e3-4f0a-bb5d-6f5bc9109ff6.html",
-     "time": "2026-11-03T20:19:08Z"
+     "title": "Media, i dem vincono il Senato e conquistano il Congresso",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/media-i-dem-vincono-il-senato-e-conquistano-il-congresso_fb39350d-0fcb-471c-b5f6-bc9d9269212f.html",
+     "time": "2026-11-04T04:33:41Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
-     "title": "ANC under pressure to reverse South Africa decline",
-     "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-04T00:03:19Z"
+     "title": "How America voted in maps and charts",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T07:24:59Z"
     },
     {
-     "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
-     "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T23:58:36Z"
+     "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+     "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T07:17:08Z"
     },
     {
-     "title": "Spanish transport minister resigns days after deadly train crash",
-     "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T22:45:59Z"
+     "title": "Florida Republicans fend off Democrats as state elects first black governor",
+     "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T07:12:21Z"
     },
     {
-     "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-     "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T21:53:38Z"
+     "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T06:53:56Z"
     },
     {
-     "title": "Seven flights across Europe targeted by suspected bomb threats",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T20:42:47Z"
+     "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+     "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T06:50:29Z"
     },
     {
-     "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-     "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T17:07:28Z"
+     "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+     "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T06:13:09Z"
     },
     {
-     "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-     "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T16:57:41Z"
+     "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+     "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T06:07:24Z"
     },
     {
-     "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-     "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T16:19:29Z"
+     "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+     "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T05:39:36Z"
     },
     {
-     "title": "Mining giant joins fight to stop killer toad march across Australia",
-     "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T15:05:01Z"
+     "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+     "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T03:46:10Z"
     },
     {
-     "title": "Libya's top religious authority rules against wearing Nike clothes",
-     "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T14:56:46Z"
+     "title": "South Carolina elects Democratic senator for first time in almost three decades",
+     "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T03:24:34Z"
     },
     {
-     "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-     "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T13:55:47Z"
+     "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T02:11:40Z"
     },
     {
-     "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-     "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-03T13:44:44Z"
+     "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+     "url": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T00:52:19Z"
     }
    ]
   }
