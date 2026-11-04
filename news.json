@@ -1,6 +1,6 @@
 {
- "version": 150,
- "updated": "2026-11-04T15:42:30Z",
+ "version": 151,
+ "updated": "2026-11-04T21:49:04Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Tennis: Alexander Zverev verliert erstes Match als Nummer eins",
-     "url": "https://www.sportschau.de/tennis/atp/zverev-verliert-erstes-match-als-nummer-eins-gegen-musetti,spielbericht-paris-zverev-musetti-100.html",
-     "time": "2026-11-04T15:11:27Z"
+     "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+     "time": "2026-11-04T21:15:29Z"
     },
     {
-     "title": "Reaktionen auf Janoschs Tod: Er machte \"Kindern Mut zum Träumen\"",
-     "url": "https://www.tagesschau.de/kultur/janosch-reaktionen-tod-100.html",
-     "time": "2026-11-04T15:10:30Z"
+     "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+     "url": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
+     "time": "2026-11-04T21:15:24Z"
     },
     {
-     "title": "Klaus Scherer, ehemaliger ARD-Korrespondent USA, ordnet das Ergebnis der US-Midterms ein",
-     "url": "https://www.tagesschau.de/video/video-1678034.html",
-     "time": "2026-11-04T14:53:09Z"
+     "title": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
+     "time": "2026-11-04T20:24:21Z"
     },
     {
-     "title": "Eishockey-Weltverband vertagt WM-Entscheidung zu Russland",
-     "url": "https://www.sportschau.de/eishockey/eishockey-weltverband-vertagt-wm-entscheidung-zu-russland,eishockey-wm-boykott-entscheidung-100.html",
-     "time": "2026-11-04T14:46:33Z"
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12348.html",
+     "time": "2026-11-04T19:40:12Z"
     },
     {
-     "title": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
-     "url": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html",
-     "time": "2026-11-04T14:42:11Z"
+     "title": "Reaktionen aus Deutschland auf den Wahlausgang bei den US-Midterms",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678266.html",
+     "time": "2026-11-04T19:23:16Z"
     },
     {
-     "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
-     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
-     "time": "2026-11-04T14:30:36Z"
+     "title": "Europäische Reaktionen auf den Wahlausgang bei den US-Midterms",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678264.html",
+     "time": "2026-11-04T19:21:47Z"
     },
     {
-     "title": "Christian Feld, ARD Brüssel, zu internationalen Reaktionen auf US-Midterms",
-     "url": "https://www.tagesschau.de/video/video-1678016.html",
-     "time": "2026-11-04T14:21:41Z"
+     "title": "Jörg Schöneborn, ARD-Wahlexperte, zum Ergebnis der US-Midterms",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678258.html",
+     "time": "2026-11-04T19:20:19Z"
     },
     {
-     "title": "Demokraten gelingt historischer Wahlsieg bei US-Midterms",
-     "url": "https://www.tagesschau.de/video/video-1678018.html",
-     "time": "2026-11-04T14:17:52Z"
+     "title": "Demokraten feiern Wahlsieg bei US-Midterms",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html",
+     "time": "2026-11-04T19:19:03Z"
     },
     {
-     "title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
-     "url": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
-     "time": "2026-11-04T14:11:39Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81814.html",
+     "time": "2026-11-04T19:18:06Z"
     },
     {
-     "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
-     "time": "2026-11-04T13:44:41Z"
+     "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
+     "url": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+     "time": "2026-11-04T18:10:21Z"
     },
     {
-     "title": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
-     "url": "https://www.tagesschau.de/wissen/gesundheit/rna-forschung-chancen-und-risiken-100.html",
-     "time": "2026-11-04T13:21:52Z"
+     "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
+     "time": "2026-11-04T18:00:44Z"
     },
     {
-     "title": "Demian von Osten, ARD Berlin, mit Reaktionen auf den Wahlerfolg der Demokraten in den USA",
-     "url": "https://www.tagesschau.de/video/video-1677984.html",
-     "time": "2026-11-04T13:13:11Z"
+     "title": "Marktbericht: DAX-Anleger in Kauflaune",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
+     "time": "2026-11-04T17:31:22Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Q&A Frühdemenz – «Ab welchem Alter muss man überhaupt an das Thema Demenz denken?»",
-     "url": "https://www.srf.ch/wissen/wissens-chats/q-a-fruehdemenz-ab-welchem-alter-muss-man-ueberhaupt-an-das-thema-demenz-denken",
-     "time": "2026-11-04T15:33:19Z"
+     "title": "Chef der Freien Wähler – Bayerischer Wirtschaftsminister Hubert Aiwanger ist tot",
+     "url": "https://www.srf.ch/news/international/chef-der-freien-waehler-bayerischer-wirtschaftsminister-hubert-aiwanger-ist-tot",
+     "time": "2026-11-04T21:39:12Z"
     },
     {
-     "title": "Niederlage der Republikaner – «Mr. Veto»: Wie wird Trump nach den Midterms regieren?",
-     "url": "https://www.srf.ch/news/international/usa/niederlage-der-republikaner-mr-veto-wie-wird-trump-nach-den-midterms-regieren",
-     "time": "2026-11-04T15:32:21Z"
+     "title": "Handball: Euro Cup – Mangelnde Chancenauswertung: Nati verliert gegen Portugal",
+     "url": "https://www.srf.ch/sport/mehr-sport/handball/handball-euro-cup-mangelnde-chancenauswertung-nati-verliert-gegen-portugal",
+     "time": "2026-11-04T20:43:52Z"
     },
     {
-     "title": "Midterms in den USA – Das macht die Blaue Welle historisch",
-     "url": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-das-macht-die-blaue-welle-historisch",
-     "time": "2026-11-04T15:30:13Z"
+     "title": "Krieg in der Ukraine – Selenski kündigt trilaterale Gespräche mit USA und Russland an",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-kuendigt-trilaterale-gespraeche-mit-usa-und-russland-an",
+     "time": "2026-11-04T20:29:42Z"
     },
     {
-     "title": "Entscheid des Bundesrats – Mehr Geld für Lokalradios und Regionalfernsehen ab 2027",
-     "url": "https://www.srf.ch/news/schweiz/entscheid-des-bundesrats-mehr-geld-fuer-lokalradios-und-regionalfernsehen-ab-2027",
-     "time": "2026-11-04T15:20:32Z"
+     "title": "Mobilität – Einheitliche Energieetikette: Neuerungen für Schweizer Autos",
+     "url": "https://www.srf.ch/news/schweiz/mobilitaet-einheitliche-energieetikette-neuerungen-fuer-schweizer-autos",
+     "time": "2026-11-04T20:20:51Z"
     },
     {
-     "title": "Portugiesisch und Japanisch – Bundesrat streicht zwei Sprachen im SRG-Auslandangebot Swissinfo",
-     "url": "https://www.srf.ch/news/schweiz/portugiesisch-und-japanisch-bundesrat-streicht-zwei-sprachen-im-srg-auslandangebot-swissinfo",
-     "time": "2026-11-04T15:11:07Z"
+     "title": "EU-Parlament – EU-Abgeordnete stimmen für Aufweichung des Verbrenner-Aus",
+     "url": "https://www.srf.ch/news/international/eu-parlament-eu-abgeordnete-stimmen-fuer-aufweichung-des-verbrenner-aus",
+     "time": "2026-11-04T19:48:41Z"
     },
     {
-     "title": "Fünf Tipps – Jung an Demenz erkrankt: Das hilft Angehörigen und Betroffenen",
-     "url": "https://www.srf.ch/wissen/gesundheit/fuenf-tipps-jung-an-demenz-erkrankt-das-hilft-angehoerigen-und-betroffenen",
-     "time": "2026-11-04T15:10:39Z"
+     "title": "Kulturnews in Kurzform – Der schwedische Dirigent Herbert Blomstedt ist tot",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-der-schwedische-dirigent-herbert-blomstedt-ist-tot",
+     "time": "2026-11-04T19:36:00Z"
     },
     {
-     "title": "Crans-Montana – Schweiz übernimmt Behandlungskosten von italienischen Opfern",
-     "url": "https://www.srf.ch/news/schweiz/crans-montana-schweiz-uebernimmt-behandlungskosten-von-italienischen-opfern",
-     "time": "2026-11-04T15:10:32Z"
+     "title": "Keine gesetzliche Grundlage – Was das Bundesgerichtsurteil zum Stopp von Netzsperren bedeutet",
+     "url": "https://www.srf.ch/news/schweiz/keine-gesetzliche-grundlage-was-das-bundesgerichtsurteil-zum-stopp-von-netzsperren-bedeutet",
+     "time": "2026-11-04T19:17:53Z"
     },
     {
-     "title": "EU-Kommission – Montenegro auf EU-Kurs – Aufnahme schon 2028?",
-     "url": "https://www.srf.ch/news/international/eu-kommission-montenegro-auf-eu-kurs-aufnahme-schon-2028",
-     "time": "2026-11-04T14:57:28Z"
+     "title": "Midterms 2026 – Trump verteidigt Irankrieg trotz Wahlniederlage",
+     "url": "https://www.srf.ch/news/international/midterms-2026-trump-verteidigt-irankrieg-trotz-wahlniederlage",
+     "time": "2026-11-04T19:14:50Z"
     },
     {
-     "title": "Hintergründe unklar – Hackerangriff auf Kühlsysteme: Blutbanken in Frankreich betroffen",
-     "url": "https://www.srf.ch/news/international/hintergruende-unklar-hackerangriff-auf-kuehlsysteme-blutbanken-in-frankreich-betroffen",
-     "time": "2026-11-04T14:53:44Z"
+     "title": "Finanzielle Massnahmen – So will der Bundesrat die Invalidenversicherung sanieren",
+     "url": "https://www.srf.ch/news/schweiz/finanzielle-massnahmen-so-will-der-bundesrat-die-invalidenversicherung-sanieren",
+     "time": "2026-11-04T19:13:39Z"
     },
     {
-     "title": "Übertragung durch Tigermücke – Chikungunya-Virus erreicht die Schweiz: Erste Fälle im Tessin",
-     "url": "https://www.srf.ch/news/schweiz/uebertragung-durch-tigermuecke-chikungunya-virus-erreicht-die-schweiz-erste-faelle-im-tessin",
-     "time": "2026-11-04T14:24:47Z"
+     "title": "Midterms 2026 – Sechs historische Premieren der US-Zwischenwahlen",
+     "url": "https://www.srf.ch/news/international/midterms-2026-sechs-historische-premieren-der-us-zwischenwahlen",
+     "time": "2026-11-04T17:55:13Z"
     },
     {
-     "title": "Umweltskandal Blausee – Chef: «Wir mussten mit den Preisen am Markt konkurrieren»",
-     "url": "https://www.srf.ch/news/schweiz/umweltskandal-blausee-chef-wir-mussten-mit-den-preisen-am-markt-konkurrieren",
-     "time": "2026-11-04T14:02:26Z"
+     "title": "Schweiz weiter Europas Nr. 1? – «Es wird schwieriger» mit dem neuen Modus an der Eishockey-WM",
+     "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/schweiz-weiter-europas-nr-1-es-wird-schwieriger-mit-dem-neuen-modus-an-der-eishockey-wm",
+     "time": "2026-11-04T17:43:15Z"
     },
     {
-     "title": "Grosse Reise nach Südamerika – Der Papst gönnt sich keine Ruhepause",
-     "url": "https://www.srf.ch/news/international/grosse-reise-nach-suedamerika-der-papst-goennt-sich-keine-ruhepause",
-     "time": "2026-11-04T14:02:08Z"
+     "title": "ATP-1000-Turnier Paris-Bercy – Djokovic verpasst Finals – Zverev verliert bei Premiere als Nr. 1",
+     "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/atp-1000-turnier-paris-bercy-djokovic-verpasst-finals-zverev-verliert-bei-premiere-als-nr-1",
+     "time": "2026-11-04T17:37:01Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "'Già assunte 206mila unità, altri 40mila prof il prossimo anno'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/gia-assunte-206mila-unita-altri-40mila-prof-il-prossimo-anno_a1ecb814-da64-4857-95eb-add6a9b235d8.html",
-     "time": "2026-11-04T15:27:10Z"
+     "title": "++ Il petrolio chiude con un tonfo a New York, -8,26% con la vittoria dem alle midterm ++",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/il-petrolio-chiude-con-un-tonfo-a-new-york-826-con-la-vittoria-dem_8f3215dc-4514-4342-a38d-4b9cf832b5be.html",
+     "time": "2026-11-04T19:51:13Z"
     },
     {
-     "title": "'Mike Johnson non correrà per leadership della minoranza repubblicana alla Camera'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/mike-johnson-non-correra-per-leadership-della-minoranza-repubblicana-alla_18604683-4275-4cdc-9a96-db04acb602c2.html",
-     "time": "2026-11-04T15:22:17Z"
+     "title": "Trump, non valuto di sostituire Hegseth, sta facendo un grande lavoro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-non-valuto-di-sostituire-hegseth-sta-facendo-un-grande-lavoro_aa28a612-f2d4-442a-8477-05bfe01d51bd.html",
+     "time": "2026-11-04T18:48:39Z"
     },
     {
-     "title": "Casa Bianca posta foto di Trump minaccioso, 'resta il vostro presidente'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/casa-bianca-posta-foto-di-trump-minaccioso-resta-il-vostro-presidente_d35a04ef-a291-4b71-9e36-5ab29365fe27.html",
-     "time": "2026-11-04T15:15:38Z"
+     "title": "Manovra: FdI alle Regioni, le risorse non sono infinite",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/manovra-fdi-alle-regioni-le-risorse-non-sono-infinite_531bcdea-6ddd-4182-b95a-51c699a0206b.html",
+     "time": "2026-11-04T18:43:52Z"
     },
     {
-     "title": "Meloni, intesa Electrolux passo importante per la tutela dell'industria italiana",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/meloni-intesa-electrolux-passo-importante-per-la-tutela-dellindustria-italiana_4798db3a-6009-4d0f-8db5-af3ca59b26c6.html",
-     "time": "2026-11-04T15:03:25Z"
+     "title": "Manovra: Vietri (FdI), presenterò un emendamento per riaprire il condono del 2003",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/manovra-vietri-fdi-presentero-un-emendamento-per-riaprire-il-condono-del-2003_3efecbce-73a8-4ef4-b4c4-fba4e1d7010a.html",
+     "time": "2026-11-04T18:43:31Z"
     },
     {
-     "title": "I big di Musk in calo a Wall Street, Tesla -4,13%, SpaceX -2,70%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/i-big-di-musk-in-calo-a-wall-street-tesla-413-spacex-270_550b6a45-3910-4327-9abb-d9169422a46f.html",
-     "time": "2026-11-04T14:50:19Z"
+     "title": "Manovra: ira opposizioni, 'grave Gusmeroli relatore, Salvini commissaria Giorgetti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/manovra-ira-opposizioni-grave-gusmeroli-relatore-salvini-commissaria-giorgetti_666a1c36-9399-4db5-83f8-96b15d791903.html",
+     "time": "2026-11-04T18:35:33Z"
     },
     {
-     "title": "Wall Street apre in volata dopo le elezioni, Dj +1,95%, Nasdaq +1,31%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/wall-street-apre-in-volata-dopo-le-elezioni-dj-195-nasdaq-131_6d07f471-7454-4491-8383-9ed0bb5758b5.html",
-     "time": "2026-11-04T14:38:28Z"
+     "title": "Manovra: sarà Gusmeroli il relatore della Lega",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/manovra-sara-gusmeroli-il-relatore-della-lega_3178194a-2468-4fcc-a2ea-c5ed9aa8aec1.html",
+     "time": "2026-11-04T18:27:54Z"
     },
     {
-     "title": "Kallas, spero da nuovo Congresso Usa 'maggiore pressione su Mosca'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/kallas-spero-da-nuovo-congresso-usa-maggiore-pressione-su-mosca_1653e55a-a0e5-403e-a12c-44e1364f7cd2.html",
-     "time": "2026-11-04T14:31:11Z"
+     "title": "Lega: A.Fontana, 'sfiducia a Romeo? Le promesse sono state disattese'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/lega-a.fontana-sfiducia-a-romeo-le-promesse-sono-state-disattese_8ef5645b-632a-4977-bf73-2bd07660e7a7.html",
+     "time": "2026-11-04T18:25:23Z"
     },
     {
-     "title": "Ue, 'Montenegro pronto a firma adesione in 2027, decoupling Ucraina-Moldavia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/ue-montenegro-pronto-a-firma-adesione-in-2027-decoupling-ucraina-moldavia_db881248-5261-4c38-bb04-80e1bcd65b49.html",
-     "time": "2026-11-04T14:29:48Z"
+     "title": "Trump, dem sarebbero distrutti se mi facessero un impeachment",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-dem-sarebbero-distrutti-se-mi-facessero-un-impeachment_ac3125a8-3aed-4a7f-9423-1254a3b18518.html",
+     "time": "2026-11-04T18:23:33Z"
     },
     {
-     "title": "Unioncamere, 1,5 miliardi di danni l'anno da interruzioni valichi alpini",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/unioncamere-15-miliardi-di-danni-lanno-da-interruzioni-valichi-alpini_1e1f4879-517f-4027-b59a-c3156a404ff8.html",
-     "time": "2026-11-04T14:18:15Z"
+     "title": "Trump, 'non abbiamo perso per la guerra ma per il carovita'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-non-abbiamo-perso-per-la-guerra-ma-per-il-carovita_e4e03d1d-ddc3-4065-a0ce-820e6fe10e20.html",
+     "time": "2026-11-04T18:21:42Z"
     },
     {
-     "title": "Elicottero caduto, papà Procacci saluta figlia con un breve video sui social",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/elicottero-caduto-papa-procacci-saluta-figlia-con-un-breve-video-sui_378cba6c-2a09-48f1-82e8-012ef55ed1fa.html",
-     "time": "2026-11-04T14:15:30Z"
+     "title": "Agenzia cyber, 'urgente proteggere la catena del freddo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/agenzia-cyber-urgente-proteggere-la-catena-del-freddo_aa8cc8d9-e5e2-47e0-9987-8472300a8fd8.html",
+     "time": "2026-11-04T18:16:31Z"
     }
    ]
   },
@@ -215,24 +215,44 @@
    "countries": [],
    "items": [
     {
-     "title": "Secret police files released in Hungary, 47 years after fall of communism",
+     "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+     "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T20:22:40Z"
+    },
+    {
+     "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+     "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T18:01:31Z"
+    },
+    {
+     "title": "Iran's chief negotiator says Americans voted 'no to war'",
+     "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T16:59:15Z"
+    },
+    {
+     "title": "'Most difficult days of my life' for keeper Owono",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T16:40:38Z"
+    },
+    {
+     "title": "The young politicians with African roots making history in the US midterms",
+     "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T16:34:32Z"
+    },
+    {
+     "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+     "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T16:26:15Z"
+    },
+    {
+     "title": "Israel's president begins consultations with parties after election deadlock",
+     "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-04T16:18:21Z"
+    },
+    {
+     "title": "Secret police files released in Hungary, 37 years after fall of communism",
      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-04T15:28:18Z"
-    },
-    {
-     "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-     "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-04T15:18:03Z"
-    },
-    {
-     "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-     "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-04T15:01:10Z"
-    },
-    {
-     "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-     "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-04T14:17:58Z"
     },
     {
      "title": "Everything you need to know from the US midterm elections",
@@ -253,26 +273,6 @@
      "title": "Sharp objects found in Halloween sweets in three European nations",
      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-04T12:34:33Z"
-    },
-    {
-     "title": "Iran's chief negotiator says Americans voted 'no to war'",
-     "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-04T12:21:21Z"
-    },
-    {
-     "title": "ANC under pressure to reverse South Africa decline",
-     "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-04T11:47:44Z"
-    },
-    {
-     "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-     "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-04T11:46:09Z"
-    },
-    {
-     "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
-     "url": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-04T10:03:19Z"
     }
    ]
   }
