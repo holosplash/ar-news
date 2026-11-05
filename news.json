@@ -1,6 +1,6 @@
 {
- "version": 151,
- "updated": "2026-11-04T21:49:04Z",
+ "version": 152,
+ "updated": "2026-11-05T02:15:21Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,54 @@
    ],
    "items": [
     {
+     "title": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
+     "url": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
+     "time": "2026-11-05T01:52:28Z"
+    },
+    {
+     "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html",
+     "time": "2026-11-05T00:10:07Z"
+    },
+    {
      "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
      "url": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
-     "time": "2026-11-04T21:15:29Z"
+     "time": "2026-11-04T23:35:58Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12956.html",
+     "time": "2026-11-04T23:15:20Z"
+    },
+    {
+     "title": "Jan-Werner Müller, Politikwissenschaftler Princeton University, mit einer Einschätzung zu der Zeit nach den US-Midterms",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1678322.html",
+     "time": "2026-11-04T22:56:24Z"
+    },
+    {
+     "title": "Perspektiven der Republikaner nach Niederlage bei den US-Midterms",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1678318.html",
+     "time": "2026-11-04T22:45:53Z"
+    },
+    {
+     "title": "US-Demokraten feiern massiven Wahlerfolg nach Zwischenwahlen - Wer sind die Gewinnner?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1678316.html",
+     "time": "2026-11-04T22:43:38Z"
+    },
+    {
+     "title": "Jörg Schönenborn, ARD-Wahlexperte, zu Gründen für das Wahlergebnis bei den Midterms",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1678314.html",
+     "time": "2026-11-04T22:39:26Z"
+    },
+    {
+     "title": "Champions League: Leipzig verliert unglücklich gegen Manchester city",
+     "url": "https://www.sportschau.de/fussball/championsleague/phantom-haaland-bringt-leipzig-um-lohn,spielbericht-leipzig-man-city-100.html",
+     "time": "2026-11-04T22:03:51Z"
+    },
+    {
+     "title": "Diesmal Karetsas - BVB jubelt auch gegen Betis dank seiner Joker",
+     "url": "https://www.sportschau.de/fussball/championsleague/diesmal-karetsas-bvb-jubelt-auch-gegen-betis-dank-seiner-joker,spielbericht-bvb-betis-100.html",
+     "time": "2026-11-04T21:57:11Z"
     },
     {
      "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
@@ -28,51 +73,6 @@
      "title": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
      "url": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
      "time": "2026-11-04T20:24:21Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12348.html",
-     "time": "2026-11-04T19:40:12Z"
-    },
-    {
-     "title": "Reaktionen aus Deutschland auf den Wahlausgang bei den US-Midterms",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678266.html",
-     "time": "2026-11-04T19:23:16Z"
-    },
-    {
-     "title": "Europäische Reaktionen auf den Wahlausgang bei den US-Midterms",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678264.html",
-     "time": "2026-11-04T19:21:47Z"
-    },
-    {
-     "title": "Jörg Schöneborn, ARD-Wahlexperte, zum Ergebnis der US-Midterms",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678258.html",
-     "time": "2026-11-04T19:20:19Z"
-    },
-    {
-     "title": "Demokraten feiern Wahlsieg bei US-Midterms",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1678262.html",
-     "time": "2026-11-04T19:19:03Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81814.html",
-     "time": "2026-11-04T19:18:06Z"
-    },
-    {
-     "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
-     "url": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-     "time": "2026-11-04T18:10:21Z"
-    },
-    {
-     "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
-     "time": "2026-11-04T18:00:44Z"
-    },
-    {
-     "title": "Marktbericht: DAX-Anleger in Kauflaune",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
-     "time": "2026-11-04T17:31:22Z"
     }
    ]
   },
@@ -87,12 +87,22 @@
     {
      "title": "Chef der Freien Wähler – Bayerischer Wirtschaftsminister Hubert Aiwanger ist tot",
      "url": "https://www.srf.ch/news/international/chef-der-freien-waehler-bayerischer-wirtschaftsminister-hubert-aiwanger-ist-tot",
-     "time": "2026-11-04T21:39:12Z"
+     "time": "2026-11-05T00:08:11Z"
     },
     {
-     "title": "Handball: Euro Cup – Mangelnde Chancenauswertung: Nati verliert gegen Portugal",
-     "url": "https://www.srf.ch/sport/mehr-sport/handball/handball-euro-cup-mangelnde-chancenauswertung-nati-verliert-gegen-portugal",
-     "time": "2026-11-04T20:43:52Z"
+     "title": "EHT: Auftakt in WM-Vorlauf – Schweizer Nati: Als Weltnummer 1 nach Helsinki",
+     "url": "https://www.srf.ch/sport/eishockey/nationalmannschaft/eht-auftakt-in-wm-vorlauf-schweizer-nati-als-weltnummer-1-nach-helsinki",
+     "time": "2026-11-04T23:16:58Z"
+    },
+    {
+     "title": "Champions League: Round-up – 9:1! Como schafft Historisches – Valverde erlöst Real Madrid spät",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-9-1-como-schafft-historisches-valverde-erloest-real-madrid-spaet",
+     "time": "2026-11-04T22:39:27Z"
+    },
+    {
+     "title": "BVB besiegt Betis – Valles wird vom Hexer zur tragischen Figur",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/bvb-besiegt-betis-valles-wird-vom-hexer-zur-tragischen-figur",
+     "time": "2026-11-04T22:12:40Z"
     },
     {
      "title": "Krieg in der Ukraine – Selenski kündigt trilaterale Gespräche mit USA und Russland an",
@@ -133,16 +143,6 @@
      "title": "Midterms 2026 – Sechs historische Premieren der US-Zwischenwahlen",
      "url": "https://www.srf.ch/news/international/midterms-2026-sechs-historische-premieren-der-us-zwischenwahlen",
      "time": "2026-11-04T17:55:13Z"
-    },
-    {
-     "title": "Schweiz weiter Europas Nr. 1? – «Es wird schwieriger» mit dem neuen Modus an der Eishockey-WM",
-     "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/schweiz-weiter-europas-nr-1-es-wird-schwieriger-mit-dem-neuen-modus-an-der-eishockey-wm",
-     "time": "2026-11-04T17:43:15Z"
-    },
-    {
-     "title": "ATP-1000-Turnier Paris-Bercy – Djokovic verpasst Finals – Zverev verliert bei Premiere als Nr. 1",
-     "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/atp-1000-turnier-paris-bercy-djokovic-verpasst-finals-zverev-verliert-bei-premiere-als-nr-1",
-     "time": "2026-11-04T17:37:01Z"
     }
    ]
   },
@@ -156,6 +156,11 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Borsa: Tokyo, apertura in rialzo (+0,28%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/borsa-tokyo-apertura-in-rialzo-028_99d1346b-772a-4c94-a6fe-8e933bd7f838.html",
+     "time": "2026-11-05T00:19:33Z"
+    },
     {
      "title": "++ Il petrolio chiude con un tonfo a New York, -8,26% con la vittoria dem alle midterm ++",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/il-petrolio-chiude-con-un-tonfo-a-new-york-826-con-la-vittoria-dem_8f3215dc-4514-4342-a38d-4b9cf832b5be.html",
@@ -200,11 +205,6 @@
      "title": "Trump, 'non abbiamo perso per la guerra ma per il carovita'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/trump-non-abbiamo-perso-per-la-guerra-ma-per-il-carovita_e4e03d1d-ddc3-4065-a0ce-820e6fe10e20.html",
      "time": "2026-11-04T18:21:42Z"
-    },
-    {
-     "title": "Agenzia cyber, 'urgente proteggere la catena del freddo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/04/agenzia-cyber-urgente-proteggere-la-catena-del-freddo_aa8cc8d9-e5e2-47e0-9987-8472300a8fd8.html",
-     "time": "2026-11-04T18:16:31Z"
     }
    ]
   },
@@ -217,7 +217,7 @@
     {
      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-04T20:22:40Z"
+     "time": "2026-11-04T22:48:43Z"
     },
     {
      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
