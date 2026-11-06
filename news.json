@@ -1,6 +1,6 @@
 {
- "version": 157,
- "updated": "2026-11-06T11:27:03Z",
+ "version": 158,
+ "updated": "2026-11-06T18:20:48Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Nach Gefahrgutunfall bei Krefeld ist die A57 gesperrt",
-     "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/krefeld-saeureunfall-strassensperrung-100.html",
-     "time": "2026-11-06T11:01:00Z"
+     "title": "Die gestohlenen Kinder von Oleschky",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
+     "time": "2026-11-06T17:48:38Z"
     },
     {
-     "title": "Industrieproduktion wächst überraschend - Autobranche legt zu",
-     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
-     "time": "2026-11-06T10:42:54Z"
+     "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
+     "time": "2026-11-06T17:46:51Z"
     },
     {
-     "title": "\"Streitpunkt Klimafinanzierung\", Dominic Hebestreit, ARD Berlin, zur kommenden Weltklimakonferenz COP31 in Antalya",
-     "url": "https://www.tagesschau.de/video/video-1679132.html",
-     "time": "2026-11-06T10:40:40Z"
-    },
-    {
-     "title": "Schärfere Strafen bei K.o.-Tropfen: Was die Gesetzesänderung bewirkt",
-     "url": "https://www.tagesschau.de/video/video-1679100.html",
-     "time": "2026-11-06T09:33:22Z"
-    },
-    {
-     "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
-     "time": "2026-11-06T09:30:52Z"
-    },
-    {
-     "title": "Bundestag stimmt für Strafverschärfung beim Einsatz von K.o.-Tropfen",
-     "url": "https://www.tagesschau.de/video/video-1679098.html",
-     "time": "2026-11-06T09:30:35Z"
-    },
-    {
-     "title": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-     "url": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
-     "time": "2026-11-06T09:29:54Z"
-    },
-    {
-     "title": "Marktbericht: DAX fällt im Sog der Nasdaq",
+     "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-     "time": "2026-11-06T09:29:32Z"
+     "time": "2026-11-06T17:30:36Z"
     },
     {
-     "title": "15 Minuten: Polizei ermittelt nach Bergrettung, Nebenkostenabrechnung, Spazierclubs",
-     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/audio-polizei-ermittelt-nach-bergrettung-100.html",
-     "time": "2026-11-06T09:26:56Z"
+     "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+     "time": "2026-11-06T17:17:22Z"
     },
     {
-     "title": "Angst vor KI-Regulierung nach den Midterms: Kursrutsch an den internationalen Aktienmärkten",
-     "url": "https://www.tagesschau.de/video/video-1679092.html",
-     "time": "2026-11-06T09:24:01Z"
+     "title": "Kleinflugzeug auf A2 abgestürzt - zwei Tote",
+     "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/polizei-feuerwehr-einsatz,a-zwei-flugzeug-100.html",
+     "time": "2026-11-06T17:15:35Z"
     },
     {
-     "title": "Chipaktien an den internationalen Börsen im freien Fall",
-     "url": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html",
-     "time": "2026-11-06T09:21:42Z"
+     "title": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
+     "url": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
+     "time": "2026-11-06T17:08:10Z"
     },
     {
-     "title": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
-     "time": "2026-11-06T09:13:00Z"
+     "title": "Bundestag berät über umstrittene Autobahn-Reform",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
+     "time": "2026-11-06T17:04:16Z"
+    },
+    {
+     "title": "Höhere Strafen für Einsatz von K.o.-Tropfen",
+     "url": "https://www.tagesschau.de/video/video-1679332.html",
+     "time": "2026-11-06T16:44:16Z"
+    },
+    {
+     "title": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
+     "url": "https://www.tagesschau.de/video/video-1679336.html",
+     "time": "2026-11-06T16:44:14Z"
+    },
+    {
+     "title": "Art Cologne öffnet die Türen für das Publikum",
+     "url": "https://www.tagesschau.de/video/video-1679340.html",
+     "time": "2026-11-06T16:44:06Z"
+    },
+    {
+     "title": "Prozessauftakt gegen Mitglieder der Reichsbürger-Bewegung \"Königreich Deutschland\"",
+     "url": "https://www.tagesschau.de/video/video-1679338.html",
+     "time": "2026-11-06T16:41:59Z"
+    },
+    {
+     "title": "Verkauf von Chip- und Technologie-Aktien in großem Stil schickt Börsen weltweit auf Talfahrt",
+     "url": "https://www.tagesschau.de/video/video-1679328.html",
+     "time": "2026-11-06T16:40:29Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Schüler betroffen – Zwei Tote bei Busunglück in Frankreich",
-     "url": "https://www.srf.ch/news/international/schueler-betroffen-zwei-tote-bei-busunglueck-in-frankreich",
-     "time": "2026-11-06T11:26:15Z"
+     "title": "Nach den Waldbränden – Feuerwehrleute aus Europa kritisieren Personalkürzungen",
+     "url": "https://www.srf.ch/news/international/nach-den-waldbraenden-feuerwehrleute-aus-europa-kritisieren-personalkuerzungen-1",
+     "time": "2026-11-06T18:19:37Z"
     },
     {
-     "title": "Krise nach Bankenskandal – Paraguays Präsident tritt zurück und bleibt doch im Amt",
-     "url": "https://www.srf.ch/news/international/krise-nach-bankenskandal-paraguays-praesident-tritt-zurueck-und-bleibt-doch-im-amt",
-     "time": "2026-11-06T11:23:27Z"
+     "title": "US-Wirtschaft – «Die Zölle haben die Preise in den USA nach oben getrieben»",
+     "url": "https://www.srf.ch/news/international/us-wirtschaft-die-zoelle-haben-die-preise-in-den-usa-nach-oben-getrieben",
+     "time": "2026-11-06T18:08:26Z"
     },
     {
-     "title": "Wetten auf Wahlen – US-Midterms: Wie gut sagten Prognosemärkte die Wahlen voraus?",
-     "url": "https://www.srf.ch/news/wetten-auf-wahlen-us-midterms-wie-gut-sagten-prognosemaerkte-die-wahlen-voraus",
-     "time": "2026-11-06T11:13:41Z"
+     "title": "Nach den Midterms – Warum sind die Börsen rund um den Globus eingebrochen?",
+     "url": "https://www.srf.ch/news/wirtschaft/nach-den-midterms-warum-sind-die-boersen-rund-um-den-globus-eingebrochen",
+     "time": "2026-11-06T18:00:21Z"
     },
     {
-     "title": "Umfrage zu den Abstimmungen – Ihre Meinung ist gefragt: Wie stimmen Sie ab?",
-     "url": "https://www.srf.ch/news/schweiz/umfrage-zu-den-abstimmungen-ihre-meinung-ist-gefragt-wie-stimmen-sie-ab",
-     "time": "2026-11-06T10:34:29Z"
+     "title": "Störfaktoren im Alltag – Da hört die Toleranz aber auf!",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/stoerfaktoren-im-alltag-da-hoert-die-toleranz-aber-auf",
+     "time": "2026-11-06T18:00:12Z"
     },
     {
-     "title": "Protestsongs – Von «Bella Ciao» zur «Tubel Trophy»: Musik als Protestmittel",
-     "url": "https://www.srf.ch/kultur/musik/protestsongs-von-bella-ciao-zur-tubel-trophy-musik-als-protestmittel",
-     "time": "2026-11-06T10:20:55Z"
+     "title": "Krieg im Nahen Osten – Angriffe auf Tanker – verfahrene Situation für Friedensgespräche",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-angriffe-auf-tanker-verfahrene-situation-fuer-friedensgespraeche",
+     "time": "2026-11-06T17:51:49Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Katars Emir und Trump telefonieren für neue Friedensverhandlungen",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-katars-emir-und-trump-telefonieren-fuer-neue-friedensverhandlungen",
-     "time": "2026-11-06T10:20:12Z"
+     "title": "Folgen des Hitzesommers – Räbeliechtli: Teurere Räben wegen Wassermangel und Schädlingen",
+     "url": "https://www.srf.ch/radio-srf-1/folgen-des-hitzesommers-raebeliechtli-teurere-raeben-wegen-wassermangel-und-schaedlingen",
+     "time": "2026-11-06T17:42:11Z"
     },
     {
-     "title": "News aus dem Tennis – Cahill nicht mehr länger Coach von Sinner – Norman übernimmt wohl",
-     "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-cahill-nicht-mehr-laenger-coach-von-sinner-norman-uebernimmt-wohl",
-     "time": "2026-11-06T10:17:18Z"
+     "title": "18. resp. 19. Skicross-Saison – Smith und Fiva: Die «Alten» haben noch nicht genug",
+     "url": "https://www.srf.ch/sport/mehr-sport/wintersport/18-resp-19-skicross-saison-smith-und-fiva-die-alten-haben-noch-nicht-genug",
+     "time": "2026-11-06T17:30:08Z"
     },
     {
-     "title": "«Sie ist eine Diva» – Livestream-Panne: Pegula lästert über Andrejewa und wird ertappt",
-     "url": "https://www.srf.ch/sport/tennis/wta-tour/sie-ist-eine-diva-livestream-panne-pegula-laestert-ueber-andrejewa-und-wird-ertappt",
-     "time": "2026-11-06T09:52:46Z"
+     "title": "Arbeitsplatz und Lohn – Die Höhe des Lohnes ist wichtig – aber nicht allein entscheidend",
+     "url": "https://www.srf.ch/news/wirtschaft/arbeitsplatz-und-lohn-die-hoehe-des-lohnes-ist-wichtig-aber-nicht-allein-entscheidend",
+     "time": "2026-11-06T17:14:24Z"
     },
     {
-     "title": "Krieg in der Ukraine – Russische Angriffe legen Stromversorgung in sieben Regionen lahm",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russische-angriffe-legen-stromversorgung-in-sieben-regionen-lahm",
-     "time": "2026-11-06T09:48:58Z"
+     "title": "Bezirksgericht Brig – Ex-Swiss-Ski-Vize Schmidhalter verurteilt",
+     "url": "https://www.srf.ch/news/schweiz/bezirksgericht-brig-ex-swiss-ski-vize-schmidhalter-verurteilt",
+     "time": "2026-11-06T17:04:51Z"
     },
     {
-     "title": "Machtwechsel in Israel? – Israel unter Gadi Eisenkot: Was sich ändern könnte",
-     "url": "https://www.srf.ch/news/international/machtwechsel-in-israel-israel-unter-gadi-eisenkot-was-sich-aendern-koennte",
-     "time": "2026-11-06T09:48:09Z"
+     "title": "Höchstes Amt in Deutschland – Ilse Aigner soll Bundespräsidentin werden",
+     "url": "https://www.srf.ch/news/international/hoechstes-amt-in-deutschland-ilse-aigner-soll-bundespraesidentin-werden",
+     "time": "2026-11-06T17:03:04Z"
     },
     {
-     "title": "Digitaler Lastwagen – Wie Forschende gegen faule Orangen im Supermarkt vorgehen",
-     "url": "https://www.srf.ch/wissen/gesundheit/digitaler-lastwagen-wie-forschende-gegen-faule-orangen-im-supermarkt-vorgehen",
-     "time": "2026-11-06T09:38:00Z"
+     "title": "Besitz von Kinderpornografie – Vater von Herzogin Meghan in den USA festgenommen",
+     "url": "https://www.srf.ch/news/international/besitz-von-kinderpornografie-vater-von-herzogin-meghan-in-den-usa-festgenommen",
+     "time": "2026-11-06T17:00:58Z"
     },
     {
-     "title": "Flughafen in Peru – Deutsche schmuggeln 3000 Vogelspinnen in getragenen Socken",
-     "url": "https://www.srf.ch/news/international/flughafen-in-peru-deutsche-schmuggeln-3000-vogelspinnen-in-getragenen-socken",
-     "time": "2026-11-06T09:25:41Z"
+     "title": "Digitaler Nachlass – Was Ihre Erben über Ihr Online-Leben wissen sollten",
+     "url": "https://www.srf.ch/news/gesellschaft/digitaler-nachlass-was-ihre-erben-ueber-ihr-online-leben-wissen-sollten",
+     "time": "2026-11-06T16:03:25Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Sfera Ebbasta incontra studenti al Museo del Cenacolo Vinciano",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/sfera-ebbasta-incontra-studenti-al-museo-del-cenacolo-vinciano_5d3a32ee-1459-4a16-ab06-27a5da9548cd.html",
-     "time": "2026-11-06T11:09:01Z"
+     "title": "Domani la Francia di nuovo in piazza, polizia schierata al massimo con 70.000 agenti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/domani-la-francia-di-nuovo-in-piazza-polizia-schierata-al-massimo-con-70.000-agenti_54f29a27-d4a4-4ccb-9ec3-df97a2ff6747.html",
+     "time": "2026-11-06T17:29:01Z"
     },
     {
-     "title": "Mattarella al Papa, il suo viaggio apostolico sarà d'ispirazione per il mondo intero",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/mattarella-al-papa-il-suo-viaggio-apostolico-sara-dispirazione-per-il-mondo-intero_b3e60ab3-af02-41e1-a3c9-ad93b9033e72.html",
-     "time": "2026-11-06T11:01:46Z"
+     "title": "Salvini, 'nomina Altieri all'Anac? Conto che sia tutto regolare'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/salvini-nomina-altieri-allanac-conto-che-sia-tutto-regolare_bb6b3722-3b5c-4cb4-825b-293fdb5863da.html",
+     "time": "2026-11-06T17:12:53Z"
     },
     {
-     "title": "Kiev, 'a Komyshuvakha bilancio sale a 53 morti, circa 50 dispersi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/kiev-a-komyshuvakha-bilancio-sale-a-53-morti-circa-50-dispersi_090bafe7-836e-4658-b865-70e6e0b5e570.html",
-     "time": "2026-11-06T10:40:10Z"
+     "title": "Hit parade, Kid Yugi pigliatutto, primo negli album e nei singoli",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/hit-parade-kid-yugi-pigliatutto-primo-negli-album-e-nei-singoli_76c84346-2cd1-4fe6-9ec5-c6e88d0b8ec3.html",
+     "time": "2026-11-06T17:12:25Z"
     },
     {
-     "title": "Picchia per anni la moglie provocandole tre aborti, arrestato",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/picchia-per-anni-la-moglie-provocandole-tre-aborti-arrestato_7dcc787d-cd34-492c-b617-053925b8d8d5.html",
-     "time": "2026-11-06T10:34:26Z"
+     "title": "Lo spread Btp-Bund chiude in flessione a 107,4 punti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/lo-spread-btp-bund-chiude-in-flessione-a-1074-punti_7408e553-e869-4444-9df1-40b1474dd960.html",
+     "time": "2026-11-06T17:10:34Z"
     },
     {
-     "title": "Turismo di lusso negli alberghi vale 10,4 miliardi, dal 2008 presenze a +111%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/turismo-di-lusso-negli-alberghi-vale-104-miliardi-dal-2008-presenze_9ba4e728-1126-47ff-9d7d-e8490f927749.html",
-     "time": "2026-11-06T10:05:22Z"
+     "title": "Borsa: l'Europa termina in ribasso, Francoforte la peggiore -1,92%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/borsa-leuropa-termina-in-ribasso-francoforte-la-peggiore-192_a59fa7fe-679c-49d5-90b1-39d653c358d2.html",
+     "time": "2026-11-06T16:51:04Z"
     },
     {
-     "title": "Media, Trump ha incontrato team sicurezza nazionale, 3 opzioni su Iran",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/media-trump-ha-incontrato-team-sicurezza-nazionale-3-opzioni-su-iran_a804f05b-1f02-401f-8a3f-6134730c6438.html",
-     "time": "2026-11-06T09:58:17Z"
+     "title": "Borsa: Milano chiude in calo (-0,9%), giù Nexi, Banco e Bper",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/borsa-milano-chiude-in-calo-09-giu-nexi-banco-e-bper_3926acd3-b65f-46e3-9aad-494ac026eb0d.html",
+     "time": "2026-11-06T16:46:37Z"
     },
     {
-     "title": "Morte avvelenate, nuova perquisizione in casa Di Vita a Pietracatella",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/morte-avvelenate-nuova-perquisizione-in-casa-di-vita-a-pietracatella_9ddf9235-5023-44f8-b969-439ce3350b16.html",
-     "time": "2026-11-06T08:23:13Z"
+     "title": "Houthi, 'sale a 30 morti e 8 feriti il bilancio dell'attacco al mercato a Taiz'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/houthi-sale-a-30-morti-e-8-feriti-il-bilancio-dellattacco-al-mercato-a-taiz_9e0621d8-7415-4733-9bbf-79df49b30c85.html",
+     "time": "2026-11-06T16:46:16Z"
     },
     {
-     "title": "Borsa: l'Europa parte in ampio ribasso dopo lo scivolone di Wall street, Londra -1,5%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/borsa-leuropa-parte-in-ampio-ribasso-dopo-lo-scivolone-di-wall-street-londra_73e21b54-7bfc-4d1c-9a84-01c3c79b57af.html",
-     "time": "2026-11-06T08:16:41Z"
+     "title": "Per la presidenza a Bce si conferma corsa a due tra Spagna e Olanda",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/per-la-presidenza-a-bce-si-conferma-corsa-a-due-tra-spagna-e-olanda_7321eebc-319e-43e7-b603-c53931fddeb1.html",
+     "time": "2026-11-06T16:35:09Z"
     },
     {
-     "title": "++ Borsa: Milano apre in forte calo, Ftse Mib -1,68% ++",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/-borsa-milano-apre-in-forte-calo-ftse-mib-168-_840ff27a-5046-45db-9989-6f1e5eded0f2.html",
-     "time": "2026-11-06T08:04:50Z"
+     "title": "Procura nazionale Antimafia e Antiterrorismo indaga sugli allarmi bomba",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/procura-nazionale-antimafia-e-antiterrorismo-indaga-sugli-allarmi-bomba_bbd5e96b-0836-4a18-8a9d-b15ecf53ff18.html",
+     "time": "2026-11-06T16:21:29Z"
     },
     {
-     "title": "Dopo insulti e minacce disposta la vigilanza per la gip del caso Siher",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/dopo-insulti-e-minacce-disposta-la-vigilanza-per-la-gip-del-caso-siher_5ada5e59-e6d9-44ec-bdf1-1d64c9e004b8.html",
-     "time": "2026-11-06T07:50:41Z"
+     "title": "Kallas, 'non ci può essere nessun accordo sull'Ucraina senza l'Europa'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/kallas-non-ci-puo-essere-nessun-accordo-sullucraina-senza-leuropa_d07dfe56-6daa-4921-902d-d9154007134c.html",
+     "time": "2026-11-06T16:09:04Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
+     "title": "Nigerian court rules opposition candidate cannot stand in elections",
+     "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T17:35:55Z"
+    },
+    {
+     "title": "AI stocks climb after trillions wiped from market values",
+     "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T17:03:02Z"
+    },
+    {
+     "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T16:51:01Z"
+    },
+    {
+     "title": "Four midterms takeaways for 2028 White House race",
+     "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T16:12:22Z"
+    },
+    {
      "title": "Two dead after bus crashes in France, officials say",
      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T11:21:20Z"
+     "time": "2026-11-06T15:33:52Z"
+    },
+    {
+     "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+     "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T15:30:42Z"
+    },
+    {
+     "title": "New wave of bomb threats hit European airlines",
+     "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T15:25:35Z"
     },
     {
      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T10:57:30Z"
+     "time": "2026-11-06T14:57:08Z"
     },
     {
-     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T09:57:04Z"
+     "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+     "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T14:46:03Z"
     },
     {
-     "title": "Trump signs order to preserve Oval Office as national monument",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T09:19:57Z"
+     "title": "US midterm results spark fears in Israel over future of two countries' ties",
+     "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T13:23:44Z"
     },
     {
-     "title": "Somalia's top court rejects president's term extension amid political crisis",
-     "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T08:18:10Z"
+     "title": "Russian extremist group denies sending hoax bomb threats",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T12:51:38Z"
     },
     {
-     "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-     "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T07:56:19Z"
-    },
-    {
-     "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-     "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T07:33:41Z"
-    },
-    {
-     "title": "Macau jails pro-democracy campaigner in city's first national security case",
-     "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T06:46:21Z"
-    },
-    {
-     "title": "Did a data centre revolt affect the US midterm election results?",
-     "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T06:01:13Z"
-    },
-    {
-     "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-     "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T06:00:46Z"
-    },
-    {
-     "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-     "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T02:08:57Z"
-    },
-    {
-     "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-     "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T01:28:03Z"
+     "title": "Homes and temples glow across India as Diwali celebrations begin",
+     "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T10:21:30Z"
     }
    ]
   }
