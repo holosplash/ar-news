@@ -1,6 +1,6 @@
 {
- "version": 155,
- "updated": "2026-11-05T23:32:49Z",
+ "version": 156,
+ "updated": "2026-11-06T03:36:56Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,16 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+     "time": "2026-11-06T00:55:35Z"
+    },
+    {
+     "title": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
+     "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
+     "time": "2026-11-05T23:44:38Z"
+    },
     {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12964.html",
@@ -63,16 +73,6 @@
      "title": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
      "time": "2026-11-05T19:34:20Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81886.html",
-     "time": "2026-11-05T19:30:48Z"
-    },
-    {
-     "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
-     "time": "2026-11-05T19:11:03Z"
     }
    ]
   },
@@ -84,6 +84,11 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Haft statt Todesstrafe – Kaliforniens Gouverneur Newsom will alle Todesurteile umwandeln",
+     "url": "https://www.srf.ch/news/international/usa/haft-statt-todesstrafe-kaliforniens-gouverneur-newsom-will-alle-todesurteile-umwandeln",
+     "time": "2026-11-06T03:20:45Z"
+    },
     {
      "title": "Vaduz-Shootingstar im Fokus – Pläne von Dalipi: Zurück zu YB, aber wohl nicht in die Nati",
      "url": "https://www.srf.ch/sport/fussball/super-league/vaduz-shootingstar-im-fokus-plaene-von-dalipi-zurueck-zu-yb-aber-wohl-nicht-in-die-nati",
@@ -138,11 +143,6 @@
      "title": "Provisorische Auswertung – Hitzesommer 2026 forderte in der Schweiz rund 1260 Todesopfer",
      "url": "https://www.srf.ch/news/schweiz/provisorische-auswertung-hitzesommer-2026-forderte-in-der-schweiz-rund-1260-todesopfer",
      "time": "2026-11-05T19:14:14Z"
-    },
-    {
-     "title": "Euro Hockey Tour in Helsinki – Keine WM-Final-Revanche: Schweiz unterliegt Finnland",
-     "url": "https://www.srf.ch/sport/eishockey/nationalmannschaft/euro-hockey-tour-in-helsinki-keine-wm-final-revanche-schweiz-unterliegt-finnland",
-     "time": "2026-11-05T18:55:31Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Borsa: Tokyo crolla in apertura, Nikkei -5,1%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/borsa-tokyo-crolla-in-apertura-nikkei-51_20afc945-e1cf-40d7-a682-8a1df20aed45.html",
+     "time": "2026-11-06T00:30:22Z"
+    },
+    {
+     "title": "Rubio, 'il mio piano è restare con Trump fino alla fine'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/rubio-il-mio-piano-e-restare-con-trump-fino-alla-fine_ae1e40ca-24bf-41e2-a275-20dade69f216.html",
+     "time": "2026-11-05T23:39:00Z"
+    },
     {
      "title": "Trump ha aggiunto il cappellino 'Veto' all'arredamento dello Studio Ovale",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/trump-ha-aggiunto-il-cappellino-veto-allarredamento-dello-studio-ovale_edf6036f-4bbe-4dcc-bc5c-215d47385a42.html",
@@ -195,16 +205,6 @@
      "title": "Zelensky, 'possiamo prendere in considerazione le elezioni online'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/zelensky-possiamo-prendere-in-considerazione-le-elezioni-online_f607c1f8-b5b4-4357-b933-86308604b345.html",
      "time": "2026-11-05T21:08:15Z"
-    },
-    {
-     "title": "Aurelio Marguerettaz nuovo presidente della Valle d'Aosta",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/aurelio-marguerettaz-nuovo-presidente-della-valle-daosta_b7cf63c5-f670-4ef7-88f5-ed6fc4223e8a.html",
-     "time": "2026-11-05T20:15:08Z"
-    },
-    {
-     "title": "Herzog, 'domenica comunicherò a chi conferirò il mandato'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/05/herzog-domenica-comunichero-a-chi-conferiro-il-mandato_969c15e2-ac0d-4ee3-979f-59deabc8b404.html",
-     "time": "2026-11-05T20:01:18Z"
     }
    ]
   },
@@ -215,9 +215,29 @@
    "countries": [],
    "items": [
     {
-     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+     "title": "Trump signs order preventing future presidents from changing Oval Office",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T03:33:25Z"
+    },
+    {
+     "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-05T23:21:34Z"
+     "time": "2026-11-06T02:57:24Z"
+    },
+    {
+     "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T02:08:57Z"
+    },
+    {
+     "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T01:28:03Z"
+    },
+    {
+     "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+     "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-06T00:02:57Z"
     },
     {
      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
@@ -253,26 +273,6 @@
      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
      "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-05T18:22:46Z"
-    },
-    {
-     "title": "French protests see numbers surge as unions join strikes over high cost of living",
-     "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-05T17:59:53Z"
-    },
-    {
-     "title": "Paraguay President Santiago Peña resigns after bank collapse",
-     "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-05T17:40:40Z"
-    },
-    {
-     "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-     "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-05T17:39:48Z"
-    },
-    {
-     "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-05T14:29:40Z"
     }
    ]
   }
