@@ -1,6 +1,6 @@
 {
- "version": 159,
- "updated": "2026-11-06T23:27:12Z",
+ "version": 160,
+ "updated": "2026-11-07T03:07:43Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,26 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html",
+     "time": "2026-11-07T02:54:24Z"
+    },
+    {
+     "title": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
+     "url": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html",
+     "time": "2026-11-07T02:08:29Z"
+    },
+    {
+     "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+     "url": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
+     "time": "2026-11-07T01:50:19Z"
+    },
+    {
+     "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+     "url": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+     "time": "2026-11-07T00:06:18Z"
+    },
     {
      "title": "HSV schießt Gladbach zurück in die Krise",
      "url": "https://www.sportschau.de/fussball/bundesliga/hsv-schickt-gladbach-zurueck-in-die-krise,spielbericht-hamburger-sv-borussia-moenchengladbach-102.html",
@@ -45,7 +65,7 @@
      "time": "2026-11-06T20:20:30Z"
     },
     {
-     "title": "Kleinflugzeug auf A2 abgestürzt - zwei Tote",
+     "title": "Kleinflugzeug auf A2 bei Magdeburg verunglückt",
      "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/polizei-feuerwehr-einsatz,a-zwei-flugzeug-100.html",
      "time": "2026-11-06T20:14:37Z"
     },
@@ -53,26 +73,6 @@
      "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
      "time": "2026-11-06T20:06:51Z"
-    },
-    {
-     "title": "Erster UNESCO-Nationalpark im Südsudan eröffnet",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1679498.html",
-     "time": "2026-11-06T19:40:35Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81832.html",
-     "time": "2026-11-06T19:39:59Z"
-    },
-    {
-     "title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
-     "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
-     "time": "2026-11-06T19:39:20Z"
-    },
-    {
-     "title": "Chip-Aktien auf Talfahrt wegen möglicher KI-Regulationen nach Sieg der Demokraten bei den Midterms",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1679490.html",
-     "time": "2026-11-06T19:36:06Z"
     }
    ]
   },
@@ -85,9 +85,9 @@
    ],
    "items": [
     {
-     "title": "Krise nach Bankenskandal – Amtsenthebung von Paraguays Präsident Peña: Festnahme angeordnet",
-     "url": "https://www.srf.ch/news/international/krise-nach-bankenskandal-amtsenthebung-von-paraguays-praesident-pena-festnahme-angeordnet",
-     "time": "2026-11-06T23:18:27Z"
+     "title": "Krise nach Bankenskandal – Nach Amtsenthebung: Paraguays Präsident Peña unter Hausarrest",
+     "url": "https://www.srf.ch/news/international/krise-nach-bankenskandal-nach-amtsenthebung-paraguays-praesident-pena-unter-hausarrest",
+     "time": "2026-11-07T00:43:23Z"
     },
     {
      "title": "«Abstimmungs-Arena» – Soll das Kriegsmaterialgesetz gelockert werden?",
@@ -157,6 +157,26 @@
    ],
    "items": [
     {
+     "title": "Iran: 'Il nostro esercito più forte rispetto all'inizio della guerra'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/iran-il-nostro-esercito-piu-forte-rispetto-allinizio-della-guerra_3e8c0a95-4b9a-4cbc-ad30-ed76e48f6dca.html",
+     "time": "2026-11-07T03:02:14Z"
+    },
+    {
+     "title": "Paraguay, nuove proteste e incidenti di fronte alla casa dell'ex presidente",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/paraguay-nuove-proteste-e-incidenti-di-fronte-alla-casa-dellex-presidente_146d34ea-9db7-441f-b600-90efdf133935.html",
+     "time": "2026-11-07T02:58:28Z"
+    },
+    {
+     "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_7f5f832d-deeb-4ae1-b2d9-b58505e2741a.html",
+     "time": "2026-11-07T01:28:11Z"
+    },
+    {
+     "title": "Paraguay, arrestato l'ex presidente Peña per il caso Ueno Bank",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/paraguay-arrestato-lex-presidente-pena-per-il-caso-ueno-bank_2c34c06b-3361-4145-a093-29a0dd046ae4.html",
+     "time": "2026-11-06T23:55:36Z"
+    },
+    {
      "title": "Paraguay, Procura spicca mandato di arresto per il presidente Pena",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/paraguay-procura-spicca-mandato-di-arresto-per-il-presidente-pena_84c15626-7c61-43e6-81b0-124307e09490.html",
      "time": "2026-11-06T22:55:45Z"
@@ -180,26 +200,6 @@
      "title": "Il Papa sulle midterm, 'fiero di avere esercitato il mio diritto'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/il-papa-sulle-midterm-fiero-di-avere-esercitato-il-mio-diritto_db549eb4-cd88-4058-9d97-ffe715ed333d.html",
      "time": "2026-11-06T19:29:49Z"
-    },
-    {
-     "title": "Lettera opposizioni a Meloni, ritiri nomina Altieri",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/lettera-opposizioni-a-meloni-ritiri-nomina-altieri_7c12ddf7-aaab-416a-b418-96cf04bd9588.html",
-     "time": "2026-11-06T19:15:57Z"
-    },
-    {
-     "title": "Trump nomina Stephen Miller capo di gabinetto al posto di Wiles",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/trump-nomina-stephen-miller-capo-di-gabinetto-al-posto-di-wiles_83a351f9-c164-438e-a92e-64d4c858e836.html",
-     "time": "2026-11-06T19:05:39Z"
-    },
-    {
-     "title": "Domani la Francia di nuovo in piazza, polizia schierata al massimo con 70.000 agenti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/domani-la-francia-di-nuovo-in-piazza-polizia-schierata-al-massimo-con-70.000-agenti_54f29a27-d4a4-4ccb-9ec3-df97a2ff6747.html",
-     "time": "2026-11-06T17:29:01Z"
-    },
-    {
-     "title": "Hit parade, Kid Yugi pigliatutto, primo negli album e nei singoli",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/06/hit-parade-kid-yugi-pigliatutto-primo-negli-album-e-nei-singoli_76c84346-2cd1-4fe6-9ec5-c6e88d0b8ec3.html",
-     "time": "2026-11-06T17:12:25Z"
     }
    ]
   },
