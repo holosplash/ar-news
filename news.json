@@ -1,6 +1,6 @@
 {
- "version": 161,
- "updated": "2026-11-07T10:38:09Z",
+ "version": 162,
+ "updated": "2026-11-07T16:48:25Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Nebel in Frankfurt (Oder), Bootsparade in Bangkok, Regen in Gaza-Stadt",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10552.html",
-     "time": "2026-11-07T09:53:48Z"
+     "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+     "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+     "time": "2026-11-07T16:46:43Z"
     },
     {
-     "title": "Welche Fakes rund um die Midterms kursieren",
-     "url": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html",
-     "time": "2026-11-07T09:46:47Z"
+     "title": "FC Bayern schlägt Mainz - Neuer verletzt sich im Rekordspiel",
+     "url": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
+     "time": "2026-11-07T16:42:16Z"
     },
     {
-     "title": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html",
-     "time": "2026-11-07T09:44:35Z"
+     "title": "Nmecha-Doppelpack bei Dortmunder 2:1-Sieg gegen Elversberg",
+     "url": "https://www.sportschau.de/fussball/bundesliga/doppelpack-nmecha-dortmund-schlaegt-elversberg,spielbericht-borussia-dortmund-sv-elversberg-100.html",
+     "time": "2026-11-07T16:41:57Z"
     },
     {
-     "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-     "time": "2026-11-07T09:28:52Z"
+     "title": "Überragender Gruda - Leipzig nimmt Augsburg auseinander",
+     "url": "https://www.sportschau.de/fussball/bundesliga/leipzig-nimmt-augsburg-auseinander,spielbericht-rb-leipzig-fc-augsburg-104.html",
+     "time": "2026-11-07T16:29:22Z"
     },
     {
-     "title": "\"Ein Riesenerfolg\", Antje Körner, Universität Leipzig, zu 15 Jahren Kinderkohortenstudie",
-     "url": "https://www.tagesschau.de/video/video-1679704.html",
-     "time": "2026-11-07T09:28:21Z"
+     "title": "Millionen junge Menschen ohne Berufsausbildung in Deutschland",
+     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/junge-menschen-keine-berufsausbildung-100.html",
+     "time": "2026-11-07T15:59:36Z"
     },
     {
-     "title": "Vorheriger Vize Stephen Miller ist neuer Stabschef von US-Präsident Trump",
-     "url": "https://www.tagesschau.de/video/video-1679686.html",
-     "time": "2026-11-07T08:56:08Z"
+     "title": "Papst Leo XIV. besucht Uruguay, Tilmann Kleinjung, ARD Rom, zum Auftakt der Südamerika-Reise",
+     "url": "https://www.tagesschau.de/video/video-1679838.html",
+     "time": "2026-11-07T15:41:48Z"
     },
     {
-     "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
-     "url": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
-     "time": "2026-11-07T08:10:26Z"
-    },
-    {
-     "title": "Justizministerin Hubig spricht sich erneut für Beantragung eines AfD-Verbotsverfahrens aus",
-     "url": "https://www.tagesschau.de/video/video-1679678.html",
-     "time": "2026-11-07T08:07:13Z"
-    },
-    {
-     "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
-     "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-     "time": "2026-11-07T07:40:23Z"
-    },
-    {
-     "title": "Berliner Linkspartei fordert von Emde Mandatsverzicht",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-aufforderung-zu-mandatsverzicht-von-emde-nicht-sicher-100.html",
-     "time": "2026-11-07T07:38:04Z"
+     "title": "Wofür Trumps neuer Stabschef Miller steht",
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+     "time": "2026-11-07T14:57:49Z"
     },
     {
      "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
-     "time": "2026-11-07T07:02:40Z"
+     "time": "2026-11-07T14:45:52Z"
     },
     {
-     "title": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
-     "time": "2026-11-07T06:01:55Z"
+     "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+     "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+     "time": "2026-11-07T14:41:43Z"
+    },
+    {
+     "title": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
+     "url": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html",
+     "time": "2026-11-07T13:25:25Z"
+    },
+    {
+     "title": "Sprengung in Niedersachen, Hochradrennen in Prag, Kunstflug in Südkorea",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10552.html",
+     "time": "2026-11-07T13:11:38Z"
+    },
+    {
+     "title": "US-Präsident Trump ersetzt seine bisherige Stabschefin Wiles durch ihren Stellvertreter Miller",
+     "url": "https://www.tagesschau.de/video/video-1679758.html",
+     "time": "2026-11-07T12:52:58Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
-     "url": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative",
-     "time": "2026-11-07T10:24:22Z"
+     "title": "Krieg in der Ukraine – Selenski kündigt neue personelle Konsequenzen bei Geheimdienst an",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-kuendigt-neue-personelle-konsequenzen-bei-geheimdienst-an",
+     "time": "2026-11-07T16:31:38Z"
     },
     {
-     "title": "Gewerbe im Stadtverkehr – Parkplatznot in Städten schreckt viele Handwerksbetriebe ab",
-     "url": "https://www.srf.ch/news/schweiz/gewerbe-im-stadtverkehr-parkplatznot-in-staedten-schreckt-viele-handwerksbetriebe-ab",
-     "time": "2026-11-07T09:52:23Z"
+     "title": "Polen – Fünf Tote und mehr als zehn Verletzte bei Schüssen in Krakau",
+     "url": "https://www.srf.ch/news/international/polen-fuenf-tote-und-mehr-als-zehn-verletzte-bei-schuessen-in-krakau",
+     "time": "2026-11-07T16:22:11Z"
+    },
+    {
+     "title": "Jagen ist auch Frauensache – Bei Bonobos jagen öfter die Weibchen",
+     "url": "https://www.srf.ch/wissen/natur-tiere/jagen-ist-auch-frauensache-bei-bonobos-jagen-oefter-die-weibchen",
+     "time": "2026-11-07T16:06:48Z"
+    },
+    {
+     "title": "Jugendsession 2026 – Europas Jugend ist wütend – und in der Schweiz?",
+     "url": "https://www.srf.ch/news/schweiz/jugendsession-2026-europas-jugend-ist-wuetend-und-in-der-schweiz",
+     "time": "2026-11-07T16:05:43Z"
+    },
+    {
+     "title": "Euro Hockey Tour in Helsinki – Die Schweiz muss sich auch Schweden beugen",
+     "url": "https://www.srf.ch/sport/eishockey/nationalmannschaft/euro-hockey-tour-in-helsinki-die-schweiz-muss-sich-auch-schweden-beugen",
+     "time": "2026-11-07T15:49:37Z"
+    },
+    {
+     "title": "Teure Spitzenmedizin – Krebserkrankungen durch das Medikament Zolgensma?",
+     "url": "https://www.srf.ch/news/international/teure-spitzenmedizin-krebserkrankungen-durch-das-medikament-zolgensma",
+     "time": "2026-11-07T15:39:23Z"
+    },
+    {
+     "title": "Neuer Roman – Die Vermessung des Kongo: Daniel Kehlmann schielt auf «Afrika»",
+     "url": "https://www.srf.ch/kultur/literatur/neuer-roman-die-vermessung-des-kongo-daniel-kehlmann-schielt-auf-afrika",
+     "time": "2026-11-07T14:58:05Z"
+    },
+    {
+     "title": "Nachfolge von Daniel Craig – Robert Pattinson nun auch unter möglichen James-Bond-Kandidaten",
+     "url": "https://www.srf.ch/news/gesellschaft/nachfolge-von-daniel-craig-robert-pattinson-nun-auch-unter-moeglichen-james-bond-kandidaten",
+     "time": "2026-11-07T14:36:02Z"
     },
     {
      "title": "Schweizer Milchindustrie – Cremo in der Krise – ein Problem für die ganze Milchbranche",
      "url": "https://www.srf.ch/news/schweiz/schweizer-milchindustrie-cremo-in-der-krise-ein-problem-fuer-die-ganze-milchbranche",
-     "time": "2026-11-07T09:47:37Z"
+     "time": "2026-11-07T14:27:29Z"
+    },
+    {
+     "title": "Technologie und Innovation – China ist zum Experimentierfeld für KI und Robotik geworden",
+     "url": "https://www.srf.ch/news/dialog/technologie-und-innovation-china-ist-zum-experimentierfeld-fuer-ki-und-robotik-geworden",
+     "time": "2026-11-07T13:28:27Z"
+    },
+    {
+     "title": "Andwil SG – Autofahrer flüchtet vor Polizei und kracht in Wohnhaus",
+     "url": "https://www.srf.ch/news/schweiz/andwil-sg-autofahrer-fluechtet-vor-polizei-und-kracht-in-wohnhaus",
+     "time": "2026-11-07T13:01:52Z"
     },
     {
      "title": "Ihre Anfragen im Faktencheck – Tumulte um angebliches Foltergefängnis bei Kiew: Was ist bekannt?",
      "url": "https://www.srf.ch/news/srf-faktenchecks/ihre-anfragen-im-faktencheck-tumulte-um-angebliches-foltergefaengnis-bei-kiew-was-ist-bekannt",
-     "time": "2026-11-07T08:57:30Z"
-    },
-    {
-     "title": "Parlamentsdienste – Ohne sie läuft nichts: Die heimlichen Helden im Bundeshaus",
-     "url": "https://www.srf.ch/sendungen/dok/parlamentsdienste-ohne-sie-laeuft-nichts-die-heimlichen-helden-im-bundeshaus",
-     "time": "2026-11-07T08:46:49Z"
-    },
-    {
-     "title": "Bundesgericht – Über die Liebe gestolpert: Eine Intrige der SVP?",
-     "url": "https://www.srf.ch/news/schweiz/bundesgericht-ueber-die-liebe-gestolpert-eine-intrige-der-svp",
-     "time": "2026-11-07T08:44:03Z"
-    },
-    {
-     "title": "Unbewilligte Demonstrationen – «dialog»-Community fordert mehr Befugnisse für die Polizei",
-     "url": "https://www.srf.ch/news/dialog/unbewilligte-demonstrationen-dialog-community-fordert-mehr-befugnisse-fuer-die-polizei",
-     "time": "2026-11-07T08:17:44Z"
-    },
-    {
-     "title": "«Abstimmungs-Arena» – Soll das Kriegsmaterialgesetz gelockert werden?",
-     "url": "https://www.srf.ch/news/schweiz/abstimmungs-arena-soll-das-kriegsmaterialgesetz-gelockert-werden",
-     "time": "2026-11-07T08:15:08Z"
-    },
-    {
-     "title": "Nachwehen des Hitzesommers – Trockene Felder führen zu leeren Kassen bei Bauernbetrieben",
-     "url": "https://www.srf.ch/news/schweiz/nachwehen-des-hitzesommers-trockene-felder-fuehren-zu-leeren-kassen-bei-bauernbetrieben",
-     "time": "2026-11-07T07:04:26Z"
-    },
-    {
-     "title": "Krise nach Bankenskandal – Nach Amtsenthebung: Paraguays Präsident Peña unter Hausarrest",
-     "url": "https://www.srf.ch/news/international/krise-nach-bankenskandal-nach-amtsenthebung-paraguays-praesident-pena-unter-hausarrest",
-     "time": "2026-11-07T07:04:13Z"
-    },
-    {
-     "title": "Wissens-Quiz: Schlaf – Müde oder munter? Fragen rund um den Schlaf",
-     "url": "https://www.srf.ch/wissen/wissens-quiz/wissens-quiz-schlaf-muede-oder-munter-fragen-rund-um-den-schlaf",
-     "time": "2026-11-07T06:30:09Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Kiew und Umland wieder Ziel russischer Raketenangriffe",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-kiew-und-umland-wieder-ziel-russischer-raketenangriffe",
-     "time": "2026-11-07T04:53:35Z"
+     "time": "2026-11-07T12:58:20Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
+     "title": "Attacchi informatici e mail di allarme, Europol convoca riunione",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/attacchi-informatici-e-mail-di-allarme-europol-convoca-riunione_0e32f62a-391b-47b1-8914-35f13d4c66fe.html",
+     "time": "2026-11-07T16:41:23Z"
+    },
+    {
+     "title": "Meloni, solidarietà a Tajani per hacker filorussi, grande preoccupazione",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/meloni-solidarieta-a-tajani-per-hacker-filorussi-grande-preoccupazione_0c5fbfbe-5550-418d-87c0-99da1f50b2f4.html",
+     "time": "2026-11-07T16:36:15Z"
+    },
+    {
+     "title": "Media, il sospettato per la sparatoria a Cracovia ha 25 anni ed era da solo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/media-il-sospettato-per-la-sparatoria-a-cracovia-ha-25-anni-ed-era-da-solo_597e40b3-5e35-459f-98cf-3c4ed8c47a12.html",
+     "time": "2026-11-07T16:35:12Z"
+    },
+    {
+     "title": "Salvini, Altieri aveva i requisiti per l'Anac, un altro nome lunedì in Cdm",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/salvini-altieri-aveva-i-requisiti-per-lanac-un-altro-nome-lunedi-in-cdm_a72a36cd-7f03-4805-8ca8-e9fa0cebfbb1.html",
+     "time": "2026-11-07T16:29:59Z"
+    },
+    {
+     "title": "Uomo apre il fuoco da un'auto nella piazza di Cracovia, cinque morti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/uomo-apre-il-fuoco-da-unauto-nella-piazza-di-cracovia-cinque-morti_490a21f9-f3d1-47c9-bcfa-7a4db13317bb.html",
+     "time": "2026-11-07T15:36:35Z"
+    },
+    {
+     "title": "Hamas, allagate 70.000 tende che ospitano sfollati di Gaza",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/hamas-allagate-70.000-tende-che-ospitano-sfollati-di-gaza_c00ef6be-aa86-4c5a-8a7b-5dbbc28d35cd.html",
+     "time": "2026-11-07T14:23:08Z"
+    },
+    {
+     "title": "Tajani, siamo di fronte a guerra ibrida, G7 affronti lunedì il tema",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/tajani-siamo-di-fronte-a-guerra-ibrida-g7-affronti-lunedi-il-tema_14513c3e-7aa3-470f-9216-9aa741ebb809.html",
+     "time": "2026-11-07T14:20:31Z"
+    },
+    {
+     "title": "Pistorius, 'al momento non possiamo più dare Patriot a Kiev'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/pistorius-al-momento-non-possiamo-piu-dare-patriot-a-kiev_864ac63b-1f0c-4f82-9a7c-970f1720e2ef.html",
+     "time": "2026-11-07T14:15:54Z"
+    },
+    {
+     "title": "++ Accoltella la compagna e le frattura il cranio, arrestato ++",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/-accoltella-la-compagna-e-le-frattura-il-cranio-arrestato-_cd64ad74-ca09-48f8-83bd-a937d8220315.html",
+     "time": "2026-11-07T12:32:21Z"
+    },
+    {
      "title": "Il Papa in Uruguay, oggi visita uno dei quartieri più poveri del mondo",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/il-papa-in-uruguay-oggi-visita-uno-dei-quartieri-piu-poveri-del_e05e711e-8a26-47a6-93b8-e6102188db82.html",
      "time": "2026-11-07T09:53:59Z"
-    },
-    {
-     "title": "Tajani, nel mirino sul dark web per la difesa dell'Ucraina",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/tajani-nel-mirino-sul-dark-web-per-la-difesa-dellucraina_cb6b6432-d7a2-4e89-a272-33674e3dc9dc.html",
-     "time": "2026-11-07T09:43:37Z"
-    },
-    {
-     "title": "Sfonda la porta e tenta di strangolare la moglie davanti ai figli",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/sfonda-la-porta-e-tenta-di-strangolare-la-moglie-davanti-ai-figli_9b2a840b-9920-4c29-98f8-bdd39ae0e3f6.html",
-     "time": "2026-11-07T09:01:53Z"
-    },
-    {
-     "title": "Per vacanze d'autunno l'Italia conquista gli europei, la sceglie uno su tre",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/per-vacanze-dautunno-litalia-conquista-gli-europei-la-sceglie-uno-su-tre_32710524-7ac4-42ff-bc36-27d32e2b656c.html",
-     "time": "2026-11-07T08:44:55Z"
-    },
-    {
-     "title": "Ft, i servizi europei indagano sulla pista russa degli allarmi bomba",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/ft-i-servizi-europei-indagano-sulla-pista-russa-degli-allarmi-bomba_a5180dac-6aab-4e65-80d9-fc54896b09a5.html",
-     "time": "2026-11-07T07:24:30Z"
-    },
-    {
-     "title": "Missili balistici russi su Kiev, almeno cinque feriti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/missili-balistici-russi-su-kiev-almeno-cinque-feriti_c4ecddfa-023b-4d8d-810c-b7ba31731286.html",
-     "time": "2026-11-07T05:53:57Z"
-    },
-    {
-     "title": "Arrestato un uomo vicino alla Casa Bianca, 'minacciava di uccidere Trump'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/arrestato-un-uomo-vicino-alla-casa-bianca-minacciava-di-uccidere-trump_5817343a-221f-4004-86bd-8b163a26ac61.html",
-     "time": "2026-11-07T03:24:52Z"
-    },
-    {
-     "title": "Iran: 'Il nostro esercito più forte rispetto all'inizio della guerra'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/iran-il-nostro-esercito-piu-forte-rispetto-allinizio-della-guerra_3e8c0a95-4b9a-4cbc-ad30-ed76e48f6dca.html",
-     "time": "2026-11-07T03:02:14Z"
-    },
-    {
-     "title": "Paraguay, nuove proteste e incidenti di fronte alla casa dell'ex presidente",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/paraguay-nuove-proteste-e-incidenti-di-fronte-alla-casa-dellex-presidente_146d34ea-9db7-441f-b600-90efdf133935.html",
-     "time": "2026-11-07T02:58:28Z"
-    },
-    {
-     "title": "Trump: 'Stiamo facendo molti progressi con Russia e Ucraina'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_7f5f832d-deeb-4ae1-b2d9-b58505e2741a.html",
-     "time": "2026-11-07T01:28:11Z"
     }
    ]
   },
@@ -214,6 +214,31 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "No clear winner after tight New Zealand general election",
+     "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-07T15:56:28Z"
+    },
+    {
+     "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-07T12:49:36Z"
+    },
+    {
+     "title": "Four things we learned this week about 2028 White House race",
+     "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-07T12:23:28Z"
+    },
+    {
+     "title": "Texas mayor instructs police to limit co-operation with ICE",
+     "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-07T08:15:55Z"
+    },
+    {
+     "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+     "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-07T07:27:44Z"
+    },
     {
      "title": "Paraguay's president impeached and under house arrest after bank collapse",
      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -245,34 +270,9 @@
      "time": "2026-11-06T23:24:15Z"
     },
     {
-     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T21:49:50Z"
-    },
-    {
      "title": "AI stocks climb after trillions wiped from market values",
      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-06T21:06:25Z"
-    },
-    {
-     "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T17:44:02Z"
-    },
-    {
-     "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T16:51:01Z"
-    },
-    {
-     "title": "Spate of bomb threats poses serious challenge to airline industry",
-     "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T16:18:44Z"
-    },
-    {
-     "title": "Four midterms takeaways for 2028 White House race",
-     "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-06T16:12:22Z"
     }
    ]
   }
