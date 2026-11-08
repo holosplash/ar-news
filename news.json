@@ -1,6 +1,6 @@
 {
- "version": 166,
- "updated": "2026-11-08T13:50:12Z",
+ "version": 167,
+ "updated": "2026-11-08T18:45:47Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "Wieder deutlich mehr Flüchtlinge auf dem gefährlichen Weg von Afrika auf die Kanaren",
+     "url": "https://www.tagesschau.de/video/video-1680306.html",
+     "time": "2026-11-08T17:12:47Z"
+    },
+    {
+     "title": "Bundeswehrbeteiligung an UN-Mission Unifil im Libanon läuft Ende des Jahres aus",
+     "url": "https://www.tagesschau.de/video/video-1680304.html",
+     "time": "2026-11-08T17:10:54Z"
+    },
+    {
+     "title": "Israels Präsident Herzog erteilt bisherigem Oppositionspolitiker Eisenkot Auftrag zur Regierungsbildung",
+     "url": "https://www.tagesschau.de/video/video-1680302.html",
+     "time": "2026-11-08T17:09:03Z"
+    },
+    {
+     "title": "Viele ungeklärte Punkte für Bundeshaushalt 2027",
+     "url": "https://www.tagesschau.de/video/video-1680296.html",
+     "time": "2026-11-08T17:06:59Z"
+    },
+    {
+     "title": "Nach den tödlichen Schüssen in Krakau ermittelt die Polizei zum Motiv des Täters",
+     "url": "https://www.tagesschau.de/video/video-1680294.html",
+     "time": "2026-11-08T17:04:34Z"
+    },
+    {
+     "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+     "url": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+     "time": "2026-11-08T17:02:14Z"
+    },
+    {
+     "title": "Leverkusen gewinnt in Köln 2:1",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
+     "time": "2026-11-08T16:44:00Z"
+    },
+    {
+     "title": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+     "time": "2026-11-08T16:33:42Z"
+    },
+    {
+     "title": "Björn Dake, ARD Tel Aviv, über die bevorstehende Regierungsbildung in Israel",
+     "url": "https://www.tagesschau.de/video/video-1680280.html",
+     "time": "2026-11-08T16:21:44Z"
+    },
+    {
+     "title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
+     "time": "2026-11-08T16:07:41Z"
+    },
+    {
+     "title": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
+     "time": "2026-11-08T15:28:00Z"
+    },
+    {
      "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
-     "time": "2026-11-08T13:31:29Z"
-    },
-    {
-     "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
-     "time": "2026-11-08T12:05:57Z"
-    },
-    {
-     "title": "Feuerwerks- und Drohnenfestival in London, Kunst in Gizeh, Herbst in New York",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10554.html",
-     "time": "2026-11-08T11:30:30Z"
-    },
-    {
-     "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
-     "url": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
-     "time": "2026-11-08T11:19:37Z"
-    },
-    {
-     "title": "Massive Stromausfälle nach russischen Angriffen auf Ukraine",
-     "url": "https://www.tagesschau.de/video/video-1680170.html",
-     "time": "2026-11-08T11:15:10Z"
-    },
-    {
-     "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
-     "url": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
-     "time": "2026-11-08T11:04:42Z"
-    },
-    {
-     "title": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
-     "url": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html",
-     "time": "2026-11-08T10:32:46Z"
-    },
-    {
-     "title": "\"Aus Käfigkampf-Branche\", Felix Edeha, ARD-aktuell, zu Dana White als möglichen neuen Pressesprecher Trumps",
-     "url": "https://www.tagesschau.de/video/video-1680156.html",
-     "time": "2026-11-08T10:28:48Z"
-    },
-    {
-     "title": "\"In kritischem Zustand\", Palina Milling, ARD Warschau, zu mutmaßlichem Attentäter von Krakau",
-     "url": "https://www.tagesschau.de/video/video-1680154.html",
-     "time": "2026-11-08T10:14:47Z"
-    },
-    {
-     "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
-     "url": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
-     "time": "2026-11-08T09:59:49Z"
-    },
-    {
-     "title": "Familienmitglieder des Schützen ebenfalls getötet",
-     "url": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
-     "time": "2026-11-08T09:58:10Z"
-    },
-    {
-     "title": "Israels Präsident Herzog will Oppositionspolitiker Eisenkot Auftrag zur Regierungsbildung erteilen",
-     "url": "https://www.tagesschau.de/video/video-1680146.html",
-     "time": "2026-11-08T09:03:46Z"
+     "time": "2026-11-08T14:50:57Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Ein Leben für den Üetliberg – Der Zürcher Hausberg verliert mit Margrith Gysel seine Wächterin",
-     "url": "https://www.srf.ch/news/schweiz/ein-leben-fuer-den-ueetliberg-der-zuercher-hausberg-verliert-mit-margrith-gysel-seine-waechterin",
-     "time": "2026-11-08T13:33:48Z"
+     "title": "Krieg in der Ukraine – Kiew: Verkehr rollt wieder über die Nordbrücke",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-kiew-verkehr-rollt-wieder-ueber-die-nordbruecke",
+     "time": "2026-11-08T18:29:20Z"
     },
     {
-     "title": "Internationale Fussball-News – Erneuter Ausfall: Sehnenteilriss bei Neuer",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-erneuter-ausfall-sehnenteilriss-bei-neuer",
-     "time": "2026-11-08T12:56:03Z"
+     "title": "Sonderkredit beantragt – Kleintheater Luzern muss trotz Finanzhilfe um Zukunft bangen",
+     "url": "https://www.srf.ch/news/schweiz/sonderkredit-beantragt-kleintheater-luzern-muss-trotz-finanzhilfe-um-zukunft-bangen",
+     "time": "2026-11-08T18:00:37Z"
     },
     {
-     "title": "Von Natur aus fast unsterblich – Das Geheimnis eines langen Lebens",
-     "url": "https://www.srf.ch/news/dialog/von-natur-aus-fast-unsterblich-das-geheimnis-eines-langen-lebens",
-     "time": "2026-11-08T12:52:49Z"
+     "title": "13. Runde der Super League – Spätes Eigentor: Basel muss sich in Thun mit 3:3 begnügen",
+     "url": "https://www.srf.ch/sport/fussball/super-league/13-runde-der-super-league-spaetes-eigentor-basel-muss-sich-in-thun-mit-3-3-begnuegen",
+     "time": "2026-11-08T17:46:53Z"
     },
     {
-     "title": "Midterms 2026 – Trump will gegen die Demokraten ermitteln lassen",
-     "url": "https://www.srf.ch/news/international/midterms-2026-trump-will-gegen-die-demokraten-ermitteln-lassen",
-     "time": "2026-11-08T12:37:57Z"
+     "title": "Marmorbruch – Wenn Tessiner Marmor zum Designobjekt wird",
+     "url": "https://www.srf.ch/news/schweiz/marmorbruch-wenn-tessiner-marmor-zum-designobjekt-wird",
+     "time": "2026-11-08T17:19:39Z"
     },
     {
-     "title": "Ausgezeichnete Forschung – Die Erde ist ebenso Kugel wie Scheibe – aber kein Donut",
-     "url": "https://www.srf.ch/wissen/forschung/ausgezeichnete-forschung-die-erde-ist-ebenso-kugel-wie-scheibe-aber-kein-donut",
-     "time": "2026-11-08T12:16:03Z"
+     "title": "Wahlen Kanton Freiburg – Die SVP gewinnt auf Kosten der FDP Sitze im Kantonsparlament",
+     "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-die-svp-gewinnt-auf-kosten-der-fdp-sitze-im-kantonsparlament",
+     "time": "2026-11-08T17:13:26Z"
     },
     {
-     "title": "An der WM in Katar – Nach Gold legen Schweizer Gewehrschützinnen Silber nach",
-     "url": "https://www.srf.ch/sport/mehr-sport/schiessen/an-der-wm-in-katar-nach-gold-legen-schweizer-gewehrschuetzinnen-silber-nach",
-     "time": "2026-11-08T12:04:12Z"
+     "title": "Shelton in 2 Sätzen geschlagen – Nervenstarker Alcaraz gewinnt erstmals in der Halle in Paris",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/shelton-in-2-saetzen-geschlagen-nervenstarker-alcaraz-gewinnt-erstmals-in-der-halle-in-paris",
+     "time": "2026-11-08T16:46:04Z"
     },
     {
-     "title": "Laudatio vom Bundesrat – «Prix Suisse» für ETH-Professor und Ex-Nasa-Direktor Zurbuchen",
-     "url": "https://www.srf.ch/news/schweiz/laudatio-vom-bundesrat-prix-suisse-fuer-eth-professor-und-ex-nasa-direktor-zurbuchen",
-     "time": "2026-11-08T11:38:03Z"
+     "title": "Schmuggel von Affen – Begehrt und gejagt: Das oft traurige Schicksal der Makaken",
+     "url": "https://www.srf.ch/news/international/schmuggel-von-affen-begehrt-und-gejagt-das-oft-traurige-schicksal-der-makaken",
+     "time": "2026-11-08T16:43:58Z"
     },
     {
-     "title": "Wahlen Kanton Freiburg – Verliert die deutschsprachige Minderheit Sitze in der Regierung?",
-     "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-verliert-die-deutschsprachige-minderheit-sitze-in-der-regierung",
-     "time": "2026-11-08T11:18:08Z"
+     "title": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
+     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
+     "time": "2026-11-08T16:36:03Z"
     },
     {
-     "title": "Wiedersehen dank «Happy Day» – Livia trifft nach 28 Jahren ihre leibliche Mutter in Mexiko",
-     "url": "https://www.srf.ch/sendungen/unterhaltungssendungen/wiedersehen-dank-happy-day-livia-trifft-nach-28-jahren-ihre-leibliche-mutter-in-mexiko",
-     "time": "2026-11-08T10:59:46Z"
+     "title": "700-jähriges Haus in Steinen – Hinter dieser Fassade steckt ein grosses Stück Mittelalter",
+     "url": "https://www.srf.ch/news/schweiz/700-jaehriges-haus-in-steinen-hinter-dieser-fassade-steckt-ein-grosses-stueck-mittelalter",
+     "time": "2026-11-08T16:29:37Z"
     },
     {
-     "title": "Autobiografischer Roman – «Mein privates Glück»: Schreiben ist stärker als der Tod",
-     "url": "https://www.srf.ch/kultur/literatur/autobiografischer-roman-mein-privates-glueck-schreiben-ist-staerker-als-der-tod",
-     "time": "2026-11-08T10:46:15Z"
+     "title": "Gadenlandschaften – Leben statt Leerstand: Neue Ideen für alte Glarner Scheunen",
+     "url": "https://www.srf.ch/news/schweiz/gadenlandschaften-leben-statt-leerstand-neue-ideen-fuer-alte-glarner-scheunen",
+     "time": "2026-11-08T16:11:09Z"
     },
     {
-     "title": "Polen – Schüsse in Krakau – Justiz ermittelt wegen Terrorismus",
-     "url": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-justiz-ermittelt-wegen-terrorismus",
-     "time": "2026-11-08T10:40:51Z"
+     "title": "Wahlen Kanton Freiburg – Erfolg für Bürgerliche: Sie holen drei Sitze im Staatsrat",
+     "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-erfolg-fuer-buergerliche-sie-holen-drei-sitze-im-staatsrat",
+     "time": "2026-11-08T15:58:19Z"
     },
     {
-     "title": "Nun stehen die MLS-Playoffs an – Messi gewinnt seinen 2. Goldenen Schuh",
-     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/nun-stehen-die-mls-playoffs-an-messi-gewinnt-seinen-2-goldenen-schuh",
-     "time": "2026-11-08T10:38:55Z"
+     "title": "Kratzer am Lack Saudi-Arabiens – Huthi greifen Wolkenkratzer in Riad an – das steckt dahinter",
+     "url": "https://www.srf.ch/news/international/kratzer-am-lack-saudi-arabiens-huthi-greifen-wolkenkratzer-in-riad-an-das-steckt-dahinter",
+     "time": "2026-11-08T15:54:11Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Donna uccisa in casa nel Bergamasco, sospetti su uno dei due figli",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/donna-uccisa-in-casa-nel-bergamasco-sospetti-su-uno-dei-due-figli_b39b9cea-37fc-4f84-b83c-65de688c2ace.html",
-     "time": "2026-11-08T13:42:37Z"
+     "title": "F1: Brasile; vince Norris, quinto Antonelli, settima Ferrari Leclerc",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/f1-brasile-vince-norris-quinto-antonelli-settima-ferrari-leclerc_4a663955-ca50-4b69-a690-51538c767497.html",
+     "time": "2026-11-08T18:42:12Z"
     },
     {
-     "title": "Mattarella, rifuggire l'odio attraverso il dialogo tra comunità di diverse culture",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/mattarella-rifuggire-lodio-attraverso-il-dialogo-tra-comunita-di-diverse-culture_82cbc7b9-e927-46e1-9cac-67937665b398.html",
-     "time": "2026-11-08T13:17:36Z"
+     "title": "Tajani, 'Anac? Ritengo che domani al Cdm ci sarà la nomina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/tajani-anac-ritengo-che-domani-al-cdm-ci-sara-la-nomina_04693196-fa0a-4057-ae42-990f86d77735.html",
+     "time": "2026-11-08T18:24:11Z"
     },
     {
-     "title": "Lupi, i risparmi sulla scuola in manovra vadano ad aumenti degli stipendi dei docenti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/lupi-i-risparmi-sulla-scuola-in-manovra-vadano-ad-aumenti-degli-stipendi-dei_6fc5b33b-ceb8-4d2e-9cd7-911758430d9b.html",
-     "time": "2026-11-08T13:01:31Z"
+     "title": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/tajani-guerra-ibrida-colpisce-sistema-democratico-serve-segnale-forte-g7_53c17c3e-9277-4973-903b-cc80b6dca3d4.html",
+     "time": "2026-11-08T16:33:30Z"
     },
     {
-     "title": "Schlein, non faremo più il favore alle destre di dividerci",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/schlein-non-faremo-piu-il-favore-alle-destre-di-dividerci_47eb7620-fb1e-4a5a-abe9-ba52554397b8.html",
-     "time": "2026-11-08T12:53:56Z"
+     "title": "++ Donna uccisa in casa nel Bergamasco, fermato il figlio ++",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/-donna-uccisa-in-casa-nel-bergamasco-fermato-il-figlio-_964e0fa3-d177-490f-b68d-9dc6072ef032.html",
+     "time": "2026-11-08T16:02:49Z"
     },
     {
-     "title": "Parigi, europei e Francia saranno presenti al trilaterale di Abu Dhabi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/parigi-europei-e-francia-saranno-presenti-al-trilaterale-di-abu-dhabi_c71711dc-8371-47f6-a172-68d4c5e7a92d.html",
-     "time": "2026-11-08T11:54:59Z"
+     "title": "I finanziatori repubblicani scettici su Vance nel 2028, 'troppo legato a Trump'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/i-finanziatori-repubblicani-scettici-su-vance-nel-2028-troppo-legato-a-trump_ef8be563-d237-40ca-b85f-7748096f9e83.html",
+     "time": "2026-11-08T15:39:54Z"
     },
     {
-     "title": "Zelensky, stanotte raid russo su Komyshuvakha dove ancora si scava dopo strage",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/zelensky-stanotte-raid-russo-su-komyshuvakha-dove-ancora-si-scava-dopo-strage_b18f493c-703a-46cf-954b-b92fbea46a96.html",
-     "time": "2026-11-08T11:37:59Z"
+     "title": "Nuova uscita alla Casa Bianca, lascia un alleato di Susie Wiles",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/nuova-uscita-alla-casa-bianca-lascia-un-alleato-di-susie-wiles_efe0507e-74f1-4f6f-b141-a142226c354b.html",
+     "time": "2026-11-08T15:39:28Z"
     },
     {
-     "title": "Attacchi informatici, Piantedosi convoca Comitato sicurezza pubblica",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_a6695c00-6b7a-4dd2-926d-c94b2efad7f7.html",
-     "time": "2026-11-08T10:23:48Z"
+     "title": "Trump, l'America ha fatto un passo indietro nella storia con le elezioni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/trump-lamerica-ha-fatto-un-passo-indietro-nella-storia-con-le-elezioni_aec9da36-4cee-4e7d-9353-349ee23fdc2d.html",
+     "time": "2026-11-08T15:36:56Z"
     },
     {
-     "title": "Procura polacca, 'aperta un'inchiesta per terrorismo'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/procura-polacca-aperta-uninchiesta-per-terrorismo_fb04d711-9ade-431a-b143-30b70ffb9ccf.html",
-     "time": "2026-11-08T10:18:29Z"
+     "title": "Scontro fra due treni a Giza in Egitto, almeno 4 morti e 88 feriti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/scontro-fra-due-treni-a-giza-in-egitto-almeno-4-morti-e-88-feriti_ad29b771-a5fc-4afa-b69c-49fb8868e907.html",
+     "time": "2026-11-08T15:19:59Z"
     },
     {
-     "title": "Bankitalia, per imprese familiari passaggio generazioni cruciale, entrino nuovi soci",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/bankitalia-per-imprese-familiari-passaggio-generazioni-cruciale-entrino-nuovi-soci_7cbdc055-274f-4ddc-9ec5-1884fb54e748.html",
-     "time": "2026-11-08T09:46:23Z"
+     "title": "Herzog affida a Eisenkot incarico di formare nuovo governo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/herzog-affida-a-eisenkot-incarico-di-formare-nuovo-governo_1280d231-aba3-47f9-9a66-1a7285aa5dd0.html",
+     "time": "2026-11-08T15:15:45Z"
     },
     {
-     "title": "Media: 'Dana White incontrerà Trump alla Casa Bianca lunedì'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/media-dana-white-incontrera-trump-alla-casa-bianca-lunedi_d82095ae-72ee-4c48-8caf-68bd444782d6.html",
-     "time": "2026-11-08T03:42:53Z"
+     "title": "Anp, a Gaza 400.000 sfollati in aree a forte rischio per le inondazioni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/anp-a-gaza-400.000-sfollati-in-aree-a-forte-rischio-per-le-inondazioni_04ff7a1a-a31b-44f5-aa2d-ec995c715187.html",
+     "time": "2026-11-08T14:29:30Z"
     }
    ]
   },
@@ -215,9 +215,29 @@
    "countries": [],
    "items": [
     {
-     "title": "What we know so far after Krakow gun attack",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-08T11:22:17Z"
+     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+     "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T18:22:53Z"
+    },
+    {
+     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T17:35:13Z"
+    },
+    {
+     "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+     "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T16:05:57Z"
+    },
+    {
+     "title": "Homes and temples glow across India to mark Diwali",
+     "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T14:42:09Z"
+    },
+    {
+     "title": "Iran executes three men for 'armed unrest' after January protests",
+     "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T13:37:50Z"
     },
     {
      "title": "How the deadly shooting in Krakow unfolded",
@@ -240,11 +260,6 @@
      "time": "2026-11-08T00:48:59Z"
     },
     {
-     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T22:19:59Z"
-    },
-    {
      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-07T21:36:16Z"
@@ -258,21 +273,6 @@
      "title": "US offers $20m reward for information about Iran's nuclear programme",
      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-07T18:14:38Z"
-    },
-    {
-     "title": "Gaza wedding festival sees 250 couples married at the same time",
-     "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T17:58:41Z"
-    },
-    {
-     "title": "Italian foreign minister says hackers leaked his personal data",
-     "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T16:50:06Z"
-    },
-    {
-     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T15:19:35Z"
     }
    ]
   }
