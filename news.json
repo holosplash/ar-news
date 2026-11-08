@@ -1,6 +1,6 @@
 {
- "version": 164,
- "updated": "2026-11-08T00:24:18Z",
+ "version": 165,
+ "updated": "2026-11-08T06:37:01Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,14 +15,39 @@
    ],
    "items": [
     {
-     "title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
-     "time": "2026-11-08T00:14:21Z"
+     "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
+     "url": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
+     "time": "2026-11-08T06:01:58Z"
+    },
+    {
+     "title": "US-Militär greift Handelsschiff im Golf von Oman an",
+     "url": "https://www.tagesschau.de/video/video-1680114.html",
+     "time": "2026-11-08T05:31:02Z"
+    },
+    {
+     "title": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
+     "time": "2026-11-08T03:28:25Z"
+    },
+    {
+     "title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
+     "time": "2026-11-08T02:28:44Z"
+    },
+    {
+     "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
+     "url": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
+     "time": "2026-11-08T01:50:38Z"
     },
     {
      "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-     "time": "2026-11-07T23:00:48Z"
+     "time": "2026-11-08T01:27:38Z"
+    },
+    {
+     "title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
+     "time": "2026-11-08T00:14:21Z"
     },
     {
      "title": "tagesthemen",
@@ -48,31 +73,6 @@
      "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
      "time": "2026-11-07T21:51:26Z"
-    },
-    {
-     "title": "Deutsche Eishockey-Frauen siegen zum WM-Start",
-     "url": "https://www.sportschau.de/eishockey/deutsche-eishockey-frauen-siegen-zum-wm-start,spielbericht-wm-frauen-deutschland-oesterreich-102.html",
-     "time": "2026-11-07T21:01:26Z"
-    },
-    {
-     "title": "Stuttgart zittert sich gegen Bremen zum Topspiel-Sieg",
-     "url": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-     "time": "2026-11-07T20:54:52Z"
-    },
-    {
-     "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
-     "url": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
-     "time": "2026-11-07T20:33:23Z"
-    },
-    {
-     "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
-     "url": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
-     "time": "2026-11-07T20:31:48Z"
-    },
-    {
-     "title": "Netanjahu-Rivale Gadi Eisenkot soll Regierung in Israel bilden",
-     "url": "https://www.tagesschau.de/video/video-1680074.html",
-     "time": "2026-11-07T20:21:01Z"
     }
    ]
   },
@@ -85,14 +85,24 @@
    ],
    "items": [
     {
-     "title": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
-     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
-     "time": "2026-11-08T00:23:03Z"
+     "title": "Krieg im Nahen Osten – Israel: Gadi Eisenkot mit Regierungsbildung beauftragt",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-gadi-eisenkot-mit-regierungsbildung-beauftragt",
+     "time": "2026-11-08T06:21:56Z"
     },
     {
-     "title": "Polen – Schüsse in Krakau: Drei Tote im Haus des Schützen gefunden",
-     "url": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-drei-tote-im-haus-des-schuetzen-gefunden",
-     "time": "2026-11-07T23:18:30Z"
+     "title": "Bilder der Woche – Eine begehbare Riesen-Prostata und weitere Bildperlen",
+     "url": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-eine-begehbare-riesen-prostata-und-weitere-bildperlen",
+     "time": "2026-11-08T06:00:02Z"
+    },
+    {
+     "title": "Polen – Tödliche Schüsse in Krakau – das ist bekannt",
+     "url": "https://www.srf.ch/news/international/polen-toedliche-schuesse-in-krakau-das-ist-bekannt",
+     "time": "2026-11-08T02:10:45Z"
+    },
+    {
+     "title": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
+     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
+     "time": "2026-11-08T00:26:33Z"
     },
     {
      "title": "1:1 im Kellerduell – Magnin punktet bei Rückkehr – Janssens Warten geht weiter",
@@ -103,11 +113,6 @@
      "title": "Biodiversität und Klimaschutz – Indien kämpft mit künstlichen Korallenriffen gegen Insel-Erosion",
      "url": "https://www.srf.ch/news/international/biodiversitaet-und-klimaschutz-indien-kaempft-mit-kuenstlichen-korallenriffen-gegen-insel-erosion",
      "time": "2026-11-07T20:38:16Z"
-    },
-    {
-     "title": "Krieg im Nahen Osten – Israel: Gadi Eisenkot mit Regierungsbildung beauftragt",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-gadi-eisenkot-mit-regierungsbildung-beauftragt",
-     "time": "2026-11-07T20:33:17Z"
     },
     {
      "title": "Formel 1: GP Brasilien – Verregnetes Qualifying spült Norris auf die Pole – Hülkenberg 4.",
@@ -138,11 +143,6 @@
      "title": "SIHF bezieht Position – U20-Eishockeynati tritt an WM nicht gegen Russland an",
      "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/sihf-bezieht-position-u20-eishockeynati-tritt-an-wm-nicht-gegen-russland-an",
      "time": "2026-11-07T19:25:30Z"
-    },
-    {
-     "title": "Siegtor in der 92. Minute – Dank Essende und viel Dusel: YB gewinnt in Luzern",
-     "url": "https://www.srf.ch/sport/fussball/super-league/siegtor-in-der-92-minute-dank-essende-und-viel-dusel-yb-gewinnt-in-luzern",
-     "time": "2026-11-07T19:15:22Z"
     }
    ]
   },
@@ -156,6 +156,11 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Media: 'Dana White incontrerà Trump alla Casa Bianca lunedì'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/media-dana-white-incontrera-trump-alla-casa-bianca-lunedi_d82095ae-72ee-4c48-8caf-68bd444782d6.html",
+     "time": "2026-11-08T03:42:53Z"
+    },
     {
      "title": "Trump ai sostenitori, 'userò il potere di veto, Maga non molla se risultati deludenti'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/trump-ai-sostenitori-usero-il-potere-di-veto-maga-non-molla-se-risultati-deludenti_217d82e7-6eb8-4712-ae99-53db47194642.html",
@@ -200,11 +205,6 @@
      "title": "Il monito del Papa, 'nessuno dovrebbe andare a letto senza mangiare'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/il-monito-del-papa-nessuno-dovrebbe-andare-a-letto-senza-mangiare_da99786a-ec6a-4d1a-9466-65e8311c840d.html",
      "time": "2026-11-07T20:55:55Z"
-    },
-    {
-     "title": "Herzog affida il governo a Eisenkot, incarico domani alle 17",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_765b365b-e15b-47e0-b857-d5568e77626e.html",
-     "time": "2026-11-07T19:33:33Z"
     }
    ]
   },
@@ -215,9 +215,14 @@
    "countries": [],
    "items": [
     {
+     "title": "Houthis say at least 33 killed in Saudi air strike",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T04:03:12Z"
+    },
+    {
      "title": "What we know so far after Krakow gun attack",
      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T22:58:49Z"
+     "time": "2026-11-08T01:47:41Z"
     },
     {
      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -238,11 +243,6 @@
      "title": "Gaza wedding festival sees 250 couples married at the same time",
      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-07T17:58:41Z"
-    },
-    {
-     "title": "Houthis say at least 25 killed in Saudi air strike",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T17:09:24Z"
     },
     {
      "title": "Italian foreign minister says hackers leaked his personal data",
