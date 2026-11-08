@@ -1,6 +1,6 @@
 {
- "version": 165,
- "updated": "2026-11-08T06:37:01Z",
+ "version": 166,
+ "updated": "2026-11-08T13:50:12Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
+     "time": "2026-11-08T13:31:29Z"
+    },
+    {
+     "title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
+     "time": "2026-11-08T12:05:57Z"
+    },
+    {
+     "title": "Feuerwerks- und Drohnenfestival in London, Kunst in Gizeh, Herbst in New York",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10554.html",
+     "time": "2026-11-08T11:30:30Z"
+    },
+    {
+     "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+     "url": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
+     "time": "2026-11-08T11:19:37Z"
+    },
+    {
+     "title": "Massive Stromausfälle nach russischen Angriffen auf Ukraine",
+     "url": "https://www.tagesschau.de/video/video-1680170.html",
+     "time": "2026-11-08T11:15:10Z"
+    },
+    {
      "title": "US-Militär attackiert Handelsschiff im Golf von Oman",
      "url": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
-     "time": "2026-11-08T06:01:58Z"
+     "time": "2026-11-08T11:04:42Z"
     },
     {
-     "title": "US-Militär greift Handelsschiff im Golf von Oman an",
-     "url": "https://www.tagesschau.de/video/video-1680114.html",
-     "time": "2026-11-08T05:31:02Z"
+     "title": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
+     "url": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html",
+     "time": "2026-11-08T10:32:46Z"
     },
     {
-     "title": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
-     "time": "2026-11-08T03:28:25Z"
+     "title": "\"Aus Käfigkampf-Branche\", Felix Edeha, ARD-aktuell, zu Dana White als möglichen neuen Pressesprecher Trumps",
+     "url": "https://www.tagesschau.de/video/video-1680156.html",
+     "time": "2026-11-08T10:28:48Z"
     },
     {
-     "title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
-     "time": "2026-11-08T02:28:44Z"
+     "title": "\"In kritischem Zustand\", Palina Milling, ARD Warschau, zu mutmaßlichem Attentäter von Krakau",
+     "url": "https://www.tagesschau.de/video/video-1680154.html",
+     "time": "2026-11-08T10:14:47Z"
     },
     {
-     "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
-     "url": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
-     "time": "2026-11-08T01:50:38Z"
+     "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
+     "time": "2026-11-08T09:59:49Z"
     },
     {
-     "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-     "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-     "time": "2026-11-08T01:27:38Z"
+     "title": "Familienmitglieder des Schützen ebenfalls getötet",
+     "url": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
+     "time": "2026-11-08T09:58:10Z"
     },
     {
-     "title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
-     "time": "2026-11-08T00:14:21Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12968.html",
-     "time": "2026-11-07T22:53:12Z"
-    },
-    {
-     "title": "US-Präsident Trump baut sein Team um: Stephen Miller wird neuer Stabschef im Weißen Haus",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1680088.html",
-     "time": "2026-11-07T22:49:43Z"
-    },
-    {
-     "title": "Französischer Linkspolitiker Jean-Luc Mélenchon stellt Wahlprogramm vor",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1680090.html",
-     "time": "2026-11-07T22:49:36Z"
-    },
-    {
-     "title": "Tote und Verletzte nach Schüssen in Krakau",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1680086.html",
-     "time": "2026-11-07T22:42:38Z"
-    },
-    {
-     "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
-     "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-     "time": "2026-11-07T21:51:26Z"
+     "title": "Israels Präsident Herzog will Oppositionspolitiker Eisenkot Auftrag zur Regierungsbildung erteilen",
+     "url": "https://www.tagesschau.de/video/video-1680146.html",
+     "time": "2026-11-08T09:03:46Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Krieg im Nahen Osten – Israel: Gadi Eisenkot mit Regierungsbildung beauftragt",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-gadi-eisenkot-mit-regierungsbildung-beauftragt",
-     "time": "2026-11-08T06:21:56Z"
+     "title": "Ein Leben für den Üetliberg – Der Zürcher Hausberg verliert mit Margrith Gysel seine Wächterin",
+     "url": "https://www.srf.ch/news/schweiz/ein-leben-fuer-den-ueetliberg-der-zuercher-hausberg-verliert-mit-margrith-gysel-seine-waechterin",
+     "time": "2026-11-08T13:33:48Z"
     },
     {
-     "title": "Bilder der Woche – Eine begehbare Riesen-Prostata und weitere Bildperlen",
-     "url": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-eine-begehbare-riesen-prostata-und-weitere-bildperlen",
-     "time": "2026-11-08T06:00:02Z"
+     "title": "Internationale Fussball-News – Erneuter Ausfall: Sehnenteilriss bei Neuer",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-erneuter-ausfall-sehnenteilriss-bei-neuer",
+     "time": "2026-11-08T12:56:03Z"
     },
     {
-     "title": "Polen – Tödliche Schüsse in Krakau – das ist bekannt",
-     "url": "https://www.srf.ch/news/international/polen-toedliche-schuesse-in-krakau-das-ist-bekannt",
-     "time": "2026-11-08T02:10:45Z"
+     "title": "Von Natur aus fast unsterblich – Das Geheimnis eines langen Lebens",
+     "url": "https://www.srf.ch/news/dialog/von-natur-aus-fast-unsterblich-das-geheimnis-eines-langen-lebens",
+     "time": "2026-11-08T12:52:49Z"
     },
     {
-     "title": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
-     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
-     "time": "2026-11-08T00:26:33Z"
+     "title": "Midterms 2026 – Trump will gegen die Demokraten ermitteln lassen",
+     "url": "https://www.srf.ch/news/international/midterms-2026-trump-will-gegen-die-demokraten-ermitteln-lassen",
+     "time": "2026-11-08T12:37:57Z"
     },
     {
-     "title": "1:1 im Kellerduell – Magnin punktet bei Rückkehr – Janssens Warten geht weiter",
-     "url": "https://www.srf.ch/sport/fussball/super-league/1-1-im-kellerduell-magnin-punktet-bei-rueckkehr-janssens-warten-geht-weiter",
-     "time": "2026-11-07T21:46:16Z"
+     "title": "Ausgezeichnete Forschung – Die Erde ist ebenso Kugel wie Scheibe – aber kein Donut",
+     "url": "https://www.srf.ch/wissen/forschung/ausgezeichnete-forschung-die-erde-ist-ebenso-kugel-wie-scheibe-aber-kein-donut",
+     "time": "2026-11-08T12:16:03Z"
     },
     {
-     "title": "Biodiversität und Klimaschutz – Indien kämpft mit künstlichen Korallenriffen gegen Insel-Erosion",
-     "url": "https://www.srf.ch/news/international/biodiversitaet-und-klimaschutz-indien-kaempft-mit-kuenstlichen-korallenriffen-gegen-insel-erosion",
-     "time": "2026-11-07T20:38:16Z"
+     "title": "An der WM in Katar – Nach Gold legen Schweizer Gewehrschützinnen Silber nach",
+     "url": "https://www.srf.ch/sport/mehr-sport/schiessen/an-der-wm-in-katar-nach-gold-legen-schweizer-gewehrschuetzinnen-silber-nach",
+     "time": "2026-11-08T12:04:12Z"
     },
     {
-     "title": "Formel 1: GP Brasilien – Verregnetes Qualifying spült Norris auf die Pole – Hülkenberg 4.",
-     "url": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-gp-brasilien-verregnetes-qualifying-spuelt-norris-auf-die-pole-huelkenberg-4",
-     "time": "2026-11-07T20:30:35Z"
+     "title": "Laudatio vom Bundesrat – «Prix Suisse» für ETH-Professor und Ex-Nasa-Direktor Zurbuchen",
+     "url": "https://www.srf.ch/news/schweiz/laudatio-vom-bundesrat-prix-suisse-fuer-eth-professor-und-ex-nasa-direktor-zurbuchen",
+     "time": "2026-11-08T11:38:03Z"
     },
     {
-     "title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
-     "url": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative",
-     "time": "2026-11-07T20:03:58Z"
+     "title": "Wahlen Kanton Freiburg – Verliert die deutschsprachige Minderheit Sitze in der Regierung?",
+     "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-verliert-die-deutschsprachige-minderheit-sitze-in-der-regierung",
+     "time": "2026-11-08T11:18:08Z"
     },
     {
-     "title": "Trauerfeier nach Todesfall – Teneriffa nimmt unter Tränen Abschied von de Miguel",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/trauerfeier-nach-todesfall-teneriffa-nimmt-unter-traenen-abschied-von-de-miguel",
-     "time": "2026-11-07T20:03:13Z"
+     "title": "Wiedersehen dank «Happy Day» – Livia trifft nach 28 Jahren ihre leibliche Mutter in Mexiko",
+     "url": "https://www.srf.ch/sendungen/unterhaltungssendungen/wiedersehen-dank-happy-day-livia-trifft-nach-28-jahren-ihre-leibliche-mutter-in-mexiko",
+     "time": "2026-11-08T10:59:46Z"
     },
     {
-     "title": "Economiesuisse-Präsident – «Es tut weh, wenn sehr gut ausgebildete Junge keinen Job finden»",
-     "url": "https://www.srf.ch/news/schweiz/economiesuisse-praesident-es-tut-weh-wenn-sehr-gut-ausgebildete-junge-keinen-job-finden",
-     "time": "2026-11-07T19:57:36Z"
+     "title": "Autobiografischer Roman – «Mein privates Glück»: Schreiben ist stärker als der Tod",
+     "url": "https://www.srf.ch/kultur/literatur/autobiografischer-roman-mein-privates-glueck-schreiben-ist-staerker-als-der-tod",
+     "time": "2026-11-08T10:46:15Z"
     },
     {
-     "title": "Midterms 2026 – US-Präsident Trump schlägt Kampfsportler als Pressesprecher vor",
-     "url": "https://www.srf.ch/news/international/midterms-2026-us-praesident-trump-schlaegt-kampfsportler-als-pressesprecher-vor",
-     "time": "2026-11-07T19:44:02Z"
+     "title": "Polen – Schüsse in Krakau – Justiz ermittelt wegen Terrorismus",
+     "url": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-justiz-ermittelt-wegen-terrorismus",
+     "time": "2026-11-08T10:40:51Z"
     },
     {
-     "title": "SIHF bezieht Position – U20-Eishockeynati tritt an WM nicht gegen Russland an",
-     "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/sihf-bezieht-position-u20-eishockeynati-tritt-an-wm-nicht-gegen-russland-an",
-     "time": "2026-11-07T19:25:30Z"
+     "title": "Nun stehen die MLS-Playoffs an – Messi gewinnt seinen 2. Goldenen Schuh",
+     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/nun-stehen-die-mls-playoffs-an-messi-gewinnt-seinen-2-goldenen-schuh",
+     "time": "2026-11-08T10:38:55Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
+     "title": "Donna uccisa in casa nel Bergamasco, sospetti su uno dei due figli",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/donna-uccisa-in-casa-nel-bergamasco-sospetti-su-uno-dei-due-figli_b39b9cea-37fc-4f84-b83c-65de688c2ace.html",
+     "time": "2026-11-08T13:42:37Z"
+    },
+    {
+     "title": "Mattarella, rifuggire l'odio attraverso il dialogo tra comunità di diverse culture",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/mattarella-rifuggire-lodio-attraverso-il-dialogo-tra-comunita-di-diverse-culture_82cbc7b9-e927-46e1-9cac-67937665b398.html",
+     "time": "2026-11-08T13:17:36Z"
+    },
+    {
+     "title": "Lupi, i risparmi sulla scuola in manovra vadano ad aumenti degli stipendi dei docenti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/lupi-i-risparmi-sulla-scuola-in-manovra-vadano-ad-aumenti-degli-stipendi-dei_6fc5b33b-ceb8-4d2e-9cd7-911758430d9b.html",
+     "time": "2026-11-08T13:01:31Z"
+    },
+    {
+     "title": "Schlein, non faremo più il favore alle destre di dividerci",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/schlein-non-faremo-piu-il-favore-alle-destre-di-dividerci_47eb7620-fb1e-4a5a-abe9-ba52554397b8.html",
+     "time": "2026-11-08T12:53:56Z"
+    },
+    {
+     "title": "Parigi, europei e Francia saranno presenti al trilaterale di Abu Dhabi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/parigi-europei-e-francia-saranno-presenti-al-trilaterale-di-abu-dhabi_c71711dc-8371-47f6-a172-68d4c5e7a92d.html",
+     "time": "2026-11-08T11:54:59Z"
+    },
+    {
+     "title": "Zelensky, stanotte raid russo su Komyshuvakha dove ancora si scava dopo strage",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/zelensky-stanotte-raid-russo-su-komyshuvakha-dove-ancora-si-scava-dopo-strage_b18f493c-703a-46cf-954b-b92fbea46a96.html",
+     "time": "2026-11-08T11:37:59Z"
+    },
+    {
+     "title": "Attacchi informatici, Piantedosi convoca Comitato sicurezza pubblica",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_a6695c00-6b7a-4dd2-926d-c94b2efad7f7.html",
+     "time": "2026-11-08T10:23:48Z"
+    },
+    {
+     "title": "Procura polacca, 'aperta un'inchiesta per terrorismo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/procura-polacca-aperta-uninchiesta-per-terrorismo_fb04d711-9ade-431a-b143-30b70ffb9ccf.html",
+     "time": "2026-11-08T10:18:29Z"
+    },
+    {
+     "title": "Bankitalia, per imprese familiari passaggio generazioni cruciale, entrino nuovi soci",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/bankitalia-per-imprese-familiari-passaggio-generazioni-cruciale-entrino-nuovi-soci_7cbdc055-274f-4ddc-9ec5-1884fb54e748.html",
+     "time": "2026-11-08T09:46:23Z"
+    },
+    {
      "title": "Media: 'Dana White incontrerà Trump alla Casa Bianca lunedì'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/media-dana-white-incontrera-trump-alla-casa-bianca-lunedi_d82095ae-72ee-4c48-8caf-68bd444782d6.html",
      "time": "2026-11-08T03:42:53Z"
-    },
-    {
-     "title": "Trump ai sostenitori, 'userò il potere di veto, Maga non molla se risultati deludenti'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/trump-ai-sostenitori-usero-il-potere-di-veto-maga-non-molla-se-risultati-deludenti_217d82e7-6eb8-4712-ae99-53db47194642.html",
-     "time": "2026-11-07T23:15:41Z"
-    },
-    {
-     "title": "Candele accese vicino alla piazza principale di Cracovia dopo la strage",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_b348a665-5f2d-4094-b047-7aa6448a6a48.html",
-     "time": "2026-11-07T23:11:39Z"
-    },
-    {
-     "title": "In migliaia al Pride Lgbt+ di Buenos Aires prima della visita del Papa",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/in-migliaia-al-pride-lgbt-di-buenos-aires-prima-della-visita-del-papa_f143771f-cb16-4fd1-a98f-48988d6de0c6.html",
-     "time": "2026-11-07T22:43:50Z"
-    },
-    {
-     "title": "Tusk, 'i due agenti feriti nella sparatoria a Cracovia sono dei veri eroi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/tusk-i-due-agenti-feriti-nella-sparatoria-a-cracovia-sono-dei-veri_06e63e53-804b-47ba-965e-b45e3b78fb97.html",
-     "time": "2026-11-07T22:13:56Z"
-    },
-    {
-     "title": "'Dana White respinge l'offerta di Trump come portavoce della Casa Bianca'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/dana-white-respinge-lofferta-di-trump-come-portavoce-della-casa-bianca_d40964d5-6f65-44bf-aa23-40894e49202d.html",
-     "time": "2026-11-07T21:46:25Z"
-    },
-    {
-     "title": "Tusk, 'ritrovati tre corpi nella casa dell'attentatore di Cracovia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/tusk-ritrovati-tre-corpi-nella-casa-dellattentatore-di-cracovia_21bc52f8-2062-4637-8467-812b3634b198.html",
-     "time": "2026-11-07T21:42:04Z"
-    },
-    {
-     "title": "Ministro interni polacco, 'il killer affascinato da ideologie di estrema destra'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/ministro-interni-polacco-il-killer-affascinato-da-ideologie-di-estrema-destra_281128ae-e042-4f84-875d-fccedfa87363.html",
-     "time": "2026-11-07T21:39:59Z"
-    },
-    {
-     "title": "Tusk, 'non abbiamo mai avuto casi di terrorismo così efferati prima d'ora'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/tusk-non-abbiamo-mai-avuto-casi-di-terrorismo-cosi-efferati-prima_2c2968bf-cffa-4a8f-8818-01ae9bc89416.html",
-     "time": "2026-11-07T21:39:26Z"
-    },
-    {
-     "title": "Il monito del Papa, 'nessuno dovrebbe andare a letto senza mangiare'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/il-monito-del-papa-nessuno-dovrebbe-andare-a-letto-senza-mangiare_da99786a-ec6a-4d1a-9466-65e8311c840d.html",
-     "time": "2026-11-07T20:55:55Z"
     }
    ]
   },
@@ -215,19 +215,39 @@
    "countries": [],
    "items": [
     {
+     "title": "What we know so far after Krakow gun attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T11:22:17Z"
+    },
+    {
+     "title": "How the deadly shooting in Krakow unfolded",
+     "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T09:29:24Z"
+    },
+    {
      "title": "Houthis say at least 33 killed in Saudi air strike",
      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-08T04:03:12Z"
     },
     {
-     "title": "What we know so far after Krakow gun attack",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-08T01:47:41Z"
+     "title": "The Trump coalition is shattered - what will Republicans do now?",
+     "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T00:52:39Z"
+    },
+    {
+     "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+     "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T00:48:59Z"
     },
     {
      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-07T22:19:59Z"
+    },
+    {
+     "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-07T21:36:16Z"
     },
     {
      "title": "Paraguay's former president charged after bank collapse",
@@ -250,29 +270,9 @@
      "time": "2026-11-07T16:50:06Z"
     },
     {
-     "title": "No clear winner after tight New Zealand general election",
-     "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T15:56:28Z"
-    },
-    {
      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-07T15:19:35Z"
-    },
-    {
-     "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T12:49:36Z"
-    },
-    {
-     "title": "Four things we learned this week about 2028 White House race",
-     "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T12:23:28Z"
-    },
-    {
-     "title": "Texas mayor instructs police to limit co-operation with ICE",
-     "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T08:15:55Z"
     }
    ]
   }
