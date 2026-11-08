@@ -1,6 +1,6 @@
 {
- "version": 163,
- "updated": "2026-11-07T20:48:15Z",
+ "version": 164,
+ "updated": "2026-11-08T00:24:18Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,49 @@
    ],
    "items": [
     {
+     "title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
+     "time": "2026-11-08T00:14:21Z"
+    },
+    {
+     "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+     "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+     "time": "2026-11-07T23:00:48Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12968.html",
+     "time": "2026-11-07T22:53:12Z"
+    },
+    {
+     "title": "US-Präsident Trump baut sein Team um: Stephen Miller wird neuer Stabschef im Weißen Haus",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1680088.html",
+     "time": "2026-11-07T22:49:43Z"
+    },
+    {
+     "title": "Französischer Linkspolitiker Jean-Luc Mélenchon stellt Wahlprogramm vor",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1680090.html",
+     "time": "2026-11-07T22:49:36Z"
+    },
+    {
+     "title": "Tote und Verletzte nach Schüssen in Krakau",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1680086.html",
+     "time": "2026-11-07T22:42:38Z"
+    },
+    {
+     "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
+     "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+     "time": "2026-11-07T21:51:26Z"
+    },
+    {
+     "title": "Deutsche Eishockey-Frauen siegen zum WM-Start",
+     "url": "https://www.sportschau.de/eishockey/deutsche-eishockey-frauen-siegen-zum-wm-start,spielbericht-wm-frauen-deutschland-oesterreich-102.html",
+     "time": "2026-11-07T21:01:26Z"
+    },
+    {
      "title": "Stuttgart zittert sich gegen Bremen zum Topspiel-Sieg",
      "url": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
-     "time": "2026-11-07T20:37:35Z"
+     "time": "2026-11-07T20:54:52Z"
     },
     {
      "title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
@@ -30,49 +70,9 @@
      "time": "2026-11-07T20:31:48Z"
     },
     {
-     "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
-     "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-     "time": "2026-11-07T20:25:04Z"
-    },
-    {
      "title": "Netanjahu-Rivale Gadi Eisenkot soll Regierung in Israel bilden",
      "url": "https://www.tagesschau.de/video/video-1680074.html",
      "time": "2026-11-07T20:21:01Z"
-    },
-    {
-     "title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
-     "url": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
-     "time": "2026-11-07T19:56:52Z"
-    },
-    {
-     "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680048.html",
-     "time": "2026-11-07T19:39:46Z"
-    },
-    {
-     "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-     "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-     "time": "2026-11-07T19:38:37Z"
-    },
-    {
-     "title": "Tote nach Schüssen auf Marktplatz in der polnischen Metropole Krakau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680044.html",
-     "time": "2026-11-07T19:35:52Z"
-    },
-    {
-     "title": "Stephen Miller wird Trumps neuer Stabschef",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680032.html",
-     "time": "2026-11-07T19:26:09Z"
-    },
-    {
-     "title": "Heftige russische Angriffe auf die Ukraine - erneut Energieversorgung im Fokus",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680034.html",
-     "time": "2026-11-07T19:25:48Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81932.html",
-     "time": "2026-11-07T19:17:00Z"
     }
    ]
   },
@@ -84,6 +84,21 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
+     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
+     "time": "2026-11-08T00:23:03Z"
+    },
+    {
+     "title": "Polen – Schüsse in Krakau: Drei Tote im Haus des Schützen gefunden",
+     "url": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-drei-tote-im-haus-des-schuetzen-gefunden",
+     "time": "2026-11-07T23:18:30Z"
+    },
+    {
+     "title": "1:1 im Kellerduell – Magnin punktet bei Rückkehr – Janssens Warten geht weiter",
+     "url": "https://www.srf.ch/sport/fussball/super-league/1-1-im-kellerduell-magnin-punktet-bei-rueckkehr-janssens-warten-geht-weiter",
+     "time": "2026-11-07T21:46:16Z"
+    },
     {
      "title": "Biodiversität und Klimaschutz – Indien kämpft mit künstlichen Korallenriffen gegen Insel-Erosion",
      "url": "https://www.srf.ch/news/international/biodiversitaet-und-klimaschutz-indien-kaempft-mit-kuenstlichen-korallenriffen-gegen-insel-erosion",
@@ -98,11 +113,6 @@
      "title": "Formel 1: GP Brasilien – Verregnetes Qualifying spült Norris auf die Pole – Hülkenberg 4.",
      "url": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-gp-brasilien-verregnetes-qualifying-spuelt-norris-auf-die-pole-huelkenberg-4",
      "time": "2026-11-07T20:30:35Z"
-    },
-    {
-     "title": "Polen – Sechs Tote und über ein Dutzend Verletzte bei Schüssen in Krakau",
-     "url": "https://www.srf.ch/news/international/polen-sechs-tote-und-ueber-ein-dutzend-verletzte-bei-schuessen-in-krakau",
-     "time": "2026-11-07T20:18:41Z"
     },
     {
      "title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
@@ -133,16 +143,6 @@
      "title": "Siegtor in der 92. Minute – Dank Essende und viel Dusel: YB gewinnt in Luzern",
      "url": "https://www.srf.ch/sport/fussball/super-league/siegtor-in-der-92-minute-dank-essende-und-viel-dusel-yb-gewinnt-in-luzern",
      "time": "2026-11-07T19:15:22Z"
-    },
-    {
-     "title": "Klinische Studien – Pharma: Streit um Ethikkommissionen bremst Forschung",
-     "url": "https://www.srf.ch/news/wirtschaft/klinische-studien-pharma-streit-um-ethikkommissionen-bremst-forschung",
-     "time": "2026-11-07T17:52:27Z"
-    },
-    {
-     "title": "Brotkäfer im Museum – Schädling zwingt Genf zu Millionenaktion",
-     "url": "https://www.srf.ch/news/dialog/brotkaefer-im-museum-schaedling-zwingt-genf-zu-millionenaktion",
-     "time": "2026-11-07T17:45:41Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
+     "title": "Trump ai sostenitori, 'userò il potere di veto, Maga non molla se risultati deludenti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/trump-ai-sostenitori-usero-il-potere-di-veto-maga-non-molla-se-risultati-deludenti_217d82e7-6eb8-4712-ae99-53db47194642.html",
+     "time": "2026-11-07T23:15:41Z"
+    },
+    {
+     "title": "Candele accese vicino alla piazza principale di Cracovia dopo la strage",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/candele-accese-vicino-alla-piazza-principale-di-cracovia-dopo-la-strage_b348a665-5f2d-4094-b047-7aa6448a6a48.html",
+     "time": "2026-11-07T23:11:39Z"
+    },
+    {
+     "title": "In migliaia al Pride Lgbt+ di Buenos Aires prima della visita del Papa",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/in-migliaia-al-pride-lgbt-di-buenos-aires-prima-della-visita-del-papa_f143771f-cb16-4fd1-a98f-48988d6de0c6.html",
+     "time": "2026-11-07T22:43:50Z"
+    },
+    {
+     "title": "Tusk, 'i due agenti feriti nella sparatoria a Cracovia sono dei veri eroi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/tusk-i-due-agenti-feriti-nella-sparatoria-a-cracovia-sono-dei-veri_06e63e53-804b-47ba-965e-b45e3b78fb97.html",
+     "time": "2026-11-07T22:13:56Z"
+    },
+    {
+     "title": "'Dana White respinge l'offerta di Trump come portavoce della Casa Bianca'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/dana-white-respinge-lofferta-di-trump-come-portavoce-della-casa-bianca_d40964d5-6f65-44bf-aa23-40894e49202d.html",
+     "time": "2026-11-07T21:46:25Z"
+    },
+    {
+     "title": "Tusk, 'ritrovati tre corpi nella casa dell'attentatore di Cracovia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/tusk-ritrovati-tre-corpi-nella-casa-dellattentatore-di-cracovia_21bc52f8-2062-4637-8467-812b3634b198.html",
+     "time": "2026-11-07T21:42:04Z"
+    },
+    {
+     "title": "Ministro interni polacco, 'il killer affascinato da ideologie di estrema destra'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/ministro-interni-polacco-il-killer-affascinato-da-ideologie-di-estrema-destra_281128ae-e042-4f84-875d-fccedfa87363.html",
+     "time": "2026-11-07T21:39:59Z"
+    },
+    {
+     "title": "Tusk, 'non abbiamo mai avuto casi di terrorismo così efferati prima d'ora'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/tusk-non-abbiamo-mai-avuto-casi-di-terrorismo-cosi-efferati-prima_2c2968bf-cffa-4a8f-8818-01ae9bc89416.html",
+     "time": "2026-11-07T21:39:26Z"
+    },
+    {
+     "title": "Il monito del Papa, 'nessuno dovrebbe andare a letto senza mangiare'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/il-monito-del-papa-nessuno-dovrebbe-andare-a-letto-senza-mangiare_da99786a-ec6a-4d1a-9466-65e8311c840d.html",
+     "time": "2026-11-07T20:55:55Z"
+    },
+    {
      "title": "Herzog affida il governo a Eisenkot, incarico domani alle 17",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_765b365b-e15b-47e0-b857-d5568e77626e.html",
      "time": "2026-11-07T19:33:33Z"
-    },
-    {
-     "title": "Partito di Eisenkot invita il Likud a unirsi al prossimo governo 'ma senza estremisti'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/partito-di-eisenkot-invita-il-likud-a-unirsi-al-prossimo-governo-ma-senza-estremisti_0cfe0519-981b-4fae-8473-1196cbe267a2.html",
-     "time": "2026-11-07T19:28:36Z"
-    },
-    {
-     "title": "Liceali italiani in piazza a Cracovia durante gli spari,messi in salvo dall'ambasciata",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/liceali-italiani-in-piazza-a-cracovia-durante-gli-sparimessi-in-salvo-dallambasciata_381fa448-e9a6-47fd-9747-109b59e9acaf.html",
-     "time": "2026-11-07T19:25:18Z"
-    },
-    {
-     "title": "Morto pilota al Rally di Scandicci, gara annullata",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/morto-pilota-al-rally-di-scandicci-gara-annullata_b92de94a-7253-467d-9a88-8ab24e358748.html",
-     "time": "2026-11-07T19:12:15Z"
-    },
-    {
-     "title": "Trump ha chiesto al numero uno dell'Ufc di essere il portavoce della Casa Bianca",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/trump-ha-chiesto-al-numero-uno-dellufc-di-essere-il-portavoce-della-casa-bianca_50405359-dd02-4160-8639-2218ce3cc396.html",
-     "time": "2026-11-07T18:52:17Z"
-    },
-    {
-     "title": "Netanyahu chiede un governo di 'unità nazionale'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/netanyahu-chiede-un-governo-di-unita-nazionale_cd9ca7fa-957d-4b0a-bfcc-8b3fa3b9803e.html",
-     "time": "2026-11-07T18:43:31Z"
-    },
-    {
-     "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/trump-ordina-indagini-sui-democratici-che-minacciano-molte-persone_6fe7f9c9-d077-4fef-ba0c-8731edf2236c.html",
-     "time": "2026-11-07T18:02:12Z"
-    },
-    {
-     "title": "Kallas, 'la Polonia non è sola in questo momento di lutto'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/kallas-la-polonia-non-e-sola-in-questo-momento-di-lutto_a0f40c8a-5804-4245-818c-8d749a2eb9ed.html",
-     "time": "2026-11-07T17:36:57Z"
-    },
-    {
-     "title": "La Russa, a Milano prima il candidato di sinistra, poi il nostro",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/la-russa-a-milano-prima-il-candidato-di-sinistra-poi-il-nostro_d9ce191e-1d7a-402c-9126-53f23c7f444c.html",
-     "time": "2026-11-07T17:23:13Z"
-    },
-    {
-     "title": "Salvini, su Romeo la maggioranza dei senatori ha un'idea chiara...",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/07/salvini-su-romeo-la-maggioranza-dei-senatori-ha-unidea-chiara..._d280b9ad-bbac-4d15-a4cd-9d93da7d72d1.html",
-     "time": "2026-11-07T17:11:14Z"
     }
    ]
   },
@@ -215,9 +215,14 @@
    "countries": [],
    "items": [
     {
-     "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+     "title": "What we know so far after Krakow gun attack",
      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T20:23:17Z"
+     "time": "2026-11-07T22:58:49Z"
+    },
+    {
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-07T22:19:59Z"
     },
     {
      "title": "Paraguay's former president charged after bank collapse",
@@ -268,11 +273,6 @@
      "title": "Texas mayor instructs police to limit co-operation with ICE",
      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-07T08:15:55Z"
-    },
-    {
-     "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-     "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-07T07:27:44Z"
     }
    ]
   }
