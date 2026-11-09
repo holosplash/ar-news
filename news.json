@@ -1,6 +1,6 @@
 {
- "version": 168,
- "updated": "2026-11-08T22:46:27Z",
+ "version": 169,
+ "updated": "2026-11-09T02:33:34Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,41 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+     "url": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+     "time": "2026-11-09T00:43:39Z"
+    },
+    {
+     "title": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
+     "url": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
+     "time": "2026-11-09T00:32:33Z"
+    },
+    {
+     "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+     "url": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+     "time": "2026-11-08T23:11:37Z"
+    },
+    {
+     "title": "Leverkusen gewinnt in Köln 2:1",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-1-fc-koeln-bittere-pleite-gegen-ungeliebten-nachbarn-100.html",
+     "time": "2026-11-08T23:00:17Z"
+    },
+    {
+     "title": "Stuttgart bezwingt starke Bremer - Füllkrugs Serie endet",
+     "url": "https://www.sportschau.de/fussball/bundesliga/mittelstaedt-tor-reicht-stuttgart-gegen-starke-bremer,spielbericht-vfb-stuttgart-werder-bremen-106.html",
+     "time": "2026-11-08T23:00:17Z"
+    },
+    {
+     "title": "Ein Tor, aber keine Punkte für den FC Schalke 04",
+     "url": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
+     "time": "2026-11-08T23:00:00Z"
+    },
+    {
+     "title": "Null Torgefahr: Union bewirbt sich gegen Freiburg für den Abstiegskampf",
+     "url": "https://www.sportschau.de/fussball/bundesliga/null-torgefahr-union-bewirbt-sich-fuer-abstiegskampf,spielbericht-sc-freiburg-union-berlin-106.html",
+     "time": "2026-11-08T23:00:00Z"
+    },
     {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12962.html",
@@ -35,44 +70,9 @@
      "time": "2026-11-08T21:54:29Z"
     },
     {
-     "title": "Ein Tor, aber keine Punkte für den FC Schalke 04",
-     "url": "https://www.sportschau.de/fussball/bundesliga/ein-tor-aber-keine-punkte-fuer-fc-schalke-04,spielbericht-tsg-hoffenheim-schalke-04-100.html",
-     "time": "2026-11-08T21:26:08Z"
-    },
-    {
      "title": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
      "url": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
      "time": "2026-11-08T20:38:04Z"
-    },
-    {
-     "title": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
-     "url": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
-     "time": "2026-11-08T20:15:13Z"
-    },
-    {
-     "title": "Handball: Deutschland siegt souverän im letzten Länderspiel des Jahres",
-     "url": "https://www.sportschau.de/handball/nationalmannschaft/deutsche-handballer-siegen-souveraen-im-letzten-laenderspiel-des-jahres,handball-em-qualifikation-slowakei-deutschland-100.html",
-     "time": "2026-11-08T20:12:39Z"
-    },
-    {
-     "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
-     "time": "2026-11-08T20:05:22Z"
-    },
-    {
-     "title": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
-     "time": "2026-11-08T19:43:02Z"
-    },
-    {
-     "title": "Mann hisst Palästinenser-Flagge vor Reichstagsgebäude",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680466.html",
-     "time": "2026-11-08T19:24:43Z"
-    },
-    {
-     "title": "Zehntausende Menschen demonstrieren in Amsterdam gegen Israels Vorgehen im Gazastreifen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680464.html",
-     "time": "2026-11-08T19:22:51Z"
     }
    ]
   },
@@ -85,9 +85,19 @@
    ],
    "items": [
     {
+     "title": "Midterms 2026 – Trump bei CBS: Abschiebepolitik war «zu hart»",
+     "url": "https://www.srf.ch/news/international/midterms-2026-trump-bei-cbs-abschiebepolitik-war-zu-hart",
+     "time": "2026-11-09T02:23:04Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – «Koalition der Willigen» startet multinationale Militärübung",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-koalition-der-willigen-startet-multinationale-militaeruebung",
+     "time": "2026-11-09T02:03:41Z"
+    },
+    {
      "title": "Tückische Affäre – Hat eine chinesische Agentin den Nvidia-CEO ausspioniert?",
      "url": "https://www.srf.ch/news/international/tueckische-affaere-hat-eine-chinesische-agentin-den-nvidia-ceo-ausspioniert",
-     "time": "2026-11-08T22:40:54Z"
+     "time": "2026-11-08T23:00:19Z"
     },
     {
      "title": "1. WM-Sieg dank 2:1 n.V. – Müller mit der Entscheidung: Die Schweiz schlägt Tschechien",
@@ -115,11 +125,6 @@
      "time": "2026-11-08T19:04:51Z"
     },
     {
-     "title": "Krieg in der Ukraine – Kiew: Verkehr rollt wieder über die Nordbrücke",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-kiew-verkehr-rollt-wieder-ueber-die-nordbruecke",
-     "time": "2026-11-08T18:54:54Z"
-    },
-    {
      "title": "Formel 1: GP Brasilien – Norris triumphiert – Verstappen mit Riesen-Aufholjagd",
      "url": "https://www.srf.ch/sport/motorsport/motorrad/formel-1-gp-brasilien-norris-triumphiert-verstappen-mit-riesen-aufholjagd",
      "time": "2026-11-08T18:51:09Z"
@@ -138,11 +143,6 @@
      "title": "Marmorbruch – Wenn Tessiner Marmor zum Designobjekt wird",
      "url": "https://www.srf.ch/news/schweiz/marmorbruch-wenn-tessiner-marmor-zum-designobjekt-wird",
      "time": "2026-11-08T17:19:39Z"
-    },
-    {
-     "title": "Wahlen Kanton Freiburg – Die SVP gewinnt auf Kosten der FDP Sitze im Kantonsparlament",
-     "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-die-svp-gewinnt-auf-kosten-der-fdp-sitze-im-kantonsparlament",
-     "time": "2026-11-08T17:13:26Z"
     }
    ]
   },
@@ -156,6 +156,36 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Borsa: Tokyo, apertura in rialzo (+1,86%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/borsa-tokyo-apertura-in-rialzo-186_368250db-971c-4fdc-b6c7-b808c0351289.html",
+     "time": "2026-11-09T00:42:56Z"
+    },
+    {
+     "title": "Trump, 'su Dana White portavoce della Casa Bianca stavo scherzando'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/trump-su-dana-white-portavoce-della-casa-bianca-stavo-scherzando_25c0220f-50e8-474d-8335-b21827b61d8e.html",
+     "time": "2026-11-08T23:34:25Z"
+    },
+    {
+     "title": "Rubio, 'progressi sull'infrastruttura di sicurezza dopo la guerra in Ucraina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/rubio-progressi-sullinfrastruttura-di-sicurezza-dopo-la-guerra-in-ucraina_5da65613-14ff-4424-9520-06c11764387b.html",
+     "time": "2026-11-08T23:12:00Z"
+    },
+    {
+     "title": "Kiev, 'colpita dai russi la città di Balakliya nel Kharkiv, tre feriti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/kiev-colpita-dai-russi-la-citta-di-balakliya-nel-kharkiv-tre-feriti_982df3d1-338f-4d00-9017-91ffc14692e3.html",
+     "time": "2026-11-08T23:10:27Z"
+    },
+    {
+     "title": "Lo Yemen chiede all'Iran di smettere di armare gli Houthi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/lo-yemen-chiede-alliran-di-smettere-di-armare-gli-houthi_6c3c03fa-564e-43a0-9801-03f921c6d3b0.html",
+     "time": "2026-11-08T22:57:16Z"
+    },
+    {
+     "title": "Rubio, 'le richieste dell'Iran sono inaccettabili'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/rubio-le-richieste-delliran-sono-inaccettabili_72014379-02e7-4a54-ac95-879b204c93ed.html",
+     "time": "2026-11-08T22:50:11Z"
+    },
     {
      "title": "Calcio: Spalletti \"Non sono contento, non c'è continuità in troppi calciatori\"",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/calcio-spalletti-non-sono-contento-non-ce-continuita-in-troppi-calciatori_7c8338b1-9694-416d-98d3-7ed5fb0d54d3.html",
@@ -175,36 +205,6 @@
      "title": "Trump, 'spero di andare in paradiso, non voglio andare all'inferno'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/trump-spero-di-andare-in-paradiso-non-voglio-andare-allinferno_50ac45c0-d830-4fe3-afe9-c710b8906ee8.html",
      "time": "2026-11-08T22:13:01Z"
-    },
-    {
-     "title": "Nations League: Mancini convoca anche Gatti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/nations-league-mancini-convoca-anche-gatti_79cb1a87-f462-4da3-b4be-24dfe6033f94.html",
-     "time": "2026-11-08T21:55:30Z"
-    },
-    {
-     "title": "Serie A: Fiorentina-Juventus 2-2",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/serie-a-fiorentina-juventus-2-2_65e414c3-5ab0-4702-9bf2-c1190a541b2f.html",
-     "time": "2026-11-08T21:46:42Z"
-    },
-    {
-     "title": "Circa 200mila in piazza ad Amsterdam contro le politiche di Israele a Gaza",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/circa-200mila-in-piazza-ad-amsterdam-contro-le-politiche-di-israele-a-gaza_bd9fc2be-915d-4c2a-b8dc-99b7aa130f10.html",
-     "time": "2026-11-08T21:42:31Z"
-    },
-    {
-     "title": "Soccorritori a Gaza, 5 morti dopo il crollo di un cumulo di sabbia su alcune tende",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/soccorritori-a-gaza-5-morti-dopo-il-crollo-di-un-cumulo-di-sabbia-su-alcune-tende_553f87f2-8415-46d0-bfb9-ba7a3c0624e2.html",
-     "time": "2026-11-08T21:23:32Z"
-    },
-    {
-     "title": "Kiev, 'due morti e 7 feriti nei raid russo nel Dnipro'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/kiev-due-morti-e-7-feriti-nei-raid-russo-nel-dnipro_616032b9-b7b8-465a-ac29-d01b98216faa.html",
-     "time": "2026-11-08T21:19:20Z"
-    },
-    {
-     "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_96218dd8-dcb9-4caa-ac9d-f0ac0beec057.html",
-     "time": "2026-11-08T20:58:34Z"
     }
    ]
   },
@@ -215,19 +215,24 @@
    "countries": [],
    "items": [
     {
-     "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+     "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T23:34:18Z"
+    },
+    {
+     "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-08T22:05:12Z"
+    },
+    {
+     "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-08T21:37:36Z"
     },
     {
      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-08T19:58:02Z"
-    },
-    {
-     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-     "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-08T18:22:53Z"
     },
     {
      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
@@ -248,11 +253,6 @@
      "title": "How the deadly shooting in Krakow unfolded",
      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-08T09:29:24Z"
-    },
-    {
-     "title": "Houthis say at least 33 killed in Saudi air strike",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-08T04:03:12Z"
     },
     {
      "title": "The Trump coalition is shattered - what will Republicans do now?",
