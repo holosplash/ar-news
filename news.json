@@ -1,6 +1,6 @@
 {
- "version": 170,
- "updated": "2026-11-09T10:14:01Z",
+ "version": 171,
+ "updated": "2026-11-09T21:00:22Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "G7-Außenminister sprechen über Ukraine und Iran",
-     "url": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
-     "time": "2026-11-09T10:05:12Z"
+     "title": "Republikaner Massie will Hegseth des Amtes entheben",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
+     "time": "2026-11-09T20:48:39Z"
     },
     {
-     "title": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-     "time": "2026-11-09T09:25:58Z"
+     "title": "Auftakt der 31. Weltklimakonferenz im türkischen Antalya",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681020.html",
+     "time": "2026-11-09T19:48:50Z"
     },
     {
-     "title": "\"Heftiges Symbol\", Silke Diettrich, ARD Moskau, zum Aus von unabhängiger russischer Zeitung Nowaja Gaseta",
-     "url": "https://www.tagesschau.de/video/video-1680638.html",
-     "time": "2026-11-09T09:24:28Z"
+     "title": "Attentäter von Kraukau erliegt seinen Verletzungen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681018.html",
+     "time": "2026-11-09T19:48:29Z"
     },
     {
-     "title": "\"Zum dritten Mal eine Nichtakademikerin\", Christoph Mestmacher, zu Aigner als mögliche neue Bundespräsidentin",
-     "url": "https://www.tagesschau.de/video/video-1680630.html",
-     "time": "2026-11-09T09:17:58Z"
+     "title": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html",
+     "time": "2026-11-09T19:47:06Z"
     },
     {
-     "title": "Schneider fordert Alternative zur Plastiksteuer",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
-     "time": "2026-11-09T09:03:50Z"
+     "title": "Union nominiert Ilse Aigner offiziell für das Amt der Bundespräsidentin",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681010.html",
+     "time": "2026-11-09T19:44:36Z"
     },
     {
-     "title": "US-Präsident Trump bezeichnet Jobangebot für neuen Pressesprecher White als Spaß",
-     "url": "https://www.tagesschau.de/video/video-1680608.html",
-     "time": "2026-11-09T08:57:31Z"
+     "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
+     "url": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
+     "time": "2026-11-09T19:34:13Z"
     },
     {
-     "title": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
-     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html",
-     "time": "2026-11-09T08:52:19Z"
+     "title": "Michael Strempel, ARD Paris, über Frankreichs Vorwürfe gegen Iran zu Hackerangriffen auf Kühlsysteme",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681012.html",
+     "time": "2026-11-09T19:33:58Z"
     },
     {
-     "title": "\"Todesschütze im Krankenhaus gestorben\", Lisa Posorske, ARD-aktuell, zur Lage nach Schusswaffenangriff in Krakau",
-     "url": "https://www.tagesschau.de/video/video-1680598.html",
-     "time": "2026-11-09T08:42:53Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81952.html",
+     "time": "2026-11-09T19:20:42Z"
     },
     {
-     "title": "\"Suchen noch die Richtung im DAX\", Tim Oechsner, Steubing AG, mit Ausblick nach Kursrutsch an Börsen",
-     "url": "https://www.tagesschau.de/video/video-1680588.html",
-     "time": "2026-11-09T08:23:55Z"
+     "title": "Synagogen-Festakt in München: Ein Jubiläum in schwierigen Zeiten",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
+     "time": "2026-11-09T19:14:42Z"
     },
     {
-     "title": "Wie steht es um den Klimaschutz im Gastgeberland Türkei?",
-     "url": "https://www.tagesschau.de/ausland/europa/cop-gastgeber-turkei-100.html",
-     "time": "2026-11-09T08:05:32Z"
+     "title": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
+     "url": "https://www.tagesschau.de/ausland/cop-136.html",
+     "time": "2026-11-09T18:19:45Z"
     },
     {
-     "title": "\"Gai Puja\", Doppelgänger-Wettbewerb, Quellerkraut",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10556.html",
-     "time": "2026-11-09T07:42:36Z"
+     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+     "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+     "time": "2026-11-09T17:51:23Z"
     },
     {
-     "title": "Opferbeauftragte Zupke warnt vor Verdrehung der DDR-Geschichte",
-     "url": "https://www.tagesschau.de/inland/november-gedenken-100.html",
-     "time": "2026-11-09T07:19:35Z"
+     "title": "Wadephul zweifelt an Russlands Verhandlungswillen",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
+     "time": "2026-11-09T17:19:07Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Vargas kommt verspätet – Muheim fehlt verletzt – Schmidt und Nyakossi rücken nach",
-     "url": "https://www.srf.ch/sport/fussball/nations-league/vargas-kommt-verspaetet-muheim-fehlt-verletzt-schmidt-und-nyakossi-ruecken-nach",
-     "time": "2026-11-09T10:08:45Z"
+     "title": "Assistenzcoach bei Frauen-Nati – Justin Krueger: Von der SCB-Gastro zur «Kopfweh»-Defensive",
+     "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/assistenzcoach-bei-frauen-nati-justin-krueger-von-der-scb-gastro-zur-kopfweh-defensive",
+     "time": "2026-11-09T20:37:30Z"
     },
     {
-     "title": "«3 vo 5» – das Kultquiz – November: Was wissen Sie über den Schicksalsmonat?",
-     "url": "https://www.srf.ch/radio-srf-1/3-vo-5-das-kultquiz-november-was-wissen-sie-ueber-den-schicksalsmonat",
-     "time": "2026-11-09T10:08:02Z"
+     "title": "Personelle Wechsel – Wie Trump zum Machtkampf rüstet",
+     "url": "https://www.srf.ch/news/international/usa/personelle-wechsel-wie-trump-zum-machtkampf-ruestet",
+     "time": "2026-11-09T20:10:47Z"
     },
     {
-     "title": "Kulturnews in Kurzform – Monstermässig starker Start für neuen «Godzilla»-Film",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-monstermaessig-starker-start-fuer-neuen-godzilla-film",
-     "time": "2026-11-09T09:34:49Z"
+     "title": "Feuer rasch unter Kontrolle – Brand in Zürcher Bundesasylzentrum – Hintergründe unklar",
+     "url": "https://www.srf.ch/news/schweiz/feuer-rasch-unter-kontrolle-brand-in-zuercher-bundesasylzentrum-hintergruende-unklar",
+     "time": "2026-11-09T20:05:15Z"
     },
     {
-     "title": "Tscheche bei Chur United – Spitzen-Unihockey trotz Hirntumor: Sindelar macht's vor",
-     "url": "https://www.srf.ch/sport/mehr-sport/unihockey/tscheche-bei-chur-united-spitzen-unihockey-trotz-hirntumor-sindelar-macht-s-vor",
-     "time": "2026-11-09T09:15:36Z"
+     "title": "Projekt «Sea Lion» – Wem gehören die Bodenschätze der Falklandinseln?",
+     "url": "https://www.srf.ch/news/international/projekt-sea-lion-wem-gehoeren-die-bodenschaetze-der-falklandinseln",
+     "time": "2026-11-09T20:01:03Z"
     },
     {
-     "title": "Bundesratswahl – Parmelin-Nachfolge: Ein Tessiner als Ersatz für einen Romand?",
-     "url": "https://www.srf.ch/news/schweiz/bundesratswahl-parmelin-nachfolge-ein-tessiner-als-ersatz-fuer-einen-romand",
-     "time": "2026-11-09T08:58:42Z"
+     "title": "Krieg im Nahen Osten – Unter Druck wegen Iran: Hegseth droht Amtsenthebungsverfahren",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-unter-druck-wegen-iran-hegseth-droht-amtsenthebungsverfahren",
+     "time": "2026-11-09T19:59:26Z"
     },
     {
-     "title": "Spionagefall bei Nvidia – Huangs Nähe zu Trump ist für China hochinteressant",
-     "url": "https://www.srf.ch/news/international/spionagefall-bei-nvidia-huangs-naehe-zu-trump-ist-fuer-china-hochinteressant",
-     "time": "2026-11-09T08:53:23Z"
+     "title": "Verluste für den ANC – Zeitenwende in Südafrika? Böse Wahlschlappe für Mandelas Partei",
+     "url": "https://www.srf.ch/news/international/verluste-fuer-den-anc-zeitenwende-in-suedafrika-boese-wahlschlappe-fuer-mandelas-partei",
+     "time": "2026-11-09T19:29:07Z"
     },
     {
-     "title": "Tückische Liebschaft – Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin",
-     "url": "https://www.srf.ch/news/international/tueckische-liebschaft-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin",
-     "time": "2026-11-09T08:50:09Z"
+     "title": "Vor Aufstieg in Nations League – Nati: 1 Punkt holen – und dann bereits Blick Richtung EM-Quali",
+     "url": "https://www.srf.ch/sport/fussball/nations-league/vor-aufstieg-in-nations-league-nati-1-punkt-holen-und-dann-bereits-blick-richtung-em-quali",
+     "time": "2026-11-09T19:21:20Z"
     },
     {
-     "title": "Übersicht und Einordnung – Wer soll den Schweizer Buchpreis 2026 gewinnen? Stimmen Sie ab!",
-     "url": "https://www.srf.ch/kultur/literatur/uebersicht-und-einordnung-wer-soll-den-schweizer-buchpreis-2026-gewinnen-stimmen-sie-ab",
-     "time": "2026-11-09T08:48:51Z"
+     "title": "Wahlen Kanton Freiburg – Nach der Freiburger Wahl: Ein Dorf, zwei Schicksale",
+     "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-nach-der-freiburger-wahl-ein-dorf-zwei-schicksale",
+     "time": "2026-11-09T19:07:02Z"
     },
     {
-     "title": "Polen – Tödlicher Angriff in Krakau – Schütze ist tot",
-     "url": "https://www.srf.ch/news/international/polen-toedlicher-angriff-in-krakau-schuetze-ist-tot",
-     "time": "2026-11-09T08:46:32Z"
+     "title": "Unmut in Tessiner Dorf – Widerstand gegen Constantins Bauprojekt in Gandria",
+     "url": "https://www.srf.ch/news/schweiz/unmut-in-tessiner-dorf-widerstand-gegen-constantins-bauprojekt-in-gandria",
+     "time": "2026-11-09T19:03:25Z"
     },
     {
-     "title": "Abstimmungen Kanton Wallis – Soll das Wallis den Flughafen Sitten dauerhaft stützen?",
-     "url": "https://www.srf.ch/news/abstimmungen-kanton-wallis-soll-das-wallis-den-flughafen-sitten-dauerhaft-stuetzen",
-     "time": "2026-11-09T08:36:34Z"
+     "title": "Krieg in der Ukraine – EU meldet Teilnahme an Friedensgesprächen – Kreml dementiert",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-eu-meldet-teilnahme-an-friedensgespraechen-kreml-dementiert",
+     "time": "2026-11-09T19:00:25Z"
     },
     {
-     "title": "Mann über Bord – Kreuzfahrtschiff-Pianist nach 9 Stunden im Wasser gerettet",
-     "url": "https://www.srf.ch/news/international/mann-ueber-bord-kreuzfahrtschiff-pianist-nach-9-stunden-im-wasser-gerettet",
-     "time": "2026-11-09T08:31:26Z"
+     "title": "Kantonsklausel im Bundesrat – Zwei Bundesräte aus einem Kanton? Das war lange verboten",
+     "url": "https://www.srf.ch/news/schweiz/kantonsklausel-im-bundesrat-zwei-bundesraete-aus-einem-kanton-das-war-lange-verboten",
+     "time": "2026-11-09T18:53:20Z"
     },
     {
-     "title": "Abstimmung Kanton Aargau – Entlastung für alle oder Steuergeschenk für wenige?",
-     "url": "https://www.srf.ch/news/abstimmung-kanton-aargau-entlastung-fuer-alle-oder-steuergeschenk-fuer-wenige",
-     "time": "2026-11-09T08:20:53Z"
+     "title": "KI-Fälschungen – Nach Anschlag in Krakau: Welle der Desinformation im Netz",
+     "url": "https://www.srf.ch/news/international/ki-faelschungen-nach-anschlag-in-krakau-welle-der-desinformation-im-netz",
+     "time": "2026-11-09T18:14:53Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Orcel, dopo Bpm in Italia cambiato rotta, piano crescita organica",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/orcel-dopo-bpm-in-italia-cambiato-rotta-piano-crescita-organica_97f182d8-35b9-420c-b730-7d359e7ef0f4.html",
-     "time": "2026-11-09T08:46:42Z"
+     "title": "Il Papa, 'la disoccupazione è un dramma, ferisce la dignità'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-papa-la-disoccupazione-e-un-dramma-ferisce-la-dignita_f616d609-be3d-481a-923f-9e2fc1611baa.html",
+     "time": "2026-11-09T20:02:12Z"
     },
     {
-     "title": "Borsa: l'Europa apre debole, tra trimestrali e investimenti per l'Ia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/borsa-leuropa-apre-debole-tra-trimestrali-e-investimenti-per-lia_8d77919d-6da3-4dcb-9939-3ad01e7852c9.html",
-     "time": "2026-11-09T08:11:51Z"
+     "title": "Il Papa vede vittime di abusi, 'rafforzare la protezione'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-papa-vede-vittime-di-abusi-rafforzare-la-protezione_f0ef9b55-a317-4d87-bba7-4716152f3106.html",
+     "time": "2026-11-09T19:52:17Z"
     },
     {
-     "title": "Due offerte per l'ex Ilva, sono Jindal e l'italiana Arvedi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/due-offerte-per-lex-ilva-sono-jindal-e-litaliana-arvedi_f3c12b17-1590-4a36-8a1e-9be7a58ce73e.html",
-     "time": "2026-11-09T08:09:14Z"
+     "title": "Il petrolio crolla su possibili progressi in Medio Oriente, Brent -5,6%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-petrolio-crolla-su-possibili-progressi-in-medio-oriente-brent-56_aabacb7b-0fb4-4a98-a0b2-2b9d0cc3627d.html",
+     "time": "2026-11-09T19:51:35Z"
     },
     {
-     "title": "Borsa: Milano apre in rialzo dello 0,41%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/borsa-milano-apre-in-rialzo-dello-041_30dbb97a-2b90-4d30-a870-eabd6ee00446.html",
-     "time": "2026-11-09T08:06:40Z"
+     "title": "Meloni, dal decreto Bollette benefici importanti ma serve tempo per gli effetti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/meloni-dal-decreto-bollette-benefici-importanti-ma-serve-tempo-per-gli_40a2e652-f796-42b5-b5f1-3e6c986eebee.html",
+     "time": "2026-11-09T19:43:16Z"
     },
     {
-     "title": "Von der Leyen conferma, 'l'Ue presente ai colloqui di Abu Dhabi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/von-der-leyen-conferma-lue-presente-ai-colloqui-di-abu-dhabi_c6a07a9a-6da1-448a-bb0e-a608cbbbdc71.html",
-     "time": "2026-11-09T07:50:38Z"
+     "title": "Il repubblicano Massie formalizza alla Camera mozione per impeachment Hegseth",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-repubblicano-massie-formalizza-alla-camera-mozione-per-impeachment-hegseth_9de07eb8-415a-4e4b-ac76-32dfeb113fae.html",
+     "time": "2026-11-09T19:38:10Z"
     },
     {
-     "title": "Lo spread tra Btp e Bund apre stabile a 107 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/lo-spread-tra-btp-e-bund-apre-stabile-a-107-punti_7192383b-8519-4702-82e7-9d177ae22fd4.html",
-     "time": "2026-11-09T07:36:58Z"
+     "title": "Ok al dl Bollette. Pichetto, 15 euro in meno al megawattora",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/ok-al-dl-bollette.-pichetto-15-euro-in-meno-al-megawattora_95c48499-d779-454d-ac71-89c46d67d32c.html",
+     "time": "2026-11-09T18:46:27Z"
     },
     {
-     "title": "Borsa: l'Asia chiude in rialzo, si guarda all'intelligenza artificiale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/borsa-lasia-chiude-in-rialzo-si-guarda-allintelligenza-artificiale_d52aa178-ac69-47c7-b6c2-b4de14383ac4.html",
-     "time": "2026-11-09T06:50:14Z"
+     "title": "Barrot, 'i Pasdaran dietro l'attacco hacker ai frigo, adotteremo sanzioni Ue'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/barrot-i-pasdaran-dietro-lattacco-hacker-ai-frigo-adotteremo-sanzioni-ue_75e1efb9-4e5e-4033-9a73-d9007a29a3c1.html",
+     "time": "2026-11-09T18:06:16Z"
     },
     {
-     "title": "Morto l'autore della strage di Cracovia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/morto-lautore-della-strage-di-cracovia_edc1db98-d3a1-409f-be26-17dd4fe9a040.html",
-     "time": "2026-11-09T06:22:29Z"
+     "title": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_99c38464-b9a2-4d44-b757-3c042617b987.html",
+     "time": "2026-11-09T17:54:41Z"
     },
     {
-     "title": "Credit Agricole propone a Banco Bpm avvio trattative per fusione",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/credit-agricole-propone-a-banco-bpm-avvio-trattative-per-fusione_d54abe21-754d-4583-b496-f272b916c6df.html",
-     "time": "2026-11-09T06:16:54Z"
+     "title": "Il gas in ampio ribasso (-3,9%) a 82,2 euro al Megawattora",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-gas-in-ampio-ribasso-39-a-822-euro-al-megawattora_5207a8bc-7e1e-42ae-99e4-6f3073277ef3.html",
+     "time": "2026-11-09T17:15:16Z"
     },
     {
-     "title": "Unicredit di nuovo record, l'utile dei 9 mesi a 9,4 miliardi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/unicredit-di-nuovo-record-lutile-dei-9-mesi-a-94-miliardi_27f0d404-a3cb-49ed-aab8-88a5ff2e497f.html",
-     "time": "2026-11-09T06:08:49Z"
+     "title": "Tajani a G7, 'uniti per dare un segnale forte a chi cerca il caos in Europa'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/tajani-a-g7-uniti-per-dare-un-segnale-forte-a-chi-cerca-il-caos-in-europa_f24328c1-e3ea-4943-8dfe-62ef0e9e25e6.html",
+     "time": "2026-11-09T17:13:19Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
-     "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-     "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T08:49:17Z"
+     "title": "Turkey steel factory blast kills at least 17 people",
+     "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T20:42:04Z"
     },
     {
-     "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+     "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T20:23:14Z"
+    },
+    {
+     "title": "France accuses Iran of supermarket fridge hacking",
+     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T20:20:08Z"
+    },
+    {
+     "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T19:58:01Z"
+    },
+    {
+     "title": "Russia's leading independent newspaper closes after eviction",
+     "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T18:08:07Z"
+    },
+    {
+     "title": "Trump questions midterm elections integrity after previously accepting results",
+     "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T17:47:29Z"
+    },
+    {
+     "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T17:06:18Z"
+    },
+    {
+     "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T08:16:57Z"
+     "time": "2026-11-09T16:33:55Z"
+    },
+    {
+     "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T15:46:20Z"
+    },
+    {
+     "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+     "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T14:50:35Z"
+    },
+    {
+     "title": "Thirteen migrants die after boat sinks off Crete",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T13:50:01Z"
     },
     {
      "title": "Krakow shooting suspect has died in hospital, police say",
      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T07:26:09Z"
-    },
-    {
-     "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-     "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T07:10:11Z"
-    },
-    {
-     "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
-     "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T06:01:52Z"
-    },
-    {
-     "title": "Inside the French drug gangs recruiting children to kill",
-     "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T06:00:26Z"
-    },
-    {
-     "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-     "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T05:30:37Z"
-    },
-    {
-     "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-     "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T02:50:13Z"
-    },
-    {
-     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-     "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-08T23:34:18Z"
-    },
-    {
-     "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-     "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-08T22:05:12Z"
-    },
-    {
-     "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-     "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-08T21:37:36Z"
-    },
-    {
-     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-     "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-08T19:58:02Z"
+     "time": "2026-11-09T11:56:25Z"
     }
    ]
   }
