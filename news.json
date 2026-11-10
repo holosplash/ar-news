@@ -1,6 +1,6 @@
 {
- "version": 171,
- "updated": "2026-11-09T21:00:22Z",
+ "version": 172,
+ "updated": "2026-11-10T03:25:11Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,31 @@
    ],
    "items": [
     {
+     "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+     "time": "2026-11-10T01:13:48Z"
+    },
+    {
+     "title": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
+     "time": "2026-11-09T23:40:08Z"
+    },
+    {
+     "title": "Friedrich Merz, CDU/Bundeskanzler, zur Nominierung von Ilse Aigner als Bundespräsidentin",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1681132.html",
+     "time": "2026-11-09T22:35:25Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12970.html",
+     "time": "2026-11-09T21:54:07Z"
+    },
+    {
+     "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
+     "time": "2026-11-09T21:27:31Z"
+    },
+    {
      "title": "Republikaner Massie will Hegseth des Amtes entheben",
      "url": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
      "time": "2026-11-09T20:48:39Z"
@@ -25,14 +50,14 @@
      "time": "2026-11-09T19:48:50Z"
     },
     {
-     "title": "Attentäter von Kraukau erliegt seinen Verletzungen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681018.html",
-     "time": "2026-11-09T19:48:29Z"
-    },
-    {
      "title": "Chef des Chipherstellers Nvidia in mögliche Spionageaffäre verwickelt",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681016.html",
      "time": "2026-11-09T19:47:06Z"
+    },
+    {
+     "title": "Gedenkveranstaltungen zum Jahrestag der NS-Pogromnacht und des Mauerfalls",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681022.html",
+     "time": "2026-11-09T19:45:17Z"
     },
     {
      "title": "Union nominiert Ilse Aigner offiziell für das Amt der Bundespräsidentin",
@@ -48,31 +73,6 @@
      "title": "Michael Strempel, ARD Paris, über Frankreichs Vorwürfe gegen Iran zu Hackerangriffen auf Kühlsysteme",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1681012.html",
      "time": "2026-11-09T19:33:58Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81952.html",
-     "time": "2026-11-09T19:20:42Z"
-    },
-    {
-     "title": "Synagogen-Festakt in München: Ein Jubiläum in schwierigen Zeiten",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
-     "time": "2026-11-09T19:14:42Z"
-    },
-    {
-     "title": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
-     "url": "https://www.tagesschau.de/ausland/cop-136.html",
-     "time": "2026-11-09T18:19:45Z"
-    },
-    {
-     "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-     "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
-     "time": "2026-11-09T17:51:23Z"
-    },
-    {
-     "title": "Wadephul zweifelt an Russlands Verhandlungswillen",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
-     "time": "2026-11-09T17:19:07Z"
     }
    ]
   },
@@ -84,6 +84,26 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Q&A Tinnitus – «Ich leide an einem Tinnitus. Kann da auch ein Hörgerät helfen?»",
+     "url": "https://www.srf.ch/wissen/wissens-chats/q-a-tinnitus-ich-leide-an-einem-tinnitus-kann-da-auch-ein-hoergeraet-helfen",
+     "time": "2026-11-09T22:31:15Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – EU meldet Teilnahme an Friedensgesprächen – Kreml dementiert",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-eu-meldet-teilnahme-an-friedensgespraechen-kreml-dementiert",
+     "time": "2026-11-09T22:02:36Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Unter Druck wegen Iran: Hegseth droht Amtsenthebungsverfahren",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-unter-druck-wegen-iran-hegseth-droht-amtsenthebungsverfahren",
+     "time": "2026-11-09T22:02:32Z"
+    },
+    {
+     "title": "Unmut in Tessiner Dorf – Widerstand gegen Constantins Bauprojekt in Gandria",
+     "url": "https://www.srf.ch/news/schweiz/unmut-in-tessiner-dorf-widerstand-gegen-constantins-bauprojekt-in-gandria",
+     "time": "2026-11-09T21:02:03Z"
+    },
     {
      "title": "Assistenzcoach bei Frauen-Nati – Justin Krueger: Von der SCB-Gastro zur «Kopfweh»-Defensive",
      "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/assistenzcoach-bei-frauen-nati-justin-krueger-von-der-scb-gastro-zur-kopfweh-defensive",
@@ -105,11 +125,6 @@
      "time": "2026-11-09T20:01:03Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Unter Druck wegen Iran: Hegseth droht Amtsenthebungsverfahren",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-unter-druck-wegen-iran-hegseth-droht-amtsenthebungsverfahren",
-     "time": "2026-11-09T19:59:26Z"
-    },
-    {
      "title": "Verluste für den ANC – Zeitenwende in Südafrika? Böse Wahlschlappe für Mandelas Partei",
      "url": "https://www.srf.ch/news/international/verluste-fuer-den-anc-zeitenwende-in-suedafrika-boese-wahlschlappe-fuer-mandelas-partei",
      "time": "2026-11-09T19:29:07Z"
@@ -125,24 +140,9 @@
      "time": "2026-11-09T19:07:02Z"
     },
     {
-     "title": "Unmut in Tessiner Dorf – Widerstand gegen Constantins Bauprojekt in Gandria",
-     "url": "https://www.srf.ch/news/schweiz/unmut-in-tessiner-dorf-widerstand-gegen-constantins-bauprojekt-in-gandria",
-     "time": "2026-11-09T19:03:25Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – EU meldet Teilnahme an Friedensgesprächen – Kreml dementiert",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-eu-meldet-teilnahme-an-friedensgespraechen-kreml-dementiert",
-     "time": "2026-11-09T19:00:25Z"
-    },
-    {
      "title": "Kantonsklausel im Bundesrat – Zwei Bundesräte aus einem Kanton? Das war lange verboten",
      "url": "https://www.srf.ch/news/schweiz/kantonsklausel-im-bundesrat-zwei-bundesraete-aus-einem-kanton-das-war-lange-verboten",
      "time": "2026-11-09T18:53:20Z"
-    },
-    {
-     "title": "KI-Fälschungen – Nach Anschlag in Krakau: Welle der Desinformation im Netz",
-     "url": "https://www.srf.ch/news/international/ki-faelschungen-nach-anschlag-in-krakau-welle-der-desinformation-im-netz",
-     "time": "2026-11-09T18:14:53Z"
     }
    ]
   },
@@ -156,6 +156,26 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Borsa: Tokyo guadagna oltre il 3% in apertura, il Nikkei torna sopra quota 60mila punti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/borsa-tokyo-guadagna-oltre-il-3-in-apertura-il-nikkei-torna-sopra-quota-60mila_ebf520f9-1660-407f-be39-9967c37cab8b.html",
+     "time": "2026-11-10T00:29:25Z"
+    },
+    {
+     "title": "Trump continua a difendere Hegseth, 'ha vinto la guerra in Iran e Venezuela'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/trump-continua-a-difendere-hegseth-ha-vinto-la-guerra-in-iran-e-venezuela_7529ddf4-1782-48e9-b20f-0e4ba9609d56.html",
+     "time": "2026-11-09T22:15:20Z"
+    },
+    {
+     "title": "Trump, 'Huang mi ha detto che non sapeva che Alice fosse una spia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/trump-huang-mi-ha-detto-che-non-sapeva-che-alice-fosse-una_a4e7c0b8-72c0-4162-9c2d-ee9a4b4722c4.html",
+     "time": "2026-11-09T22:13:17Z"
+    },
+    {
+     "title": "Trump, al momento non sono necessarie azioni militari in Iran",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/trump-al-momento-non-sono-necessarie-azioni-militari-in-iran_631afe01-a772-431f-a995-7c8cd3c8ebd0.html",
+     "time": "2026-11-09T21:55:03Z"
+    },
     {
      "title": "Il Papa, 'la disoccupazione è un dramma, ferisce la dignità'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-papa-la-disoccupazione-e-un-dramma-ferisce-la-dignita_f616d609-be3d-481a-923f-9e2fc1611baa.html",
@@ -185,26 +205,6 @@
      "title": "Ok al dl Bollette. Pichetto, 15 euro in meno al megawattora",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/ok-al-dl-bollette.-pichetto-15-euro-in-meno-al-megawattora_95c48499-d779-454d-ac71-89c46d67d32c.html",
      "time": "2026-11-09T18:46:27Z"
-    },
-    {
-     "title": "Barrot, 'i Pasdaran dietro l'attacco hacker ai frigo, adotteremo sanzioni Ue'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/barrot-i-pasdaran-dietro-lattacco-hacker-ai-frigo-adotteremo-sanzioni-ue_75e1efb9-4e5e-4033-9a73-d9007a29a3c1.html",
-     "time": "2026-11-09T18:06:16Z"
-    },
-    {
-     "title": "Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_99c38464-b9a2-4d44-b757-3c042617b987.html",
-     "time": "2026-11-09T17:54:41Z"
-    },
-    {
-     "title": "Il gas in ampio ribasso (-3,9%) a 82,2 euro al Megawattora",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/il-gas-in-ampio-ribasso-39-a-822-euro-al-megawattora_5207a8bc-7e1e-42ae-99e4-6f3073277ef3.html",
-     "time": "2026-11-09T17:15:16Z"
-    },
-    {
-     "title": "Tajani a G7, 'uniti per dare un segnale forte a chi cerca il caos in Europa'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/09/tajani-a-g7-uniti-per-dare-un-segnale-forte-a-chi-cerca-il-caos-in-europa_f24328c1-e3ea-4943-8dfe-62ef0e9e25e6.html",
-     "time": "2026-11-09T17:13:19Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
-     "title": "Turkey steel factory blast kills at least 17 people",
-     "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T20:42:04Z"
+     "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+     "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-10T01:55:22Z"
+    },
+    {
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-10T01:44:53Z"
     },
     {
      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T20:23:14Z"
+     "time": "2026-11-10T01:38:49Z"
     },
     {
-     "title": "France accuses Iran of supermarket fridge hacking",
-     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T20:20:08Z"
+     "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+     "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-10T00:14:03Z"
     },
     {
-     "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-     "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T19:58:01Z"
+     "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-10T00:09:49Z"
     },
     {
-     "title": "Russia's leading independent newspaper closes after eviction",
-     "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T18:08:07Z"
-    },
-    {
-     "title": "Trump questions midterm elections integrity after previously accepting results",
-     "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T17:47:29Z"
-    },
-    {
-     "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T17:06:18Z"
-    },
-    {
-     "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-     "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T16:33:55Z"
+     "title": "The superpower battle over energy – and what it means for your bills",
+     "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-10T00:08:28Z"
     },
     {
      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T15:46:20Z"
+     "time": "2026-11-09T23:51:22Z"
     },
     {
-     "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-     "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T14:50:35Z"
+     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T23:28:53Z"
     },
     {
-     "title": "Thirteen migrants die after boat sinks off Crete",
-     "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T13:50:01Z"
+     "title": "Dana White declines Trump’s offer to be White House press secretary",
+     "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T22:46:27Z"
     },
     {
-     "title": "Krakow shooting suspect has died in hospital, police say",
-     "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-09T11:56:25Z"
+     "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+     "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T21:52:28Z"
+    },
+    {
+     "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+     "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T21:48:38Z"
+    },
+    {
+     "title": "Turkey steel factory blast kills at least 17 people",
+     "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-09T20:42:04Z"
     }
    ]
   }
