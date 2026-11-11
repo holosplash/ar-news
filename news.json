@@ -1,6 +1,6 @@
 {
- "version": 176,
- "updated": "2026-11-11T07:00:33Z",
+ "version": 177,
+ "updated": "2026-11-11T15:03:32Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/krankenstand-aeltere-beschaeftigte-100.html",
-     "time": "2026-11-11T06:51:52Z"
+     "title": "Mehr Fälle sexualisierter Gewalt in der Bundeswehr: Pistorius plant schärferes Vorgehen",
+     "url": "https://www.tagesschau.de/video/video-1682012.html",
+     "time": "2026-11-11T14:35:35Z"
     },
     {
-     "title": "Marktbericht: DAX-Rekord bleibt in Sichtweite",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-     "time": "2026-11-11T06:38:55Z"
+     "title": "Nach Vorwürfen - Boris Palmer verzichtet auf öffentliche Auftritte",
+     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/tuebinger-ob-boris-palmer-rueckzug-100.html",
+     "time": "2026-11-11T14:15:00Z"
     },
     {
-     "title": "Argentinien-Besuch des Papstes",
-     "url": "https://www.tagesschau.de/video/video-1681778.html",
-     "time": "2026-11-11T06:07:21Z"
+     "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+     "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+     "time": "2026-11-11T14:09:53Z"
     },
     {
-     "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
-     "url": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
-     "time": "2026-11-11T05:56:45Z"
+     "title": "Generalstreik in Spanien für bezahlbares Wohnen",
+     "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-wohnungskrise-100.html",
+     "time": "2026-11-11T14:01:32Z"
     },
     {
-     "title": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
-     "url": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
-     "time": "2026-11-11T05:54:38Z"
+     "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
+     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+     "time": "2026-11-11T13:30:06Z"
     },
     {
-     "title": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
-     "url": "https://www.tagesschau.de/ausland/europa/digital-fairness-act-100.html",
-     "time": "2026-11-11T05:28:10Z"
+     "title": "Juli Kurz, ARD Berlin, zum Integrationsbericht der Bundesregierung",
+     "url": "https://www.tagesschau.de/video/video-1681976.html",
+     "time": "2026-11-11T13:21:33Z"
     },
     {
-     "title": "11KM-Podcast: Millionen tote Rehe und Hirsche für den Klimawald?",
-     "url": "https://www.tagesschau.de/podcast-11km-klimaschutz-rehe-100.html",
-     "time": "2026-11-11T05:25:57Z"
+     "title": "Iris Sayram, ARD Berlin, zu Konsequenzen aus der Dunkelfeldstudie über sexualisiertes Fehlverhalten bei der Bundeswehr",
+     "url": "https://www.tagesschau.de/video/video-1681974.html",
+     "time": "2026-11-11T13:17:09Z"
     },
     {
-     "title": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
-     "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
-     "time": "2026-11-11T05:16:33Z"
+     "title": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
+     "time": "2026-11-11T12:40:59Z"
     },
     {
-     "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
-     "time": "2026-11-11T01:20:58Z"
+     "title": "Marktbericht: Der DAX-Rally geht die Puste aus",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-rally-geht-puste-aus-100.html",
+     "time": "2026-11-11T12:40:08Z"
     },
     {
-     "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-     "url": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
-     "time": "2026-11-11T01:17:49Z"
+     "title": "Bundeskartellamt kritisiert Gebührenpolitik von PayPal",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/paypal-bundeskartellamt-gebuehren-100.html",
+     "time": "2026-11-11T12:34:37Z"
     },
     {
-     "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
-     "url": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
-     "time": "2026-11-11T00:19:26Z"
+     "title": "Wie trotz Blockade der Straße von Hormus Öl aus der Region fließt",
+     "url": "https://www.tagesschau.de/wirtschaft/energie/iran-krieg-oel-golfstaaten-100.html",
+     "time": "2026-11-11T12:21:57Z"
     },
     {
-     "title": "Champions League: FC Bayern dringt in Spitzengruppe vor",
-     "url": "https://www.sportschau.de/regional/br/br-sieg-in-paris-fc-bayern-frauen-dringen-in-cl-spitzengruppe-vor-102.html",
-     "time": "2026-11-10T22:35:46Z"
+     "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
+     "time": "2026-11-11T12:07:44Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Kulturnews in Kurzform – «Mike Hammer»-Darsteller Stacy Keach stirbt mit 85",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-mike-hammer-darsteller-stacy-keach-stirbt-mit-85",
-     "time": "2026-11-11T06:38:29Z"
+     "title": "Verhandlungen zu Ukrainekrieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
+     "url": "https://www.srf.ch/news/international/verhandlungen-zu-ukrainekrieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
+     "time": "2026-11-11T15:03:00Z"
     },
     {
-     "title": "Ausbleibendes Krankentaggeld – Temporärbüro lässt Bauarbeiter im Stich",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/kassensturz/ausbleibendes-krankentaggeld-temporaerbuero-laesst-bauarbeiter-im-stich",
-     "time": "2026-11-11T06:10:22Z"
+     "title": "Schweizer Arzttarifsystem – Bundesrat genehmigt erste Tardoc-Revision und fordert Korrekturen",
+     "url": "https://www.srf.ch/news/schweiz/schweizer-arzttarifsystem-bundesrat-genehmigt-erste-tardoc-revision-und-fordert-korrekturen",
+     "time": "2026-11-11T14:59:44Z"
     },
     {
-     "title": "Tipps für den Alltag – Wie Sie Stürze in Tram und Bus vermeiden können",
-     "url": "https://www.srf.ch/news/schweiz/tipps-fuer-den-alltag-wie-sie-stuerze-in-tram-und-bus-vermeiden-koennen",
-     "time": "2026-11-11T06:01:14Z"
+     "title": "Abstimmung Kanton Schaffhausen – Weichen für das Spitalpersonal werden neu gestellt",
+     "url": "https://www.srf.ch/news/abstimmung-kanton-schaffhausen-weichen-fuer-das-spitalpersonal-werden-neu-gestellt",
+     "time": "2026-11-11T14:43:47Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Israel: Netanjahu fordert erneut Bündnis ohne arabische Parteien",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-netanjahu-fordert-erneut-buendnis-ohne-arabische-parteien",
-     "time": "2026-11-11T05:27:05Z"
+     "title": "Anklage gegen Politiker – SVP-Nationalrat Buffat muss wegen häuslicher Gewalt vor Gericht",
+     "url": "https://www.srf.ch/news/schweiz/anklage-gegen-politiker-svp-nationalrat-buffat-muss-wegen-haeuslicher-gewalt-vor-gericht",
+     "time": "2026-11-11T14:26:38Z"
     },
     {
-     "title": "Sieben Fakten – Warum Nebel hohe Töne schluckt und Gespenster erscheinen lässt",
-     "url": "https://www.srf.ch/radio-srf-1/sieben-fakten-warum-nebel-hohe-toene-schluckt-und-gespenster-erscheinen-laesst",
-     "time": "2026-11-11T05:24:47Z"
+     "title": "Kurzzeitiger Unterbruch – Bahnverkehr bei Zürich wieder im Normalbetrieb",
+     "url": "https://www.srf.ch/news/schweiz/kurzzeitiger-unterbruch-bahnverkehr-bei-zuerich-wieder-im-normalbetrieb",
+     "time": "2026-11-11T14:23:16Z"
     },
     {
-     "title": "Jugendproteste Albanien – Die Hoffnungslosigkeit der albanischen Jugend",
-     "url": "https://www.srf.ch/news/international/jugendproteste-albanien-die-hoffnungslosigkeit-der-albanischen-jugend",
-     "time": "2026-11-11T05:05:32Z"
+     "title": "Stimmen aus der Community – «dialog»-Community: «Der EGMR agiert immer unverhohlener»",
+     "url": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-dialog-community-der-egmr-agiert-immer-unverhohlener",
+     "time": "2026-11-11T14:20:52Z"
     },
     {
-     "title": "Start-up Vvardis – Swiss-Smile-Schwestern wagen Milliarden-Börsengang an Wall Street",
-     "url": "https://www.srf.ch/news/wirtschaft/start-up-vvardis-swiss-smile-schwestern-wagen-milliarden-boersengang-an-wall-street",
-     "time": "2026-11-11T05:02:29Z"
+     "title": "Imagewechsel – Weg von der «Agglo-Gemeinde»: Emmen will Stadt werden",
+     "url": "https://www.srf.ch/news/schweiz/imagewechsel-weg-von-der-agglo-gemeinde-emmen-will-stadt-werden",
+     "time": "2026-11-11T13:54:25Z"
     },
     {
-     "title": "Amtsenthebung gescheitert – Trump triumphiert und Hegseth atmet auf",
-     "url": "https://www.srf.ch/news/international/amtsenthebung-gescheitert-trump-triumphiert-und-hegseth-atmet-auf",
-     "time": "2026-11-11T04:57:37Z"
+     "title": "Polen im Schockzustand – Attentäter von Krakau war von Massenmörder Breivik fasziniert",
+     "url": "https://www.srf.ch/news/international/polen-im-schockzustand-attentaeter-von-krakau-war-von-massenmoerder-breivik-fasziniert",
+     "time": "2026-11-11T13:51:20Z"
     },
     {
-     "title": "Krieg in der Ukraine – Selenski: Wollen über Tausend Kriegsgefangene austauschen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-wollen-ueber-tausend-kriegsgefangene-austauschen",
-     "time": "2026-11-11T04:32:57Z"
+     "title": "Kulturnews in Kurzform – Italienischer Literaturpreis für Pedro Lenz",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-italienischer-literaturpreis-fuer-pedro-lenz",
+     "time": "2026-11-11T13:03:11Z"
     },
     {
-     "title": "Drittes Verfahren – Italienisches Gericht hebt Eternit-Urteil gegen Schmidheiny auf",
-     "url": "https://www.srf.ch/news/schweiz/drittes-verfahren-italienisches-gericht-hebt-eternit-urteil-gegen-schmidheiny-auf",
-     "time": "2026-11-10T22:15:39Z"
+     "title": "Bedrohliche Mails eingegangen – Bombendrohungen an Hunderten Schulen in Italien",
+     "url": "https://www.srf.ch/news/international/bedrohliche-mails-eingegangen-bombendrohungen-an-hunderten-schulen-in-italien",
+     "time": "2026-11-11T13:01:32Z"
     },
     {
-     "title": "Women's Champions League – Auch Pilgrim trifft: Servette Chênois unterliegt Roma",
-     "url": "https://www.srf.ch/sport/fussball/frauen-fussball/women-s-champions-league-auch-pilgrim-trifft-servette-chenois-unterliegt-roma",
-     "time": "2026-11-10T22:13:42Z"
+     "title": "Abstimmungen Baselland – Günstigeres ÖV-Abo für Junge? Darüber stimmt Baselland ab",
+     "url": "https://www.srf.ch/news/abstimmungen-baselland-guenstigeres-oev-abo-fuer-junge-darueber-stimmt-baselland-ab",
+     "time": "2026-11-11T12:55:44Z"
     },
     {
-     "title": "Champions Hockey League – HCD rettet kleinen Vorsprung ins Rückspiel",
-     "url": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-hcd-rettet-kleinen-vorsprung-ins-rueckspiel",
-     "time": "2026-11-10T21:34:43Z"
+     "title": "70. Spiel als Nati-Trainer – Yakin: Aus der Challenge League in die Weltspitze",
+     "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/70-spiel-als-nati-trainer-yakin-aus-der-challenge-league-in-die-weltspitze",
+     "time": "2026-11-11T12:47:48Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Mosca, 'droni causano incendio in porto petrolifero sul Baltico'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/mosca-droni-causano-incendio-in-porto-petrolifero-sul-baltico_d18556ff-cea0-4de0-980e-0d690dfe3978.html",
-     "time": "2026-11-11T03:35:05Z"
+     "title": "Tajani, 'ricevuti nuovi cyberattacchi, taglia anche su minori della mia famiglia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/tajani-ricevuti-nuovi-cyberattacchi-taglia-anche-su-minori-della-mia-famiglia_0e7ceef5-19bc-46c8-a768-cf5ae28abcde.html",
+     "time": "2026-11-11T14:32:17Z"
     },
     {
-     "title": "'Favoritismi a Bolsonaro alle elezioni', il Brasile multa Meta",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/favoritismi-a-bolsonaro-alle-elezioni-il-brasile-multa-meta_81783c7c-4aeb-4b5f-88a1-2a099f537cd3.html",
-     "time": "2026-11-11T01:47:54Z"
+     "title": "Kallas, 'ad Abu Dhabi nessuna disponibilità della Russia a negoziare seriamente'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/kallas-ad-abu-dhabi-nessuna-disponibilita-della-russia-a-negoziare-seriamente_9e6a8d8b-3fa2-4bad-8903-5a2c2ff4284b.html",
+     "time": "2026-11-11T14:30:06Z"
     },
     {
-     "title": "'Giudice respinge richiesta Bbc di archiviare causa per diffamazione di Trump'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/giudice-respinge-richiesta-bbc-di-archiviare-causa-per-diffamazione-di-trump_d6a301f7-be3b-4eed-b798-08e76484d5d6.html",
-     "time": "2026-11-11T00:28:24Z"
+     "title": "Attacchi hacker, domani Meloni incontra i leader di opposizione",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/attacchi-hacker-domani-meloni-incontra-i-leader-di-opposizione_0a47d9d6-e98a-460b-b877-4fc7cdeff123.html",
+     "time": "2026-11-11T14:16:20Z"
     },
     {
-     "title": "Il Papa incontra una figlia e nipote di desaparecidos",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/il-papa-incontra-una-figlia-e-nipote-di-desaparecidos_c6034c8d-92b0-4b91-adaf-c54ace00cc33.html",
-     "time": "2026-11-11T00:26:47Z"
+     "title": "La Rai avvia accertamenti su Bellama' di Diaco",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/la-rai-avvia-accertamenti-su-bellama-di-diaco_5cbb18f4-7d92-453b-8407-f3d18b0dabdf.html",
+     "time": "2026-11-11T14:11:12Z"
     },
     {
-     "title": "Media, minaccia a spazio aereo Baltici dalla Bielorussia, in volo caccia Nato",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/media-minaccia-a-spazio-aereo-baltici-dalla-bielorussia-in-volo-caccia-nato_4539f3e9-bba4-48ec-a3ac-c39dc5cc8caa.html",
-     "time": "2026-11-11T00:10:25Z"
+     "title": "Il Papa augura all'Argentina sentieri di riconciliazione",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/il-papa-augura-allargentina-sentieri-di-riconciliazione_1642ff1f-5aab-49de-a9a0-297877a09c86.html",
+     "time": "2026-11-11T14:05:06Z"
     },
     {
-     "title": "Ocasio-Cortez, 'ripresenteremo l'impeachment contro Hegset nel nuovo Congresso'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/ocasio-cortez-ripresenteremo-limpeachment-contro-hegset-nel-nuovo-congresso_871e538d-49dc-4f18-8b39-3043d22b3cdb.html",
-     "time": "2026-11-11T00:08:46Z"
+     "title": "++ Ministero, mail con l'allarme bomba arrivata a circa 6mila scuole ++",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/-ministero-mail-con-lallarme-bomba-arrivata-a-circa-6mila-scuole-_4a01dcf9-449b-40db-8cee-7576e930f60c.html",
+     "time": "2026-11-11T13:46:47Z"
     },
     {
-     "title": "Trump festeggia, 'fallito il tentativo dem di impeachment di Hegseth'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/trump-festeggia-fallito-il-tentativo-dem-di-impeachment-di-hegseth_c54b476a-a0cb-4f88-ac7c-99132a75fa1a.html",
-     "time": "2026-11-10T23:46:47Z"
+     "title": "Pier Silvio Berlusconi, né io né Marina scenderemo in politica",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/pier-silvio-berlusconi-ne-io-ne-marina-scenderemo-in-politica_2cf35958-76db-4acd-bfdf-a36fb9d4d980.html",
+     "time": "2026-11-11T13:40:34Z"
     },
     {
-     "title": "La Camera Usa boccia la procedura di impeachment per Hegseth",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/la-camera-usa-boccia-la-procedura-di-impeachment-per-hegseth_41fa1a43-327a-48f9-b8c0-455e22491c3d.html",
-     "time": "2026-11-10T23:16:57Z"
+     "title": "Mina, il nuovo singolo Settembre fuori il 13 novembre",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/mina-il-nuovo-singolo-settembre-fuori-il-13-novembre_b68fd0f1-012c-47ce-a32f-dfa6685d5ac2.html",
+     "time": "2026-11-11T13:25:59Z"
     },
     {
-     "title": "Nyt, 'Trump fu informato di Mr Nvidia e la spia cinese sul volo per Pechino'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/nyt-trump-fu-informato-di-mr-nvidia-e-la-spia-cinese-sul-volo-per-pechino_5ef9493e-a062-4db4-87c7-e6e5d2584cab.html",
-     "time": "2026-11-10T22:21:17Z"
+     "title": "Sindacati scuola, 'impensabile accettare ulteriori tagli, già subiti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/sindacati-scuola-impensabile-accettare-ulteriori-tagli-gia-subiti_d279b437-a64c-4242-b626-d5d403e5e8e4.html",
+     "time": "2026-11-11T13:03:11Z"
     },
     {
-     "title": "John Thune rieletto leader dei repubblicani al Senato Usa",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/john-thune-rieletto-leader-dei-repubblicani-al-senato-usa_788f97ef-48b7-49ac-9246-bf1fdba44448.html",
-     "time": "2026-11-10T21:42:08Z"
+     "title": "Programma Difesa, 22 miliardi investimenti su armamenti oltre il 2031",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/programma-difesa-22-miliardi-investimenti-su-armamenti-oltre-il-2031_710689b1-a628-4840-8ccb-826e8cf88956.html",
+     "time": "2026-11-11T13:00:55Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T14:51:26Z"
+    },
+    {
+     "title": "Spain sees widespread disruption in first general strike for 14 years",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T14:06:27Z"
+    },
+    {
+     "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+     "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T13:25:47Z"
+    },
+    {
+     "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+     "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T13:24:29Z"
+    },
+    {
+     "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+     "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T12:53:11Z"
+    },
+    {
+     "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T12:30:29Z"
+    },
+    {
+     "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T12:14:12Z"
+    },
+    {
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+     "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T11:47:22Z"
+    },
+    {
+     "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T11:34:50Z"
+    },
+    {
+     "title": "Tearful Smith switches allegiance to Netherlands",
+     "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T09:45:14Z"
+    },
+    {
+     "title": "US warns Madagascar over growing military ties with Russia",
+     "url": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T07:30:15Z"
+    },
+    {
      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-11T03:44:06Z"
-    },
-    {
-     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-     "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T03:26:42Z"
-    },
-    {
-     "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-     "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T02:47:59Z"
-    },
-    {
-     "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-     "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T02:41:16Z"
-    },
-    {
-     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T01:01:20Z"
-    },
-    {
-     "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-     "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T00:26:02Z"
-    },
-    {
-     "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-     "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T00:19:42Z"
-    },
-    {
-     "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-     "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T00:18:07Z"
-    },
-    {
-     "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-     "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-10T22:52:15Z"
-    },
-    {
-     "title": "First day of Ukraine peace talks constructive, Zelensky says",
-     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-10T21:21:55Z"
-    },
-    {
-     "title": "Why does Australia want Brits to swap Sydney for the outback?",
-     "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-10T21:17:00Z"
-    },
-    {
-     "title": "Spain's king and queen attend memorial service for rail crash victims",
-     "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-10T20:46:40Z"
     }
    ]
   }
