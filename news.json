@@ -1,6 +1,6 @@
 {
- "version": 177,
- "updated": "2026-11-11T15:03:32Z",
+ "version": 178,
+ "updated": "2026-11-11T21:51:10Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Mehr Fälle sexualisierter Gewalt in der Bundeswehr: Pistorius plant schärferes Vorgehen",
-     "url": "https://www.tagesschau.de/video/video-1682012.html",
-     "time": "2026-11-11T14:35:35Z"
+     "title": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+     "time": "2026-11-11T21:30:05Z"
     },
     {
-     "title": "Nach Vorwürfen - Boris Palmer verzichtet auf öffentliche Auftritte",
-     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/tuebinger-ob-boris-palmer-rueckzug-100.html",
-     "time": "2026-11-11T14:15:00Z"
+     "title": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
+     "time": "2026-11-11T20:29:48Z"
+    },
+    {
+     "title": "Weltklimakonferenz in Antalya: Deutschlands Rolle beim Klimaschutz",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682252.html",
+     "time": "2026-11-11T19:39:52Z"
+    },
+    {
+     "title": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
+     "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
+     "time": "2026-11-11T19:26:10Z"
+    },
+    {
+     "title": "Die deutsche Wirtschaft entwickelt sich besser als erwartet",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682248.html",
+     "time": "2026-11-11T19:18:47Z"
+    },
+    {
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81982.html",
+     "time": "2026-11-11T19:17:40Z"
+    },
+    {
+     "title": "Dunkelfeldstudie deckt mehr Fälle sexualisierter Gewalt in der Bundeswehr auf",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682246.html",
+     "time": "2026-11-11T19:16:37Z"
+    },
+    {
+     "title": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+     "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+     "time": "2026-11-11T19:13:07Z"
+    },
+    {
+     "title": "\"Sicherheitsordnung\": Warum übernehmen die USA Russlands Forderung?",
+     "url": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html",
+     "time": "2026-11-11T18:56:21Z"
+    },
+    {
+     "title": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
+     "time": "2026-11-11T18:46:53Z"
+    },
+    {
+     "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+     "time": "2026-11-11T18:01:47Z"
     },
     {
      "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
-     "time": "2026-11-11T14:09:53Z"
-    },
-    {
-     "title": "Generalstreik in Spanien für bezahlbares Wohnen",
-     "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-wohnungskrise-100.html",
-     "time": "2026-11-11T14:01:32Z"
-    },
-    {
-     "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
-     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
-     "time": "2026-11-11T13:30:06Z"
-    },
-    {
-     "title": "Juli Kurz, ARD Berlin, zum Integrationsbericht der Bundesregierung",
-     "url": "https://www.tagesschau.de/video/video-1681976.html",
-     "time": "2026-11-11T13:21:33Z"
-    },
-    {
-     "title": "Iris Sayram, ARD Berlin, zu Konsequenzen aus der Dunkelfeldstudie über sexualisiertes Fehlverhalten bei der Bundeswehr",
-     "url": "https://www.tagesschau.de/video/video-1681974.html",
-     "time": "2026-11-11T13:17:09Z"
-    },
-    {
-     "title": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
-     "time": "2026-11-11T12:40:59Z"
-    },
-    {
-     "title": "Marktbericht: Der DAX-Rally geht die Puste aus",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-rally-geht-puste-aus-100.html",
-     "time": "2026-11-11T12:40:08Z"
-    },
-    {
-     "title": "Bundeskartellamt kritisiert Gebührenpolitik von PayPal",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/paypal-bundeskartellamt-gebuehren-100.html",
-     "time": "2026-11-11T12:34:37Z"
-    },
-    {
-     "title": "Wie trotz Blockade der Straße von Hormus Öl aus der Region fließt",
-     "url": "https://www.tagesschau.de/wirtschaft/energie/iran-krieg-oel-golfstaaten-100.html",
-     "time": "2026-11-11T12:21:57Z"
-    },
-    {
-     "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
-     "time": "2026-11-11T12:07:44Z"
+     "time": "2026-11-11T17:30:18Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Verhandlungen zu Ukrainekrieg – Die Gespräche in Abu Dhabi sind beendet – so geht es weiter",
-     "url": "https://www.srf.ch/news/international/verhandlungen-zu-ukrainekrieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter",
-     "time": "2026-11-11T15:03:00Z"
+     "title": "In Zug tropft es vom Dach – Spielabbruch bei Genonis Jubiläum – EVZ-Halle undicht",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/in-zug-tropft-es-vom-dach-genonis-jubilaeum-faellt-wortwoertlich-ins-wasser",
+     "time": "2026-11-11T21:34:40Z"
     },
     {
-     "title": "Schweizer Arzttarifsystem – Bundesrat genehmigt erste Tardoc-Revision und fordert Korrekturen",
-     "url": "https://www.srf.ch/news/schweiz/schweizer-arzttarifsystem-bundesrat-genehmigt-erste-tardoc-revision-und-fordert-korrekturen",
-     "time": "2026-11-11T14:59:44Z"
+     "title": "Wohnungsnot in Spanien – Generalstreik legt Teile des Landes lahm – Krawalle in Barcelona",
+     "url": "https://www.srf.ch/news/international/wohnungsnot-in-spanien-generalstreik-legt-teile-des-landes-lahm-krawalle-in-barcelona",
+     "time": "2026-11-11T21:33:21Z"
     },
     {
-     "title": "Abstimmung Kanton Schaffhausen – Weichen für das Spitalpersonal werden neu gestellt",
-     "url": "https://www.srf.ch/news/abstimmung-kanton-schaffhausen-weichen-fuer-das-spitalpersonal-werden-neu-gestellt",
-     "time": "2026-11-11T14:43:47Z"
+     "title": "Champions Hockey League – Freiburg legt im Schweizer Duell in Genf klar vor",
+     "url": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-freiburg-legt-im-schweizer-duell-in-genf-klar-vor",
+     "time": "2026-11-11T21:17:54Z"
     },
     {
-     "title": "Anklage gegen Politiker – SVP-Nationalrat Buffat muss wegen häuslicher Gewalt vor Gericht",
-     "url": "https://www.srf.ch/news/schweiz/anklage-gegen-politiker-svp-nationalrat-buffat-muss-wegen-haeuslicher-gewalt-vor-gericht",
-     "time": "2026-11-11T14:26:38Z"
+     "title": "WM in Dänemark: Vorrunde – Nati verliert gegen Deutschland und verspielt 2. Rang",
+     "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-in-daenemark-vorrunde-nati-verliert-gegen-deutschland-und-verspielt-2-rang",
+     "time": "2026-11-11T20:33:30Z"
     },
     {
-     "title": "Kurzzeitiger Unterbruch – Bahnverkehr bei Zürich wieder im Normalbetrieb",
-     "url": "https://www.srf.ch/news/schweiz/kurzzeitiger-unterbruch-bahnverkehr-bei-zuerich-wieder-im-normalbetrieb",
-     "time": "2026-11-11T14:23:16Z"
+     "title": "Liebesaffäre am Bundesgericht – Bundesrichter Donzallaz hat seine Kandidatur zurückgezogen",
+     "url": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-bundesrichter-donzallaz-hat-seine-kandidatur-zurueckgezogen",
+     "time": "2026-11-11T20:19:48Z"
     },
     {
-     "title": "Stimmen aus der Community – «dialog»-Community: «Der EGMR agiert immer unverhohlener»",
-     "url": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-dialog-community-der-egmr-agiert-immer-unverhohlener",
-     "time": "2026-11-11T14:20:52Z"
+     "title": "Krieg in der Ukraine – Selenski hofft auf konkrete Ergebnisse bis Jahresende",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-hofft-auf-konkrete-ergebnisse-bis-jahresende",
+     "time": "2026-11-11T20:15:03Z"
     },
     {
-     "title": "Imagewechsel – Weg von der «Agglo-Gemeinde»: Emmen will Stadt werden",
-     "url": "https://www.srf.ch/news/schweiz/imagewechsel-weg-von-der-agglo-gemeinde-emmen-will-stadt-werden",
-     "time": "2026-11-11T13:54:25Z"
+     "title": "Liebe zwischen Bundesrichtern – Die Affäre am Bundesgericht nimmt überraschende Wendungen",
+     "url": "https://www.srf.ch/news/schweiz/liebe-zwischen-bundesrichtern-die-affaere-am-bundesgericht-nimmt-ueberraschende-wendungen",
+     "time": "2026-11-11T20:13:53Z"
     },
     {
-     "title": "Polen im Schockzustand – Attentäter von Krakau war von Massenmörder Breivik fasziniert",
-     "url": "https://www.srf.ch/news/international/polen-im-schockzustand-attentaeter-von-krakau-war-von-massenmoerder-breivik-fasziniert",
-     "time": "2026-11-11T13:51:20Z"
+     "title": "Lage im Gazastreifen – In Gaza droht humanitäre Katastrophe wegen Winterwetter",
+     "url": "https://www.srf.ch/news/international/nahost/lage-im-gazastreifen-in-gaza-droht-humanitaere-katastrophe-wegen-winterwetter",
+     "time": "2026-11-11T20:03:10Z"
     },
     {
-     "title": "Kulturnews in Kurzform – Italienischer Literaturpreis für Pedro Lenz",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-italienischer-literaturpreis-fuer-pedro-lenz",
-     "time": "2026-11-11T13:03:11Z"
+     "title": "Verschollen geglaubte Art – Die Äthiopische Wassermaus ist zurück",
+     "url": "https://www.srf.ch/news/verschollen-geglaubte-art-die-aethiopische-wassermaus-ist-zurueck",
+     "time": "2026-11-11T19:12:20Z"
     },
     {
-     "title": "Bedrohliche Mails eingegangen – Bombendrohungen an Hunderten Schulen in Italien",
-     "url": "https://www.srf.ch/news/international/bedrohliche-mails-eingegangen-bombendrohungen-an-hunderten-schulen-in-italien",
-     "time": "2026-11-11T13:01:32Z"
+     "title": "Dänemark führt – Neue Klimaländerrangliste: Noch kein Land ist auf Kurs",
+     "url": "https://www.srf.ch/news/international/daenemark-fuehrt-neue-klimalaenderrangliste-noch-kein-land-ist-auf-kurs",
+     "time": "2026-11-11T19:07:46Z"
     },
     {
-     "title": "Abstimmungen Baselland – Günstigeres ÖV-Abo für Junge? Darüber stimmt Baselland ab",
-     "url": "https://www.srf.ch/news/abstimmungen-baselland-guenstigeres-oev-abo-fuer-junge-darueber-stimmt-baselland-ab",
-     "time": "2026-11-11T12:55:44Z"
+     "title": "Markige Worte des Vorgängers – Blatter teilt gegen Infantino aus: «Er ist ein Diktator»",
+     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/markige-worte-des-vorgaengers-blatter-teilt-gegen-infantino-aus-er-ist-ein-diktator",
+     "time": "2026-11-11T18:55:05Z"
     },
     {
-     "title": "70. Spiel als Nati-Trainer – Yakin: Aus der Challenge League in die Weltspitze",
-     "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/70-spiel-als-nati-trainer-yakin-aus-der-challenge-league-in-die-weltspitze",
-     "time": "2026-11-11T12:47:48Z"
+     "title": "Explizite Inhalte – Spanien ermittelt wegen Kindesmissbrauchsinhalten auf TikTok",
+     "url": "https://www.srf.ch/news/international/explizite-inhalte-spanien-ermittelt-wegen-kindesmissbrauchsinhalten-auf-tiktok",
+     "time": "2026-11-11T18:44:04Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Tajani, 'ricevuti nuovi cyberattacchi, taglia anche su minori della mia famiglia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/tajani-ricevuti-nuovi-cyberattacchi-taglia-anche-su-minori-della-mia-famiglia_0e7ceef5-19bc-46c8-a768-cf5ae28abcde.html",
-     "time": "2026-11-11T14:32:17Z"
+     "title": "'Usa hanno chiesto a Mosca di presentare un patto sicurezza con Europa'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/usa-hanno-chiesto-a-mosca-di-presentare-un-patto-sicurezza-con-europa_a8254669-fe88-45eb-b687-746c4832d701.html",
+     "time": "2026-11-11T20:47:13Z"
     },
     {
-     "title": "Kallas, 'ad Abu Dhabi nessuna disponibilità della Russia a negoziare seriamente'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/kallas-ad-abu-dhabi-nessuna-disponibilita-della-russia-a-negoziare-seriamente_9e6a8d8b-3fa2-4bad-8903-5a2c2ff4284b.html",
-     "time": "2026-11-11T14:30:06Z"
+     "title": "Scontri a Barcellona dopo il corteo per la casa, vetrine in frantumi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/scontri-a-barcellona-dopo-il-corteo-per-la-casa-vetrine-in-frantumi_821cd9b5-76e8-40c4-8b51-e9875efacb45.html",
+     "time": "2026-11-11T20:04:10Z"
     },
     {
-     "title": "Attacchi hacker, domani Meloni incontra i leader di opposizione",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/attacchi-hacker-domani-meloni-incontra-i-leader-di-opposizione_0a47d9d6-e98a-460b-b877-4fc7cdeff123.html",
-     "time": "2026-11-11T14:16:20Z"
+     "title": "Wsj, 'Vance valuta colloqui faccia a faccia con il falco iraniano Rezaei'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/wsj-vance-valuta-colloqui-faccia-a-faccia-con-il-falco-iraniano-rezaei_4f229245-66d7-4e0d-af80-0b08f6f1376d.html",
+     "time": "2026-11-11T19:48:26Z"
     },
     {
-     "title": "La Rai avvia accertamenti su Bellama' di Diaco",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/la-rai-avvia-accertamenti-su-bellama-di-diaco_5cbb18f4-7d92-453b-8407-f3d18b0dabdf.html",
-     "time": "2026-11-11T14:11:12Z"
+     "title": "Meloni, non permetteremo a una mail anonima di decidere il calendario scolastico",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/meloni-non-permetteremo-a-una-mail-anonima-di-decidere-il-calendario-scolastico_6a6809dc-f12f-48b8-9a16-a7376e58ac05.html",
+     "time": "2026-11-11T19:07:53Z"
     },
     {
-     "title": "Il Papa augura all'Argentina sentieri di riconciliazione",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/il-papa-augura-allargentina-sentieri-di-riconciliazione_1642ff1f-5aab-49de-a9a0-297877a09c86.html",
-     "time": "2026-11-11T14:05:06Z"
+     "title": "Fonti maggioranza, 'per la manovra correttivi mirati su sanità, pensioni e scuola'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/fonti-maggioranza-per-la-manovra-correttivi-mirati-su-sanita-pensioni-e-scuola_a29f619e-6187-4fb6-b78e-e99880ea29e2.html",
+     "time": "2026-11-11T19:00:12Z"
     },
     {
-     "title": "++ Ministero, mail con l'allarme bomba arrivata a circa 6mila scuole ++",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/-ministero-mail-con-lallarme-bomba-arrivata-a-circa-6mila-scuole-_4a01dcf9-449b-40db-8cee-7576e930f60c.html",
-     "time": "2026-11-11T13:46:47Z"
+     "title": "Fonti maggioranza, sulla manovra emendamenti concordati rispettando equilibrio conti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/fonti-maggioranza-sulla-manovra-emendamenti-concordati-rispettando-equilibrio-conti_e6bfd057-d1e0-4678-b219-4e1f691551aa.html",
+     "time": "2026-11-11T18:54:47Z"
     },
     {
-     "title": "Pier Silvio Berlusconi, né io né Marina scenderemo in politica",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/pier-silvio-berlusconi-ne-io-ne-marina-scenderemo-in-politica_2cf35958-76db-4acd-bfdf-a36fb9d4d980.html",
-     "time": "2026-11-11T13:40:34Z"
+     "title": "Pier Silvio Berlusconi, nè io né Marina scenderemo in politica",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/pier-silvio-berlusconi-ne-io-ne-marina-scenderemo-in-politica_53a4fcc0-18c2-46d4-8ade-ea508eddf370.html",
+     "time": "2026-11-11T18:37:22Z"
     },
     {
-     "title": "Mina, il nuovo singolo Settembre fuori il 13 novembre",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/mina-il-nuovo-singolo-settembre-fuori-il-13-novembre_b68fd0f1-012c-47ce-a32f-dfa6685d5ac2.html",
-     "time": "2026-11-11T13:25:59Z"
+     "title": "Futuro nazionale, 'arrivato ora l'invito al tavolo di P.Chigi sugli attacchi hacker'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/futuro-nazionale-arrivato-ora-linvito-al-tavolo-di-p.chigi-sugli-attacchi-hacker_c0e4fcf3-9cb9-4b84-81c9-878180d2fd13.html",
+     "time": "2026-11-11T18:31:36Z"
     },
     {
-     "title": "Sindacati scuola, 'impensabile accettare ulteriori tagli, già subiti'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/sindacati-scuola-impensabile-accettare-ulteriori-tagli-gia-subiti_d279b437-a64c-4242-b626-d5d403e5e8e4.html",
-     "time": "2026-11-11T13:03:11Z"
+     "title": "Regioni,'con i dati che abbiamo non riusciamo a garantire quanto fatto nel 2026'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/regionicon-i-dati-che-abbiamo-non-riusciamo-a-garantire-quanto-fatto-nel_269441aa-d3eb-4cc7-8272-270a1d58bf69.html",
+     "time": "2026-11-11T18:30:44Z"
     },
     {
-     "title": "Programma Difesa, 22 miliardi investimenti su armamenti oltre il 2031",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/programma-difesa-22-miliardi-investimenti-su-armamenti-oltre-il-2031_710689b1-a628-4840-8ccb-826e8cf88956.html",
-     "time": "2026-11-11T13:00:55Z"
+     "title": "Lupi, in manovra non ci saranno ulteriori contributi delle banche",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/lupi-in-manovra-non-ci-saranno-ulteriori-contributi-delle-banche_71181fab-95e3-475d-a277-3fc6e3bb9bcc.html",
+     "time": "2026-11-11T18:30:27Z"
     }
    ]
   },
@@ -215,14 +215,49 @@
    "countries": [],
    "items": [
     {
-     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T14:51:26Z"
+     "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T20:52:52Z"
     },
     {
-     "title": "Spain sees widespread disruption in first general strike for 14 years",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T14:06:27Z"
+     "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+     "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T20:00:54Z"
+    },
+    {
+     "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T18:38:45Z"
+    },
+    {
+     "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+     "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T18:10:57Z"
+    },
+    {
+     "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+     "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T18:04:58Z"
+    },
+    {
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T16:59:34Z"
+    },
+    {
+     "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+     "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T16:45:11Z"
+    },
+    {
+     "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+     "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T16:38:07Z"
+    },
+    {
+     "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+     "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T14:56:11Z"
     },
     {
      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
@@ -238,41 +273,6 @@
      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-11T12:53:11Z"
-    },
-    {
-     "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-     "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T12:30:29Z"
-    },
-    {
-     "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-     "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T12:14:12Z"
-    },
-    {
-     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-     "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T11:47:22Z"
-    },
-    {
-     "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-     "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T11:34:50Z"
-    },
-    {
-     "title": "Tearful Smith switches allegiance to Netherlands",
-     "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T09:45:14Z"
-    },
-    {
-     "title": "US warns Madagascar over growing military ties with Russia",
-     "url": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T07:30:15Z"
-    },
-    {
-     "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-     "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T03:44:06Z"
     }
    ]
   }
