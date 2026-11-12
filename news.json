@@ -1,6 +1,6 @@
 {
- "version": 180,
- "updated": "2026-11-12T10:53:39Z",
+ "version": 181,
+ "updated": "2026-11-12T18:48:54Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Kita-Startchancengesetz: Mehr Förderung mit weniger Geld?",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/kita-startchancengesetz-100.html",
-     "time": "2026-11-12T10:45:20Z"
+     "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+     "time": "2026-11-12T18:44:38Z"
     },
     {
-     "title": "Mann fährt Auto in Menschengruppe - drei Verletzte",
-     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/attacke-mit-auto-in-empelde-opfer-in-lebensgefahr-mann-stellt-sich,empelde-100.html",
-     "time": "2026-11-12T10:44:33Z"
+     "title": "Thunberg auf COP31: \"Der Planet stirbt nicht, er wird getötet\"",
+     "url": "https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html",
+     "time": "2026-11-12T18:44:20Z"
     },
     {
-     "title": "Marktbericht: DAX knackt 27.000 Punkte-Marke",
+     "title": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
-     "time": "2026-11-12T09:55:48Z"
+     "time": "2026-11-12T17:41:58Z"
     },
     {
-     "title": "IG Metall beschließt erstmals seit acht Jahren ganztägige Streiks",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
-     "time": "2026-11-12T09:48:25Z"
+     "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
+     "time": "2026-11-12T17:31:15Z"
     },
     {
-     "title": "Kompromisse beim Haushalt: Zufriedene SPD, Grummeln in der Union",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html",
-     "time": "2026-11-12T09:43:29Z"
+     "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
+     "time": "2026-11-12T17:20:04Z"
     },
     {
-     "title": "Nvidia-Chef Huang verliert wegen Affären wohl seinen Job",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html",
-     "time": "2026-11-12T09:38:52Z"
+     "title": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
+     "time": "2026-11-12T16:29:23Z"
     },
     {
-     "title": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
-     "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
-     "time": "2026-11-12T09:25:57Z"
+     "title": "Verhandlungen im Ukraine-Krieg gehen auch um die Rolle Europas",
+     "url": "https://www.tagesschau.de/video/video-1682706.html",
+     "time": "2026-11-12T16:24:13Z"
     },
     {
-     "title": "Wandbild in Neu-Delhi, Papst Leo in Peru, Herbstwetter in Moskau",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10562.html",
-     "time": "2026-11-12T09:22:41Z"
+     "title": "Spanisches Parlament beschließt Maßnahmen für mehr Mieterschutz",
+     "url": "https://www.tagesschau.de/ausland/europa/spanien-parlament-wohnungsdekret-100.html",
+     "time": "2026-11-12T16:21:41Z"
     },
     {
-     "title": "Gipfel in Dublin: US-Sondergesandte wollen EU und Ukraine einbinden",
-     "url": "https://www.tagesschau.de/video/video-1682472.html",
-     "time": "2026-11-12T09:16:08Z"
+     "title": "Kompromiss im Haushalt 2027 sorgt für Kritik aus der Union",
+     "url": "https://www.tagesschau.de/video/video-1682704.html",
+     "time": "2026-11-12T16:20:09Z"
     },
     {
-     "title": "Abnehmspritze könnte laut Barmer-Chef bald Kassenleistung werden",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/abnehmspritze-kassenleistung-100.html",
-     "time": "2026-11-12T09:13:24Z"
+     "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
+     "time": "2026-11-12T16:17:54Z"
     },
     {
-     "title": "Tote bei israelischem Angriff auf Krankenhaus im Gazastreifen",
-     "url": "https://www.tagesschau.de/video/video-1682468.html",
-     "time": "2026-11-12T09:10:31Z"
+     "title": "\"Pflege ganz aktiv\" schafft mehr Freiraum in der Pflege",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/pflege-neues-modell-ambulant-100.html",
+     "time": "2026-11-12T15:46:43Z"
     },
     {
-     "title": "Großrazzia bei Rockerclub \"Gremium MC\" in Baden-Württemberg",
-     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/grossrazzia-rockerclub-baden-wuerttemberg-100.html",
-     "time": "2026-11-12T08:46:00Z"
+     "title": "Nvidia-Beben: Warum Konzernchef Huang nach Affären-Vorwürfen geht",
+     "url": "https://www.tagesschau.de/video/video-1682656.html",
+     "time": "2026-11-12T14:41:45Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Feuerwerksinitiative – Wie läuft das Geschäft mit Raketen und Co.?",
-     "url": "https://www.srf.ch/news/feuerwerksinitiative-wie-laeuft-das-geschaeft-mit-raketen-und-co",
-     "time": "2026-11-12T10:18:22Z"
+     "title": "Finanzchefin wird Nachfolgerin – Affären bringen Nvidia-Chef Jensen Huang zu Fall",
+     "url": "https://www.srf.ch/news/international/finanzchefin-wird-nachfolgerin-affaeren-bringen-nvidia-chef-jensen-huang-zu-fall",
+     "time": "2026-11-12T18:48:08Z"
     },
     {
-     "title": "Shootingstar fällt aus – Die Wade zwickt: Manzambi reist wieder ab",
-     "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/shootingstar-faellt-aus-die-wade-zwickt-manzambi-reist-wieder-ab",
-     "time": "2026-11-12T10:13:43Z"
+     "title": "Krieg in der Ukraine – Putin schlägt Waffenruhe für Kostjantyniwka vor",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-putin-schlaegt-waffenruhe-fuer-kostjantyniwka-vor",
+     "time": "2026-11-12T18:44:47Z"
     },
     {
-     "title": "Reha verläuft gut – Stalder: «Eine Medaille liegt drin»",
-     "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/reha-verlaeuft-gut-stalder-eine-medaille-liegt-drin",
-     "time": "2026-11-12T09:35:45Z"
+     "title": "Krieg im Nahen Osten – Bericht: Mehrere Tote bei Angriff auf Spital in Gaza",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-bericht-mehrere-tote-bei-angriff-auf-spital-in-gaza",
+     "time": "2026-11-12T18:43:47Z"
     },
     {
-     "title": "Kein Duell gegen Schweiz – Kanada verweigert Russland Visa für U20-WM",
-     "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/kein-duell-gegen-schweiz-kanada-verweigert-russland-visa-fuer-u20-wm",
-     "time": "2026-11-12T09:26:53Z"
+     "title": "Historischer Einzug in Senat – Bittere Pille für Trump: Demokrat Colom siegt in Mississippi",
+     "url": "https://www.srf.ch/news/international/usa/historischer-einzug-in-senat-bittere-pille-fuer-trump-demokrat-colom-siegt-in-mississippi",
+     "time": "2026-11-12T18:26:15Z"
     },
     {
-     "title": "Lage im Gazastreifen – In Gaza droht humanitäre Katastrophe wegen Winterwetter",
-     "url": "https://www.srf.ch/news/international/nahost/lage-im-gazastreifen-in-gaza-droht-humanitaere-katastrophe-wegen-winterwetter",
-     "time": "2026-11-12T09:24:25Z"
+     "title": "Rückblick nach Rücktritt – Von Grafikchips zu KI: Der Aufstieg von Nvidia unter Jensen Huang",
+     "url": "https://www.srf.ch/news/wirtschaft/rueckblick-nach-ruecktritt-von-grafikchips-zu-ki-der-aufstieg-von-nvidia-unter-jensen-huang",
+     "time": "2026-11-12T18:21:38Z"
     },
     {
-     "title": "Am US‑Veteranentag – Lautes Lachen am Denkmal: Soldat rügt Gruppe um Pete Hegseth",
-     "url": "https://www.srf.ch/news/international/am-us-veteranentag-lautes-lachen-am-denkmal-soldat-ruegt-gruppe-um-pete-hegseth",
-     "time": "2026-11-12T09:23:16Z"
+     "title": "Bedeutung der Sparkassen – Als die Schweizer Bevölkerung das Sparen lernte",
+     "url": "https://www.srf.ch/news/wirtschaft/bedeutung-der-sparkassen-als-die-schweizer-bevoelkerung-das-sparen-lernte",
+     "time": "2026-11-12T18:00:06Z"
     },
     {
-     "title": "Kontroverse um Brauchtum – Gansabhauet Sursee: Tolle Tradition oder barbarischer Brauch?",
-     "url": "https://www.srf.ch/news/schweiz/kontroverse-um-brauchtum-gansabhauet-sursee-tolle-tradition-oder-barbarischer-brauch",
-     "time": "2026-11-12T09:00:48Z"
+     "title": "Zukunftstag in der Schweiz – Berufswahl ohne Geschlechterklischees",
+     "url": "https://www.srf.ch/news/gesellschaft/zukunftstag-in-der-schweiz-berufswahl-ohne-geschlechterklischees",
+     "time": "2026-11-12T17:30:43Z"
     },
     {
-     "title": "Nach schwerem Olympia-Sturz – Vonn nach 9. Operation: «Ganzer Mist ist endlich aus meinem Bein»",
-     "url": "https://www.srf.ch/sport/ski-alpin/ski-alpin-allgemein/nach-schwerem-olympia-sturz-vonn-nach-9-operation-ganzer-mist-ist-endlich-aus-meinem-bein",
-     "time": "2026-11-12T08:48:26Z"
+     "title": "Absetzung von Nvidia-Chef – Die Lehren aus dem Fall Jensen Huang und seinen Affären",
+     "url": "https://www.srf.ch/news/wirtschaft/absetzung-von-nvidia-chef-die-lehren-aus-dem-fall-jensen-huang-und-seinen-affaeren",
+     "time": "2026-11-12T17:16:52Z"
     },
     {
-     "title": "Neu im Kino – «Ebenezer»: Das Comeback des Johnny Depp?",
-     "url": "https://www.srf.ch/kultur/film-serien/neu-im-kino-ebenezer-das-comeback-des-johnny-depp",
-     "time": "2026-11-12T08:17:58Z"
+     "title": "Kurswechsel bis 2030 – Radikaler Umbau: Cremo bündelt Produktion im Kanton Freiburg",
+     "url": "https://www.srf.ch/news/schweiz/kurswechsel-bis-2030-radikaler-umbau-cremo-buendelt-produktion-im-kanton-freiburg",
+     "time": "2026-11-12T17:10:33Z"
     },
     {
-     "title": "Auswirkungen des Hitzesommers – Der Gütertransport auf dem Rhein ist seit dem Sommer unterbrochen",
-     "url": "https://www.srf.ch/news/wirtschaft/auswirkungen-des-hitzesommers-der-guetertransport-auf-dem-rhein-ist-seit-dem-sommer-unterbrochen",
-     "time": "2026-11-12T07:56:29Z"
+     "title": "Nicht nur digitales Radio – SRF-Sender sind wieder auf UKW empfangbar",
+     "url": "https://www.srf.ch/news/schweiz/nicht-nur-digitales-radio-srf-sender-sind-wieder-auf-ukw-empfangbar",
+     "time": "2026-11-12T17:00:19Z"
     },
     {
-     "title": "Krankes Tier – Mit der Katze zum Tierarzt: Muss ich die Stunden nacharbeiten?",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/rechtsfragen/sonstiges-recht/krankes-tier-mit-der-katze-zum-tierarzt-muss-ich-die-stunden-nacharbeiten",
-     "time": "2026-11-12T07:28:44Z"
+     "title": "Sichtbare Atemluft – Warum wir unseren Atem sehen",
+     "url": "https://www.srf.ch/meteo/meteo-stories/sichtbare-atemluft-warum-wir-unseren-atem-sehen",
+     "time": "2026-11-12T16:33:32Z"
     },
     {
-     "title": "NHL am Mittwoch – Josi knackt 800-Punkte-Marke",
-     "url": "https://www.srf.ch/sport/eishockey/nhl/nhl-am-mittwoch-josi-knackt-800-punkte-marke",
-     "time": "2026-11-12T07:09:08Z"
+     "title": "Streaming-Geheimtipp – Was in diesen 14 Minuten passiert, bricht einem das Herz",
+     "url": "https://www.srf.ch/streaming-geheimtipp-was-in-diesen-14-minuten-passiert-bricht-einem-das-herz",
+     "time": "2026-11-12T16:26:46Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Meloni, l'intesa sulla rappresentanza traguardo storico",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/meloni-lintesa-sulla-rappresentanza-traguardo-storico_f6c3681f-c8ba-4091-a11a-8eedb77c8402.html",
-     "time": "2026-11-12T10:34:51Z"
+     "title": "Trump, 'Vance non si occuperà più dell'Iran, non abbiamo bisogno di un accordo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/trump-vance-non-si-occupera-piu-delliran-non-abbiamo-bisogno-di-un-accordo_53a3c6b7-5854-48bb-b4a7-4828d418eda1.html",
+     "time": "2026-11-12T18:11:07Z"
     },
     {
-     "title": "Nuova minaccia di bomba 'fake' a P.Chigi, 'nessun segnale concreto, allarme infondato'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/nuova-minaccia-di-bomba-fake-a-p.chigi-nessun-segnale-concreto-allarme-infondato_67b0e3bf-2ac5-49a1-80de-e27410bf7b2a.html",
-     "time": "2026-11-12T10:32:23Z"
+     "title": "Il Papa, 'triste che persista una mentalità machista'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/il-papa-triste-che-persista-una-mentalita-machista_f5582de2-e6fa-4079-a53a-bf97eed5828c.html",
+     "time": "2026-11-12T18:10:11Z"
     },
     {
-     "title": "Netanyahu e Eisenkot si incontreranno oggi per aggiornamento di sicurezza",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/netanyahu-e-eisenkot-si-incontreranno-oggi-per-aggiornamento-di-sicurezza_91b87a1d-4240-408d-a4fb-4ebd802273b7.html",
-     "time": "2026-11-12T10:19:55Z"
+     "title": "Migranti travolti dal fiume a Ventimiglia, sei in salvo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/migranti-travolti-dal-fiume-a-ventimiglia-sei-in-salvo_8033ad15-9ce6-41bc-ab1d-6fa02d04a9c6.html",
+     "time": "2026-11-12T18:08:09Z"
     },
     {
-     "title": "Schlein, disponibili a collaborare su allarmi bomba ma nessuna delega in bianco",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/schlein-disponibili-a-collaborare-su-allarmi-bomba-ma-nessuna-delega-in-bianco_02e6b040-8651-4ad7-a225-f14252256fd2.html",
-     "time": "2026-11-12T10:19:27Z"
+     "title": "Borsellino: perquisizioni all'ex capo della Polizia De Gennaro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/borsellino-perquisizioni-allex-capo-della-polizia-de-gennaro_867269bd-2c69-4b87-9b6b-8c710dde61b7.html",
+     "time": "2026-11-12T18:06:00Z"
     },
     {
-     "title": "Nel pomeriggio riunione tecnica sul protocollo di gestione degli allarmi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/nel-pomeriggio-riunione-tecnica-sul-protocollo-di-gestione-degli-allarmi_b1c439a4-ab2e-4099-9002-bf3bd3567399.html",
-     "time": "2026-11-12T10:11:37Z"
+     "title": "Witkoff, gli europei parteciperanno al prossimo round di colloqui sull'Ucraina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/witkoff-gli-europei-parteciperanno-al-prossimo-round-di-colloqui-sullucraina_67bef84c-822d-40ae-b4bb-6e4aa6dc42c8.html",
+     "time": "2026-11-12T17:57:09Z"
     },
     {
-     "title": "Conte (M5s), massima disponibilità su allarmi bomba ma le proposte spettano al governo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/conte-m5s-massima-disponibilita-su-allarmi-bomba-ma-le-proposte-spettano-al-governo_6f519549-acfd-4519-960a-0002d548fd28.html",
-     "time": "2026-11-12T10:01:56Z"
+     "title": "Cremlino, 'concordata una nuova operazione umanitaria a Kostyantynivka '",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/cremlino-concordata-una-nuova-operazione-umanitaria-a-kostyantynivka-_899b5d75-9a6e-42dc-9208-65e7a86320fa.html",
+     "time": "2026-11-12T17:54:37Z"
     },
     {
-     "title": "La Bce pungola la Francia, 'spread alti hanno contribuito al calo dell'euro'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/la-bce-pungola-la-francia-spread-alti-hanno-contribuito-al-calo-delleuro_7f641870-465d-4703-8de9-4330b4b73a4b.html",
-     "time": "2026-11-12T09:54:48Z"
+     "title": "Il nuovo Congresso indagherà su ok della Casa Bianca a vendita chip Nvidia alla Cina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/il-nuovo-congresso-indaghera-su-ok-della-casa-bianca-a-vendita-chip-nvidia-alla_cfafb543-6f9a-4ff9-827b-1a8dd48d2268.html",
+     "time": "2026-11-12T17:49:54Z"
     },
     {
-     "title": "Inps, in 9 mesi assegno unico universale a 9,7 milioni figli e 6,2 milioni famiglie",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/inps-in-9-mesi-assegno-unico-universale-a-97-milioni-figli-e-62-milioni-famiglie_02e64950-87a2-4775-99ee-d7b24c452b34.html",
-     "time": "2026-11-12T09:37:00Z"
+     "title": "Il prezzo del gas corre e sfiora i 94 euro con tensioni Medioriente",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/il-prezzo-del-gas-corre-e-sfiora-i-94-euro-con-tensioni-medioriente_b2c4afc3-ebdf-49b0-8b94-1ab7e8a768ca.html",
+     "time": "2026-11-12T17:41:35Z"
     },
     {
-     "title": "Bce, la crescita Ue tiene fra i rischi, faro sulle 'incertezze di bilancio'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/bce-la-crescita-ue-tiene-fra-i-rischi-faro-sulle-incertezze-di-bilancio_6c3c9fa5-58a6-4ac6-b7f0-69f399478502.html",
-     "time": "2026-11-12T09:31:29Z"
+     "title": "Banco Bpm avvia approfondimenti sulla proposta dell'Agricole",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/banco-bpm-avvia-approfondimenti-sulla-proposta-dellagricole_f775fe35-2e11-472a-8fe5-8ec0fcb23881.html",
+     "time": "2026-11-12T17:14:42Z"
     },
     {
-     "title": "Zelensky, il sistema Starshield ha di nuovo delle limitazioni",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/zelensky-il-sistema-starshield-ha-di-nuovo-delle-limitazioni_d6009692-f721-400a-95cf-93e9e857f07b.html",
-     "time": "2026-11-12T09:23:57Z"
+     "title": "Lo spread tra Btp e Bund chiude in rialzo a 104,4 punti base",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-1044-punti-base_96944f20-b9b4-4f06-afc6-4fdfa2327db7.html",
+     "time": "2026-11-12T17:12:04Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
-     "title": "New York building collapse kills at least two, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T10:40:49Z"
+     "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T18:47:35Z"
+    },
+    {
+     "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T18:28:59Z"
+    },
+    {
+     "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+     "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T17:11:48Z"
+    },
+    {
+     "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T16:54:12Z"
+    },
+    {
+     "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+     "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T15:18:20Z"
+    },
+    {
+     "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T14:12:55Z"
+    },
+    {
+     "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+     "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T13:58:49Z"
+    },
+    {
+     "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+     "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T13:02:46Z"
+    },
+    {
+     "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T12:56:55Z"
+    },
+    {
+     "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+     "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T12:39:39Z"
+    },
+    {
+     "title": "Five new miniature frog species found in eastern Himalayas",
+     "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T11:07:19Z"
     },
     {
      "title": "British woman missing from cruise ship in Atlantic",
      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-12T10:13:35Z"
-    },
-    {
-     "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T10:08:38Z"
-    },
-    {
-     "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
-     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T10:02:32Z"
-    },
-    {
-     "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T09:43:11Z"
-    },
-    {
-     "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-     "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T08:46:57Z"
-    },
-    {
-     "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-     "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T07:59:33Z"
-    },
-    {
-     "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-     "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T07:45:52Z"
-    },
-    {
-     "title": "Can Nigeria's president regain voters' trust after painful first term?",
-     "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T07:30:44Z"
-    },
-    {
-     "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-     "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T04:03:13Z"
-    },
-    {
-     "title": "Australian teen missing in bush for six days rescued alive",
-     "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T02:40:18Z"
-    },
-    {
-     "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T22:07:37Z"
     }
    ]
   }
