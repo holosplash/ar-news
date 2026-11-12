@@ -1,6 +1,6 @@
 {
- "version": 178,
- "updated": "2026-11-11T21:51:10Z",
+ "version": 179,
+ "updated": "2026-11-12T02:50:21Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,34 @@
    ],
    "items": [
     {
-     "title": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
+     "title": "Offene Wunden: Der Papst und die Missbrauchsskandale",
+     "url": "https://www.tagesschau.de/ausland/amerika/papst-peru-missbrauch-100.html",
+     "time": "2026-11-12T02:33:13Z"
+    },
+    {
+     "title": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+     "url": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+     "time": "2026-11-12T02:08:44Z"
+    },
+    {
+     "title": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
      "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
-     "time": "2026-11-11T21:30:05Z"
+     "time": "2026-11-11T23:12:02Z"
+    },
+    {
+     "title": "Verteidigungsminister Pistorius, SPD, zu den Übergriffen bei der Bundeswehr",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1682338.html",
+     "time": "2026-11-11T22:12:19Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12974.html",
+     "time": "2026-11-11T21:52:00Z"
+    },
+    {
+     "title": "Nicole Kohnert, ARD Berlin, über die Planungen des Bundeshaushalts 2027",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1682340.html",
+     "time": "2026-11-11T21:35:43Z"
     },
     {
      "title": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
@@ -25,19 +50,9 @@
      "time": "2026-11-11T20:29:48Z"
     },
     {
-     "title": "Weltklimakonferenz in Antalya: Deutschlands Rolle beim Klimaschutz",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682252.html",
-     "time": "2026-11-11T19:39:52Z"
-    },
-    {
      "title": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
      "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
      "time": "2026-11-11T19:26:10Z"
-    },
-    {
-     "title": "Die deutsche Wirtschaft entwickelt sich besser als erwartet",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1682248.html",
-     "time": "2026-11-11T19:18:47Z"
     },
     {
      "title": "tagesschau",
@@ -58,21 +73,6 @@
      "title": "\"Sicherheitsordnung\": Warum übernehmen die USA Russlands Forderung?",
      "url": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html",
      "time": "2026-11-11T18:56:21Z"
-    },
-    {
-     "title": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
-     "time": "2026-11-11T18:46:53Z"
-    },
-    {
-     "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
-     "time": "2026-11-11T18:01:47Z"
-    },
-    {
-     "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
-     "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
-     "time": "2026-11-11T17:30:18Z"
     }
    ]
   },
@@ -85,9 +85,19 @@
    ],
    "items": [
     {
+     "title": "«Abstimmungsarena» – 13. AHV-Rente: Elisabeth Baume-Schneider unter Dauerbeschuss",
+     "url": "https://www.srf.ch/news/schweiz/abstimmungsarena-13-ahv-rente-elisabeth-baume-schneider-unter-dauerbeschuss",
+     "time": "2026-11-11T23:57:49Z"
+    },
+    {
+     "title": "Midterms 2026 – Demokrat Scott Colom gewinnt Senatssitz in Mississippi",
+     "url": "https://www.srf.ch/news/international/usa/midterms-2026-demokrat-scott-colom-gewinnt-senatssitz-in-mississippi",
+     "time": "2026-11-11T23:31:59Z"
+    },
+    {
      "title": "In Zug tropft es vom Dach – Spielabbruch bei Genonis Jubiläum – EVZ-Halle undicht",
      "url": "https://www.srf.ch/sport/eishockey/national-league/in-zug-tropft-es-vom-dach-genonis-jubilaeum-faellt-wortwoertlich-ins-wasser",
-     "time": "2026-11-11T21:34:40Z"
+     "time": "2026-11-11T22:31:29Z"
     },
     {
      "title": "Wohnungsnot in Spanien – Generalstreik legt Teile des Landes lahm – Krawalle in Barcelona",
@@ -133,16 +143,6 @@
      "title": "Dänemark führt – Neue Klimaländerrangliste: Noch kein Land ist auf Kurs",
      "url": "https://www.srf.ch/news/international/daenemark-fuehrt-neue-klimalaenderrangliste-noch-kein-land-ist-auf-kurs",
      "time": "2026-11-11T19:07:46Z"
-    },
-    {
-     "title": "Markige Worte des Vorgängers – Blatter teilt gegen Infantino aus: «Er ist ein Diktator»",
-     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/markige-worte-des-vorgaengers-blatter-teilt-gegen-infantino-aus-er-ist-ein-diktator",
-     "time": "2026-11-11T18:55:05Z"
-    },
-    {
-     "title": "Explizite Inhalte – Spanien ermittelt wegen Kindesmissbrauchsinhalten auf TikTok",
-     "url": "https://www.srf.ch/news/international/explizite-inhalte-spanien-ermittelt-wegen-kindesmissbrauchsinhalten-auf-tiktok",
-     "time": "2026-11-11T18:44:04Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
+     "title": "Il Papa in Perù, 'profonda gioia tornare nella mia patria'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/il-papa-in-peru-profonda-gioia-tornare-nella-mia-patria_0f9b1535-8670-4ac2-af56-1f4387ee271d.html",
+     "time": "2026-11-12T01:55:21Z"
+    },
+    {
+     "title": "Premier Estonia, 'Ue non ha bisogno di inviato ad hoc per Kiev'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/premier-estonia-ue-non-ha-bisogno-di-inviato-ad-hoc-per-kiev_a3e513c7-5ee6-4355-be7b-26dbc1a8e78c.html",
+     "time": "2026-11-12T01:03:46Z"
+    },
+    {
+     "title": "Media, attacco russo su Kiev con missili balistici",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/media-attacco-russo-su-kiev-con-missili-balistici_fa204eb0-7b40-4615-8428-65382d62630c.html",
+     "time": "2026-11-12T00:18:59Z"
+    },
+    {
+     "title": "Il Papa in Perù accolto da 3 milioni di persone",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/il-papa-in-peru-accolto-da-3-milioni-di-persone_efb265ed-04b9-4ee2-9baf-19f7ee6b930d.html",
+     "time": "2026-11-12T00:11:36Z"
+    },
+    {
+     "title": "Azioni di Nvidia di nuovo a picco dopo la notizia di un altro affaire per Huang",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/azioni-di-nvidia-di-nuovo-a-picco-dopo-la-notizia-di-un-altro-affaire-per-huang_7e88cc57-32aa-44f0-893d-3022a5366e53.html",
+     "time": "2026-11-11T23:31:45Z"
+    },
+    {
+     "title": "Nyt, Jensen Huang ha avuto affaire anche con una manager di Nvidia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/nyt-jensen-huang-ha-avuto-affaire-anche-con-una-manager-di-nvidia_d4e2ced3-2c96-43a3-95cc-022f70977b57.html",
+     "time": "2026-11-11T22:55:37Z"
+    },
+    {
+     "title": "Palazzo crollato a Brooklyn, almeno un morto e diversi feriti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/palazzo-crollato-a-brooklyn-almeno-un-morto-e-diversi-feriti_517ba49d-f19b-4b8a-8f94-62ec9521ad2d.html",
+     "time": "2026-11-11T22:35:21Z"
+    },
+    {
+     "title": "Crolla un palazzo di 3 piani a Brooklyn, persone tra le macerie",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/crolla-un-palazzo-di-3-piani-a-brooklyn-persone-tra-le-macerie_10f55e58-b81d-45d5-8a14-6d283ff6321a.html",
+     "time": "2026-11-11T22:22:04Z"
+    },
+    {
+     "title": "Giorgetti firma il decreto sugli aiuti per l'Ucraina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/giorgetti-firma-il-decreto-sugli-aiuti-per-lucraina_2564fbd9-b1cd-45a4-b499-f568ba122862.html",
+     "time": "2026-11-11T22:09:35Z"
+    },
+    {
      "title": "'Usa hanno chiesto a Mosca di presentare un patto sicurezza con Europa'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/usa-hanno-chiesto-a-mosca-di-presentare-un-patto-sicurezza-con-europa_a8254669-fe88-45eb-b687-746c4832d701.html",
      "time": "2026-11-11T20:47:13Z"
-    },
-    {
-     "title": "Scontri a Barcellona dopo il corteo per la casa, vetrine in frantumi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/scontri-a-barcellona-dopo-il-corteo-per-la-casa-vetrine-in-frantumi_821cd9b5-76e8-40c4-8b51-e9875efacb45.html",
-     "time": "2026-11-11T20:04:10Z"
-    },
-    {
-     "title": "Wsj, 'Vance valuta colloqui faccia a faccia con il falco iraniano Rezaei'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/wsj-vance-valuta-colloqui-faccia-a-faccia-con-il-falco-iraniano-rezaei_4f229245-66d7-4e0d-af80-0b08f6f1376d.html",
-     "time": "2026-11-11T19:48:26Z"
-    },
-    {
-     "title": "Meloni, non permetteremo a una mail anonima di decidere il calendario scolastico",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/meloni-non-permetteremo-a-una-mail-anonima-di-decidere-il-calendario-scolastico_6a6809dc-f12f-48b8-9a16-a7376e58ac05.html",
-     "time": "2026-11-11T19:07:53Z"
-    },
-    {
-     "title": "Fonti maggioranza, 'per la manovra correttivi mirati su sanità, pensioni e scuola'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/fonti-maggioranza-per-la-manovra-correttivi-mirati-su-sanita-pensioni-e-scuola_a29f619e-6187-4fb6-b78e-e99880ea29e2.html",
-     "time": "2026-11-11T19:00:12Z"
-    },
-    {
-     "title": "Fonti maggioranza, sulla manovra emendamenti concordati rispettando equilibrio conti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/fonti-maggioranza-sulla-manovra-emendamenti-concordati-rispettando-equilibrio-conti_e6bfd057-d1e0-4678-b219-4e1f691551aa.html",
-     "time": "2026-11-11T18:54:47Z"
-    },
-    {
-     "title": "Pier Silvio Berlusconi, nè io né Marina scenderemo in politica",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/pier-silvio-berlusconi-ne-io-ne-marina-scenderemo-in-politica_53a4fcc0-18c2-46d4-8ade-ea508eddf370.html",
-     "time": "2026-11-11T18:37:22Z"
-    },
-    {
-     "title": "Futuro nazionale, 'arrivato ora l'invito al tavolo di P.Chigi sugli attacchi hacker'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/futuro-nazionale-arrivato-ora-linvito-al-tavolo-di-p.chigi-sugli-attacchi-hacker_c0e4fcf3-9cb9-4b84-81c9-878180d2fd13.html",
-     "time": "2026-11-11T18:31:36Z"
-    },
-    {
-     "title": "Regioni,'con i dati che abbiamo non riusciamo a garantire quanto fatto nel 2026'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/regionicon-i-dati-che-abbiamo-non-riusciamo-a-garantire-quanto-fatto-nel_269441aa-d3eb-4cc7-8272-270a1d58bf69.html",
-     "time": "2026-11-11T18:30:44Z"
-    },
-    {
-     "title": "Lupi, in manovra non ci saranno ulteriori contributi delle banche",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/11/lupi-in-manovra-non-ci-saranno-ulteriori-contributi-delle-banche_71181fab-95e3-475d-a277-3fc6e3bb9bcc.html",
-     "time": "2026-11-11T18:30:27Z"
     }
    ]
   },
@@ -215,9 +215,24 @@
    "countries": [],
    "items": [
     {
+     "title": "New York building collapse kills one person and injures 12",
+     "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T02:33:12Z"
+    },
+    {
+     "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T02:09:08Z"
+    },
+    {
+     "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T00:36:11Z"
+    },
+    {
      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T20:52:52Z"
+     "time": "2026-11-11T22:07:37Z"
     },
     {
      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
@@ -225,12 +240,17 @@
      "time": "2026-11-11T20:00:54Z"
     },
     {
+     "title": "Famed ship SS United States to be sunk off coast of Florida",
+     "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-11T18:42:27Z"
+    },
+    {
      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-11T18:38:45Z"
     },
     {
-     "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+     "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-11T18:10:57Z"
     },
@@ -253,26 +273,6 @@
      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-11T16:38:07Z"
-    },
-    {
-     "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-     "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T14:56:11Z"
-    },
-    {
-     "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-     "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T13:25:47Z"
-    },
-    {
-     "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-     "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T13:24:29Z"
-    },
-    {
-     "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-     "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-11T12:53:11Z"
     }
    ]
   }
