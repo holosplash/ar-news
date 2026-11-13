@@ -1,6 +1,6 @@
 {
- "version": 182,
- "updated": "2026-11-13T00:08:03Z",
+ "version": 183,
+ "updated": "2026-11-13T07:08:55Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,56 @@
    ],
    "items": [
     {
+     "title": "Gänse auf einem Fußgängerüberweg, Rosalía mit Latin-Grammy-Auszeichnungen, 29. Paris Photo",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10564.html",
+     "time": "2026-11-13T07:01:00Z"
+    },
+    {
+     "title": "Marktbericht: Atempause nach dem DAX-Rekord",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
+     "time": "2026-11-13T06:35:10Z"
+    },
+    {
+     "title": "Auch Outlook betroffen: Weltweite Störungen bei Microsoft-Diensten",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+     "time": "2026-11-13T06:30:08Z"
+    },
+    {
+     "title": "Werden die Milliarden für die Stromsteuer noch gefunden?",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushalt-milliarden-100.html",
+     "time": "2026-11-13T06:26:18Z"
+    },
+    {
+     "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
+     "url": "https://www.tagesschau.de/inland/bundeshauhalt-2027-100.html",
+     "time": "2026-11-13T06:26:14Z"
+    },
+    {
+     "title": "11KM-Podcast zum Rücktritt des Nvidia-Chefs: Der Fall Jensen Huang",
+     "url": "https://www.tagesschau.de/podcast-11km-nvidia-huang-100.html",
+     "time": "2026-11-13T05:44:09Z"
+    },
+    {
+     "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+     "time": "2026-11-13T04:23:02Z"
+    },
+    {
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "url": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "time": "2026-11-13T02:36:47Z"
+    },
+    {
+     "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+     "url": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+     "time": "2026-11-13T02:19:34Z"
+    },
+    {
+     "title": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
+     "url": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
+     "time": "2026-11-13T01:22:12Z"
+    },
+    {
      "title": "Paul Ziemiak, Fraktion CDU/CSU, zu Unmut der Union über Kompromiss für den Haushalt 2027",
      "url": "https://www.tagesschau.de/tagesthemen/video-1682940.html",
      "time": "2026-11-12T22:07:49Z"
@@ -23,56 +73,6 @@
      "title": "Die Meinung von Nicole Kohnert, WDR, zu den Haushaltsverhandlungen",
      "url": "https://www.tagesschau.de/tagesthemen/video-1682936.html",
      "time": "2026-11-12T22:07:09Z"
-    },
-    {
-     "title": "Massiver Klärungsbedarf bei finalen Haushaltsberatungen 2027",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1682928.html",
-     "time": "2026-11-12T22:05:22Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12982.html",
-     "time": "2026-11-12T21:52:40Z"
-    },
-    {
-     "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
-     "url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
-     "time": "2026-11-12T21:09:07Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82044.html",
-     "time": "2026-11-12T19:17:44Z"
-    },
-    {
-     "title": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
-     "url": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
-     "time": "2026-11-12T18:54:49Z"
-    },
-    {
-     "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
-     "time": "2026-11-12T18:44:38Z"
-    },
-    {
-     "title": "Thunberg auf COP31: \"Der Planet stirbt nicht, er wird getötet\"",
-     "url": "https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html",
-     "time": "2026-11-12T18:44:20Z"
-    },
-    {
-     "title": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
-     "time": "2026-11-12T17:41:58Z"
-    },
-    {
-     "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-     "time": "2026-11-12T17:31:15Z"
-    },
-    {
-     "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
-     "time": "2026-11-12T17:20:04Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Nations League am Donnerstag – Italien gewinnt Prestige-Duell – Kane trifft bei Jubiläum",
-     "url": "https://www.srf.ch/sport/fussball/nations-league/nations-league-am-donnerstag-italien-gewinnt-prestige-duell-kane-trifft-bei-jubilaeum",
-     "time": "2026-11-12T21:52:27Z"
+     "title": "Starsängerin Delta Goodrem – «Am ersten Tag meiner Chemotherapie rief mich Elton John an»",
+     "url": "https://www.srf.ch/starsaengerin-delta-goodrem-am-ersten-tag-meiner-chemotherapie-rief-mich-elton-john-an",
+     "time": "2026-11-13T07:03:24Z"
     },
     {
-     "title": "Affären am Arbeitsplatz – Wenn Liebe den Job kostet – diese Chefs räumten ihre Posten",
-     "url": "https://www.srf.ch/news/wirtschaft/affaeren-am-arbeitsplatz-wenn-liebe-den-job-kostet-diese-chefs-raeumten-ihre-posten",
-     "time": "2026-11-12T21:50:58Z"
+     "title": "Schweizer Militärgeschichte – Vom Importeur zur Waffenschmiede – und wieder zurück",
+     "url": "https://www.srf.ch/radio-srf-1/schweizer-militaergeschichte-vom-importeur-zur-waffenschmiede-und-wieder-zurueck",
+     "time": "2026-11-13T06:53:45Z"
     },
     {
-     "title": "National League am Donnerstag – 4:3 n.P. in Biel: Lions zeigen Moral und Nervenstärke",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-donnerstag-4-3-n-p-in-biel-lions-zeigen-moral-und-nervenstaerke",
-     "time": "2026-11-12T21:43:43Z"
+     "title": "Software-Riese Microsoft – Ausfälle bei Outlook und Teams dauern an",
+     "url": "https://www.srf.ch/news/wirtschaft/software-riese-microsoft-ausfaelle-bei-outlook-und-teams-dauern-an",
+     "time": "2026-11-13T06:53:13Z"
     },
     {
-     "title": "Hintergründe unklar – Mehrere Menschen in Washington angeschossen – ein Toter",
-     "url": "https://www.srf.ch/news/international/hintergruende-unklar-mehrere-menschen-in-washington-angeschossen-ein-toter",
-     "time": "2026-11-12T21:19:48Z"
+     "title": "Familienrecht – Bundesgericht definiert alternierende Obhut: Die 30-Prozent-Regel",
+     "url": "https://www.srf.ch/news/schweiz/familienrecht-bundesgericht-definiert-alternierende-obhut-die-30-prozent-regel",
+     "time": "2026-11-13T06:45:48Z"
     },
     {
-     "title": "Finanzchefin wird Nachfolgerin – Affären bringen Nvidia-Chef Jensen Huang zu Fall",
-     "url": "https://www.srf.ch/news/international/finanzchefin-wird-nachfolgerin-affaeren-bringen-nvidia-chef-jensen-huang-zu-fall",
-     "time": "2026-11-12T21:17:27Z"
+     "title": "Am US‑Veteranentag – Hegseth ehrt Soldat für Rüge seiner eigenen Besuchergruppe",
+     "url": "https://www.srf.ch/news/international/am-us-veteranentag-hegseth-ehrt-soldat-fuer-ruege-seiner-eigenen-besuchergruppe",
+     "time": "2026-11-13T06:38:38Z"
     },
     {
-     "title": "Im Stadtteil Brooklyn – Acht Tote und 18 Verletzte bei Hauseinsturz in New York",
-     "url": "https://www.srf.ch/news/international/im-stadtteil-brooklyn-acht-tote-und-18-verletzte-bei-hauseinsturz-in-new-york",
-     "time": "2026-11-12T21:07:19Z"
+     "title": "Unglückszahl 13 – 13 Fakten über Freitag, den 13.",
+     "url": "https://www.srf.ch/news/gesellschaft/unglueckszahl-13-13-fakten-ueber-freitag-den-13-1",
+     "time": "2026-11-13T06:36:05Z"
     },
     {
-     "title": "Nicht nur digitales Radio – SRF-Sender sind wieder auf UKW empfangbar",
-     "url": "https://www.srf.ch/news/schweiz/nicht-nur-digitales-radio-srf-sender-sind-wieder-auf-ukw-empfangbar",
-     "time": "2026-11-12T21:00:23Z"
+     "title": "«Carnaval De Luz» – U2 feiern Karneval mit Rosalía und Dolly Parton – ohne Samba",
+     "url": "https://www.srf.ch/radio-srf-3/musik/carnaval-de-luz-u2-feiern-karneval-mit-rosalia-und-dolly-parton-ohne-samba",
+     "time": "2026-11-13T05:55:16Z"
     },
     {
-     "title": "Nein zum Budget – Warum das Budget an einer unheiligen Allianz scheiterte",
-     "url": "https://www.srf.ch/news/schweiz/nein-zum-budget-warum-das-budget-an-einer-unheiligen-allianz-scheiterte",
-     "time": "2026-11-12T20:57:10Z"
+     "title": "Steuer-Dilemma – Heiratsstrafe erneut abschaffen – führt das zum Steuerchaos?",
+     "url": "https://www.srf.ch/news/steuer-dilemma-heiratsstrafe-erneut-abschaffen-fuehrt-das-zum-steuerchaos",
+     "time": "2026-11-13T05:46:48Z"
     },
     {
-     "title": "Auch Schweizer Behörden dabei – Ermittler decken riesiges internationales Kokainnetzwerk auf",
-     "url": "https://www.srf.ch/news/schweiz/auch-schweizer-behoerden-dabei-ermittler-decken-riesiges-internationales-kokainnetzwerk-auf",
-     "time": "2026-11-12T20:31:27Z"
+     "title": "Abstimmung Kanton Nidwalden – Warum Nidwalden über Schulgemeinden abstimmt, die schon weg sind",
+     "url": "https://www.srf.ch/news/abstimmung-kanton-nidwalden-warum-nidwalden-ueber-schulgemeinden-abstimmt-die-schon-weg-sind",
+     "time": "2026-11-13T05:44:47Z"
     },
     {
-     "title": "Nichtwiederausfuhrerklärungen – Kriegsmaterial-Lieferungen künftig ohne diplomatisches Ehrenwort",
-     "url": "https://www.srf.ch/news/nichtwiederausfuhrerklaerungen-kriegsmaterial-lieferungen-kuenftig-ohne-diplomatisches-ehrenwort",
-     "time": "2026-11-12T19:55:25Z"
+     "title": "Proteste gegen Sparmassnahmen – Waadtländer Regierung muss Steuern senken",
+     "url": "https://www.srf.ch/news/schweiz/proteste-gegen-sparmassnahmen-waadtlaender-regierung-muss-steuern-senken",
+     "time": "2026-11-13T05:35:11Z"
     },
     {
-     "title": "Verhandlungen zu Ukraine-Krieg – «Über Europa kann nicht ohne Europa gesprochen werden»",
-     "url": "https://www.srf.ch/news/international/ukraine/verhandlungen-zu-ukraine-krieg-ueber-europa-kann-nicht-ohne-europa-gesprochen-werden",
-     "time": "2026-11-12T19:53:16Z"
+     "title": "3 Fragen zur SVP-Bundesratskür – Wer passt ins SVP-Profil – und wer fällt durch?",
+     "url": "https://www.srf.ch/news/schweiz/3-fragen-zur-svp-bundesratskuer-wer-passt-ins-svp-profil-und-wer-faellt-durch",
+     "time": "2026-11-13T05:08:45Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Mehrere Tote bei Angriff auf Spital in Gaza",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-mehrere-tote-bei-angriff-auf-spital-in-gaza",
-     "time": "2026-11-12T19:51:16Z"
+     "title": "Nach Spionagefall bei Nvidia – Wer in der Schweiz chinesische Spionage befürchten muss",
+     "url": "https://www.srf.ch/news/dialog/nach-spionagefall-bei-nvidia-wer-in-der-schweiz-chinesische-spionage-befuerchten-muss",
+     "time": "2026-11-13T05:07:35Z"
     }
    ]
   },
@@ -157,6 +157,41 @@
    ],
    "items": [
     {
+     "title": "L'utile di Unipol sale a 1,39 miliardi (+12,4%), premi per 12,8 miliardi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/lutile-di-unipol-sale-a-139-miliardi-124-premi-per-128-miliardi_a24b5054-39aa-4317-9af5-dedd9fea9164.html",
+     "time": "2026-11-13T06:59:45Z"
+    },
+    {
+     "title": "Generali, nei nove mesi 76,5 miliardi di premi e 3,6 miliardi di utile (+12%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/generali-nei-nove-mesi-765-miliardi-di-premi-e-36-miliardi-di-utile-12_f0d3537b-c61c-4679-a80b-1c0885ac116b.html",
+     "time": "2026-11-13T06:20:58Z"
+    },
+    {
+     "title": "Mosca, 'la scorsa notte 467 droni ucraini diretti verso la capitale'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/mosca-la-scorsa-notte-467-droni-ucraini-diretti-verso-la-capitale_3db6f774-56bd-423b-80ae-b0db75b9c058.html",
+     "time": "2026-11-13T05:43:21Z"
+    },
+    {
+     "title": "Microsoft, le misure per risolvere falle Outlook non funzionano 'come previsto'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto_807396b2-0061-4372-8b7e-1575c1ebb11c.html",
+     "time": "2026-11-13T05:04:26Z"
+    },
+    {
+     "title": "Media, Lutnick testimonierà sul caso Nvidia prima del Congresso",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/media-lutnick-testimoniera-sul-caso-nvidia-prima-del-congresso_1d353339-a1d8-495f-8853-635e1df21342.html",
+     "time": "2026-11-13T04:40:32Z"
+    },
+    {
+     "title": "007 Usa 'non sono sicuri che Alice Huang fosse una spia della Cina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/007-usa-non-sono-sicuri-che-alice-huang-fosse-una_f754fd93-358d-4195-9ef4-82f6543e3a84.html",
+     "time": "2026-11-13T01:13:42Z"
+    },
+    {
+     "title": "Kushner, 'progressi significativi' nei negoziati Ucraina-Russia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/kushner-progressi-significativi-nei-negoziati-ucraina-russia_0393c901-faa1-466e-9cda-fc878fd4cb61.html",
+     "time": "2026-11-13T00:50:42Z"
+    },
+    {
      "title": "Zelensky, 'gli europei saranno al prossimo round negoziale'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/zelensky-gli-europei-saranno-al-prossimo-round-negoziale_c10ef57f-d758-4a95-b044-5c864e1f9a32.html",
      "time": "2026-11-12T22:46:32Z"
@@ -170,41 +205,6 @@
      "title": "Nations League: Mancini,'c'è voglia di riscatto, arriveremo al traguardo'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/nations-league-mancinice-voglia-di-riscatto-arriveremo-al-traguardo_157244da-66c2-4e1f-898c-562464590a02.html",
      "time": "2026-11-12T22:19:07Z"
-    },
-    {
-     "title": "Nations League: Frattesi, più della vittoria sono contento del carattere",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/nations-league-frattesi-piu-della-vittoria-sono-contento-del-carattere_f6bd2702-b343-4bc3-99b7-19eca13c5194.html",
-     "time": "2026-11-12T22:15:16Z"
-    },
-    {
-     "title": "Tennis: Stoccolma; Musetti supera Humbert e va in semifinale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/tennis-stoccolma-musetti-supera-humbert-e-va-in-semifinale_a4889504-f9d3-419e-a2bb-84086dbd34d4.html",
-     "time": "2026-11-12T22:07:09Z"
-    },
-    {
-     "title": "Nations League: Pio Esposito, coL rigore cancellato errore di mio fratello e di Zenica",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/nations-league-pio-esposito-col-rigore-cancellato-errore-di-mio-fratello_e8618a26-6308-4884-b8a9-d12d17a1d8ff.html",
-     "time": "2026-11-12T21:56:59Z"
-    },
-    {
-     "title": "Nvidia chiude al Nasdaq a -4,34%, bruciati oltre 400 miliardi da inizio settimana",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/nvidia-chiude-al-nasdaq-a-434-bruciati-oltre-400-miliardi-da-inizio-settimana_b8399481-26a2-4d26-8801-253a2f2d0707.html",
-     "time": "2026-11-12T21:25:02Z"
-    },
-    {
-     "title": "A Dublino incontro tra Zelensky e gli sherpa dell'Ue degli E4",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/a-dublino-incontro-tra-zelensky-e-gli-sherpa-dellue-degli-e4_6673f9f3-7780-46ec-86b4-a8793893b030.html",
-     "time": "2026-11-12T21:10:52Z"
-    },
-    {
-     "title": "Attacco hacker alla banca statale brasiliana Caixa Econômica Federal",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/attacco-hacker-alla-banca-statale-brasiliana-caixa-economica-federal_188f7059-a784-4d7e-91e9-73e1f975bbb9.html",
-     "time": "2026-11-12T20:41:29Z"
-    },
-    {
-     "title": "Media, Alice Huang legata a Huawei, principale concorrente cinese di Nvidia",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/12/media-alice-huang-legata-a-huawei-principale-concorrente-cinese-di-nvidia_17d579f2-bc3f-45da-9267-2d156ccecae4.html",
-     "time": "2026-11-12T20:24:26Z"
     }
    ]
   },
@@ -215,19 +215,39 @@
    "countries": [],
    "items": [
     {
-     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+     "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T23:34:05Z"
+     "time": "2026-11-13T03:57:01Z"
+    },
+    {
+     "title": "Australian footballers will not be charged after hotel incident, police say",
+     "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T03:02:54Z"
+    },
+    {
+     "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+     "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T02:48:29Z"
+    },
+    {
+     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+     "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T02:01:35Z"
+    },
+    {
+     "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+     "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T00:20:24Z"
+    },
+    {
+     "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+     "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-12T23:42:52Z"
     },
     {
      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-12T21:27:21Z"
-    },
-    {
-     "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T21:00:42Z"
     },
     {
      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
@@ -253,26 +273,6 @@
      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-12T17:11:48Z"
-    },
-    {
-     "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T16:54:12Z"
-    },
-    {
-     "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-     "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T15:18:20Z"
-    },
-    {
-     "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-     "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T14:12:55Z"
-    },
-    {
-     "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-     "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-12T13:58:49Z"
     }
    ]
   }
