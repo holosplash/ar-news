@@ -1,6 +1,6 @@
 {
- "version": 184,
- "updated": "2026-11-13T15:39:00Z",
+ "version": 185,
+ "updated": "2026-11-13T21:54:36Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Brandstiftung: Auto von Nius-Chefredakteur Reichelt angezündet",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/reichelt-auto-angezuendet-100.html",
-     "time": "2026-11-13T15:28:26Z"
+     "title": "DFB-Team sichert sich gegen Serbien sein Endspiel gegen Niederlande",
+     "url": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-team-sichert-sich-sein-endspiel-gegen-niederlande,serbien-deutschland-spielbericht-100.html",
+     "time": "2026-11-13T21:49:36Z"
     },
     {
-     "title": "Anklage gegen drei Menschen erhoben",
-     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/sechsfach-mord-in-stade-mutter-soll-tat-aktiv-unterstuetzt-haben,stade-406.html",
-     "time": "2026-11-13T15:25:18Z"
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12976.html",
+     "time": "2026-11-13T21:49:04Z"
     },
     {
-     "title": "Steffen Krach: Staatsanwaltschaft beantragt Aufhebung der Immunität",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/steffen-krach-immunitaet-100.html",
-     "time": "2026-11-13T15:19:36Z"
+     "title": "Einzelkritik Serbien gegen Deutschland: Gruda zockt, ter Stegen wackelt",
+     "url": "https://www.sportschau.de/fussball/nationalmannschaft/der-geile-zocker-zockt-ter-stegen-wackelt,einzelkritik-serbien-deutschland-100.html",
+     "time": "2026-11-13T21:45:43Z"
     },
     {
-     "title": "Svea Eckert, NDR, zur Störung bei Microsoft-Diensten",
-     "url": "https://www.tagesschau.de/video/video-1683262.html",
-     "time": "2026-11-13T15:05:13Z"
+     "title": "US-Luftfahrtbehörde stoppt alle Starts in den USA",
+     "url": "https://www.tagesschau.de/eilmeldung/usa-flugverbot-100.html",
+     "time": "2026-11-13T21:42:44Z"
+    },
+    {
+     "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+     "url": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+     "time": "2026-11-13T21:37:39Z"
+    },
+    {
+     "title": "Südamerika-Reise: Papst Leo XIV. besucht alte Wirkungsstätte in Peru",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1683550.html",
+     "time": "2026-11-13T21:35:28Z"
+    },
+    {
+     "title": "Wie denken junge Menschen über den Wehrdienst?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1683548.html",
+     "time": "2026-11-13T21:31:26Z"
+    },
+    {
+     "title": "Bundeskanzler Merz hält Deutschland bei Gesprächen über Ende des Ukraine-Krieges \"gesetzt\"",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1683544.html",
+     "time": "2026-11-13T21:29:06Z"
+    },
+    {
+     "title": "Mehr Befugnisse für Nachrichtendienste: größte Reform seit Jahrzehnten",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1683534.html",
+     "time": "2026-11-13T21:10:34Z"
+    },
+    {
+     "title": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1683532.html",
+     "time": "2026-11-13T21:07:45Z"
     },
     {
      "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-     "time": "2026-11-13T14:43:02Z"
+     "time": "2026-11-13T20:22:33Z"
     },
     {
-     "title": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
-     "url": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
-     "time": "2026-11-13T14:35:01Z"
-    },
-    {
-     "title": "Ägypten schließt wichtige unabhängige Nachrichtenseite",
-     "url": "https://www.tagesschau.de/video/video-1683242.html",
-     "time": "2026-11-13T14:09:55Z"
-    },
-    {
-     "title": "Bundeshaushalt für 2027 steht",
-     "url": "https://www.tagesschau.de/video/video-1683238.html",
-     "time": "2026-11-13T14:07:06Z"
-    },
-    {
-     "title": "Massai in Kenia, Gänse auf einem Fußgängerüberweg, Rosalía mit Latin-Grammy-Auszeichnungen",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10564.html",
-     "time": "2026-11-13T13:51:29Z"
-    },
-    {
-     "title": "Kritik auch aus der Union an ausbleibender Stromsteuer-Senkung",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html",
-     "time": "2026-11-13T13:20:56Z"
-    },
-    {
-     "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
-     "time": "2026-11-13T13:11:16Z"
-    },
-    {
-     "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
-     "time": "2026-11-13T13:00:43Z"
+     "title": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
+     "time": "2026-11-13T20:21:45Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Ausfälle bei Software-Riesen – Microsoft-Ausfall: Das gilt jetzt am Arbeitsplatz",
-     "url": "https://www.srf.ch/news/international/ausfaelle-bei-software-riesen-microsoft-ausfall-das-gilt-jetzt-am-arbeitsplatz",
-     "time": "2026-11-13T15:30:07Z"
+     "title": "Krieg in der Ukraine – EU-Ratspräsident: Fünf Länder und EU-Vertreter bei Verhandlungen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-usa-schraenken-satelliteninternet-weiter-ein",
+     "time": "2026-11-13T21:47:54Z"
     },
     {
-     "title": "Störungen bei Tech-Riesen – Klumpenrisiko Microsoft: Leben wir in fataler Abhängigkeit?",
-     "url": "https://www.srf.ch/news/wirtschaft/stoerungen-bei-tech-riesen-klumpenrisiko-microsoft-leben-wir-in-fataler-abhaengigkeit",
-     "time": "2026-11-13T15:28:18Z"
+     "title": "Kommunikationsprobleme – US-Luftfahrtbehörde verhängt landesweiten Flugstopp",
+     "url": "https://www.srf.ch/news/international/kommunikationsprobleme-us-luftfahrtbehoerde-verhaengt-landesweiten-flugstopp",
+     "time": "2026-11-13T21:42:18Z"
     },
     {
-     "title": "Kriegsmaterialgesetz – Das Ukraine-Paradox des neuen Kriegsmaterialgesetzes",
-     "url": "https://www.srf.ch/news/kriegsmaterialgesetz-das-ukraine-paradox-des-neuen-kriegsmaterialgesetzes",
-     "time": "2026-11-13T15:08:14Z"
+     "title": "SBB testen Strom-Blackout – Provozierter Stromausfall: Züge nach drei Minuten wieder am Netz",
+     "url": "https://www.srf.ch/news/schweiz/sbb-testen-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz",
+     "time": "2026-11-13T21:35:38Z"
     },
     {
-     "title": "Beschwerde abgelehnt – Zürcher Gemeinden müssen für Mehrkosten durch Tempo 30 zahlen",
-     "url": "https://www.srf.ch/news/schweiz/beschwerde-abgelehnt-zuercher-gemeinden-muessen-fuer-mehrkosten-durch-tempo-30-zahlen",
-     "time": "2026-11-13T15:04:32Z"
+     "title": "National League am Freitag – Ohne Genoni leckt diesmal die Zuger Defensive",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-ohne-genoni-leckt-diesmal-die-zuger-defensive",
+     "time": "2026-11-13T21:29:18Z"
     },
     {
-     "title": "Kulturnews in Kurzform – Art Cologne: Wertvolle Hans-Arp-Skulptur in Köln gestohlen",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-art-cologne-wertvolle-hans-arp-skulptur-in-koeln-gestohlen",
-     "time": "2026-11-13T14:51:31Z"
+     "title": "Nähe von New Orleans – USA: Tanker rammt Ausflugsschiff auf Mississippi",
+     "url": "https://www.srf.ch/news/international/naehe-von-new-orleans-usa-tanker-rammt-ausflugsschiff-auf-mississippi",
+     "time": "2026-11-13T21:00:53Z"
     },
     {
-     "title": "Nach elf Jahren – Marcel Dobler tritt aus dem Nationalrat zurück",
-     "url": "https://www.srf.ch/news/schweiz/nach-elf-jahren-marcel-dobler-tritt-aus-dem-nationalrat-zurueck",
-     "time": "2026-11-13T14:32:16Z"
+     "title": "WM-Viertelfinal – Eishockey-Nati der Frauen scheitert an Schweden",
+     "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-viertelfinal-eishockey-nati-der-frauen-scheitert-an-schweden",
+     "time": "2026-11-13T20:47:51Z"
     },
     {
-     "title": "Popkultureller Finanzausgleich – Sollen Stadionkonzerte kleine Clubs mitfinanzieren?",
-     "url": "https://www.srf.ch/radio-srf-3/popkultureller-finanzausgleich-sollen-stadionkonzerte-kleine-clubs-mitfinanzieren",
-     "time": "2026-11-13T14:25:58Z"
+     "title": "Gipfeltreffen in Dublin – EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+     "url": "https://www.srf.ch/news/international/gipfeltreffen-in-dublin-eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht",
+     "time": "2026-11-13T20:32:59Z"
     },
     {
-     "title": "Profifussball und Psychose – Schizophrenie verstehen: Kay Voser spricht über seine Erkrankung",
-     "url": "https://www.srf.ch/kultur/literatur/profifussball-und-psychose-schizophrenie-verstehen-kay-voser-spricht-ueber-seine-erkrankung",
-     "time": "2026-11-13T13:54:47Z"
+     "title": "Ausfälle bei Software-Riesen – Microsoft-Dienste laufen stabiler – Problembehebung dauert an",
+     "url": "https://www.srf.ch/news/wirtschaft/ausfaelle-bei-software-riesen-microsoft-dienste-laufen-stabiler-problembehebung-dauert-an",
+     "time": "2026-11-13T20:27:48Z"
     },
     {
-     "title": "Vor Saisonauftakt im Slalom – Rasts Levi-Plan: «Oben überleben, unten Skifahren»",
-     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/vor-saisonauftakt-im-slalom-rasts-levi-plan-oben-ueberleben-unten-skifahren",
-     "time": "2026-11-13T13:53:50Z"
+     "title": "12. Runde Women's Super League – Zwei Traumtore bescheren Rapperswil-Jona verdientes Remis",
+     "url": "https://www.srf.ch/sport/fussball/women-s-super-league/12-runde-women-s-super-league-zwei-traumtore-bescheren-rapperswil-jona-verdientes-remis",
+     "time": "2026-11-13T20:18:22Z"
     },
     {
-     "title": "Videospiel-Release steht an – Weltweit mehr Ferienanträge zum Start von GTA 6",
-     "url": "https://www.srf.ch/news/gesellschaft/videospiel-release-steht-an-weltweit-mehr-ferienantraege-zum-start-von-gta-6",
-     "time": "2026-11-13T13:40:06Z"
+     "title": "Konsum nicht empfohlen – Warnung: Listerien in Mini-Pouletfilets bei Aldi",
+     "url": "https://www.srf.ch/news/schweiz/konsum-nicht-empfohlen-warnung-listerien-in-mini-pouletfilets-bei-aldi",
+     "time": "2026-11-13T18:40:40Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Ölversorgung erholt sich erstmals seit Beginn des Iran-Kriegs",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-oelversorgung-erholt-sich-erstmals-seit-beginn-des-iran-kriegs",
-     "time": "2026-11-13T13:09:43Z"
+     "title": "Swissness-Label – Wer mit dem Schweizerkreuz wirbt, soll in der Schweiz produzieren",
+     "url": "https://www.srf.ch/news/schweiz/swissness-label-wer-mit-dem-schweizerkreuz-wirbt-soll-in-der-schweiz-produzieren",
+     "time": "2026-11-13T18:17:20Z"
     },
     {
-     "title": "«Was zählt ein Mensch?» – Der Nahe Osten – und das Leid, das wir von uns fernhalten",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/was-zaehlt-ein-mensch-der-nahe-osten-und-das-leid-das-wir-von-uns-fernhalten",
-     "time": "2026-11-13T12:44:13Z"
+     "title": "Pro & Kontra zu den Vorlagen – Interaktiver Abstimmungskompass: Welche Argumente überzeugen Sie?",
+     "url": "https://www.srf.ch/news/schweiz/pro-kontra-zu-den-vorlagen-interaktiver-abstimmungskompass-welche-argumente-ueberzeugen-sie-2",
+     "time": "2026-11-13T18:01:16Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Guterres, dobbiamo affrontare influenza sproporzionata lobby fossili",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/guterres-dobbiamo-affrontare-influenza-sproporzionata-lobby-fossili_f8349dd4-31ca-47ab-8f5f-982159d0f41d.html",
-     "time": "2026-11-13T15:26:48Z"
+     "title": "S&P conferma i rating BBB+/A-2 sull'Italia, outlook positivo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/sp-conferma-i-rating-bbba-2-sullitalia-outlook-positivo_8ad34fca-71b2-4518-909e-982a777b3e00.html",
+     "time": "2026-11-13T21:38:42Z"
     },
     {
-     "title": "Kimi Antonelli oggi al Quirinale da Mattarella",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/kimi-antonelli-oggi-al-quirinale-da-mattarella_ad8a3785-acc3-4c41-8315-ab7aa3d5de29.html",
-     "time": "2026-11-13T15:25:31Z"
+     "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_3eed54fc-cd03-45b4-9917-9f3f2a00452a.html",
+     "time": "2026-11-13T21:29:29Z"
     },
     {
-     "title": "Cremlino nega aver chiesto ritiro Finlandia dalla Nato, 'non se n'è parlato'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/cremlino-nega-aver-chiesto-ritiro-finlandia-dalla-nato-non-se-ne-parlato_413482c5-c6cc-42fc-b5f3-8f1e0feddd5a.html",
-     "time": "2026-11-13T15:21:22Z"
+     "title": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_c6fde2a2-fb3e-4ee0-8c85-40d12bb69160.html",
+     "time": "2026-11-13T21:27:28Z"
     },
     {
-     "title": "Bild, 'Mosca chiede Finlandia fuori dalla Nato e Moldavia divisa'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/bild-mosca-chiede-finlandia-fuori-dalla-nato-e-moldavia-divisa_09e5b133-9bd0-4f5f-a239-ab474fdd3847.html",
-     "time": "2026-11-13T15:17:44Z"
+     "title": "La casa di Brigitte Bardot a Saint-Tropez sarà aperta al pubblico in estate",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/la-casa-di-brigitte-bardot-a-saint-tropez-sara-aperta-al-pubblico-in-estate_777b6667-a451-4b78-9cda-79dddc48e1b5.html",
+     "time": "2026-11-13T19:05:41Z"
     },
     {
-     "title": "Guterres, ormai inevitabile il superamento della soglia di 1,5 gradi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/guterres-ormai-inevitabile-il-superamento-della-soglia-di-15-gradi_1b3d3cf6-554d-491a-bcf1-4ed0086f957c.html",
-     "time": "2026-11-13T15:07:56Z"
+     "title": "Meloni, segnale di attenzione alla scuola ma non erano tagli",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/meloni-segnale-di-attenzione-alla-scuola-ma-non-erano-tagli_6885fd4c-ad4d-4ae4-9643-7fb21a432aaa.html",
+     "time": "2026-11-13T18:28:15Z"
     },
     {
-     "title": "Microsoft apre a -1,48% al Nasdaq, pesano i disservizi su Outlook",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/microsoft-apre-a-148-al-nasdaq-pesano-i-disservizi-su-outlook_e4aa1d81-df37-4a82-a4c0-6104a488ea6d.html",
-     "time": "2026-11-13T14:50:16Z"
+     "title": "Von der Leyen, 'con Congresso Usa potremo parlare di governance dell'IA",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/von-der-leyen-con-congresso-usa-potremo-parlare-di-governance-dellia_8a159d28-2547-46de-8cc2-149bc446d784.html",
+     "time": "2026-11-13T18:19:50Z"
     },
     {
-     "title": "Bessent, 'chieste da tempo a Dipartimento del Commercio restrizioni su Megaspeed'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/bessent-chieste-da-tempo-a-dipartimento-del-commercio-restrizioni-su-megaspeed_0afb5668-b0fa-4919-93e9-accebb37eff7.html",
-     "time": "2026-11-13T14:40:19Z"
+     "title": "Uccise la ex a fucilate a Roma, confermato l'ergastolo in appello",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/uccise-la-ex-a-fucilate-a-roma-confermato-lergastolo-in-appello_e6019991-70d2-4dc0-ba52-a15ae7d7a1a4.html",
+     "time": "2026-11-13T18:13:18Z"
     },
     {
-     "title": "Laura Pausini vince il suo quinto Latin Grammy con l'album Yo canto 2",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/laura-pausini-vince-il-suo-quinto-latin-grammy-con-lalbum-yo-canto_20a3642a-0809-45e1-8570-edb97d82929e.html",
-     "time": "2026-11-13T14:18:53Z"
+     "title": "Fonti P.Chigi, 'da vertice di Dublino importante risultato su team negoziale'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/fonti-p.chigi-da-vertice-di-dublino-importante-risultato-su-team-negoziale_1857c3dd-97b1-4f6a-865e-f6be2356d00c.html",
+     "time": "2026-11-13T17:43:21Z"
     },
     {
-     "title": "'Capo Mossad a Washington mentre Netanyahu preme per riprendere guerra Iran'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/capo-mossad-a-washington-mentre-netanyahu-preme-per-riprendere-guerra-iran_0efb60d1-d5b2-42d5-a58a-bc6970e9a070.html",
-     "time": "2026-11-13T14:16:12Z"
+     "title": "Ft, Nvidia ha contattato il ceo di Arm, Rene Haas, per il dopo Huang",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/ft-nvidia-ha-contattato-il-ceo-di-arm-rene-haas-per-il-dopo-huang_6b8d3ab0-e294-4e12-8369-0163f969c939.html",
+     "time": "2026-11-13T17:33:02Z"
     },
     {
-     "title": "Merz, 'Berlino sarà a negoziati, non serve discutere architettura sicurezza europea'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/merz-berlino-sara-a-negoziati-non-serve-discutere-architettura-sicurezza-europea_e5d5d41e-962f-430c-9ab9-8500de73c25c.html",
-     "time": "2026-11-13T14:13:03Z"
+     "title": "Merkel, 'oggi voterei a favore del matrimonio per tutti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/merkel-oggi-voterei-a-favore-del-matrimonio-per-tutti_79b409ce-763c-4763-bb75-4351d9bdd0de.html",
+     "time": "2026-11-13T17:29:55Z"
     }
    ]
   },
@@ -215,14 +215,49 @@
    "countries": [],
    "items": [
     {
-     "title": "Why is the Microsoft outage lasting so long?",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T14:21:26Z"
+     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T21:14:22Z"
     },
     {
-     "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-     "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T12:28:28Z"
+     "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T19:53:57Z"
+    },
+    {
+     "title": "Democratic Senate leader Schumer set to face leadership challenge",
+     "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T19:03:10Z"
+    },
+    {
+     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T18:36:57Z"
+    },
+    {
+     "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+     "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T18:34:45Z"
+    },
+    {
+     "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T16:40:31Z"
+    },
+    {
+     "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+     "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T15:42:52Z"
+    },
+    {
+     "title": "At least 24 killed after bus collides with truck in north-east India",
+     "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T15:16:50Z"
+    },
+    {
+     "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+     "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T13:11:23Z"
     },
     {
      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -230,49 +265,14 @@
      "time": "2026-11-13T12:22:30Z"
     },
     {
+     "title": "Rosalía scoops historic third best album award at Latin Grammys",
+     "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-13T11:38:54Z"
+    },
+    {
      "title": "Nigerian university in mourning after four students die at post-exam party",
      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-13T11:37:08Z"
-    },
-    {
-     "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-     "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T08:20:28Z"
-    },
-    {
-     "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-     "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T07:01:43Z"
-    },
-    {
-     "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T06:12:20Z"
-    },
-    {
-     "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T03:57:01Z"
-    },
-    {
-     "title": "Australian footballers will not be charged after hotel incident, police say",
-     "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T03:02:54Z"
-    },
-    {
-     "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-     "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T02:48:29Z"
-    },
-    {
-     "title": "Will the Eurovision Song Contest succeed in Asia?",
-     "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T02:24:11Z"
-    },
-    {
-     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-     "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T02:01:35Z"
     }
    ]
   }
