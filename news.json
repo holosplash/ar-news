@@ -1,6 +1,6 @@
 {
- "version": 186,
- "updated": "2026-11-14T02:14:26Z",
+ "version": 187,
+ "updated": "2026-11-14T09:19:44Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "US-Luftfahrtbehörde stoppt alle Starts in den USA",
-     "url": "https://www.tagesschau.de/eilmeldung/usa-flugverbot-100.html",
-     "time": "2026-11-14T01:18:16Z"
+     "title": "NATO und EU beraten über weitere Unterstützung für die Ukraine",
+     "url": "https://www.tagesschau.de/video/video-1683618.html",
+     "time": "2026-11-14T08:43:49Z"
     },
     {
-     "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
-     "url": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
-     "time": "2026-11-14T00:51:37Z"
-    },
-    {
-     "title": "Einzelkritik Serbien gegen Deutschland: Gruda zockt, ter Stegen wackelt",
-     "url": "https://www.sportschau.de/fussball/nationalmannschaft/der-geile-zocker-zockt-ter-stegen-wackelt,einzelkritik-serbien-deutschland-100.html",
-     "time": "2026-11-13T23:00:09Z"
-    },
-    {
-     "title": "DFB-Team sichert sich gegen Serbien sein Endspiel gegen Niederlande",
-     "url": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-team-sichert-sich-sein-endspiel-gegen-niederlande,serbien-deutschland-spielbericht-100.html",
-     "time": "2026-11-13T23:00:00Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12976.html",
-     "time": "2026-11-13T21:49:04Z"
-    },
-    {
-     "title": "Südamerika-Reise: Papst Leo XIV. besucht alte Wirkungsstätte in Peru",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1683550.html",
-     "time": "2026-11-13T21:35:28Z"
-    },
-    {
-     "title": "Wie denken junge Menschen über den Wehrdienst?",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1683548.html",
-     "time": "2026-11-13T21:31:26Z"
-    },
-    {
-     "title": "Bundeskanzler Merz hält Deutschland bei Gesprächen über Ende des Ukraine-Krieges \"gesetzt\"",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1683544.html",
-     "time": "2026-11-13T21:29:06Z"
-    },
-    {
-     "title": "Mehr Befugnisse für Nachrichtendienste: größte Reform seit Jahrzehnten",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1683534.html",
-     "time": "2026-11-13T21:10:34Z"
-    },
-    {
-     "title": "Weltweiter Ausfall bei Diensten von Microsoft - auch Outlook und Teams betroffen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1683532.html",
-     "time": "2026-11-13T21:07:45Z"
+     "title": "Flugstopp in den USA aufgehoben - Veraltete Kommunikationstechnik Ursache für Stillstand",
+     "url": "https://www.tagesschau.de/video/video-1683610.html",
+     "time": "2026-11-14T08:27:20Z"
     },
     {
      "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-     "time": "2026-11-13T20:22:33Z"
+     "time": "2026-11-14T08:24:29Z"
     },
     {
-     "title": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
-     "time": "2026-11-13T20:21:45Z"
+     "title": "Trump kündigt Dreiertreffen mit Putin und Xi in China an",
+     "url": "https://www.tagesschau.de/video/video-1683612.html",
+     "time": "2026-11-14T08:21:32Z"
+    },
+    {
+     "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
+     "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+     "time": "2026-11-14T08:15:06Z"
+    },
+    {
+     "title": "Warum in Polen schneller gebaut wird als in Deutschland",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+     "time": "2026-11-14T07:24:30Z"
+    },
+    {
+     "title": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
+     "url": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
+     "time": "2026-11-14T07:21:14Z"
+    },
+    {
+     "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+     "time": "2026-11-14T07:15:22Z"
+    },
+    {
+     "title": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+     "url": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
+     "time": "2026-11-14T04:41:37Z"
+    },
+    {
+     "title": "Keine Priorität für Klimaschutz in der Koalition",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
+     "time": "2026-11-14T04:40:44Z"
+    },
+    {
+     "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+     "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+     "time": "2026-11-14T03:18:01Z"
+    },
+    {
+     "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+     "time": "2026-11-14T02:36:59Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Kommunikationsprobleme – US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
-     "url": "https://www.srf.ch/news/international/kommunikationsprobleme-us-luftfahrtbehoerde-hebt-landesweiten-flugstopp-wieder-auf",
-     "time": "2026-11-14T01:39:51Z"
+     "title": "Landesweites Startverbot – Flugchaos in den USA: Was hinter dem seltenen Groundstop steckt",
+     "url": "https://www.srf.ch/news/international/landesweites-startverbot-flugchaos-in-den-usa-was-hinter-dem-seltenen-groundstop-steckt",
+     "time": "2026-11-14T08:35:59Z"
     },
     {
-     "title": "Börsengang Vvardis – Swiss-Smile Schwestern mit harter Landung an der Wall Street",
-     "url": "https://www.srf.ch/news/wirtschaft/boersengang-vvardis-swiss-smile-schwestern-mit-harter-landung-an-der-wall-street",
-     "time": "2026-11-14T01:06:09Z"
+     "title": "Produziert im Herkunftsland – Kriegt die Schweizer Schokolade Konkurrenz aus Afrika?",
+     "url": "https://www.srf.ch/news/international/produziert-im-herkunftsland-kriegt-die-schweizer-schokolade-konkurrenz-aus-afrika",
+     "time": "2026-11-14T08:33:29Z"
     },
     {
-     "title": "Nähe von New Orleans – USA: Tanker rammt Ausflugsschiff auf Mississippi",
-     "url": "https://www.srf.ch/news/international/naehe-von-new-orleans-usa-tanker-rammt-ausflugsschiff-auf-mississippi",
-     "time": "2026-11-14T00:39:23Z"
+     "title": "Neue Krebsbehandlung – Gleiche Diagnose – unterschiedliche Entscheide der Krankenkassen",
+     "url": "https://www.srf.ch/news/dialog/neue-krebsbehandlung-gleiche-diagnose-unterschiedliche-entscheide-der-krankenkassen",
+     "time": "2026-11-14T08:09:24Z"
     },
     {
-     "title": "Stimmen zum Wiederaufstieg – Trotz «keinem schönen Spiel» gingen Träume in Erfüllung",
-     "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/stimmen-zum-wiederaufstieg-trotz-keinem-schoenen-spiel-gingen-traeume-in-erfuellung",
-     "time": "2026-11-13T22:50:13Z"
+     "title": "Krieg in der Ukraine – US-Senatoren wollen Antwort zu Starlink in der Ukraine",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-us-senatoren-wollen-antwort-zu-starlink-in-der-ukraine",
+     "time": "2026-11-14T07:51:28Z"
     },
     {
-     "title": "Maues Spiel in Nations League – Minimalistische Nati steigt nach einem 0:0 in Slowenien auf",
-     "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/maues-spiel-in-nations-league-minimalistische-nati-steigt-nach-einem-0-0-in-slowenien-auf",
-     "time": "2026-11-13T21:54:04Z"
+     "title": "Globale Panne – Microsoft: Alle Dienste wiederhergestellt",
+     "url": "https://www.srf.ch/news/wirtschaft/globale-panne-microsoft-alle-dienste-wiederhergestellt",
+     "time": "2026-11-14T07:27:57Z"
     },
     {
-     "title": "Krieg in der Ukraine – EU-Ratspräsident: Fünf Länder und EU-Vertreter bei Verhandlungen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-usa-schraenken-satelliteninternet-weiter-ein",
-     "time": "2026-11-13T21:47:54Z"
+     "title": "Umstrittener Goldhandel – Studie: Strengere Dubai-Regeln für Gold greifen kaum",
+     "url": "https://www.srf.ch/news/schweiz/umstrittener-goldhandel-studie-strengere-dubai-regeln-fuer-gold-greifen-kaum",
+     "time": "2026-11-14T07:08:58Z"
     },
     {
-     "title": "SBB testen Strom-Blackout – Provozierter Stromausfall: Züge nach drei Minuten wieder am Netz",
-     "url": "https://www.srf.ch/news/schweiz/sbb-testen-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz",
-     "time": "2026-11-13T21:35:38Z"
+     "title": "NHL in der Nacht auf Samstag – 7. Nashville-Sieg in Serie: Josi verwertet entscheidenden Penalty",
+     "url": "https://www.srf.ch/sport/eishockey/nhl/nhl-in-der-nacht-auf-samstag-7-nashville-sieg-in-serie-josi-verwertet-entscheidenden-penalty",
+     "time": "2026-11-14T07:00:33Z"
     },
     {
-     "title": "National League am Freitag – Ohne Genoni leckt diesmal die Zuger Defensive",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-ohne-genoni-leckt-diesmal-die-zuger-defensive",
-     "time": "2026-11-13T21:29:18Z"
+     "title": "Landesweites Startverbot – Technische Panne legte US-Flugverkehr lahm",
+     "url": "https://www.srf.ch/news/international/landesweites-startverbot-technische-panne-legte-us-flugverkehr-lahm-1",
+     "time": "2026-11-14T06:45:13Z"
     },
     {
-     "title": "WM-Viertelfinal – Eishockey-Nati der Frauen scheitert an Schweden",
-     "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-viertelfinal-eishockey-nati-der-frauen-scheitert-an-schweden",
-     "time": "2026-11-13T20:47:51Z"
+     "title": "In China – Weisses Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+     "url": "https://www.srf.ch/news/international/in-china-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an",
+     "time": "2026-11-14T06:15:43Z"
     },
     {
-     "title": "Gipfeltreffen in Dublin – EU einig: Verhandlungsteam für Gespräche mit Russland steht",
-     "url": "https://www.srf.ch/news/international/gipfeltreffen-in-dublin-eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht",
-     "time": "2026-11-13T20:32:59Z"
+     "title": "US-Raumfahrtunternehmen – SpaceX scheitert beim Raketenfang – Starship erreicht Orbit",
+     "url": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-scheitert-beim-raketenfang-starship-erreicht-orbit",
+     "time": "2026-11-14T05:59:29Z"
     },
     {
-     "title": "Ausfälle bei Software-Riesen – Microsoft-Dienste laufen stabiler – Problembehebung dauert an",
-     "url": "https://www.srf.ch/news/wirtschaft/ausfaelle-bei-software-riesen-microsoft-dienste-laufen-stabiler-problembehebung-dauert-an",
-     "time": "2026-11-13T20:27:48Z"
+     "title": "Hotspot des Klimawandels – Das wärmere Mittelmeer lockt tropische Fische an",
+     "url": "https://www.srf.ch/news/hotspot-des-klimawandels-das-waermere-mittelmeer-lockt-tropische-fische-an",
+     "time": "2026-11-14T05:54:39Z"
     },
     {
-     "title": "12. Runde Women's Super League – Zwei Traumtore bescheren Rapperswil-Jona verdientes Remis",
-     "url": "https://www.srf.ch/sport/fussball/women-s-super-league/12-runde-women-s-super-league-zwei-traumtore-bescheren-rapperswil-jona-verdientes-remis",
-     "time": "2026-11-13T20:18:22Z"
+     "title": "32 Verletzte – «Ein Wunder»: Keine Toten nach Schiffsunglück in New Orleans",
+     "url": "https://www.srf.ch/news/international/32-verletzte-ein-wunder-keine-toten-nach-schiffsunglueck-in-new-orleans",
+     "time": "2026-11-14T05:50:45Z"
     }
    ]
   },
@@ -156,6 +156,21 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Conto alla rovescia per Black Friday, giro d'affari sale a 4,3 miliardi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/conto-alla-rovescia-per-black-friday-giro-daffari-sale-a-43-miliardi_3c043ed6-664f-491c-8f07-0e87edac689f.html",
+     "time": "2026-11-14T09:06:00Z"
+    },
+    {
+     "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_11845af9-ad5f-4b67-8b68-1a5c60e457bf.html",
+     "time": "2026-11-14T09:02:05Z"
+    },
+    {
+     "title": "Operazione della Polizia contro la pedopornografia online, sei arresti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/operazione-della-polizia-contro-la-pedopornografia-online-sei-arresti_c68db6fd-48a2-4fd6-a84e-e754413ffc80.html",
+     "time": "2026-11-14T07:21:18Z"
+    },
     {
      "title": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_cf62a829-7ddc-469c-b598-8c5597381881.html",
@@ -190,21 +205,6 @@
      "title": "'Blocco aereo Usa per stop temporaneo sistemi tlc. Non è nuovo 11/9'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/blocco-aereo-usa-per-stop-temporaneo-sistemi-tlc.-non-e-nuovo_cb947f35-49a2-4eb0-a57a-98af22933a7e.html",
      "time": "2026-11-13T22:19:11Z"
-    },
-    {
-     "title": "S&P conferma i rating BBB+/A-2 sull'Italia, outlook positivo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/sp-conferma-i-rating-bbba-2-sullitalia-outlook-positivo_8ad34fca-71b2-4518-909e-982a777b3e00.html",
-     "time": "2026-11-13T21:38:42Z"
-    },
-    {
-     "title": "Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_3eed54fc-cd03-45b4-9917-9f3f2a00452a.html",
-     "time": "2026-11-13T21:29:29Z"
-    },
-    {
-     "title": "Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_c6fde2a2-fb3e-4ee0-8c85-40d12bb69160.html",
-     "time": "2026-11-13T21:27:28Z"
     }
    ]
   },
@@ -214,6 +214,26 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "What we know about the ground stop and what to do if you're affected",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T07:42:11Z"
+    },
+    {
+     "title": "Microsoft says services fully restored after day-long global outage",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T06:42:27Z"
+    },
+    {
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T05:52:31Z"
+    },
+    {
+     "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+     "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T01:47:36Z"
+    },
     {
      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
@@ -245,11 +265,6 @@
      "time": "2026-11-13T23:00:31Z"
     },
     {
-     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T21:14:22Z"
-    },
-    {
      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-13T19:53:57Z"
@@ -258,21 +273,6 @@
      "title": "Democratic Senate leader Schumer set to face leadership challenge",
      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-13T19:03:10Z"
-    },
-    {
-     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T18:36:57Z"
-    },
-    {
-     "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-     "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T18:34:45Z"
-    },
-    {
-     "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T16:40:31Z"
     }
    ]
   }
