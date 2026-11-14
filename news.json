@@ -1,6 +1,6 @@
 {
- "version": 187,
- "updated": "2026-11-14T09:19:44Z",
+ "version": 188,
+ "updated": "2026-11-14T16:01:35Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "NATO und EU beraten über weitere Unterstützung für die Ukraine",
-     "url": "https://www.tagesschau.de/video/video-1683618.html",
-     "time": "2026-11-14T08:43:49Z"
+     "title": "Pläne für höhere Abzüge bei vorgezogener Rente",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
+     "time": "2026-11-14T15:37:32Z"
     },
     {
-     "title": "Flugstopp in den USA aufgehoben - Veraltete Kommunikationstechnik Ursache für Stillstand",
-     "url": "https://www.tagesschau.de/video/video-1683610.html",
-     "time": "2026-11-14T08:27:20Z"
+     "title": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
+     "time": "2026-11-14T15:22:57Z"
     },
     {
-     "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-     "time": "2026-11-14T08:24:29Z"
+     "title": "Laura Hönes, MDR, über den Landesparteitag BSW in Sachsen-Anhalt",
+     "url": "https://www.tagesschau.de/video/video-1683808.html",
+     "time": "2026-11-14T15:18:46Z"
     },
     {
-     "title": "Trump kündigt Dreiertreffen mit Putin und Xi in China an",
-     "url": "https://www.tagesschau.de/video/video-1683612.html",
-     "time": "2026-11-14T08:21:32Z"
+     "title": "Tanker rammt US-Kreuzfahrtschiff in New Orleans",
+     "url": "https://www.tagesschau.de/video/video-1683790.html",
+     "time": "2026-11-14T14:50:08Z"
     },
     {
-     "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
-     "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
-     "time": "2026-11-14T08:15:06Z"
+     "title": "50 Jahre Tastentelefon der Bundespost",
+     "url": "https://www.tagesschau.de/video/video-1683792.html",
+     "time": "2026-11-14T14:48:09Z"
     },
     {
-     "title": "Warum in Polen schneller gebaut wird als in Deutschland",
-     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
-     "time": "2026-11-14T07:24:30Z"
+     "title": "Papst Leo XIV. besucht frühere Diözese in Peru",
+     "url": "https://www.tagesschau.de/video/video-1683788.html",
+     "time": "2026-11-14T14:45:40Z"
     },
     {
-     "title": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
-     "url": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
-     "time": "2026-11-14T07:21:14Z"
+     "title": "\"Klimagipfel der Völker\" als Gegenveranstaltung zur COP31",
+     "url": "https://www.tagesschau.de/video/video-1683786.html",
+     "time": "2026-11-14T14:43:33Z"
     },
     {
-     "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
-     "time": "2026-11-14T07:15:22Z"
+     "title": "Landesparteitag des BSW in Sachsen-Anhalt",
+     "url": "https://www.tagesschau.de/video/video-1683784.html",
+     "time": "2026-11-14T14:39:22Z"
     },
     {
-     "title": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
-     "url": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
-     "time": "2026-11-14T04:41:37Z"
+     "title": "Hunderte Passagiere gestrandet durch landesweiten Flug-Stopp in den USA nach Technik-Panne",
+     "url": "https://www.tagesschau.de/video/video-1683782.html",
+     "time": "2026-11-14T14:36:56Z"
     },
     {
-     "title": "Keine Priorität für Klimaschutz in der Koalition",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
-     "time": "2026-11-14T04:40:44Z"
+     "title": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+     "url": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+     "time": "2026-11-14T13:48:00Z"
     },
     {
-     "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
-     "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
-     "time": "2026-11-14T03:18:01Z"
+     "title": "Die neue Gefahr durch Künstliche Intelligenz",
+     "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
+     "time": "2026-11-14T13:31:48Z"
     },
     {
-     "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
-     "url": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
-     "time": "2026-11-14T02:36:59Z"
+     "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+     "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+     "time": "2026-11-14T13:22:33Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Landesweites Startverbot – Flugchaos in den USA: Was hinter dem seltenen Groundstop steckt",
-     "url": "https://www.srf.ch/news/international/landesweites-startverbot-flugchaos-in-den-usa-was-hinter-dem-seltenen-groundstop-steckt",
-     "time": "2026-11-14T08:35:59Z"
+     "title": "Trainingssturz in Levi – Kreuzbandriss: Mélanie Meillards Saison ist bereits wieder vorbei",
+     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/trainingssturz-in-levi-kreuzbandriss-melanie-meillards-saison-ist-bereits-wieder-vorbei",
+     "time": "2026-11-14T15:31:49Z"
     },
     {
-     "title": "Produziert im Herkunftsland – Kriegt die Schweizer Schokolade Konkurrenz aus Afrika?",
-     "url": "https://www.srf.ch/news/international/produziert-im-herkunftsland-kriegt-die-schweizer-schokolade-konkurrenz-aus-afrika",
-     "time": "2026-11-14T08:33:29Z"
+     "title": "Zugriff ohne Einwilligung – Meta muss in Italien 805 Millionen Euro Strafe zahlen",
+     "url": "https://www.srf.ch/news/wirtschaft/zugriff-ohne-einwilligung-meta-muss-in-italien-805-millionen-euro-strafe-zahlen",
+     "time": "2026-11-14T15:30:26Z"
     },
     {
-     "title": "Neue Krebsbehandlung – Gleiche Diagnose – unterschiedliche Entscheide der Krankenkassen",
-     "url": "https://www.srf.ch/news/dialog/neue-krebsbehandlung-gleiche-diagnose-unterschiedliche-entscheide-der-krankenkassen",
-     "time": "2026-11-14T08:09:24Z"
+     "title": "Zuckerkrankheit Diabetes – «Wir erleben derzeit einen wahnsinnig grossen Durchbruch»",
+     "url": "https://www.srf.ch/radio-srf-1/zuckerkrankheit-diabetes-wir-erleben-derzeit-einen-wahnsinnig-grossen-durchbruch",
+     "time": "2026-11-14T15:08:14Z"
     },
     {
-     "title": "Krieg in der Ukraine – US-Senatoren wollen Antwort zu Starlink in der Ukraine",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-us-senatoren-wollen-antwort-zu-starlink-in-der-ukraine",
-     "time": "2026-11-14T07:51:28Z"
+     "title": "Krieg im Nahen Osten – EU fordert ungehinderten Zugang für Hilfsgüter nach Gaza",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-eu-fordert-ungehinderten-zugang-fuer-hilfsgueter-nach-gaza",
+     "time": "2026-11-14T15:01:53Z"
     },
     {
-     "title": "Globale Panne – Microsoft: Alle Dienste wiederhergestellt",
-     "url": "https://www.srf.ch/news/wirtschaft/globale-panne-microsoft-alle-dienste-wiederhergestellt",
-     "time": "2026-11-14T07:27:57Z"
+     "title": "Streit um Gesundheitskosten – Ärzte-Präsidentin: «Bundesrat hat seine Kompetenz überschritten»",
+     "url": "https://www.srf.ch/news/schweiz/streit-um-gesundheitskosten-aerzte-praesidentin-bundesrat-hat-seine-kompetenz-ueberschritten",
+     "time": "2026-11-14T14:18:50Z"
     },
     {
-     "title": "Umstrittener Goldhandel – Studie: Strengere Dubai-Regeln für Gold greifen kaum",
-     "url": "https://www.srf.ch/news/schweiz/umstrittener-goldhandel-studie-strengere-dubai-regeln-fuer-gold-greifen-kaum",
-     "time": "2026-11-14T07:08:58Z"
+     "title": "– Wie viel Schnee gibt es nächste Woche?",
+     "url": "https://www.srf.ch/meteo/meteo-stories/westwindlage-bringt-schnee-wie-viel-schnee-gibt-es-naechste-woche",
+     "time": "2026-11-14T14:14:22Z"
     },
     {
-     "title": "NHL in der Nacht auf Samstag – 7. Nashville-Sieg in Serie: Josi verwertet entscheidenden Penalty",
-     "url": "https://www.srf.ch/sport/eishockey/nhl/nhl-in-der-nacht-auf-samstag-7-nashville-sieg-in-serie-josi-verwertet-entscheidenden-penalty",
-     "time": "2026-11-14T07:00:33Z"
+     "title": "«Erziehung zur Grausamkeit» – Wie wir alle zu kleinen Donald Trumps werden",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/erziehung-zur-grausamkeit-wie-wir-alle-zu-kleinen-donald-trumps-werden",
+     "time": "2026-11-14T14:05:27Z"
     },
     {
-     "title": "Landesweites Startverbot – Technische Panne legte US-Flugverkehr lahm",
-     "url": "https://www.srf.ch/news/international/landesweites-startverbot-technische-panne-legte-us-flugverkehr-lahm-1",
-     "time": "2026-11-14T06:45:13Z"
+     "title": "Krieg in der Ukraine – New York Times: Russland will Nato auf Stand von 1997 schrumpfen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-new-york-times-russland-will-nato-auf-stand-von-1997-schrumpfen",
+     "time": "2026-11-14T13:56:56Z"
     },
     {
-     "title": "In China – Weisses Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-     "url": "https://www.srf.ch/news/international/in-china-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an",
-     "time": "2026-11-14T06:15:43Z"
+     "title": "Vor Slalom-Auftakt in Levi – Routinier Zenhäusern: Mit neuem Ski zurück zu den Anfängen",
+     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/vor-slalom-auftakt-in-levi-routinier-zenhaeusern-mit-neuem-ski-zurueck-zu-den-anfaengen",
+     "time": "2026-11-14T13:41:21Z"
     },
     {
-     "title": "US-Raumfahrtunternehmen – SpaceX scheitert beim Raketenfang – Starship erreicht Orbit",
-     "url": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-scheitert-beim-raketenfang-starship-erreicht-orbit",
-     "time": "2026-11-14T05:59:29Z"
+     "title": "News zur Schweizer Nati – «Belastungssteuerung»: Ndoye reist aus dem Nationalteam ab",
+     "url": "https://www.srf.ch/sport/fussball/super-league/news-zur-schweizer-nati-belastungssteuerung-ndoye-reist-aus-dem-nationalteam-ab",
+     "time": "2026-11-14T13:32:55Z"
     },
     {
-     "title": "Hotspot des Klimawandels – Das wärmere Mittelmeer lockt tropische Fische an",
-     "url": "https://www.srf.ch/news/hotspot-des-klimawandels-das-waermere-mittelmeer-lockt-tropische-fische-an",
-     "time": "2026-11-14T05:54:39Z"
+     "title": "Drogenhandel – Mafias kämpfen in Katalonien um die Macht von Europas Marihuana",
+     "url": "https://www.srf.ch/news/dialog/drogenhandel-mafias-kaempfen-in-katalonien-um-die-macht-von-europas-marihuana",
+     "time": "2026-11-14T13:27:38Z"
     },
     {
-     "title": "32 Verletzte – «Ein Wunder»: Keine Toten nach Schiffsunglück in New Orleans",
-     "url": "https://www.srf.ch/news/international/32-verletzte-ein-wunder-keine-toten-nach-schiffsunglueck-in-new-orleans",
-     "time": "2026-11-14T05:50:45Z"
+     "title": "Frauen-Slalom in Levi – Aicher kann's auch im Stangenwald – Höpli überzeugt",
+     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/frauen-slalom-in-levi-aicher-kann-s-auch-im-stangenwald-hoepli-ueberzeugt",
+     "time": "2026-11-14T13:05:11Z"
     }
    ]
   },
@@ -157,6 +157,46 @@
    ],
    "items": [
     {
+     "title": "Re Carlo compie 78 anni in piena attività, e scherza col coetaneo Elton John",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/re-carlo-compie-78-anni-in-piena-attivita-e-scherza-col-coetaneo-elton-john_8d32e01f-b607-409c-a0de-309bb6f4c8b5.html",
+     "time": "2026-11-14T12:26:20Z"
+    },
+    {
+     "title": "Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, modello è Patto Varsavia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_07f9cff8-48be-4e0c-a575-7760171a2b29.html",
+     "time": "2026-11-14T12:17:24Z"
+    },
+    {
+     "title": "Meloni, per la sinistra autonomi di serie B, noi aiutiamo chi rischia in proprio",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/meloni-per-la-sinistra-autonomi-di-serie-b-noi-aiutiamo-chi-rischia-in-proprio_d062a05e-3c0d-4ed5-819b-478eba04133b.html",
+     "time": "2026-11-14T11:13:15Z"
+    },
+    {
+     "title": "Anziano ucciso durante una truffa del falso carabiniere, due fermi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/anziano-ucciso-durante-una-truffa-del-falso-carabiniere-due-fermi_230b814f-6a3c-467b-ba09-2391f3c424a0.html",
+     "time": "2026-11-14T10:51:50Z"
+    },
+    {
+     "title": "Tajani, 'ho sempre detto che la manovra poteva essere migliorata in Parlamento'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/tajani-ho-sempre-detto-che-la-manovra-poteva-essere-migliorata-in-parlamento_ef23b892-6445-4107-88fb-57b29bd2714e.html",
+     "time": "2026-11-14T10:44:34Z"
+    },
+    {
+     "title": "Meloni, combattiamo violenza sulle donne con ogni mezzo, ma sfida non è vinta",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/meloni-combattiamo-violenza-sulle-donne-con-ogni-mezzo-ma-sfida-non_7a680866-715e-411f-9a36-a9d7ad27d086.html",
+     "time": "2026-11-14T10:28:40Z"
+    },
+    {
+     "title": "Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_872c4164-0557-4305-8eaf-e6b61ae6cbcc.html",
+     "time": "2026-11-14T09:54:52Z"
+    },
+    {
+     "title": ">>>ANSA/ Anna Marchesini, a dieci anni dalla morte entra nella Treccani",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/ansa-anna-marchesini-a-dieci-anni-dalla-morte-entra-nella-treccani_0fdedffd-3d32-405e-be9c-962431472744.html",
+     "time": "2026-11-14T09:39:01Z"
+    },
+    {
      "title": "Conto alla rovescia per Black Friday, giro d'affari sale a 4,3 miliardi",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/conto-alla-rovescia-per-black-friday-giro-daffari-sale-a-43-miliardi_3c043ed6-664f-491c-8f07-0e87edac689f.html",
      "time": "2026-11-14T09:06:00Z"
@@ -165,46 +205,6 @@
      "title": "Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_11845af9-ad5f-4b67-8b68-1a5c60e457bf.html",
      "time": "2026-11-14T09:02:05Z"
-    },
-    {
-     "title": "Operazione della Polizia contro la pedopornografia online, sei arresti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/operazione-della-polizia-contro-la-pedopornografia-online-sei-arresti_c68db6fd-48a2-4fd6-a84e-e754413ffc80.html",
-     "time": "2026-11-14T07:21:18Z"
-    },
-    {
-     "title": "Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_cf62a829-7ddc-469c-b598-8c5597381881.html",
-     "time": "2026-11-14T00:18:28Z"
-    },
-    {
-     "title": "Casa Bianca, 'Trump discuterà di Iran con Xi e Putin, non di Ucraina'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/casa-bianca-trump-discutera-di-iran-con-xi-e-putin-non-di-ucraina_4070f4cc-6dc8-4cf7-b146-40449b162ac5.html",
-     "time": "2026-11-14T00:07:41Z"
-    },
-    {
-     "title": "Eurocontrol, 'sospeso tutto il traffico aereo diretto negli Usa'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/eurocontrol-sospeso-tutto-il-traffico-aereo-diretto-negli-usa_a2f4b6cf-d75a-4ff8-b266-b694161d3fd3.html",
-     "time": "2026-11-13T23:59:13Z"
-    },
-    {
-     "title": "Casa Bianca, 'Trump, Xi e Putin terranno colloqui trilaterali a Shenzhen'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/casa-bianca-trump-xi-e-putin-terranno-colloqui-trilaterali-a-shenzhen_1e1dfadf-250d-40b1-b71a-67870c9e5c13.html",
-     "time": "2026-11-13T23:51:33Z"
-    },
-    {
-     "title": "Fbi, 'blocco aereo Usa non è dovuto ad attacco informatico o crimine'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/fbi-blocco-aereo-usa-non-e-dovuto-ad-attacco-informatico-o-crimine_07ebdc7a-d2a8-4356-897f-e5e3c6baacb0.html",
-     "time": "2026-11-13T22:48:21Z"
-    },
-    {
-     "title": "Microsoft: 'nessuna indicazione su blocco voli Usa legato a disservizi Outlook'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/microsoft-nessuna-indicazione-su-blocco-voli-usa-legato-a-disservizi-outlook_ab16f27a-ef15-4758-ac50-b47401d66e44.html",
-     "time": "2026-11-13T22:39:21Z"
-    },
-    {
-     "title": "'Blocco aereo Usa per stop temporaneo sistemi tlc. Non è nuovo 11/9'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/13/blocco-aereo-usa-per-stop-temporaneo-sistemi-tlc.-non-e-nuovo_cb947f35-49a2-4eb0-a57a-98af22933a7e.html",
-     "time": "2026-11-13T22:19:11Z"
     }
    ]
   },
@@ -215,19 +215,39 @@
    "countries": [],
    "items": [
     {
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T15:53:55Z"
+    },
+    {
+     "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+     "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T15:42:54Z"
+    },
+    {
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T15:15:57Z"
+    },
+    {
      "title": "What we know about the ground stop and what to do if you're affected",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T07:42:11Z"
+     "time": "2026-11-14T14:20:57Z"
+    },
+    {
+     "title": "Second catch attempt for SpaceX Starship rocket",
+     "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T14:18:41Z"
+    },
+    {
+     "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+     "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T10:42:20Z"
     },
     {
      "title": "Microsoft says services fully restored after day-long global outage",
      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-14T06:42:27Z"
-    },
-    {
-     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T05:52:31Z"
     },
     {
      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
@@ -245,11 +265,6 @@
      "time": "2026-11-14T00:03:52Z"
     },
     {
-     "title": "Setback for SpaceX Starship rocket's double-catch test",
-     "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T00:01:01Z"
-    },
-    {
      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-13T23:40:45Z"
@@ -258,21 +273,6 @@
      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-13T23:11:51Z"
-    },
-    {
-     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-     "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T23:00:31Z"
-    },
-    {
-     "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T19:53:57Z"
-    },
-    {
-     "title": "Democratic Senate leader Schumer set to face leadership challenge",
-     "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-13T19:03:10Z"
     }
    ]
   }
