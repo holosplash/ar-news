@@ -1,6 +1,6 @@
 {
- "version": 189,
- "updated": "2026-11-14T20:36:53Z",
+ "version": 190,
+ "updated": "2026-11-15T00:14:48Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,41 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+     "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+     "time": "2026-11-14T23:12:16Z"
+    },
+    {
+     "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+     "time": "2026-11-14T21:31:18Z"
+    },
+    {
+     "title": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1684012.html",
+     "time": "2026-11-14T21:20:43Z"
+    },
+    {
+     "title": "Startverbot für Flugzeuge legt US-Luftverkehr für mehrere Stunden lahm",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1684010.html",
+     "time": "2026-11-14T21:18:55Z"
+    },
+    {
+     "title": "Moritz Rödle, ARD Berlin, über die Kandidatur von Ex-Arbeitsminister Hubertus Heil für SPD-Vorsitz",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1684008.html",
+     "time": "2026-11-14T21:15:55Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12972.html",
+     "time": "2026-11-14T21:10:00Z"
+    },
+    {
+     "title": "Frauen-Bundesliga: VfL Wolfsburg verliert Top-Spiel gegen Bayern München",
+     "url": "https://www.ndr.de/sport/fussball/vfl-wolfsburg-verliert-top-spiel-gegen-bayern-muenchen-deutlich,wolfsburg-bayern-220.html",
+     "time": "2026-11-14T20:51:14Z"
+    },
     {
      "title": "tagesschau mit Gebärdensprache",
      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12364.html",
@@ -35,44 +70,9 @@
      "time": "2026-11-14T19:36:01Z"
     },
     {
-     "title": "Frauen-Bundesliga: VfL Wolfsburg verliert Top-Spiel gegen Bayern München",
-     "url": "https://www.ndr.de/sport/fussball/vfl-wolfsburg-verliert-top-spiel-gegen-bayern-muenchen-deutlich,wolfsburg-bayern-220.html",
-     "time": "2026-11-14T19:24:50Z"
-    },
-    {
      "title": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
      "url": "https://www.tagesschau.de/kultur/esc-asia-100.html",
      "time": "2026-11-14T19:24:24Z"
-    },
-    {
-     "title": "Staatsakt in München: Gedenken an Hubert Aiwanger",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683982.html",
-     "time": "2026-11-14T19:15:58Z"
-    },
-    {
-     "title": "Papst Leo XIV. besucht frühere Diözese Chiclayo in Peru",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683984.html",
-     "time": "2026-11-14T19:14:17Z"
-    },
-    {
-     "title": "\"Klimagipfel der Völker\" als Gegenveranstaltung zur COP31",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683980.html",
-     "time": "2026-11-14T19:12:38Z"
-    },
-    {
-     "title": "Weltweite Störung bei Microsoft ist behoben",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683976.html",
-     "time": "2026-11-14T19:11:09Z"
-    },
-    {
-     "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
-     "url": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
-     "time": "2026-11-14T19:09:28Z"
-    },
-    {
-     "title": "Landesweites Startverbot für Flugzeuge in den USA wegen veralteter Kommunikationstechnik",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1683978.html",
-     "time": "2026-11-14T19:09:19Z"
     }
    ]
   },
@@ -84,6 +84,16 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Nations League am Samstag – Dänemark watscht Portugal ab – Norwegen siegt glücklich",
+     "url": "https://www.srf.ch/sport/fussball/nations-league/nations-league-am-samstag-daenemark-watscht-portugal-ab-norwegen-siegt-gluecklich",
+     "time": "2026-11-14T21:46:08Z"
+    },
+    {
+     "title": "Kulturnews in Kurzform – Der ESC erobert Asien – Philippinen zum Sieger gekürt",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-der-esc-erobert-asien-philippinen-zum-sieger-gekuert",
+     "time": "2026-11-14T21:03:40Z"
+    },
     {
      "title": "Pionierprojekt – Alte Matratzen, neue Chancen – Aargauer Projekt macht Schule",
      "url": "https://www.srf.ch/news/schweiz/pionierprojekt-alte-matratzen-neue-chancen-aargauer-projekt-macht-schule",
@@ -133,16 +143,6 @@
      "title": "Dreiergipfel in China – Schliessen Trump, Putin und Xi einen neuen Abrüstungsvertrag?",
      "url": "https://www.srf.ch/news/international/dreiergipfel-in-china-schliessen-trump-putin-und-xi-einen-neuen-abruestungsvertrag",
      "time": "2026-11-14T16:04:02Z"
-    },
-    {
-     "title": "Trainingssturz in Levi – Kreuzbandriss: Mélanie Meillards Saison ist bereits wieder vorbei",
-     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/trainingssturz-in-levi-kreuzbandriss-melanie-meillards-saison-ist-bereits-wieder-vorbei",
-     "time": "2026-11-14T15:31:49Z"
-    },
-    {
-     "title": "Zugriff ohne Einwilligung – Meta muss in Italien 805 Millionen Euro Strafe zahlen",
-     "url": "https://www.srf.ch/news/wirtschaft/zugriff-ohne-einwilligung-meta-muss-in-italien-805-millionen-euro-strafe-zahlen",
-     "time": "2026-11-14T15:30:26Z"
     }
    ]
   },
@@ -156,6 +156,11 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_878fb39f-8bdd-4518-ad05-0e8675365ac5.html",
+     "time": "2026-11-14T22:36:17Z"
+    },
     {
      "title": "Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/ministero-interno-219-fermi-in-francia-e-10-agenti-lievemente-feriti_b5a92c67-2b50-4eae-949e-32bb835a137e.html",
@@ -200,11 +205,6 @@
      "title": "Re Carlo compie 78 anni in piena attività, e scherza col coetaneo Elton John",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/re-carlo-compie-78-anni-in-piena-attivita-e-scherza-col-coetaneo-elton-john_8d32e01f-b607-409c-a0de-309bb6f4c8b5.html",
      "time": "2026-11-14T12:26:20Z"
-    },
-    {
-     "title": "Nyt, 'Russia propone ritiro Nato a posizioni pre-1997, modello è Patto Varsavia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_07f9cff8-48be-4e0c-a575-7760171a2b29.html",
-     "time": "2026-11-14T12:17:24Z"
     }
    ]
   },
@@ -215,19 +215,24 @@
    "countries": [],
    "items": [
     {
-     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T20:23:06Z"
-    },
-    {
      "title": "How telecoms upgrade work sparked US flight chaos",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T20:03:48Z"
+     "time": "2026-11-14T23:11:27Z"
     },
     {
      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T19:21:10Z"
+     "time": "2026-11-14T22:37:25Z"
+    },
+    {
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T22:09:40Z"
+    },
+    {
+     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-14T20:23:06Z"
     },
     {
      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -258,11 +263,6 @@
      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-14T15:42:54Z"
-    },
-    {
-     "title": "Second catch attempt for SpaceX Starship rocket",
-     "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T14:18:41Z"
     },
     {
      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
