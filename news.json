@@ -1,6 +1,6 @@
 {
- "version": 191,
- "updated": "2026-11-15T07:05:11Z",
+ "version": 192,
+ "updated": "2026-11-15T14:41:35Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
-     "time": "2026-11-15T06:46:37Z"
+     "title": "Polizei prüft Bekennerschreiben nach Angriff auf Auto von Nius-Chefredakteur",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/nius-chef-reichelt-auto-angezuendet-bekennerschreiben-100.html",
+     "time": "2026-11-15T14:13:26Z"
     },
     {
-     "title": "Journalisten in Ägypten: Verbote, Drohungen und Gefängnisstrafen",
-     "url": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-aegypten-100.html",
-     "time": "2026-11-15T04:11:48Z"
+     "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+     "time": "2026-11-15T13:30:13Z"
     },
     {
-     "title": "Illegale Drogen in Vapes - \"Baller-Liquids\" gefährden Jugendliche",
-     "url": "https://www.tagesschau.de/wissen/gesundheit/vapes-baller-liquids-drogen-jugendliche-100.html",
-     "time": "2026-11-15T04:11:26Z"
+     "title": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
+     "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
+     "time": "2026-11-15T13:19:16Z"
     },
     {
-     "title": "Europamagazin: Ein Aufschwung, den die Spanier nicht spüren",
-     "url": "https://www.tagesschau.de/ausland/europa/spanien-wahlkampf-108.html",
-     "time": "2026-11-15T04:11:16Z"
+     "title": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
+     "url": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-gazastreifen-getoetet-100.html",
+     "time": "2026-11-15T12:46:16Z"
     },
     {
-     "title": "Frankreich: Zehntausende bei Demos, rund 200 Festnahmen",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html",
-     "time": "2026-11-15T04:10:12Z"
+     "title": "Arzttermin gegen Bezahlung - warum der Vorstoß für Empörung sorgt",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html",
+     "time": "2026-11-15T12:42:46Z"
     },
     {
-     "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
-     "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
-     "time": "2026-11-14T23:12:16Z"
+     "title": "Eiskunstlauf: Hase und Volodin gewinnen Grand Prix Skate America",
+     "url": "https://www.sportschau.de/wintersport/eiskunstlauf/trotz-patzer-hase-und-volodin-gewinnen-grand-prix-skate-america,hase-volodin-174.html",
+     "time": "2026-11-15T12:10:53Z"
     },
     {
-     "title": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1684012.html",
-     "time": "2026-11-14T21:20:43Z"
+     "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
+     "url": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html",
+     "time": "2026-11-15T11:21:27Z"
     },
     {
-     "title": "Startverbot für Flugzeuge legt US-Luftverkehr für mehrere Stunden lahm",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1684010.html",
-     "time": "2026-11-14T21:18:55Z"
+     "title": "Schafszug in Nürnberg,Wu-Tang Clan in der Rock & Roll Hall of Fame, Benzinknappheit in Taiz",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10568.html",
+     "time": "2026-11-15T11:20:18Z"
     },
     {
-     "title": "Moritz Rödle, ARD Berlin, über die Kandidatur von Ex-Arbeitsminister Hubertus Heil für SPD-Vorsitz",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1684008.html",
-     "time": "2026-11-14T21:15:55Z"
+     "title": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html",
+     "time": "2026-11-15T11:15:26Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12972.html",
-     "time": "2026-11-14T21:10:00Z"
+     "title": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html",
+     "time": "2026-11-15T11:10:03Z"
     },
     {
-     "title": "Frauen-Bundesliga: VfL Wolfsburg verliert Top-Spiel gegen Bayern München",
-     "url": "https://www.ndr.de/sport/fussball/vfl-wolfsburg-verliert-top-spiel-gegen-bayern-muenchen-deutlich,wolfsburg-bayern-220.html",
-     "time": "2026-11-14T20:51:14Z"
+     "title": "Ilanit Spinner, ARD Berlin, zur Diskussion über den SPD-Parteivorsitz und die Kandidatur von Heil",
+     "url": "https://www.tagesschau.de/video/video-1684120.html",
+     "time": "2026-11-15T10:48:06Z"
     },
     {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12364.html",
-     "time": "2026-11-14T19:54:11Z"
+     "title": "Kritik an Plänen der Niederlande für AKW-Neubau an der Grenze zu Deutschland",
+     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/atomkraftwerk-neubau-an-grenze-zu-niedersachsen,atomkraft-152.html",
+     "time": "2026-11-15T09:56:30Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "1943 ermordet in Auschwitz – Die Geschichte von Hella Olstein: Opfer von Hass und Holocaust",
-     "url": "https://www.srf.ch/news/schweiz/1943-ermordet-in-auschwitz-die-geschichte-von-hella-olstein-opfer-von-hass-und-holocaust",
-     "time": "2026-11-15T06:55:09Z"
+     "title": "Strategische Meerenge – Bab al-Mandab fällt wieder in die Hände der Huthi-Miliz",
+     "url": "https://www.srf.ch/news/international/strategische-meerenge-bab-al-mandab-faellt-wieder-in-die-haende-der-huthi-miliz",
+     "time": "2026-11-15T14:36:16Z"
     },
     {
-     "title": "Über ein Drittel hört auf – Viele Lehrabbrüche: Gastro nimmt sich selbst in die Pflicht",
-     "url": "https://www.srf.ch/news/schweiz/ueber-ein-drittel-hoert-auf-viele-lehrabbrueche-gastro-nimmt-sich-selbst-in-die-pflicht",
-     "time": "2026-11-15T06:28:19Z"
+     "title": "Krieg in der Ukraine – Selenski fordert von USA Ende der Starshield-Drosselung",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-fordert-von-usa-ende-der-starshield-drosselung",
+     "time": "2026-11-15T14:22:13Z"
     },
     {
-     "title": "WTA Finals in Indian Wells – Russin Andrejewa und Ukrainerin Switolina spielen um den Titel",
-     "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-in-indian-wells-russin-andrejewa-und-ukrainerin-switolina-spielen-um-den-titel",
-     "time": "2026-11-15T06:21:48Z"
+     "title": "Krieg im Nahen Osten – Israels Armee: Weiterer Hamas-Kommandant getötet",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israels-armee-weiterer-hamas-kommandant-getoetet",
+     "time": "2026-11-15T14:22:03Z"
     },
     {
-     "title": "Bilder der Woche – Weihnachtsmänner in Ausbildung und weitere Bildhighlights",
-     "url": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-weihnachtsmaenner-in-ausbildung-und-weitere-bildhighlights",
-     "time": "2026-11-15T06:00:09Z"
+     "title": "Lago di Livigno – Warum aus einem See zwei werden sollen",
+     "url": "https://www.srf.ch/news/dialog/lago-di-livigno-warum-aus-einem-see-zwei-werden-sollen",
+     "time": "2026-11-15T13:59:17Z"
     },
     {
-     "title": "US-Raumfahrtunternehmen SpaceX – SpaceX fängt Starship-Rakete erstmals mit Greifarmen auf",
-     "url": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf",
-     "time": "2026-11-15T02:44:33Z"
+     "title": "Aufräumen in Grenchen – Diese Trouvaille schlummerte im Museumskeller",
+     "url": "https://www.srf.ch/news/schweiz/aufraeumen-in-grenchen-diese-trouvaille-schlummerte-im-museumskeller",
+     "time": "2026-11-15T13:06:18Z"
     },
     {
-     "title": "Nations League am Samstag – Dänemark watscht Portugal ab – Norwegen siegt glücklich",
-     "url": "https://www.srf.ch/sport/fussball/nations-league/nations-league-am-samstag-daenemark-watscht-portugal-ab-norwegen-siegt-gluecklich",
-     "time": "2026-11-14T21:46:08Z"
+     "title": "Pinheiro-Braathen-Sieg in Levi – «Für Mélanie gefahren»: Meillard auch im 1. Slalom auf dem Podest",
+     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/pinheiro-braathen-sieg-in-levi-fuer-melanie-gefahren-meillard-auch-im-1-slalom-auf-dem-podest",
+     "time": "2026-11-15T13:01:15Z"
     },
     {
-     "title": "Kulturnews in Kurzform – Der ESC erobert Asien – Philippinen zum Sieger gekürt",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-der-esc-erobert-asien-philippinen-zum-sieger-gekuert",
-     "time": "2026-11-14T21:03:40Z"
+     "title": "Zahlreiche Masern-Fälle – Nach 25 Jahren: USA womöglich nicht mehr «masernfrei»",
+     "url": "https://www.srf.ch/news/international/zahlreiche-masern-faelle-nach-25-jahren-usa-womoeglich-nicht-mehr-masernfrei",
+     "time": "2026-11-15T12:29:03Z"
     },
     {
-     "title": "Pionierprojekt – Alte Matratzen, neue Chancen – Aargauer Projekt macht Schule",
-     "url": "https://www.srf.ch/news/schweiz/pionierprojekt-alte-matratzen-neue-chancen-aargauer-projekt-macht-schule",
-     "time": "2026-11-14T20:15:00Z"
+     "title": "Liedermacher und Lyriker – Spott und Leidenschaft: Wolf Biermann wird 90",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/liedermacher-und-lyriker-spott-und-leidenschaft-wolf-biermann-wird-90",
+     "time": "2026-11-15T12:26:15Z"
     },
     {
-     "title": "WSL am Samstag – Yverdon überrascht YB – Schlusslicht St. Gallen mit Lebenszeichen",
-     "url": "https://www.srf.ch/sport/fussball/women-s-super-league/wsl-am-samstag-yverdon-ueberrascht-yb-schlusslicht-st-gallen-mit-lebenszeichen",
-     "time": "2026-11-14T19:45:54Z"
+     "title": "News zur Schweizer Nati – «Leichte Beschwerden»: Akanji reist vorzeitig ab",
+     "url": "https://www.srf.ch/sport/fussball/super-league/news-zur-schweizer-nati-leichte-beschwerden-akanji-reist-vorzeitig-ab",
+     "time": "2026-11-15T12:25:17Z"
     },
     {
-     "title": "Weitere Sport-News – Schwimmer Ponti mit Europarekord – Triathletin Derron auf Podest",
-     "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schwimmer-ponti-mit-europarekord-triathletin-derron-auf-podest",
-     "time": "2026-11-14T19:31:10Z"
+     "title": "Über 10 Millionen Follower – Der Whatsapp-«General», der Lula zum Sieg führte",
+     "url": "https://www.srf.ch/news/international/ueber-10-millionen-follower-der-whatsapp-general-der-lula-zum-sieg-fuehrte",
+     "time": "2026-11-15T11:57:10Z"
     },
     {
-     "title": "Staatsgewalt in Pakistan – Zehn Jahre Gefängnis für Menschenrechtsanwältin",
-     "url": "https://www.srf.ch/news/international/staatsgewalt-in-pakistan-zehn-jahre-gefaengnis-fuer-menschenrechtsanwaeltin",
-     "time": "2026-11-14T19:17:28Z"
+     "title": "Korruptionsermittlungen – Im Wald vergraben: Ermittler finden in Ungarn Millionen Euro",
+     "url": "https://www.srf.ch/news/international/korruptionsermittlungen-im-wald-vergraben-ermittler-finden-in-ungarn-millionen-euro",
+     "time": "2026-11-15T11:51:01Z"
     },
     {
-     "title": "Europapolitik – Abstimmung zum EU-Vertragspaket kommt wohl frühestens 2028",
-     "url": "https://www.srf.ch/news/schweiz/europapolitik-abstimmung-zum-eu-vertragspaket-kommt-wohl-fruehestens-2028",
-     "time": "2026-11-14T18:15:33Z"
+     "title": "News aus dem Tennis – Feldbausch holt zweiten Challenger-Titel",
+     "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-feldbausch-holt-zweiten-challenger-titel",
+     "time": "2026-11-15T11:45:19Z"
     }
    ]
   },
@@ -157,6 +157,46 @@
    ],
    "items": [
     {
+     "title": "Trump, 'amministrazione Biden un disastro per la Federal Aviation Administration'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/trump-amministrazione-biden-un-disastro-per-la-federal-aviation-administration_1399fa22-f314-4bc9-bec9-5c9ced28e026.html",
+     "time": "2026-11-15T13:41:21Z"
+    },
+    {
+     "title": "Mosca, 'negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/mosca-negoziati-sullucraina-lue-vuole-salire-sullultimo-treno_569f970a-c57c-4974-a924-58ff47836a7a.html",
+     "time": "2026-11-15T13:01:03Z"
+    },
+    {
+     "title": "Mosca, 'negozieremo per raggiungere gli obiettivi fissati da Putin nel 2024'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/mosca-negozieremo-per-raggiungere-gli-obiettivi-fissati-da-putin-nel-2024_915ab3b0-249f-4669-9c3e-498447601b99.html",
+     "time": "2026-11-15T12:59:51Z"
+    },
+    {
+     "title": "Hacker 15enni rubavano identità digitale e dati sensibili",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/hacker-15enni-rubavano-identita-digitale-e-dati-sensibili_0193d69d-f781-4ff3-86a3-b2dd88e1c991.html",
+     "time": "2026-11-15T12:51:41Z"
+    },
+    {
+     "title": "Rai: Richetti (Az), non farò mai il presidente di nulla per conto della destra",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/rai-richetti-az-non-faro-mai-il-presidente-di-nulla-per-conto-della_ada6980b-98e4-45c5-a4ee-38da6b1507dc.html",
+     "time": "2026-11-15T11:58:26Z"
+    },
+    {
+     "title": "Tajani, 'favorevole a una donna al Quirinale e magari di centrodestra'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/tajani-favorevole-a-una-donna-al-quirinale-e-magari-di-centrodestra_4351512a-464f-46e8-b16c-67e36978b5bc.html",
+     "time": "2026-11-15T11:34:32Z"
+    },
+    {
+     "title": "Schlein dai Verdi, insieme per un governo progressista, femminista e ecologista",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/schlein-dai-verdi-insieme-per-un-governo-progressista-femminista-e-ecologista_b1b21dbe-b034-413f-bbf1-ba26eda78091.html",
+     "time": "2026-11-15T11:11:34Z"
+    },
+    {
+     "title": "Bonelli, nessuna preclusione sul Rdc ma prendiamo risorse da patrimoniale",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/bonelli-nessuna-preclusione-sul-rdc-ma-prendiamo-risorse-da-patrimoniale_cc3e08f7-a6ab-43fc-b1d5-3612eae0a2d5.html",
+     "time": "2026-11-15T10:35:16Z"
+    },
+    {
      "title": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_878fb39f-8bdd-4518-ad05-0e8675365ac5.html",
      "time": "2026-11-14T22:36:17Z"
@@ -165,46 +205,6 @@
      "title": "Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/ministero-interno-219-fermi-in-francia-e-10-agenti-lievemente-feriti_b5a92c67-2b50-4eae-949e-32bb835a137e.html",
      "time": "2026-11-14T20:08:17Z"
-    },
-    {
-     "title": "Eisenkot, proposta unità di Netanyahu 'ennesimo trucco, colloqui già programmati'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/eisenkot-proposta-unita-di-netanyahu-ennesimo-trucco-colloqui-gia-programmati_140ef535-21f4-48a6-930b-e1f977b62d86.html",
-     "time": "2026-11-14T19:07:37Z"
-    },
-    {
-     "title": "Tra Meloni e Messina una telefonata di 'chiarimento'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/tra-meloni-e-messina-una-telefonata-di-chiarimento_c84f715f-05b7-490d-836e-8e365b0b8cdf.html",
-     "time": "2026-11-14T19:01:40Z"
-    },
-    {
-     "title": "Netanyahu insiste, 'governo di unità nazionale per chiudere i conti con l'Iran'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/netanyahu-insiste-governo-di-unita-nazionale-per-chiudere-i-conti-con-liran_c8608ef7-07b3-4696-a067-57f6719bef73.html",
-     "time": "2026-11-14T17:48:11Z"
-    },
-    {
-     "title": "Gruppi Lgbtq+ sfidano la repressione in Turchia per marciare con attivisti di Cop31",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/gruppi-lgbtq-sfidano-la-repressione-in-turchia-per-marciare-con-attivisti-di-cop31_3a115b43-06d0-4e31-b26c-de2b564a1871.html",
-     "time": "2026-11-14T17:02:59Z"
-    },
-    {
-     "title": "Duffy ringrazia controllori e passeggeri, tornata la piena operatività",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/duffy-ringrazia-controllori-e-passeggeri-tornata-la-piena-operativita_9a004811-983a-4ceb-a328-41f9c37a0285.html",
-     "time": "2026-11-14T16:07:41Z"
-    },
-    {
-     "title": "Cremlino conferma il trilaterale Putin, Xi e Trump a Shenzen il 19 novembre",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/cremlino-conferma-il-trilaterale-putin-xi-e-trump-a-shenzen-il-19-novembre_38c8b6c6-9747-4f7c-a00c-1c4781ef8b43.html",
-     "time": "2026-11-14T15:59:51Z"
-    },
-    {
-     "title": "Kreiss-Tomkins eletto governatore dell'Alaska, primo dem dal 1998",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/kreiss-tomkins-eletto-governatore-dellalaska-primo-dem-dal-1998_7469c6ab-2a75-41c2-b36d-a6735d1ae429.html",
-     "time": "2026-11-14T15:50:06Z"
-    },
-    {
-     "title": "Re Carlo compie 78 anni in piena attività, e scherza col coetaneo Elton John",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/re-carlo-compie-78-anni-in-piena-attivita-e-scherza-col-coetaneo-elton-john_8d32e01f-b607-409c-a0de-309bb6f4c8b5.html",
-     "time": "2026-11-14T12:26:20Z"
     }
    ]
   },
@@ -215,14 +215,49 @@
    "countries": [],
    "items": [
     {
-     "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T03:21:04Z"
+     "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+     "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T14:33:59Z"
+    },
+    {
+     "title": "Iran targets US military base in Bahrain with drone attack",
+     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T13:42:58Z"
+    },
+    {
+     "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+     "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T13:37:45Z"
+    },
+    {
+     "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+     "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T11:06:32Z"
     },
     {
      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T02:49:45Z"
+     "time": "2026-11-15T09:57:25Z"
+    },
+    {
+     "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+     "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T09:26:37Z"
+    },
+    {
+     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T08:17:41Z"
+    },
+    {
+     "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T07:10:31Z"
+    },
+    {
+     "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T03:21:04Z"
     },
     {
      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
@@ -238,41 +273,6 @@
      "title": "How telecoms upgrade work sparked US flight chaos",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-14T23:11:27Z"
-    },
-    {
-     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T22:37:25Z"
-    },
-    {
-     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T22:09:40Z"
-    },
-    {
-     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T19:12:25Z"
-    },
-    {
-     "title": "Italy fines Meta €805m over accessing users' photos",
-     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T18:28:06Z"
-    },
-    {
-     "title": "Philippines wins first Eurovision Song Contest Asia",
-     "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T18:17:58Z"
-    },
-    {
-     "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T18:00:10Z"
-    },
-    {
-     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T15:53:55Z"
     }
    ]
   }
