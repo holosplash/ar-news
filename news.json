@@ -1,6 +1,6 @@
 {
- "version": 190,
- "updated": "2026-11-15T00:14:48Z",
+ "version": 191,
+ "updated": "2026-11-15T07:05:11Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,14 +15,34 @@
    ],
    "items": [
     {
+     "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+     "time": "2026-11-15T06:46:37Z"
+    },
+    {
+     "title": "Journalisten in Ägypten: Verbote, Drohungen und Gefängnisstrafen",
+     "url": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-aegypten-100.html",
+     "time": "2026-11-15T04:11:48Z"
+    },
+    {
+     "title": "Illegale Drogen in Vapes - \"Baller-Liquids\" gefährden Jugendliche",
+     "url": "https://www.tagesschau.de/wissen/gesundheit/vapes-baller-liquids-drogen-jugendliche-100.html",
+     "time": "2026-11-15T04:11:26Z"
+    },
+    {
+     "title": "Europamagazin: Ein Aufschwung, den die Spanier nicht spüren",
+     "url": "https://www.tagesschau.de/ausland/europa/spanien-wahlkampf-108.html",
+     "time": "2026-11-15T04:11:16Z"
+    },
+    {
+     "title": "Frankreich: Zehntausende bei Demos, rund 200 Festnahmen",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html",
+     "time": "2026-11-15T04:10:12Z"
+    },
+    {
      "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
      "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
      "time": "2026-11-14T23:12:16Z"
-    },
-    {
-     "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
-     "time": "2026-11-14T21:31:18Z"
     },
     {
      "title": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht",
@@ -53,26 +73,6 @@
      "title": "tagesschau mit Gebärdensprache",
      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12364.html",
      "time": "2026-11-14T19:54:11Z"
-    },
-    {
-     "title": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
-     "url": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
-     "time": "2026-11-14T19:45:01Z"
-    },
-    {
-     "title": "Koalitionsvertrag in Mecklenburg-Vorpommern unterschrieben",
-     "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/spd-basis-stellt-sich-voll-hinter-manuela-schwesig,mvlandtag-128.html",
-     "time": "2026-11-14T19:43:50Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81962.html",
-     "time": "2026-11-14T19:36:01Z"
-    },
-    {
-     "title": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
-     "url": "https://www.tagesschau.de/kultur/esc-asia-100.html",
-     "time": "2026-11-14T19:24:24Z"
     }
    ]
   },
@@ -84,6 +84,31 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "1943 ermordet in Auschwitz – Die Geschichte von Hella Olstein: Opfer von Hass und Holocaust",
+     "url": "https://www.srf.ch/news/schweiz/1943-ermordet-in-auschwitz-die-geschichte-von-hella-olstein-opfer-von-hass-und-holocaust",
+     "time": "2026-11-15T06:55:09Z"
+    },
+    {
+     "title": "Über ein Drittel hört auf – Viele Lehrabbrüche: Gastro nimmt sich selbst in die Pflicht",
+     "url": "https://www.srf.ch/news/schweiz/ueber-ein-drittel-hoert-auf-viele-lehrabbrueche-gastro-nimmt-sich-selbst-in-die-pflicht",
+     "time": "2026-11-15T06:28:19Z"
+    },
+    {
+     "title": "WTA Finals in Indian Wells – Russin Andrejewa und Ukrainerin Switolina spielen um den Titel",
+     "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-in-indian-wells-russin-andrejewa-und-ukrainerin-switolina-spielen-um-den-titel",
+     "time": "2026-11-15T06:21:48Z"
+    },
+    {
+     "title": "Bilder der Woche – Weihnachtsmänner in Ausbildung und weitere Bildhighlights",
+     "url": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-weihnachtsmaenner-in-ausbildung-und-weitere-bildhighlights",
+     "time": "2026-11-15T06:00:09Z"
+    },
+    {
+     "title": "US-Raumfahrtunternehmen SpaceX – SpaceX fängt Starship-Rakete erstmals mit Greifarmen auf",
+     "url": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf",
+     "time": "2026-11-15T02:44:33Z"
+    },
     {
      "title": "Nations League am Samstag – Dänemark watscht Portugal ab – Norwegen siegt glücklich",
      "url": "https://www.srf.ch/sport/fussball/nations-league/nations-league-am-samstag-daenemark-watscht-portugal-ab-norwegen-siegt-gluecklich",
@@ -118,31 +143,6 @@
      "title": "Europapolitik – Abstimmung zum EU-Vertragspaket kommt wohl frühestens 2028",
      "url": "https://www.srf.ch/news/schweiz/europapolitik-abstimmung-zum-eu-vertragspaket-kommt-wohl-fruehestens-2028",
      "time": "2026-11-14T18:15:33Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Die Frau, die sich in der Ukraine um die Toten kümmert",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-die-frau-die-sich-in-der-ukraine-um-die-toten-kuemmert",
-     "time": "2026-11-14T17:41:30Z"
-    },
-    {
-     "title": "Kantonsbudget 2027 – Tausende Menschen demonstrieren in Genf gegen Sparmassnahmen",
-     "url": "https://www.srf.ch/news/schweiz/kantonsbudget-2027-tausende-menschen-demonstrieren-in-genf-gegen-sparmassnahmen",
-     "time": "2026-11-14T16:57:57Z"
-    },
-    {
-     "title": "Kundgebung – Männer demonstrieren in Bern gegen Gewalt an Frauen",
-     "url": "https://www.srf.ch/news/schweiz/kundgebung-maenner-demonstrieren-in-bern-gegen-gewalt-an-frauen",
-     "time": "2026-11-14T16:34:27Z"
-    },
-    {
-     "title": "Modeschau im Bergdorf – Guarda und Moncler: Ein Luxus-Event stört die Idylle",
-     "url": "https://www.srf.ch/news/dialog/modeschau-im-bergdorf-guarda-und-moncler-ein-luxus-event-stoert-die-idylle",
-     "time": "2026-11-14T16:09:25Z"
-    },
-    {
-     "title": "Dreiergipfel in China – Schliessen Trump, Putin und Xi einen neuen Abrüstungsvertrag?",
-     "url": "https://www.srf.ch/news/international/dreiergipfel-in-china-schliessen-trump-putin-und-xi-einen-neuen-abruestungsvertrag",
-     "time": "2026-11-14T16:04:02Z"
     }
    ]
   },
@@ -215,6 +215,26 @@
    "countries": [],
    "items": [
     {
+     "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T03:21:04Z"
+    },
+    {
+     "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+     "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T02:49:45Z"
+    },
+    {
+     "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T00:06:55Z"
+    },
+    {
+     "title": "Judo champion shakes up French presidential race with surprise candidacy",
+     "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T00:06:51Z"
+    },
+    {
      "title": "How telecoms upgrade work sparked US flight chaos",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-14T23:11:27Z"
@@ -228,11 +248,6 @@
      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-14T22:09:40Z"
-    },
-    {
-     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T20:23:06Z"
     },
     {
      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -258,21 +273,6 @@
      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-14T15:53:55Z"
-    },
-    {
-     "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-     "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T15:42:54Z"
-    },
-    {
-     "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-     "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T10:42:20Z"
-    },
-    {
-     "title": "Microsoft says services fully restored after day-long global outage",
-     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-14T06:42:27Z"
     }
    ]
   }
