@@ -1,6 +1,6 @@
 {
- "version": 194,
- "updated": "2026-11-16T00:18:31Z",
+ "version": 195,
+ "updated": "2026-11-16T07:10:51Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Volkstrauertag - Soldaten erinnern an ihre gefallenen Kameraden",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1684410.html",
-     "time": "2026-11-15T22:11:57Z"
+     "title": "Ehren-Oscar für Glenn Close, Chhath-Puja-Fest, Literaturnobelpreisträger Miguel Ángel Asturias",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10570.html",
+     "time": "2026-11-16T07:07:39Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-12980.html",
-     "time": "2026-11-15T22:08:38Z"
+     "title": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
+     "url": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
+     "time": "2026-11-16T06:48:12Z"
     },
     {
-     "title": "Textilindustrie in Bangladesch unter Druck - gestiegene Energiepreise sorgen für Firmenschließungen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1684408.html",
-     "time": "2026-11-15T22:08:22Z"
+     "title": "Marktbericht: Setzt der DAX die Rekordjagd fort?",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+     "time": "2026-11-16T06:18:40Z"
     },
     {
-     "title": "In Prag demonstrieren Hunderttausende Menschen für Medienunabhängigkeit",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1684406.html",
-     "time": "2026-11-15T22:00:26Z"
+     "title": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
+     "url": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html",
+     "time": "2026-11-16T06:14:09Z"
     },
     {
-     "title": "SPD auf der Suche nach neuer Führung - Unterstützer von Parteichef Klingbeil melden sich zu Wort",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1684404.html",
-     "time": "2026-11-15T21:57:44Z"
+     "title": "15-Minuten-Podcast: Folgen des Microsoft-Ausfalls, Black Friday und Notruf-Sensoren",
+     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/microsoft-black-friday-notruf-100.html",
+     "time": "2026-11-16T05:57:34Z"
     },
     {
-     "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
-     "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-     "time": "2026-11-15T20:44:43Z"
+     "title": "Jemen: Regierungstruppen wollen Aden vor Huthi schützen",
+     "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-aden-100.html",
+     "time": "2026-11-16T05:56:28Z"
     },
     {
-     "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
-     "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
-     "time": "2026-11-15T20:23:26Z"
+     "title": "11KM-Podcast: Tierwohl in Schlachtbetrieben - warum versagen Kontrollen?",
+     "url": "https://www.tagesschau.de/wirtschaft/podcast-11km-schlachthoefe-tierwohl-100.html",
+     "time": "2026-11-16T05:42:43Z"
     },
     {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12372.html",
-     "time": "2026-11-15T19:33:42Z"
+     "title": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
+     "url": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
+     "time": "2026-11-16T05:36:50Z"
     },
     {
-     "title": "Nach russischen Angriffen auf die Energieinfrastruktur trifft Ukraine offenbar petrochemische Anlage in Russland",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684366.html",
-     "time": "2026-11-15T19:32:03Z"
+     "title": "Pläne der Bundesregierung: Juristen zweifeln an Gesetz gegen Vergesellschaftung",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/investitionsschutzgesetz-dobrindt-gutachten-verfassungswidrig-100.html",
+     "time": "2026-11-16T05:03:11Z"
     },
     {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82026.html",
-     "time": "2026-11-15T19:18:09Z"
+     "title": "Spionage-Ermittlungen: Wie gelangten die Geheimpapiere aus dem BND?",
+     "url": "https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-108.html",
+     "time": "2026-11-16T05:01:34Z"
     },
     {
-     "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
-     "time": "2026-11-15T18:44:55Z"
+     "title": "Papst besucht bedrohte Lebensräume in den Anden und im Amazonasgebiet",
+     "url": "https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html",
+     "time": "2026-11-16T03:22:31Z"
     },
     {
-     "title": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
-     "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
-     "time": "2026-11-15T17:54:56Z"
+     "title": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
+     "url": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
+     "time": "2026-11-16T00:35:10Z"
     }
    ]
   },
@@ -84,6 +84,41 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Krieg in der Ukraine – Prinz Harry überrascht mit Ukraine-Besuch",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-prinz-harry-ueberrascht-mit-ukraine-besuch",
+     "time": "2026-11-16T06:53:46Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Presse: Dritter US-Flugzeugträger erreicht Nahen Osten",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-presse-dritter-us-flugzeugtraeger-erreicht-nahen-osten",
+     "time": "2026-11-16T05:37:52Z"
+    },
+    {
+     "title": "Neue Cyber-Gefahr – Countdown 2030: Quantencomputer knacken bald Verschlüsselungen",
+     "url": "https://www.srf.ch/news/international/neue-cyber-gefahr-countdown-2030-quantencomputer-knacken-bald-verschluesselungen",
+     "time": "2026-11-16T05:00:34Z"
+    },
+    {
+     "title": "UNO-Klimakonferenz – Das grosse Ziel: 35 Prozent Strom bis 2035",
+     "url": "https://www.srf.ch/news/international/uno-klimakonferenz-das-grosse-ziel-35-prozent-strom-bis-2035",
+     "time": "2026-11-16T04:45:48Z"
+    },
+    {
+     "title": "Klamme Kassen – Warum einige Kantone sparen müssen – und andere überhaupt nicht",
+     "url": "https://www.srf.ch/news/schweiz/klamme-kassen-warum-einige-kantone-sparen-muessen-und-andere-ueberhaupt-nicht",
+     "time": "2026-11-16T04:19:56Z"
+    },
+    {
+     "title": "20 Minuten mehr – «Man schläft eigentlich zu viel im Winter»",
+     "url": "https://www.srf.ch/news/20-minuten-mehr-man-schlaeft-eigentlich-zu-viel-im-winter",
+     "time": "2026-11-16T04:18:42Z"
+    },
+    {
+     "title": "Initiative geplant – Nach Lehrabschluss: 5000 Franken Mindestlohn, 8 Wochen Ferien",
+     "url": "https://www.srf.ch/news/wirtschaft/initiative-geplant-nach-lehrabschluss-5000-franken-mindestlohn-8-wochen-ferien",
+     "time": "2026-11-16T04:14:44Z"
+    },
     {
      "title": "Nations League: Gruppe A3 – England beendet Spaniens Monster-Serie",
      "url": "https://www.srf.ch/sport/fussball/nations-league/nations-league-gruppe-a3-england-beendet-spaniens-monster-serie",
@@ -105,44 +140,9 @@
      "time": "2026-11-15T20:17:22Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Italien, Australien, Kanada und UK fordern mehr Gaza-Hilfe",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-italien-australien-kanada-und-uk-fordern-mehr-gaza-hilfe",
-     "time": "2026-11-15T19:45:31Z"
-    },
-    {
      "title": "Weil Kanada hart bleibt – IIHF bestätigt: Eishockey-U20-WM wird ohne Russland stattfinden",
      "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/weil-kanada-hart-bleibt-iihf-bestaetigt-eishockey-u20-wm-wird-ohne-russland-stattfinden",
      "time": "2026-11-15T19:06:29Z"
-    },
-    {
-     "title": "Mit 46 Jahren zurück – Rückkehr erfolgt: Ronaldinho absolviert eine Halbzeit für Ravenna",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/mit-46-jahren-zurueck-rueckkehr-erfolgt-ronaldinho-absolviert-eine-halbzeit-fuer-ravenna",
-     "time": "2026-11-15T18:56:47Z"
-    },
-    {
-     "title": "Im Wald vergraben – Millionen-Fund: «Wendepunkt in der ungarischen Politik»",
-     "url": "https://www.srf.ch/news/international/im-wald-vergraben-millionen-fund-wendepunkt-in-der-ungarischen-politik",
-     "time": "2026-11-15T18:56:20Z"
-    },
-    {
-     "title": "Hightech-City in Hongkong – Chinesische Regierung forciert umstrittenes Megaprojekt",
-     "url": "https://www.srf.ch/news/international/hightech-city-in-hongkong-chinesische-regierung-forciert-umstrittenes-megaprojekt",
-     "time": "2026-11-15T18:10:04Z"
-    },
-    {
-     "title": "National League am Sonntag – Effiziente Genfer lassen Kloten verzweifeln – Ambri mit 4:0-Sieg",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-sonntag-effiziente-genfer-lassen-kloten-verzweifeln-ambri-mit-4-0-sieg",
-     "time": "2026-11-15T17:18:27Z"
-    },
-    {
-     "title": "Waffenexporte – Schweizer Munition gelangte über Umwege nach Russland",
-     "url": "https://www.srf.ch/news/waffenexporte-schweizer-munition-gelangte-ueber-umwege-nach-russland",
-     "time": "2026-11-15T17:17:42Z"
-    },
-    {
-     "title": "Bäume mit Geschichte – Wie das Tessin für den Erhalt seiner Kastanienwälder kämpft",
-     "url": "https://www.srf.ch/news/dialog/baeume-mit-geschichte-wie-das-tessin-fuer-den-erhalt-seiner-kastanienwaelder-kaempft",
-     "time": "2026-11-15T17:05:03Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Il prezzo del gas apre in calo a 90,15 euro al megawattora",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/16/il-prezzo-del-gas-apre-in-calo-a-9015-euro-al-megawattora_0fcedb80-99fe-4faa-b067-afc8ffa76efa.html",
+     "time": "2026-11-16T06:59:24Z"
+    },
+    {
+     "title": "L'euro è poco mosso, a 1,1013 dollari",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/16/leuro-e-poco-mosso-a-11013-dollari_a0a4fd9e-ea64-4177-ae8f-df7fedff4d61.html",
+     "time": "2026-11-16T06:59:03Z"
+    },
     {
      "title": "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/nyt-entro-24-ore-la-portaerei-roosevelt-in-medio-oriente-e-la-terza-nellarea_c75d5e94-a20d-4fb2-8e37-84b736142d51.html",
@@ -195,16 +205,6 @@
      "title": "L'Estonia annuncia, da dicembre chiuso completamente il confine con la Russia",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/lestonia-annuncia-da-dicembre-chiuso-completamente-il-confine-con-la-russia_aa260df1-1b14-4999-89af-074420ab7f7c.html",
      "time": "2026-11-15T16:26:44Z"
-    },
-    {
-     "title": "Duffy, 'entro lunedì i voli torneranno a pieno regime negli Usa'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/duffy-entro-lunedi-i-voli-torneranno-a-pieno-regime-negli-usa_7f0c2ca7-4282-4723-ac2c-d30edd0069c9.html",
-     "time": "2026-11-15T16:02:24Z"
-    },
-    {
-     "title": "Cancellati oggi negli Usa altri 1.400 voli dopo i 6.700 di sabato",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_fa9fd0de-800d-4244-8116-52578a897f0e.html",
-     "time": "2026-11-15T14:56:52Z"
     }
    ]
   },
@@ -215,14 +215,34 @@
    "countries": [],
    "items": [
     {
-     "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-     "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-16T00:03:29Z"
+     "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+     "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-16T05:06:59Z"
     },
     {
-     "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+     "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T23:52:10Z"
+     "time": "2026-11-16T03:21:56Z"
+    },
+    {
+     "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-16T03:09:49Z"
+    },
+    {
+     "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-16T03:08:31Z"
+    },
+    {
+     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-16T01:47:57Z"
+    },
+    {
+     "title": "Russia's mega-rich are already imagining a future after Putin",
+     "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-16T00:13:14Z"
     },
     {
      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
@@ -230,14 +250,14 @@
      "time": "2026-11-15T22:57:27Z"
     },
     {
-     "title": "Police ban protests near 10 schools and five universities in Paris",
-     "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T22:28:54Z"
+     "title": "Canada bars Russia from Junior World Championships",
+     "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T22:01:16Z"
     },
     {
-     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T22:24:20Z"
+     "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T22:00:13Z"
     },
     {
      "title": "Czechs rally against plan to switch funding of public media",
@@ -253,26 +273,6 @@
      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-15T18:38:11Z"
-    },
-    {
-     "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-     "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T16:15:20Z"
-    },
-    {
-     "title": "How telecoms upgrade work sparked US flight chaos",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T14:57:15Z"
-    },
-    {
-     "title": "Iran targets US military base in Bahrain with drone attack",
-     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T13:42:58Z"
-    },
-    {
-     "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-     "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T13:37:45Z"
     }
    ]
   }
