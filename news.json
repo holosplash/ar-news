@@ -1,6 +1,6 @@
 {
- "version": 193,
- "updated": "2026-11-15T20:18:32Z",
+ "version": 194,
+ "updated": "2026-11-16T00:18:31Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,41 @@
    ],
    "items": [
     {
+     "title": "Volkstrauertag - Soldaten erinnern an ihre gefallenen Kameraden",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1684410.html",
+     "time": "2026-11-15T22:11:57Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12980.html",
+     "time": "2026-11-15T22:08:38Z"
+    },
+    {
+     "title": "Textilindustrie in Bangladesch unter Druck - gestiegene Energiepreise sorgen für Firmenschließungen",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1684408.html",
+     "time": "2026-11-15T22:08:22Z"
+    },
+    {
+     "title": "In Prag demonstrieren Hunderttausende Menschen für Medienunabhängigkeit",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1684406.html",
+     "time": "2026-11-15T22:00:26Z"
+    },
+    {
+     "title": "SPD auf der Suche nach neuer Führung - Unterstützer von Parteichef Klingbeil melden sich zu Wort",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1684404.html",
+     "time": "2026-11-15T21:57:44Z"
+    },
+    {
+     "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+     "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+     "time": "2026-11-15T20:44:43Z"
+    },
+    {
+     "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
+     "time": "2026-11-15T20:23:26Z"
+    },
+    {
      "title": "tagesschau mit Gebärdensprache",
      "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12372.html",
      "time": "2026-11-15T19:33:42Z"
@@ -23,21 +58,6 @@
      "title": "Nach russischen Angriffen auf die Energieinfrastruktur trifft Ukraine offenbar petrochemische Anlage in Russland",
      "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684366.html",
      "time": "2026-11-15T19:32:03Z"
-    },
-    {
-     "title": "Debatte um künftige Führung der SPD",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684364.html",
-     "time": "2026-11-15T19:30:05Z"
-    },
-    {
-     "title": "Bundesweiter Volkstrauertag erinnert an die Opfer von Krieg und Gewaltherrschaft",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684362.html",
-     "time": "2026-11-15T19:26:47Z"
-    },
-    {
-     "title": "Hunderttausende Menschen demonstrieren in Prag gegen Rundfunkreform",
-     "url": "https://www.tagesschau.de/video/video-1684360.html",
-     "time": "2026-11-15T19:25:47Z"
     },
     {
      "title": "tagesschau",
@@ -53,26 +73,6 @@
      "title": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
      "time": "2026-11-15T17:54:56Z"
-    },
-    {
-     "title": "Hunderte Flüchtlinge auf Kanaren angekommen",
-     "url": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
-     "time": "2026-11-15T17:31:41Z"
-    },
-    {
-     "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
-     "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-     "time": "2026-11-15T16:52:46Z"
-    },
-    {
-     "title": "Innensenatorin: Bremen beendet Kampagne gegen Islamismus vorzeitig",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/bremen-beendet-kampagne-gegen-islamismus-vorzeitig-100.html",
-     "time": "2026-11-15T16:16:20Z"
-    },
-    {
-     "title": "Massenprotest gegen Rundfunkreform in Tschechien",
-     "url": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
-     "time": "2026-11-15T15:40:55Z"
     }
    ]
   },
@@ -84,6 +84,26 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Nations League: Gruppe A3 – England beendet Spaniens Monster-Serie",
+     "url": "https://www.srf.ch/sport/fussball/nations-league/nations-league-gruppe-a3-england-beendet-spaniens-monster-serie",
+     "time": "2026-11-15T22:44:26Z"
+    },
+    {
+     "title": "Nations League: Gruppe A1 – Belgien entzaubert Italien – auch Frankreich im Viertelfinal",
+     "url": "https://www.srf.ch/sport/fussball/nations-league/nations-league-gruppe-a1-belgien-entzaubert-italien-auch-frankreich-im-viertelfinal",
+     "time": "2026-11-15T21:43:15Z"
+    },
+    {
+     "title": "Über 10 Millionen Follower – Der Whatsapp-«General», der Lula zum Sieg führte",
+     "url": "https://www.srf.ch/news/international/ueber-10-millionen-follower-der-whatsapp-general-der-lula-zum-sieg-fuehrte",
+     "time": "2026-11-15T21:04:45Z"
+    },
+    {
+     "title": "Schweizer Buchpreis 2026 – Sarah Elena Müller gewinnt mit «Unwucht» den Schweizer Buchpreis",
+     "url": "https://www.srf.ch/kultur/literatur/schweizer-buchpreis-2026-sarah-elena-mueller-gewinnt-mit-unwucht-den-schweizer-buchpreis",
+     "time": "2026-11-15T20:17:22Z"
+    },
     {
      "title": "Krieg im Nahen Osten – Italien, Australien, Kanada und UK fordern mehr Gaza-Hilfe",
      "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-italien-australien-kanada-und-uk-fordern-mehr-gaza-hilfe",
@@ -110,11 +130,6 @@
      "time": "2026-11-15T18:10:04Z"
     },
     {
-     "title": "Weitere Sport-News – Schweizer Rekorde für Viquerat und Mityukov – Judoka Eich Dritter",
-     "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schweizer-rekorde-fuer-viquerat-und-mityukov-judoka-eich-dritter",
-     "time": "2026-11-15T17:49:51Z"
-    },
-    {
      "title": "National League am Sonntag – Effiziente Genfer lassen Kloten verzweifeln – Ambri mit 4:0-Sieg",
      "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-sonntag-effiziente-genfer-lassen-kloten-verzweifeln-ambri-mit-4-0-sieg",
      "time": "2026-11-15T17:18:27Z"
@@ -128,21 +143,6 @@
      "title": "Bäume mit Geschichte – Wie das Tessin für den Erhalt seiner Kastanienwälder kämpft",
      "url": "https://www.srf.ch/news/dialog/baeume-mit-geschichte-wie-das-tessin-fuer-den-erhalt-seiner-kastanienwaelder-kaempft",
      "time": "2026-11-15T17:05:03Z"
-    },
-    {
-     "title": "Umstrittene Medienreform – Grossdemo in Tschechien gegen Abschaffung von Rundfunkgebühr",
-     "url": "https://www.srf.ch/news/international/umstrittene-medienreform-grossdemo-in-tschechien-gegen-abschaffung-von-rundfunkgebuehr",
-     "time": "2026-11-15T16:23:43Z"
-    },
-    {
-     "title": "Rodriguez und Freuler – «Die coole Socke» und «der Unscheinbare» feiern Jubiläen",
-     "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/rodriguez-und-freuler-die-coole-socke-und-der-unscheinbare-feiern-jubilaeen",
-     "time": "2026-11-15T16:18:08Z"
-    },
-    {
-     "title": "Neue Velostation Schaffhausen – Schaffhauser Velostation zeigt, wie morgen gebaut werden könnte",
-     "url": "https://www.srf.ch/news/schweiz/neue-velostation-schaffhausen-schaffhauser-velostation-zeigt-wie-morgen-gebaut-werden-koennte",
-     "time": "2026-11-15T16:07:34Z"
     }
    ]
   },
@@ -156,6 +156,26 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/nyt-entro-24-ore-la-portaerei-roosevelt-in-medio-oriente-e-la-terza-nellarea_c75d5e94-a20d-4fb2-8e37-84b736142d51.html",
+     "time": "2026-11-15T22:51:03Z"
+    },
+    {
+     "title": "Oltre 400 mila in piazza a Praga a sostegno dei media pubblici",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/oltre-400-mila-in-piazza-a-praga-a-sostegno-dei-media-pubblici_28fcb369-fa4d-4391-ae6d-eef76a71c969.html",
+     "time": "2026-11-15T20:40:13Z"
+    },
+    {
+     "title": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_8180cd51-1757-4f61-b0d3-78ad6248ddeb.html",
+     "time": "2026-11-15T20:20:03Z"
+    },
+    {
+     "title": "Nyt, 'Lutnick ha allentato le norme sui chip in contrasto con attività di famiglia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/nyt-lutnick-ha-allentato-le-norme-sui-chip-in-contrasto-con-attivita-di-famiglia_12557283-2631-4ea0-962b-3f70ea4845b9.html",
+     "time": "2026-11-15T20:17:21Z"
+    },
     {
      "title": "Ft, 'Jensen Huang pensa a un clamoroso ritorno alla guida di Nvidia'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/ft-jensen-huang-pensa-a-un-clamoroso-ritorno-alla-guida-di-nvidia_267caa16-dd06-4dd4-bc66-610ce6540aa6.html",
@@ -185,26 +205,6 @@
      "title": "Cancellati oggi negli Usa altri 1.400 voli dopo i 6.700 di sabato",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_fa9fd0de-800d-4244-8116-52578a897f0e.html",
      "time": "2026-11-15T14:56:52Z"
-    },
-    {
-     "title": "Cremlino, 'se non ci sarà un accordo con l'Europa useremo la forza'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/cremlino-se-non-ci-sara-un-accordo-con-leuropa-useremo-la-forza_9fae570f-069f-4f25-ae45-67da7f2bac68.html",
-     "time": "2026-11-15T14:55:43Z"
-    },
-    {
-     "title": "Cicr, gli Houthi in Yemen rilasciano 600 combattenti filo-governativi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/cicr-gli-houthi-in-yemen-rilasciano-600-combattenti-filo-governativi_3c63867b-0758-4ad3-8b6b-3a895a730c72.html",
-     "time": "2026-11-15T14:53:18Z"
-    },
-    {
-     "title": "Trump, 'amministrazione Biden un disastro per la Federal Aviation Administration'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/trump-amministrazione-biden-un-disastro-per-la-federal-aviation-administration_1399fa22-f314-4bc9-bec9-5c9ced28e026.html",
-     "time": "2026-11-15T13:41:21Z"
-    },
-    {
-     "title": "Mosca, 'negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/mosca-negoziati-sullucraina-lue-vuole-salire-sullultimo-treno_569f970a-c57c-4974-a924-58ff47836a7a.html",
-     "time": "2026-11-15T13:01:03Z"
     }
    ]
   },
@@ -215,19 +215,39 @@
    "countries": [],
    "items": [
     {
+     "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+     "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-16T00:03:29Z"
+    },
+    {
+     "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+     "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T23:52:10Z"
+    },
+    {
+     "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+     "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T22:57:27Z"
+    },
+    {
+     "title": "Police ban protests near 10 schools and five universities in Paris",
+     "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T22:28:54Z"
+    },
+    {
+     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T22:24:20Z"
+    },
+    {
+     "title": "Czechs rally against plan to switch funding of public media",
+     "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T21:03:40Z"
+    },
+    {
      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-15T19:32:39Z"
-    },
-    {
-     "title": "Ronaldinho makes comeback in Ravenna win",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T19:31:48Z"
-    },
-    {
-     "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-     "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T19:20:53Z"
     },
     {
      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
@@ -235,29 +255,14 @@
      "time": "2026-11-15T18:38:11Z"
     },
     {
-     "title": "Czechs rally against plan to switch funding of public media",
-     "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T17:23:40Z"
-    },
-    {
-     "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T15:57:03Z"
+     "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+     "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-15T16:15:20Z"
     },
     {
      "title": "How telecoms upgrade work sparked US flight chaos",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-15T14:57:15Z"
-    },
-    {
-     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T14:56:21Z"
-    },
-    {
-     "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-     "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T14:33:59Z"
     },
     {
      "title": "Iran targets US military base in Bahrain with drone attack",
@@ -268,11 +273,6 @@
      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-15T13:37:45Z"
-    },
-    {
-     "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-     "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-15T11:06:32Z"
     }
    ]
   }
