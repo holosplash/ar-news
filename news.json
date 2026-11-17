@@ -1,6 +1,6 @@
 {
- "version": 198,
- "updated": "2026-11-17T09:01:54Z",
+ "version": 199,
+ "updated": "2026-11-17T18:25:52Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Tesla investiert 3. Mrd. Euro in Werk in Grünheide",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684958.html",
-     "time": "2026-11-17T08:33:34Z"
+     "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
+     "time": "2026-11-17T18:03:42Z"
     },
     {
-     "title": "Berlin: Razzia gegen Hisbollah-nahen Moscheeverein",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/razzia-berlin-148.html",
-     "time": "2026-11-17T08:28:32Z"
+     "title": "Christian Baars, NDR, mit Details zum Betrug von Augenärzten bei Grauer-Star-Operation",
+     "url": "https://www.tagesschau.de/video/video-1685466.html",
+     "time": "2026-11-17T17:45:04Z"
     },
     {
-     "title": "11KM-Podcast: Wie sicher sind unsere Medikamente?",
-     "url": "https://www.tagesschau.de/podcast-11km-medikamente-verpackungen-sicherheit-100.html",
-     "time": "2026-11-17T07:59:50Z"
+     "title": "Rebecca Barth, ARD Kiew, zum Angriff auf die Krim-Brücke",
+     "url": "https://www.tagesschau.de/video/video-1685458.html",
+     "time": "2026-11-17T17:37:03Z"
     },
     {
-     "title": "US-Regierung verhängt neue Exportbeschränkungen für KI-Chips",
-     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-einschraenkungen-export-ki-chips-nvidia-100.html",
-     "time": "2026-11-17T07:59:32Z"
+     "title": "\"Zum ersten Mal nach 14 Jahren echte Vertreter des Volkes\"",
+     "url": "https://www.tagesschau.de/ausland/europa/serbien-parlament-studentische-liste-100.html",
+     "time": "2026-11-17T17:35:34Z"
     },
     {
-     "title": "Tag der Wohnungswirtschaft: Bauen verteuert sich weiter - trotz aller Versprechen",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tag-der-wohnungswirtschaft-100.html",
-     "time": "2026-11-17T07:57:10Z"
-    },
-    {
-     "title": "Koalitionsausschuss: Schwarz-Rot sucht nach Milliarden für Entlastungen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/rente-stromsteuer-wahlrecht-knackpunkte-koalition-100.html",
-     "time": "2026-11-17T07:49:35Z"
-    },
-    {
-     "title": "15 Minuten: EU-Abschiebezentrum, autonomer Linienbus und der neue 007",
-     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15min-podcast-ruanda-autonomer-bus-neuer-bond-100.html",
-     "time": "2026-11-17T07:43:52Z"
-    },
-    {
-     "title": "Sonnenuntergang in der Mojave-Wüste, Working-Holiday-Reisende in Australien, Blick auf das Dorf Atmeh in Syrien",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10572.html",
-     "time": "2026-11-17T07:13:59Z"
-    },
-    {
-     "title": "Deutsche Nationalmannschaft begeistert gegen die Niederlande mit echten Flügelstürmern",
-     "url": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-elf-fliegt-mit-echten-fluegeln,analyse-ueber-aussen-zum-erfolg-100.html",
-     "time": "2026-11-17T06:52:00Z"
-    },
-    {
-     "title": "Ausnahmezustand in Guatemala - Regierung setzt Militär gegen Drogenbanden ein",
-     "url": "https://www.tagesschau.de/ausland/amerika/guatemala-drogen-militaer-100.html",
-     "time": "2026-11-17T06:45:47Z"
-    },
-    {
-     "title": "Angriffe auf die Ukraine: Zwei wichtige Brücken in Kiew getroffen",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html",
-     "time": "2026-11-17T06:36:47Z"
-    },
-    {
-     "title": "Marktbericht: KI-Kursrutsch dürfte auch den DAX belasten",
+     "title": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-     "time": "2026-11-17T06:35:55Z"
+     "time": "2026-11-17T17:26:00Z"
+    },
+    {
+     "title": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
+     "time": "2026-11-17T16:52:59Z"
+    },
+    {
+     "title": "Linken-Vorstand beantragt Ausschluss der Abgeordneten Emde",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/emde-ausschluss-linke-antrag-100.html",
+     "time": "2026-11-17T16:52:47Z"
+    },
+    {
+     "title": "Warum eine Konjunkturerholung noch kein Ende der Jobkrise bedeutet",
+     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/industrie-aufschwung-jobabbau-100.html",
+     "time": "2026-11-17T16:47:06Z"
+    },
+    {
+     "title": "NDR-Recherche zeigt Betrug bei Grauer-Star-Operation",
+     "url": "https://www.tagesschau.de/video/video-1685410.html",
+     "time": "2026-11-17T16:44:16Z"
+    },
+    {
+     "title": "tagesschau in Einfacher Sprache",
+     "url": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1514.html",
+     "time": "2026-11-17T16:43:00Z"
+    },
+    {
+     "title": "Datenleck bei der Deutschen Bank",
+     "url": "https://www.tagesschau.de/video/video-1685404.html",
+     "time": "2026-11-17T16:37:28Z"
+    },
+    {
+     "title": "USA prüfen mögliche Anschlagspläne Irans auf Washington",
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-schmutzige-bombe-iran-100.html",
+     "time": "2026-11-17T16:36:43Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Nach ukrainischem Beschuss – Krim-Brücke teilweise eingestürzt: Was der Angriff bedeutet",
-     "url": "https://www.srf.ch/news/international/nach-ukrainischem-beschuss-krim-bruecke-teilweise-eingestuerzt-was-der-angriff-bedeutet",
-     "time": "2026-11-17T08:57:43Z"
+     "title": "Anhaltende Masernausbrüche – USA erstmals seit mehr als 25 Jahren nicht mehr masernfrei",
+     "url": "https://www.srf.ch/news/international/usa/anhaltende-masernausbrueche-usa-erstmals-seit-mehr-als-25-jahren-nicht-mehr-masernfrei",
+     "time": "2026-11-17T18:14:30Z"
     },
     {
-     "title": "Nach 7Jahren als Nati-Direktor – Tami geht mit grossem Palmarès: «Sie können einen Final gewinnen»",
-     "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/nach-7jahren-als-nati-direktor-tami-geht-mit-grossem-palmares-sie-koennen-einen-final-gewinnen",
-     "time": "2026-11-17T08:28:03Z"
+     "title": "Neue Zahlen – Trockenheit und Schweinemarkt: So litt die Landwirtschaft 2026",
+     "url": "https://www.srf.ch/news/schweiz/neue-zahlen-trockenheit-und-schweinemarkt-so-litt-die-landwirtschaft-2026",
+     "time": "2026-11-17T18:04:49Z"
     },
     {
-     "title": "Q&A zu Cybersicherheit – Welche Fragen haben Sie zu Cyberangriffen und Datenschutz?",
-     "url": "https://www.srf.ch/news/srf-news-chats/q-a-zu-cybersicherheit-welche-fragen-haben-sie-zu-cyberangriffen-und-datenschutz",
-     "time": "2026-11-17T08:12:06Z"
+     "title": "Bankenskandal – Was bedeutet der grosse Datenleak bei der Deutschen Bank?",
+     "url": "https://www.srf.ch/news/wirtschaft/bankenskandal-was-bedeutet-der-grosse-datenleak-bei-der-deutschen-bank",
+     "time": "2026-11-17T17:05:58Z"
     },
     {
-     "title": "Vom Koch zum Bundeskanzler – Viktor Rossi: Die rechte Hand des Bundesrats",
-     "url": "https://www.srf.ch/radio-srf-1/vom-koch-zum-bundeskanzler-viktor-rossi-die-rechte-hand-des-bundesrats",
-     "time": "2026-11-17T08:02:59Z"
+     "title": "BAG-Experte im Gespräch – Antibiotikaresistenzen: Wo die Schweiz steht – und was nötig ist",
+     "url": "https://www.srf.ch/radio-srf-1/bag-experte-im-gespraech-antibiotikaresistenzen-wo-die-schweiz-steht-und-was-noetig-ist",
+     "time": "2026-11-17T17:00:03Z"
     },
     {
-     "title": "Nach Amoktat von Aarau – IV soll gefährliche Personen der Waffenbehörde melden dürfen",
-     "url": "https://www.srf.ch/news/schweiz/nach-amoktat-von-aarau-iv-soll-gefaehrliche-personen-der-waffenbehoerde-melden-duerfen",
-     "time": "2026-11-17T07:39:18Z"
+     "title": "Insektenabwehr im Ohr – Warum Ameisen am Ohrenschmalz scheitern",
+     "url": "https://www.srf.ch/wissen/natur-tiere/insektenabwehr-im-ohr-warum-ameisen-am-ohrenschmalz-scheitern",
+     "time": "2026-11-17T16:36:16Z"
     },
     {
-     "title": "Demos gegen «Pax Silica» – Warum Trump in Manila mit Protesten empfangen wird",
-     "url": "https://www.srf.ch/news/international/demos-gegen-pax-silica-warum-trump-in-manila-mit-protesten-empfangen-wird",
-     "time": "2026-11-17T07:16:42Z"
+     "title": "Nahe dem Prager Hauptbahnhof – Zugkollision in Prag – mehrere Verletzte",
+     "url": "https://www.srf.ch/news/international/nahe-dem-prager-hauptbahnhof-zugkollision-in-prag-mehrere-verletzte",
+     "time": "2026-11-17T16:34:42Z"
     },
     {
-     "title": "Krieg in der Ukraine – Nach Ukraine-Beschuss: Teile von Krim-Brücke eingestürzt",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-nach-ukraine-beschuss-teile-von-krim-bruecke-eingestuerzt",
-     "time": "2026-11-17T07:13:27Z"
+     "title": "Unwetter Ende August – Schadenssummen in den Kantonen Aargau und Solothurn gestiegen",
+     "url": "https://www.srf.ch/news/schweiz/unwetter-ende-august-schadenssummen-in-den-kantonen-aargau-und-solothurn-gestiegen",
+     "time": "2026-11-17T16:30:53Z"
     },
     {
-     "title": "UNO-Treffen in Genf – KI im Krieg: Wo sind autonome Waffensysteme schon im Einsatz?",
-     "url": "https://www.srf.ch/news/international/uno-treffen-in-genf-ki-im-krieg-wo-sind-autonome-waffensysteme-schon-im-einsatz",
-     "time": "2026-11-17T05:38:27Z"
+     "title": "Englischer Ex-Starstürmer – Rooney spricht über Tiefpunkt: «Habe an Suizid gedacht»",
+     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/englischer-ex-starstuermer-rooney-spricht-ueber-tiefpunkt-habe-an-suizid-gedacht",
+     "time": "2026-11-17T16:21:43Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Wachsende US-Präsenz in Nahost: Dritter Flugzeugträger angekommen",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-wachsende-us-praesenz-in-nahost-dritter-flugzeugtraeger-angekommen",
-     "time": "2026-11-17T05:16:34Z"
+     "title": "Katholisches Machtzentrum – 400 Jahre Petersdom: ein Meisterwerk voller Widersprüche",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/katholisches-machtzentrum-400-jahre-petersdom-ein-meisterwerk-voller-widersprueche",
+     "time": "2026-11-17T16:18:41Z"
     },
     {
-     "title": "Fifa-Präsidentschaft – Wie stehen die Chancen von Philippe Diallo, Infantino abzulösen?",
-     "url": "https://www.srf.ch/news/international/fifa-praesidentschaft-wie-stehen-die-chancen-von-philippe-diallo-infantino-abzuloesen",
-     "time": "2026-11-17T05:08:40Z"
+     "title": "Psychische Gesundheit – Über 100'000 Unterschriften gegen neue Hürden für Psychotherapie",
+     "url": "https://www.srf.ch/news/schweiz/psychische-gesundheit-ueber-100-000-unterschriften-gegen-neue-huerden-fuer-psychotherapie",
+     "time": "2026-11-17T16:18:35Z"
     },
     {
-     "title": "Gewalt gegen Spitalpersonal – Basler Spitäler: Gewalt durch Angehörige und Besucher",
-     "url": "https://www.srf.ch/news/schweiz/gewalt-gegen-spitalpersonal-basler-spitaeler-gewalt-durch-angehoerige-und-besucher",
-     "time": "2026-11-17T05:06:52Z"
+     "title": "Regenwetter – Ist die Trockenheit nun vom Tisch?",
+     "url": "https://www.srf.ch/meteo/meteo-stories/regenwetter-ist-die-trockenheit-nun-vom-tisch",
+     "time": "2026-11-17T16:17:45Z"
     },
     {
-     "title": "Bundesnachrichtendienst – Schweizer Geheimdienst unter Druck?",
-     "url": "https://www.srf.ch/news/schweiz/bundesnachrichtendienst-schweizer-geheimdienst-unter-druck",
-     "time": "2026-11-17T04:49:02Z"
+     "title": "Erkrankung und Sterblichkeit – So hat sich Krebs in der Schweiz verändert",
+     "url": "https://www.srf.ch/news/schweiz/erkrankung-und-sterblichkeit-so-hat-sich-krebs-in-der-schweiz-veraendert",
+     "time": "2026-11-17T15:50:22Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "++ Il Papa, dopo Midterm mi aspetto meno guerre ++",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/-il-papa-dopo-midterm-mi-aspetto-meno-guerre-_eece5f24-8b9f-4ad3-874d-f7a583c17f4f.html",
-     "time": "2026-11-17T08:51:56Z"
+     "title": "Oltre 250 scienziati contro metodi commissione Covid, lettera a presidenti Camere",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/oltre-250-scienziati-contro-metodi-commissione-covid-lettera-a-presidenti-camere_8c5f7c4d-144c-4b7d-b38d-584a5dbe50b9.html",
+     "time": "2026-11-17T18:02:00Z"
     },
     {
-     "title": "Borsa: l'Europa parte debole, Francoforte -0,8%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/borsa-leuropa-parte-debole-francoforte-08_a0bf5e2f-20b5-417a-8fc3-68ceb1e1f4d3.html",
-     "time": "2026-11-17T08:16:17Z"
+     "title": "Emendamento al dl sicurezza, divieto di social agli under 13",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/emendamento-al-dl-sicurezza-divieto-di-social-agli-under-13_dda7982a-d9b0-46e3-929e-cdfa935ac5e2.html",
+     "time": "2026-11-17T18:00:54Z"
     },
     {
-     "title": "Borsa: Milano apre in calo, Ftse Mib -0,64%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/borsa-milano-apre-in-calo-ftse-mib-064_bb28140c-2d31-42a1-8c9b-88a5ec58b8c7.html",
-     "time": "2026-11-17T08:04:57Z"
+     "title": "Il prezzo del gas poco mosso a 84,73 euro al megawattora",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/il-prezzo-del-gas-poco-mosso-a-8473-euro-al-megawattora_d36cb47d-1d7a-42f4-8f26-6bfb41483767.html",
+     "time": "2026-11-17T17:44:29Z"
     },
     {
-     "title": "L'oro in rialzo, il prezzo spot a 3.875 dollari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/loro-in-rialzo-il-prezzo-spot-a-3.875-dollari_15d51285-7560-46e6-ac45-c8b86c94fed9.html",
-     "time": "2026-11-17T07:49:34Z"
+     "title": "Fonti Ue, 'Kiev ha diritto a colpire il ponte in Crimea, rifornisce le truppe'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/fonti-ue-kiev-ha-diritto-a-colpire-il-ponte-in-crimea-rifornisce-le-truppe_a1c40e3c-e216-4d59-89c5-f3a1ccd85764.html",
+     "time": "2026-11-17T17:26:11Z"
     },
     {
-     "title": "Il gas parte in lieve rialzo (+0,9%) a 85,5 euro al Megawattora",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/il-gas-parte-in-lieve-rialzo-09-a-855-euro-al-megawattora_3075433d-4cfc-4118-84d7-31ac23a95cd6.html",
-     "time": "2026-11-17T07:48:36Z"
+     "title": "Lo spread tra Btp e Bund chiude in lieve calo a 105 punti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/lo-spread-tra-btp-e-bund-chiude-in-lieve-calo-a-105-punti_782c2df4-66f7-43bb-b2ae-d14bbc74c1bd.html",
+     "time": "2026-11-17T17:15:18Z"
     },
     {
-     "title": "Cina condanna restrizioni Usa su chip e promette in risposta 'misure necessarie'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/cina-condanna-restrizioni-usa-su-chip-e-promette-in-risposta-misure-necessarie_743424a0-fc01-4ab8-b686-88cb5aa382ac.html",
-     "time": "2026-11-17T07:46:12Z"
+     "title": "Bonelli, se non c'è un programma coraggioso allora niente primarie",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/bonelli-se-non-ce-un-programma-coraggioso-allora-niente-primarie_0f1421dc-5361-4d25-9e5d-3e6e59540fe6.html",
+     "time": "2026-11-17T17:11:16Z"
     },
     {
-     "title": "Riunione a Mosca per ripristinare il Ponte di Crimea, immagini di crollo parziale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/riunione-a-mosca-per-ripristinare-il-ponte-di-crimea-immagini-di-crollo-parziale_80e40e92-f116-49e9-8e6a-47b2b2998215.html",
-     "time": "2026-11-17T07:44:51Z"
+     "title": "Borsa: l'Europa chiude in forte calo, lente su Nvidia e Ia",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/borsa-leuropa-chiude-in-forte-calo-lente-su-nvidia-e-ia_4498abf4-eb19-49a9-ae48-cc9c004e30e0.html",
+     "time": "2026-11-17T16:47:55Z"
     },
     {
-     "title": "Lo spread tra Btp e Bund apre calmo a 105 punti base",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/lo-spread-tra-btp-e-bund-apre-calmo-a-105-punti-base_b8f9d5a8-0062-428d-8b07-ef0e79401032.html",
-     "time": "2026-11-17T07:43:47Z"
+     "title": "Borsa: Milano chiude in calo dell'1,31%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/borsa-milano-chiude-in-calo-dell131_f9cf3554-dadc-4aac-8755-5392a2c8951e.html",
+     "time": "2026-11-17T16:43:53Z"
     },
     {
-     "title": "Petrolio in calo, Wti a 85 dollari al barile",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/petrolio-in-calo-wti-a-85-dollari-al-barile_ea3a0d52-ff4c-4228-a6fc-003ef49ba2e7.html",
-     "time": "2026-11-17T07:41:58Z"
+     "title": "Colby, 'i raid in profondità in Russia non avvicinano la fine della guerra'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/colby-i-raid-in-profondita-in-russia-non-avvicinano-la-fine-della-guerra_6b1ff156-59ea-4c46-9859-44b2c7af5615.html",
+     "time": "2026-11-17T16:13:52Z"
     },
     {
-     "title": "Polizia turca nella sede di una tv di opposizione, arrestati i dirigenti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/polizia-turca-nella-sede-di-una-tv-di-opposizione-arrestati-i-dirigenti_3d2fa0e7-f21f-4ebc-bea1-a930b6b7aa3d.html",
-     "time": "2026-11-17T07:33:48Z"
+     "title": "Iran, 'gli Usa hanno attaccato l'isola di Qeshm, nello Stretto di Hormuz'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/17/iran-gli-usa-hanno-attaccato-lisola-di-qeshm-nello-stretto-di-hormuz_4663877c-7989-49a4-b81c-29b762377e6a.html",
+     "time": "2026-11-17T16:11:41Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
-     "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+     "title": "Jensen Huang says he would be 'honoured' to return as Nvidia boss despite board rejecting comeback calls",
+     "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T18:24:21Z"
+    },
+    {
+     "title": "UK sanctions firms over Israeli West Bank settlements",
+     "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T17:41:49Z"
+    },
+    {
+     "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+     "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T17:37:04Z"
+    },
+    {
+     "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+     "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T17:19:57Z"
+    },
+    {
+     "title": "US loses measles elimination status after 26 years amid record case numbers",
+     "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T17:10:03Z"
+    },
+    {
+     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T08:06:32Z"
+     "time": "2026-11-17T16:56:38Z"
     },
     {
-     "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-     "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T07:44:17Z"
+     "title": "BBC reports from Kyiv bridge hit by Russian attack",
+     "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T15:54:15Z"
     },
     {
-     "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-     "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T05:59:01Z"
+     "title": "How the attack on Crimean Bridge unfolded",
+     "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T15:38:10Z"
     },
     {
-     "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
-     "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T03:07:23Z"
+     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T15:36:11Z"
     },
     {
-     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T02:37:53Z"
+     "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+     "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T15:17:49Z"
     },
     {
-     "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-     "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T01:26:01Z"
+     "title": "How new US chip restrictions on South East Asia will hit China",
+     "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T14:25:45Z"
     },
     {
-     "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
-     "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T00:08:19Z"
-    },
-    {
-     "title": "The AI start-ups fixing India's broken roads and messy land records",
-     "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-16T23:25:53Z"
-    },
-    {
-     "title": "Five EU countries announce migrant deportation centre in Rwanda",
-     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-16T23:20:45Z"
-    },
-    {
-     "title": "OpenAI sued by California over Hugging Face attack",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-16T23:12:24Z"
-    },
-    {
-     "title": "Taking Korea's toughest exam from behind bars",
-     "url": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-16T23:09:49Z"
-    },
-    {
-     "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
-     "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-16T23:07:20Z"
+     "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+     "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-17T12:54:32Z"
     }
    ]
   }
