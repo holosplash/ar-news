@@ -1,6 +1,6 @@
 {
- "version": 201,
- "updated": "2026-11-18T09:01:30Z",
+ "version": 202,
+ "updated": "2026-11-18T17:56:44Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Stromsteuersenkung und Spritpreisdeckel - zeitlich begrenzt",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html",
-     "time": "2026-11-18T08:55:03Z"
+     "title": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
+     "url": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
+     "time": "2026-11-18T17:17:56Z"
     },
     {
-     "title": "BSW scheitert vor Bundesverfassungsgericht mit Beschwerde zu Bundestagswahl",
-     "url": "https://www.tagesschau.de/eilmeldung/bsw-wahlpruefung-100.html",
-     "time": "2026-11-18T08:55:02Z"
+     "title": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
+     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
+     "time": "2026-11-18T17:09:00Z"
     },
     {
-     "title": "Stromsteuersenkung beschlossen: \"Das ist ein Kraftakt\", Franziska Hoppermann, Generalsekretärin CDU",
-     "url": "https://www.tagesschau.de/video/video-1685702.html",
-     "time": "2026-11-18T08:39:57Z"
+     "title": "Gericht: Preiserhöhungs-Klausel von DAZN unwirksam",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/dazn-preise-urteil-100.html",
+     "time": "2026-11-18T17:04:38Z"
     },
     {
-     "title": "Linken-Vorstand beantragt Ausschluss der Abgeordneten Emde",
-     "url": "https://www.tagesschau.de/inland/regional/berlin/emde-ausschluss-linke-antrag-100.html",
-     "time": "2026-11-18T08:38:42Z"
+     "title": "tagesschau in Einfacher Sprache",
+     "url": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1520.html",
+     "time": "2026-11-18T16:37:32Z"
     },
     {
-     "title": "Stromsteuersenkung und Spritpreisdeckel: Was die Entlastungen im Alltag bringen könnten",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
-     "time": "2026-11-18T08:26:33Z"
+     "title": "Raumsonde Voyager 1 rund 26 Milliarden Kilometer von der Erde entfernt",
+     "url": "https://www.tagesschau.de/video/video-1685946.html",
+     "time": "2026-11-18T16:25:27Z"
     },
     {
-     "title": "Pistorius verteidigt Ukraine-Strategie",
-     "url": "https://www.tagesschau.de/video/video-1685706.html",
-     "time": "2026-11-18T08:16:43Z"
+     "title": "Chinas Staatschef Xi begrüßt Trump und Putin zum Apec-Gipfel in Shenzen",
+     "url": "https://www.tagesschau.de/video/video-1685944.html",
+     "time": "2026-11-18T16:23:50Z"
     },
     {
-     "title": "Ausgrabungsstätte in Jericho, Kälte in Kaschmir, \"Christmas Garden\" in Berlin",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10574.html",
-     "time": "2026-11-18T07:38:05Z"
+     "title": "Union und SPD einigen sich auf Kompromiss bei der Stromsteuer",
+     "url": "https://www.tagesschau.de/video/video-1685938.html",
+     "time": "2026-11-18T16:20:35Z"
     },
     {
-     "title": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
-     "url": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html",
-     "time": "2026-11-18T06:56:21Z"
+     "title": "Kommentar zur Stromsteuer-Einigung: Fahren auf Sicht - aber wer sitzt eigentlich am Steuer?",
+     "url": "https://www.tagesschau.de/kommentar/koalitionsausschuss-merz-stromsteuersenkung-100.html",
+     "time": "2026-11-18T15:47:07Z"
     },
     {
-     "title": "Alexander von Preen, Präsident des Handelsverbands, zur Zukunft des deutschen Handels",
-     "url": "https://www.tagesschau.de/video/video-1685680.html",
-     "time": "2026-11-18T06:39:07Z"
+     "title": "Einigung über Stromsteuersenkung: Die Koalition ist in eine neue Phase eingetreten",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
+     "time": "2026-11-18T15:45:55Z"
     },
     {
-     "title": "Kahana wird neuer Parlamentspräsident in Israel",
-     "url": "https://www.tagesschau.de/video/video-1685676.html",
-     "time": "2026-11-18T06:08:32Z"
+     "title": "Kabinett will bei Unterhaltszahlungen für Alleinerziehende sparen",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-unterhaltszahlung-verschaerfung-100.html",
+     "time": "2026-11-18T15:37:39Z"
     },
     {
-     "title": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
-     "url": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-     "time": "2026-11-18T06:07:52Z"
+     "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
+     "time": "2026-11-18T15:36:01Z"
     },
     {
-     "title": "Der Kassenbon wird digital - der Handel muss umdenken",
-     "url": "https://www.tagesschau.de/video/video-1685670.html",
-     "time": "2026-11-18T05:56:07Z"
+     "title": "Studie: Diese Themen machen Kindern und Jugendlichen Angst",
+     "url": "https://www.tagesschau.de/wissen/copsy-studie-2026-100.html",
+     "time": "2026-11-18T15:06:36Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Bundesratswahl 2026 – Parmelin-Nachfolge: SRF schätzt alle möglichen SVP-Tickets ein",
-     "url": "https://www.srf.ch/news/schweiz/bundesratswahl-2026-parmelin-nachfolge-srf-schaetzt-alle-moeglichen-svp-tickets-ein",
-     "time": "2026-11-18T08:47:56Z"
+     "title": "Klimakonferenz in Antalya – Nepal und Tuvalu fordern Taten statt Worte von reichen Ländern",
+     "url": "https://www.srf.ch/wissen/klimawandel/klimakonferenz-in-antalya-nepal-und-tuvalu-fordern-taten-statt-worte-von-reichen-laendern",
+     "time": "2026-11-18T17:27:45Z"
     },
     {
-     "title": "SRF-Interview – Schär: «Ich hatte Zweifel, ob es überhaupt weitergehen kann»",
-     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/srf-interview-schaer-ich-hatte-zweifel-ob-es-ueberhaupt-weitergehen-kann",
-     "time": "2026-11-18T08:41:46Z"
+     "title": "Budget 2027 – Ständeratskommission stellt sich hinter Voranschlag des Bundes",
+     "url": "https://www.srf.ch/news/schweiz/budget-2027-staenderatskommission-stellt-sich-hinter-voranschlag-des-bundes",
+     "time": "2026-11-18T17:01:02Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Israels Opposition übernimmt Parlamentsvorsitz",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israels-opposition-uebernimmt-parlamentsvorsitz",
-     "time": "2026-11-18T08:35:24Z"
+     "title": "Bundesratswahl am 9. Dezember – Fraktionsvorstand der SVP empfiehlt Zweierticket",
+     "url": "https://www.srf.ch/news/schweiz/bundesratswahl-am-9-dezember-fraktionsvorstand-der-svp-empfiehlt-zweierticket",
+     "time": "2026-11-18T16:57:51Z"
     },
     {
-     "title": "Technikpannen in den USA – US-Flugchaos – Rubio schliesst Cyberattacke aus",
-     "url": "https://www.srf.ch/news/international/technikpannen-in-den-usa-us-flugchaos-rubio-schliesst-cyberattacke-aus",
-     "time": "2026-11-18T08:19:16Z"
+     "title": "Börsengang der KI-Firma – Die Köpfe hinter Anthropic: Wer sind die Geschwister Amodei?",
+     "url": "https://www.srf.ch/news/wirtschaft/boersengang-der-ki-firma-die-koepfe-hinter-anthropic-wer-sind-die-geschwister-amodei",
+     "time": "2026-11-18T16:57:00Z"
     },
     {
-     "title": "Krieg in der Ukraine – APEC: Putin setzt grosse Hoffnungen auf Treffen mit Xi und Trump",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-apec-putin-setzt-grosse-hoffnungen-auf-treffen-mit-xi-und-trump",
-     "time": "2026-11-18T08:05:04Z"
+     "title": "Kulturnews in Kurzform – Cambridge Dictionary kürt «human» zum Wort des Jahres",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-cambridge-dictionary-kuert-human-zum-wort-des-jahres",
+     "time": "2026-11-18T16:48:33Z"
     },
     {
-     "title": "Wann, wer, was? – Kandidaten, Zeitplan, Stimmen: Übersicht zur Fifa-Präsidentenwahl",
-     "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/wann-wer-was-kandidaten-zeitplan-stimmen-uebersicht-zur-fifa-praesidentenwahl",
-     "time": "2026-11-18T08:03:05Z"
+     "title": "Verzicht auch auf WM & X-Games – Ragettli wird diese Saison keine «grossen» Wettkämpfe bestreiten",
+     "url": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/verzicht-auch-auf-wm-x-games-ragettli-wird-diese-saison-keine-grossen-wettkaempfe-bestreiten",
+     "time": "2026-11-18T16:47:09Z"
     },
     {
-     "title": "Riskante Geldanlagen – Widerstand gegen umstrittene Beratungsfirma VVK wächst",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/riskante-geldanlagen-widerstand-gegen-umstrittene-beratungsfirma-vvk-waechst",
-     "time": "2026-11-18T07:41:34Z"
+     "title": "Gesundheit im Café Med Ticino – Pensionierte Ärzte helfen, wenn Behandlungen Fragen aufwerfen",
+     "url": "https://www.srf.ch/news/gesellschaft/gesundheit-im-cafe-med-ticino-pensionierte-aerzte-helfen-wenn-behandlungen-fragen-aufwerfen",
+     "time": "2026-11-18T16:35:03Z"
     },
     {
-     "title": "Quartalszahlen von Walt Disney – Disney übertrifft die Erwartungen der Wall Street",
-     "url": "https://www.srf.ch/news/wirtschaft/quartalszahlen-von-walt-disney-disney-uebertrifft-die-erwartungen-der-wall-street",
-     "time": "2026-11-18T06:42:44Z"
+     "title": "BLS in der Kritik – Fast 185’000 Franken für Ex-Chef: BLS verschleierte Boni",
+     "url": "https://www.srf.ch/news/schweiz/bls-in-der-kritik-fast-185-000-franken-fuer-ex-chef-bls-verschleierte-boni",
+     "time": "2026-11-18T16:07:23Z"
     },
     {
-     "title": "Lesetipps von Yvonne Eisenring – «‹Momo› sollte Pflichtlektüre für alle sein»",
-     "url": "https://www.srf.ch/kultur/literatur/lesetipps-von-yvonne-eisenring-momo-sollte-pflichtlektuere-fuer-alle-sein",
-     "time": "2026-11-18T06:30:21Z"
+     "title": "Apec-Gipfel – Umarmung und Bankett – Xi, Trump und Putin in Shenzhen",
+     "url": "https://www.srf.ch/news/international/apec-gipfel-umarmung-und-bankett-xi-trump-und-putin-in-shenzhen",
+     "time": "2026-11-18T15:42:51Z"
     },
     {
-     "title": "Mary Peltola – Demokratin nimmt Republikanern Senatssitz in Alaska ab",
-     "url": "https://www.srf.ch/news/international/mary-peltola-demokratin-nimmt-republikanern-senatssitz-in-alaska-ab",
-     "time": "2026-11-18T06:25:46Z"
+     "title": "Tosendes Novemberwetter – Keine stabile Hochdruckphase bis Ende November in Sicht",
+     "url": "https://www.srf.ch/news/schweiz/tosendes-novemberwetter-keine-stabile-hochdruckphase-bis-ende-november-in-sicht",
+     "time": "2026-11-18T15:36:57Z"
     },
     {
-     "title": "Gefahr Cyberattacke – Gemeinden im Kampf gegen Hackerangriffe gefordert",
-     "url": "https://www.srf.ch/news/schweiz/gefahr-cyberattacke-gemeinden-im-kampf-gegen-hackerangriffe-gefordert",
-     "time": "2026-11-18T05:30:45Z"
+     "title": "Universitätsspital Zürich – USZ zahlte im Fall Maisano Entschädigungen in sechsstelliger Höhe",
+     "url": "https://www.srf.ch/news/schweiz/universitaetsspital-zuerich-usz-zahlte-im-fall-maisano-entschaedigungen-in-sechsstelliger-hoehe",
+     "time": "2026-11-18T15:34:18Z"
     },
     {
-     "title": "AfD und die Macht – «Man muss schon noch hinschauen, wofür diese Menschen stehen»",
-     "url": "https://www.srf.ch/news/international/afd-und-die-macht-man-muss-schon-noch-hinschauen-wofuer-diese-menschen-stehen",
-     "time": "2026-11-18T05:08:36Z"
+     "title": "Gegen Ständeratsentscheid – EU-Paket: Nationalratskommission gegen Ständemehr",
+     "url": "https://www.srf.ch/news/schweiz/gegen-staenderatsentscheid-eu-paket-nationalratskommission-gegen-staendemehr",
+     "time": "2026-11-18T15:11:36Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Meloni, noi lavoriamo per abbassare le tasse, la sinistra litiga sulla patrimoniale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/meloni-noi-lavoriamo-per-abbassare-le-tasse-la-sinistra-litiga-sulla-patrimoniale_4fa5dcb6-56e1-4ff7-9ccf-1813ee26d724.html",
-     "time": "2026-11-18T08:16:14Z"
+     "title": "Gusmeroli, emendamento Lega per aumentare di 3 punti l'Ires alle banche",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/gusmeroli-emendamento-lega-per-aumentare-di-3-punti-lires-alle-banche_e9fe1e24-d1d1-4c53-b5c2-b74d08c7e3ee.html",
+     "time": "2026-11-18T17:49:45Z"
     },
     {
-     "title": "Borsa: l'Europa apre poco mossa, Francoforte +0,1%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/borsa-leuropa-apre-poco-mossa-francoforte-01_e95f9dfe-1b84-4263-8a62-141a62557cd2.html",
-     "time": "2026-11-18T08:14:52Z"
+     "title": "Garavaglia sulla Lega, sfiducia a Romeo ignobile e politicamente stupida",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/garavaglia-sulla-lega-sfiducia-a-romeo-ignobile-e-politicamente-stupida_26af28a8-07dd-4741-a691-cc3933b68f58.html",
+     "time": "2026-11-18T17:48:29Z"
     },
     {
-     "title": "Fiano lascia il Pd per il no alla legge sull'antisemitismo",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/fiano-lascia-il-pd-per-il-no-alla-legge-sullantisemitismo_f7ccc2c7-22f1-4d02-b7fc-c6842ecf9dfa.html",
-     "time": "2026-11-18T08:13:57Z"
+     "title": "Il Cdm avvia iter nomina di Remo Morzenti Pellegrini presidente Anac",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/il-cdm-avvia-iter-nomina-di-remo-morzenti-pellegrini-presidente-anac_72862ca5-0ffd-4b05-a1e9-2565028ae543.html",
+     "time": "2026-11-18T17:44:47Z"
     },
     {
-     "title": "Borsa: Milano apre poco mossa (+0,08%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/borsa-milano-apre-poco-mossa-008_2a934ce3-20cc-490a-bf26-54087a704582.html",
-     "time": "2026-11-18T08:08:46Z"
+     "title": "Schlein, un maxicondono vergognoso di un governo disperato",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/schlein-un-maxicondono-vergognoso-di-un-governo-disperato_bed5ed87-0e12-46b4-9ff3-51aa61224bea.html",
+     "time": "2026-11-18T17:44:29Z"
     },
     {
-     "title": "Gme, in ribasso l'indice italiano del prezzo del gas",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/gme-in-ribasso-lindice-italiano-del-prezzo-del-gas_9c4c593a-9934-4ed3-841a-051ce96a554b.html",
-     "time": "2026-11-18T07:48:08Z"
+     "title": "Meloni ha ricevuto de Cos, il candidato spagnolo alla presidenza Bce",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/meloni-ha-ricevuto-de-cos-il-candidato-spagnolo-alla-presidenza-bce_d50ef477-f0b3-45f7-bfdb-20ed7e00c2f0.html",
+     "time": "2026-11-18T17:44:01Z"
     },
     {
-     "title": "Lo spread Btp-Bund apre in calo a 102 punti base",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/lo-spread-btp-bund-apre-in-calo-a-102-punti-base_94b34a6d-3b88-45ba-8954-3cfca2eb005f.html",
-     "time": "2026-11-18T07:40:17Z"
+     "title": "Emendamento su libri digitali accantonato in commissione, lavori sospesi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/emendamento-su-libri-digitali-accantonato-in-commissione-lavori-sospesi_734203aa-7bcd-48ec-a466-2ea144c1b064.html",
+     "time": "2026-11-18T17:43:20Z"
     },
     {
-     "title": "Generali in linea per superare tutti gli obiettivi del piano strategico",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/generali-in-linea-per-superare-tutti-gli-obiettivi-del-piano-strategico_3ff23b16-d33d-45a7-ad15-02c173e7b502.html",
-     "time": "2026-11-18T07:31:41Z"
+     "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_60c84099-f30a-4a07-8e81-6de47cb5020f.html",
+     "time": "2026-11-18T17:32:24Z"
     },
     {
-     "title": "Il gas apre in calo sul mercato di Amsterdam (-0,7%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/il-gas-apre-in-calo-sul-mercato-di-amsterdam-07_ba63f229-b7aa-4067-b01f-fefaf2d8d0ca.html",
-     "time": "2026-11-18T07:27:45Z"
+     "title": "Il gas scende scende ancora e si avvicina a 81 euro sulla piazza Ttf di Amsterdam",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/il-gas-scende-scende-ancora-e-si-avvicina-a-81-euro-sulla-piazza-ttf-di-amsterdam_1d509c27-c007-40af-9c6e-72b5c413b5e5.html",
+     "time": "2026-11-18T17:12:23Z"
     },
     {
-     "title": "Borsa: l'Asia in ordine sparso, i conti di Nvidia aiutano i tecnologici",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/borsa-lasia-in-ordine-sparso-i-conti-di-nvidia-aiutano-i-tecnologici_0643ba93-1188-4ece-a91a-e6664e6585f2.html",
-     "time": "2026-11-18T07:27:14Z"
+     "title": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 105,8 punti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-1058-punti_0a2f64eb-fe60-4c56-8c1a-60ac1f8adfed.html",
+     "time": "2026-11-18T17:06:47Z"
     },
     {
-     "title": "Il prezzo dell'oro ancora giù, Spot a 3.777,93 dollari l'oncia (-1,86%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/il-prezzo-delloro-ancora-giu-spot-a-3.77793-dollari-loncia-186_54de5ab1-a89d-41b0-b388-9d3f26c28de1.html",
-     "time": "2026-11-18T07:19:07Z"
+     "title": "Borsa: Milano chiude a -1,32%, pesano Leonardo, Tenaris e Bper",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/borsa-milano-chiude-a-132-pesano-leonardo-tenaris-e-bper_12e9f9d2-881e-4cac-927e-e05c3ba127ce.html",
+     "time": "2026-11-18T17:04:43Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
-     "title": "Ghana's new $60m presidential jet sparks public outrage",
-     "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T08:08:20Z"
+     "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+     "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T17:51:47Z"
     },
     {
-     "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-     "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T07:48:18Z"
+     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T17:34:25Z"
     },
     {
-     "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-     "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T07:00:25Z"
+     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T17:34:23Z"
     },
     {
-     "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-     "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T04:57:06Z"
+     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+     "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T17:00:40Z"
     },
     {
-     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-     "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T01:18:18Z"
+     "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+     "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T17:00:04Z"
     },
     {
-     "title": "Millions of red crabs start annual migration on Christmas Island",
-     "url": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T23:05:39Z"
+     "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+     "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T16:33:16Z"
     },
     {
-     "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-     "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T23:02:12Z"
+     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+     "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T16:10:44Z"
     },
     {
-     "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-     "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T22:46:30Z"
+     "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T16:05:26Z"
     },
     {
-     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T21:24:35Z"
+     "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+     "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T15:39:57Z"
     },
     {
-     "title": "Russian military plane crashes, killing all 19 on board",
-     "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T21:06:11Z"
+     "title": "The seven Anthropic founders who are about to become multi-billionaires",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T13:55:14Z"
     },
     {
-     "title": "US loses measles elimination status after 26 years amid record case numbers",
-     "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T21:04:00Z"
+     "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T13:04:48Z"
     },
     {
-     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-17T20:30:20Z"
+     "title": "Who to watch in Spain's election race",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T11:44:25Z"
     }
    ]
   }
