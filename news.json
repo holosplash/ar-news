@@ -1,6 +1,6 @@
 {
- "version": 205,
- "updated": "2026-11-19T17:16:12Z",
+ "version": 206,
+ "updated": "2026-11-19T23:45:07Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Liveticker zu Gipfeln ++ Merz: Große Unterstützung für Ukraine ++",
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12986.html",
+     "time": "2026-11-19T21:54:40Z"
+    },
+    {
+     "title": "KI-Unternehmen Anthropic sammelt mehr als 100 Milliarden Dollar durch Ausgabe von Aktien ein",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1686802.html",
+     "time": "2026-11-19T21:41:43Z"
+    },
+    {
+     "title": "Champions League: FC Bayern fertigt Austria Wien ab",
+     "url": "https://www.sportschau.de/regional/br/br-klarer-sieg-im-rekordspiel-fc-bayern-fertigt-austria-wien-ab-102.html",
+     "time": "2026-11-19T21:39:27Z"
+    },
+    {
+     "title": "Die Meinung von Stefan Niemann, NDR, zu Deutschlands und Europas Rolle auf der Weltbühne",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1686800.html",
+     "time": "2026-11-19T21:35:28Z"
+    },
+    {
+     "title": "\"Koalition der Willigen\" berät in Berlin über Unterstützung der Ukraine",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1686798.html",
+     "time": "2026-11-19T21:29:01Z"
+    },
+    {
+     "title": "Erstmals gemeinsames Treffen von Putin, Trump und Xi im Rahmen eines Gipfels in Shenzhen",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1686796.html",
+     "time": "2026-11-19T21:26:15Z"
+    },
+    {
+     "title": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
      "url": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
-     "time": "2026-11-19T17:00:47Z"
+     "time": "2026-11-19T21:02:03Z"
     },
     {
-     "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
-     "time": "2026-11-19T16:54:27Z"
+     "title": "AfD lässt laut Siegmund Wahl von Ministerpräsident in Sachsen-Anhalt vorziehen",
+     "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-afd-video-social-media-einschaetzung-reporter-frohmueller,afd-siegmund-114.html",
+     "time": "2026-11-19T20:51:59Z"
     },
     {
-     "title": "Internationaler Gerichtshof stuft Verbrechen gegen die Rohingya in Myanmar als Völkermord ein",
-     "url": "https://www.tagesschau.de/video/video-1686566.html",
-     "time": "2026-11-19T16:12:45Z"
+     "title": "Strafbefehl gegen Tesla-Werksleiter",
+     "url": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html",
+     "time": "2026-11-19T20:07:12Z"
     },
     {
-     "title": "Volkswagen will Nullrunden für zwei Jahre",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
-     "time": "2026-11-19T16:11:57Z"
+     "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
+     "time": "2026-11-19T19:22:45Z"
     },
     {
-     "title": "Matthias Deiß, ARD Berlin, zur Reaktionen der \"Koalition der Willingen\" auf Treffen in Shenzhen",
-     "url": "https://www.tagesschau.de/video/video-1686564.html",
-     "time": "2026-11-19T16:09:40Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82088.html",
+     "time": "2026-11-19T19:22:36Z"
     },
     {
-     "title": "BASF bläst Evonik-Übernahme ab",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
-     "time": "2026-11-19T15:55:43Z"
-    },
-    {
-     "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-     "url": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html",
-     "time": "2026-11-19T15:32:13Z"
-    },
-    {
-     "title": "18-jähriger Schüler soll Anschlag auf Moschee geplant haben",
-     "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schueler-anschlagsplan-moschee-100.html",
-     "time": "2026-11-19T15:29:00Z"
-    },
-    {
-     "title": "EGMR-Urteil: Corona-Impfpflichten waren menschenrechtskonform",
-     "url": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html",
-     "time": "2026-11-19T15:24:28Z"
-    },
-    {
-     "title": "Cupic: Biobauer, Dozent und nun Serbiens Parlamentspräsident",
-     "url": "https://www.tagesschau.de/ausland/europa/cupic-parlamentspraesident-serbien-100.html",
-     "time": "2026-11-19T15:08:53Z"
-    },
-    {
-     "title": "Erstmals weltweit mehr Energie zum Kühlen als zum Heizen verbraucht",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html",
-     "time": "2026-11-19T14:51:14Z"
-    },
-    {
-     "title": "\"Ein Warnruf in alle Richtungen\", ARD-Reporter zur Bedrohung durch Cyberangriffe",
-     "url": "https://www.tagesschau.de/video/video-1686392.html",
-     "time": "2026-11-19T14:26:55Z"
+     "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+     "url": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
+     "time": "2026-11-19T18:30:48Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Klimakonferenz in Antalya – COP31-Entwurf streicht alle Hinweise auf fossile Brennstoffe",
-     "url": "https://www.srf.ch/news/international/klimakonferenz-in-antalya-cop31-entwurf-streicht-alle-hinweise-auf-fossile-brennstoffe",
-     "time": "2026-11-19T17:15:05Z"
+     "title": "Krieg in der Ukraine – Merz nach Gipfeltreffen: Unterstützen Kiew so lange wie nötig",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-merz-nach-gipfeltreffen-unterstuetzen-kiew-so-lange-wie-noetig",
+     "time": "2026-11-19T21:53:32Z"
     },
     {
-     "title": "Armut in der Schweiz – «Ich bin alleinerziehend und armutsgefährdet – wie viele andere»",
-     "url": "https://www.srf.ch/news/schweiz/armut-in-der-schweiz-ich-bin-alleinerziehend-und-armutsgefaehrdet-wie-viele-andere",
-     "time": "2026-11-19T16:52:49Z"
+     "title": "Krieg im Nahen Osten – Pentagon: Iran-Krieg kostete bislang 48.3 Milliarden Dollar",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-pentagon-iran-krieg-kostete-bislang-48-3-milliarden-dollar",
+     "time": "2026-11-19T21:53:30Z"
     },
     {
-     "title": "«Hunger Games» zurück im Kino – Die Rückkehr der Tribute von Panem: Haymitchs Vorgeschichte",
-     "url": "https://www.srf.ch/kultur/film-serien/hunger-games-zurueck-im-kino-die-rueckkehr-der-tribute-von-panem-haymitchs-vorgeschichte",
-     "time": "2026-11-19T16:52:07Z"
+     "title": "Women's Champions League – Schertenleib und Barcelona lassen Servette keine Chance",
+     "url": "https://www.srf.ch/sport/fussball/frauen-fussball/women-s-champions-league-schertenleib-und-barcelona-lassen-servette-keine-chance",
+     "time": "2026-11-19T21:49:58Z"
     },
     {
-     "title": "Landwirtschaft – Die grosse Unsicherheit der PFAS-betroffenen Bauernfamilien",
-     "url": "https://www.srf.ch/news/schweiz/landwirtschaft-die-grosse-unsicherheit-der-pfas-betroffenen-bauernfamilien",
-     "time": "2026-11-19T16:50:46Z"
+     "title": "National League am Donnerstag – Vom 0:2 zum 5:2: Lions glückt Reaktion in Lausanne",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-donnerstag-vom-0-2-zum-5-2-lions-glueckt-reaktion-in-lausanne",
+     "time": "2026-11-19T21:35:45Z"
     },
     {
-     "title": "Zahngesundheit – Knirsche ich nachts mit den Zähnen, ohne es zu merken?",
-     "url": "https://www.srf.ch/radio-srf-1/zahngesundheit-knirsche-ich-nachts-mit-den-zaehnen-ohne-es-zu-merken",
-     "time": "2026-11-19T16:50:03Z"
-    },
-    {
-     "title": "Pensionskasse des Bundes – Publica leitet nach Cyberattacke eine externe Untersuchung ein",
-     "url": "https://www.srf.ch/news/dialog/pensionskasse-des-bundes-publica-leitet-nach-cyberattacke-eine-externe-untersuchung-ein",
-     "time": "2026-11-19T16:27:59Z"
-    },
-    {
-     "title": "Volksinitiative lanciert – Linke Allianz nimmt neuen Anlauf für tiefere Prämien",
-     "url": "https://www.srf.ch/news/schweiz/volksinitiative-lanciert-linke-allianz-nimmt-neuen-anlauf-fuer-tiefere-praemien",
-     "time": "2026-11-19T16:11:08Z"
-    },
-    {
-     "title": "«Grand Theft Auto 6» – Wie gut ist GTA 6?",
-     "url": "https://www.srf.ch/kultur/games/grand-theft-auto-6-wie-gut-ist-gta-6",
-     "time": "2026-11-19T15:45:56Z"
-    },
-    {
-     "title": "Historisches Urteil – Völkermord-Schuldspruch gegen Myanmar: Die wichtigsten Antworten",
-     "url": "https://www.srf.ch/news/international/historisches-urteil-voelkermord-schuldspruch-gegen-myanmar-die-wichtigsten-antworten",
-     "time": "2026-11-19T15:42:25Z"
-    },
-    {
-     "title": "Nach Unwetter 2024 – PUK ortet schwere Versäumnisse beim Hochwasserschutz im Wallis",
-     "url": "https://www.srf.ch/news/schweiz/nach-unwetter-2024-puk-ortet-schwere-versaeumnisse-beim-hochwasserschutz-im-wallis",
-     "time": "2026-11-19T15:42:11Z"
+     "title": "ATP Finals in Turin – Zverev marschiert durch – auch Shelton im Halbfinal",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-zverev-marschiert-durch-auch-shelton-im-halbfinal",
+     "time": "2026-11-19T21:25:49Z"
     },
     {
      "title": "Rekord an der Wallstreet – Anthropic an der Börse: Fünf Fragen zum Handelsstart",
      "url": "https://www.srf.ch/news/wirtschaft/rekord-an-der-wallstreet-anthropic-an-der-boerse-fuenf-fragen-zum-handelsstart",
-     "time": "2026-11-19T15:31:46Z"
+     "time": "2026-11-19T21:14:36Z"
     },
     {
-     "title": "Wahlen 2027 – Grüne Maya Graf tritt 2027 nicht mehr als Ständerätin an",
-     "url": "https://www.srf.ch/news/schweiz/wahlen-2027-gruene-maya-graf-tritt-2027-nicht-mehr-als-staenderaetin-an",
-     "time": "2026-11-19T15:29:30Z"
+     "title": "Stimmen aus der Community – Cyberangriffe verunsichern die «dialog»-Community",
+     "url": "https://www.srf.ch/news/dialog/stimmen-aus-der-community-cyberangriffe-verunsichern-die-dialog-community",
+     "time": "2026-11-19T19:33:46Z"
+    },
+    {
+     "title": "Indigene Gruppen in Brasilien – Wenn Menschen, die nicht gesehen werden wollen, gefilmt werden",
+     "url": "https://www.srf.ch/news/international/indigene-gruppen-in-brasilien-wenn-menschen-die-nicht-gesehen-werden-wollen-gefilmt-werden",
+     "time": "2026-11-19T19:09:01Z"
+    },
+    {
+     "title": "80s-Hit «Captain of Her Heart» – In «GTA 6» läuft Schweizer Musik",
+     "url": "https://www.srf.ch/radio-srf-3/musik/80s-hit-captain-of-her-heart-in-gta-6-laeuft-schweizer-musik",
+     "time": "2026-11-19T18:19:03Z"
+    },
+    {
+     "title": "Kantonsspital Baselland – Nach jahrelangem Ringen will der Landrat beide Standorte behalten",
+     "url": "https://www.srf.ch/news/schweiz/kantonsspital-baselland-nach-jahrelangem-ringen-will-der-landrat-beide-standorte-behalten",
+     "time": "2026-11-19T18:02:13Z"
+    },
+    {
+     "title": "Geldmaschine Panamakanal – Der Panamakanal: Umworbener Flaschenhals der Weltschifffahrt",
+     "url": "https://www.srf.ch/news/international/geldmaschine-panamakanal-der-panamakanal-umworbener-flaschenhals-der-weltschifffahrt",
+     "time": "2026-11-19T18:00:02Z"
+    },
+    {
+     "title": "Tagelanger Cyberangriff – EU-Kommission wurde Opfer von KI-Cyberangriff",
+     "url": "https://www.srf.ch/news/international/tagelanger-cyberangriff-eu-kommission-wurde-opfer-von-ki-cyberangriff",
+     "time": "2026-11-19T17:46:07Z"
     }
    ]
   },
@@ -157,54 +157,49 @@
    ],
    "items": [
     {
-     "title": "Schlein, campo largo pronto al voto in ogni momento, programma comune si è rinsaldato",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/schlein-campo-largo-pronto-al-voto-in-ogni-momento-programma-comune-si-e-rinsaldato_08f9694b-7c2f-4469-adfc-e651a658bf3c.html",
-     "time": "2026-11-19T17:05:51Z"
+     "title": "Droni sull'aeroporto di Genova, scalo chiuso per due ore",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/droni-sullaeroporto-di-genova-scalo-chiuso-per-due-ore_dea70ae7-5225-4a9e-8394-c28e5e7202d0.html",
+     "time": "2026-11-19T22:52:28Z"
     },
     {
-     "title": "Lapid, 'una follia e un rischio per Israele non cacciare Netanyahu'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/lapid-una-follia-e-un-rischio-per-israele-non-cacciare-netanyahu_3df4108e-f569-40c8-b35c-933e1c38b373.html",
-     "time": "2026-11-19T17:00:54Z"
+     "title": "Uccise moglie e suocera, ergastolo definitivo per Amato",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/uccise-moglie-e-suocera-ergastolo-definitivo-per-amato_769dde5b-339a-4514-a48c-6a7951a7b120.html",
+     "time": "2026-11-19T20:39:04Z"
     },
     {
-     "title": "Media, 'Trump critica gli europei per gli ulteriori miliardi di aiuti a Kiev'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/media-trump-critica-gli-europei-per-gli-ulteriori-miliardi-di-aiuti_fa4f803d-bdd2-4b4d-8f4e-e5c401527681.html",
-     "time": "2026-11-19T16:58:43Z"
+     "title": "Meloni, la Cina usi la sua influenza per spingere Mosca alla pace",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/meloni-la-cina-usi-la-sua-influenza-per-spingere-mosca-alla-pace_b4b9f370-d4eb-424c-b512-9d921f7ebb6a.html",
+     "time": "2026-11-19T17:44:39Z"
     },
     {
-     "title": "Esordio col botto per Anthropic a Wall Street a 111,50 dollari, +34%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/esordio-col-botto-per-anthropic-a-wall-street-a-11150-dollari-34_4c8675b7-b562-48f9-94e8-e994350a4d95.html",
-     "time": "2026-11-19T16:55:04Z"
+     "title": "Meloni al summit dei Volenterosi, il formato E5 deve avere un mandato chiaro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/meloni-al-summit-dei-volenterosi-il-formato-e5-deve-avere-un-mandato-chiaro_0812d7f0-b72c-46f9-b442-80666ca7b3a6.html",
+     "time": "2026-11-19T17:43:08Z"
     },
     {
-     "title": "Borsa: l'Europa conclude in ribasso, Londra -0,9%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/borsa-leuropa-conclude-in-ribasso-londra-09_af007dfb-832c-4153-8872-f2b77f9e463c.html",
-     "time": "2026-11-19T16:42:09Z"
+     "title": "Kushner, 'Russia ha accettato di partecipare a formato multilaterale con europei",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/kushner-russia-ha-accettato-di-partecipare-a-formato-multilaterale-con-europei_a661d276-ecba-4481-8882-081c57e70d22.html",
+     "time": "2026-11-19T17:36:30Z"
     },
     {
-     "title": "Borsa: Milano chiude in calo, Ftse Mib -0,46%",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/borsa-milano-chiude-in-calo-ftse-mib-046_42836d20-fc01-4748-8809-b33878f87941.html",
-     "time": "2026-11-19T16:38:01Z"
+     "title": "Merz, 'siamo pronti a parlare con Putin ma in un luogo neutrale'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/merz-siamo-pronti-a-parlare-con-putin-ma-in-un-luogo-neutrale_1c5a25ba-f98d-4a47-a6e8-ef00e380bfcc.html",
+     "time": "2026-11-19T17:29:54Z"
     },
     {
-     "title": "Kiev, 'Putin si atteggia a leader globale, in realtà è un terrorista e criminale'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/kiev-putin-si-atteggia-a-leader-globale-in-realta-e-un-terrorista-e-criminale_a45eebd3-f486-4da8-826f-a1f199c0c496.html",
-     "time": "2026-11-19T16:29:45Z"
+     "title": "Macron, serve riaprire la questione dell'adesione dell'Ucraina alla Nato",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/macron-serve-riaprire-la-questione-delladesione-dellucraina-alla-nato_ae2d378f-18f0-4dc5-9595-bdefae25da7d.html",
+     "time": "2026-11-19T17:29:51Z"
     },
     {
-     "title": "Merz apre il vertice dei Volenterosi, Meloni al tavolo tra Macron e de Wever",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/merz-apre-il-vertice-dei-volenterosi-meloni-al-tavolo-tra-macron-e-de-wever_c4aa3be1-17c6-410b-909d-630309f00eb7.html",
-     "time": "2026-11-19T16:24:14Z"
+     "title": "Kushner, 'Trump non vuole un accordo unilaterale' per la pace in Ucraina",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/kushner-trump-non-vuole-un-accordo-unilaterale-per-la-pace-in-ucraina_e800fb3d-0683-447e-826c-2848ce8bd995.html",
+     "time": "2026-11-19T17:29:23Z"
     },
     {
-     "title": "Kiev, 'detriti di un drone russo sul ministero degli Esteri'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/kiev-detriti-di-un-drone-russo-sul-ministero-degli-esteri_5afe6164-955c-4343-82da-51829d00e6d4.html",
-     "time": "2026-11-19T16:05:22Z"
-    },
-    {
-     "title": "'Trump ha chiamato gli europei, con Putin è andata bene'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/trump-ha-chiamato-gli-europei-con-putin-e-andata-bene_21eee8d5-1c2d-474a-af48-697b65496b49.html",
-     "time": "2026-11-19T15:54:12Z"
+     "title": "Il gas in aumento (+4%) a 84 euro al Megawattora",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/il-gas-in-aumento-4-a-84-euro-al-megawattora_cf84a7ab-355b-4d69-aac0-f95c1a239c2a.html",
+     "time": "2026-11-19T17:19:44Z"
     }
    ]
   },
@@ -215,64 +210,64 @@
    "countries": [],
    "items": [
     {
-     "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T17:03:23Z"
+     "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T23:40:29Z"
+    },
+    {
+     "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T23:33:51Z"
+    },
+    {
+     "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+     "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T23:29:00Z"
+    },
+    {
+     "title": "Trump posthumously pardons US baseball legend Pete Rose",
+     "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T23:18:43Z"
+    },
+    {
+     "title": "California probing whether China improperly acquired Nvidia technology",
+     "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T23:04:30Z"
+    },
+    {
+     "title": "From premature baby to social media star - Famed hippo Fiona dies",
+     "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T22:54:03Z"
+    },
+    {
+     "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+     "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T22:48:22Z"
+    },
+    {
+     "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T21:21:43Z"
     },
     {
      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T16:55:57Z"
-    },
-    {
-     "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-     "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T16:53:29Z"
-    },
-    {
-     "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-     "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T15:52:26Z"
+     "time": "2026-11-19T20:07:02Z"
     },
     {
      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T15:23:34Z"
+     "time": "2026-11-19T17:38:22Z"
     },
     {
-     "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T13:31:23Z"
+     "title": "Rohingya genocide: What was said in court and what happens now?",
+     "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T17:35:05Z"
     },
     {
-     "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-     "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T13:07:35Z"
-    },
-    {
-     "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-     "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T12:56:30Z"
-    },
-    {
-     "title": "Florida pastor found guilty over role in assassination of Haitian president",
-     "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T11:44:57Z"
-    },
-    {
-     "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-     "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T11:43:06Z"
-    },
-    {
-     "title": "Indian driver wins $1.3m in life-changing lottery prize",
-     "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T11:38:09Z"
-    },
-    {
-     "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-     "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-19T10:32:10Z"
+     "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+     "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-19T17:23:34Z"
     }
    ]
   }
