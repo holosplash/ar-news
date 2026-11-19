@@ -1,6 +1,6 @@
 {
- "version": 202,
- "updated": "2026-11-18T17:56:44Z",
+ "version": 203,
+ "updated": "2026-11-19T00:13:16Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
-     "url": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
-     "time": "2026-11-18T17:17:56Z"
+     "title": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
+     "url": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
+     "time": "2026-11-18T23:33:32Z"
     },
     {
-     "title": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
-     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
-     "time": "2026-11-18T17:09:00Z"
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12992.html",
+     "time": "2026-11-18T22:16:34Z"
     },
     {
-     "title": "Gericht: Preiserhöhungs-Klausel von DAZN unwirksam",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/dazn-preise-urteil-100.html",
-     "time": "2026-11-18T17:04:38Z"
+     "title": "Beratungen zu KI-gestützten Waffensystemen bei UN-Konferenz in Genf",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1686202.html",
+     "time": "2026-11-18T21:44:26Z"
     },
     {
-     "title": "tagesschau in Einfacher Sprache",
-     "url": "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/tse-1520.html",
-     "time": "2026-11-18T16:37:32Z"
+     "title": "Estland plant Schließung der russisch-estnischen Grenze nach Brandanschlag auf Drohnenfabrik",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1686200.html",
+     "time": "2026-11-18T21:41:51Z"
     },
     {
-     "title": "Raumsonde Voyager 1 rund 26 Milliarden Kilometer von der Erde entfernt",
-     "url": "https://www.tagesschau.de/video/video-1685946.html",
-     "time": "2026-11-18T16:25:27Z"
+     "title": "Regierungskoalition einigt sich auf Stromsteuersenkung für mindestens ein Jahr",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1686192.html",
+     "time": "2026-11-18T21:32:06Z"
     },
     {
-     "title": "Chinas Staatschef Xi begrüßt Trump und Putin zum Apec-Gipfel in Shenzen",
-     "url": "https://www.tagesschau.de/video/video-1685944.html",
-     "time": "2026-11-18T16:23:50Z"
+     "title": "Monika Schnitzer, Vorsitzende Sachverständigenrat Wirtschaft, zur Senkung der Stromsteuer",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1686196.html",
+     "time": "2026-11-18T21:32:03Z"
     },
     {
-     "title": "Union und SPD einigen sich auf Kompromiss bei der Stromsteuer",
-     "url": "https://www.tagesschau.de/video/video-1685938.html",
-     "time": "2026-11-18T16:20:35Z"
+     "title": "Die Meinung von Kerstin Palzer, MDR, zur Senkung der Stromsteuer",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1686194.html",
+     "time": "2026-11-18T21:32:01Z"
     },
     {
-     "title": "Kommentar zur Stromsteuer-Einigung: Fahren auf Sicht - aber wer sitzt eigentlich am Steuer?",
-     "url": "https://www.tagesschau.de/kommentar/koalitionsausschuss-merz-stromsteuersenkung-100.html",
-     "time": "2026-11-18T15:47:07Z"
+     "title": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
+     "time": "2026-11-18T21:04:52Z"
     },
     {
-     "title": "Einigung über Stromsteuersenkung: Die Koalition ist in eine neue Phase eingetreten",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
-     "time": "2026-11-18T15:45:55Z"
+     "title": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
+     "url": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
+     "time": "2026-11-18T19:44:46Z"
     },
     {
-     "title": "Kabinett will bei Unterhaltszahlungen für Alleinerziehende sparen",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-unterhaltszahlung-verschaerfung-100.html",
-     "time": "2026-11-18T15:37:39Z"
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12384.html",
+     "time": "2026-11-18T19:31:48Z"
     },
     {
-     "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
-     "time": "2026-11-18T15:36:01Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82152.html",
+     "time": "2026-11-18T19:30:09Z"
     },
     {
-     "title": "Studie: Diese Themen machen Kindern und Jugendlichen Angst",
-     "url": "https://www.tagesschau.de/wissen/copsy-studie-2026-100.html",
-     "time": "2026-11-18T15:06:36Z"
+     "title": "Bayern-Trainer Kompany gegen Köln wieder dabei",
+     "url": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html",
+     "time": "2026-11-18T19:03:30Z"
     }
    ]
   },
@@ -84,6 +84,46 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "ATP Finals in Turin – Auch gegen Medwedew makellos: Alcaraz im Halbfinal",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-auch-gegen-medwedew-makellos-alcaraz-im-halbfinal",
+     "time": "2026-11-18T21:29:28Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Israelische Panzer rücken im Gazastreifen vor",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israelische-panzer-ruecken-im-gazastreifen-vor",
+     "time": "2026-11-18T21:26:17Z"
+    },
+    {
+     "title": "Hegseth in Caracas – Die USA und Venezuela wollen militärisch zusammenarbeiten",
+     "url": "https://www.srf.ch/news/international/usa/hegseth-in-caracas-die-usa-und-venezuela-wollen-militaerisch-zusammenarbeiten",
+     "time": "2026-11-18T20:45:47Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Trump und Putin planen bilaterales Treffen in China",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-trump-und-putin-planen-bilaterales-treffen-in-china",
+     "time": "2026-11-18T19:29:06Z"
+    },
+    {
+     "title": "Bilaterale Verträge mit der EU – Eine «positive Story»: Charmeoffensive aus Brüssel",
+     "url": "https://www.srf.ch/news/schweiz/bilaterale-vertraege-mit-der-eu-eine-positive-story-charmeoffensive-aus-bruessel",
+     "time": "2026-11-18T19:16:33Z"
+    },
+    {
+     "title": "Tabakprävention – Bundesrat will Präventionsabgabe auf E-Zigaretten und Snus",
+     "url": "https://www.srf.ch/news/schweiz/tabakpraevention-bundesrat-will-praeventionsabgabe-auf-e-zigaretten-und-snus",
+     "time": "2026-11-18T18:04:38Z"
+    },
+    {
+     "title": "Freizeitstress bei Kindern – Zu viel Programm? Warum Langeweile Kindern guttut",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/freizeitstress-bei-kindern-zu-viel-programm-warum-langeweile-kindern-guttut",
+     "time": "2026-11-18T17:58:10Z"
+    },
+    {
+     "title": "Staatsbesuch aus Golfstaat – Die Schweiz und Katar: Eine Partnerschaft, die Fragen aufwirft",
+     "url": "https://www.srf.ch/news/schweiz/staatsbesuch-aus-golfstaat-die-schweiz-und-katar-eine-partnerschaft-die-fragen-aufwirft",
+     "time": "2026-11-18T17:55:49Z"
+    },
     {
      "title": "Klimakonferenz in Antalya – Nepal und Tuvalu fordern Taten statt Worte von reichen Ländern",
      "url": "https://www.srf.ch/wissen/klimawandel/klimakonferenz-in-antalya-nepal-und-tuvalu-fordern-taten-statt-worte-von-reichen-laendern",
@@ -103,46 +143,6 @@
      "title": "Börsengang der KI-Firma – Die Köpfe hinter Anthropic: Wer sind die Geschwister Amodei?",
      "url": "https://www.srf.ch/news/wirtschaft/boersengang-der-ki-firma-die-koepfe-hinter-anthropic-wer-sind-die-geschwister-amodei",
      "time": "2026-11-18T16:57:00Z"
-    },
-    {
-     "title": "Kulturnews in Kurzform – Cambridge Dictionary kürt «human» zum Wort des Jahres",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-cambridge-dictionary-kuert-human-zum-wort-des-jahres",
-     "time": "2026-11-18T16:48:33Z"
-    },
-    {
-     "title": "Verzicht auch auf WM & X-Games – Ragettli wird diese Saison keine «grossen» Wettkämpfe bestreiten",
-     "url": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/verzicht-auch-auf-wm-x-games-ragettli-wird-diese-saison-keine-grossen-wettkaempfe-bestreiten",
-     "time": "2026-11-18T16:47:09Z"
-    },
-    {
-     "title": "Gesundheit im Café Med Ticino – Pensionierte Ärzte helfen, wenn Behandlungen Fragen aufwerfen",
-     "url": "https://www.srf.ch/news/gesellschaft/gesundheit-im-cafe-med-ticino-pensionierte-aerzte-helfen-wenn-behandlungen-fragen-aufwerfen",
-     "time": "2026-11-18T16:35:03Z"
-    },
-    {
-     "title": "BLS in der Kritik – Fast 185’000 Franken für Ex-Chef: BLS verschleierte Boni",
-     "url": "https://www.srf.ch/news/schweiz/bls-in-der-kritik-fast-185-000-franken-fuer-ex-chef-bls-verschleierte-boni",
-     "time": "2026-11-18T16:07:23Z"
-    },
-    {
-     "title": "Apec-Gipfel – Umarmung und Bankett – Xi, Trump und Putin in Shenzhen",
-     "url": "https://www.srf.ch/news/international/apec-gipfel-umarmung-und-bankett-xi-trump-und-putin-in-shenzhen",
-     "time": "2026-11-18T15:42:51Z"
-    },
-    {
-     "title": "Tosendes Novemberwetter – Keine stabile Hochdruckphase bis Ende November in Sicht",
-     "url": "https://www.srf.ch/news/schweiz/tosendes-novemberwetter-keine-stabile-hochdruckphase-bis-ende-november-in-sicht",
-     "time": "2026-11-18T15:36:57Z"
-    },
-    {
-     "title": "Universitätsspital Zürich – USZ zahlte im Fall Maisano Entschädigungen in sechsstelliger Höhe",
-     "url": "https://www.srf.ch/news/schweiz/universitaetsspital-zuerich-usz-zahlte-im-fall-maisano-entschaedigungen-in-sechsstelliger-hoehe",
-     "time": "2026-11-18T15:34:18Z"
-    },
-    {
-     "title": "Gegen Ständeratsentscheid – EU-Paket: Nationalratskommission gegen Ständemehr",
-     "url": "https://www.srf.ch/news/schweiz/gegen-staenderatsentscheid-eu-paket-nationalratskommission-gegen-staendemehr",
-     "time": "2026-11-18T15:11:36Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Gusmeroli, emendamento Lega per aumentare di 3 punti l'Ires alle banche",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/gusmeroli-emendamento-lega-per-aumentare-di-3-punti-lires-alle-banche_e9fe1e24-d1d1-4c53-b5c2-b74d08c7e3ee.html",
-     "time": "2026-11-18T17:49:45Z"
+     "title": "Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_d556dfb7-250a-4ecd-be20-9efa0ac72686.html",
+     "time": "2026-11-18T23:55:38Z"
     },
     {
-     "title": "Garavaglia sulla Lega, sfiducia a Romeo ignobile e politicamente stupida",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/garavaglia-sulla-lega-sfiducia-a-romeo-ignobile-e-politicamente-stupida_26af28a8-07dd-4741-a691-cc3933b68f58.html",
-     "time": "2026-11-18T17:48:29Z"
+     "title": "Mosca, 'nuovo attacco degli ucraini al ponte in Crimea'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/mosca-nuovo-attacco-degli-ucraini-al-ponte-in-crimea_6a68ba5c-4d7e-4e9d-81df-3d5f75cb60f3.html",
+     "time": "2026-11-18T22:57:43Z"
     },
     {
-     "title": "Il Cdm avvia iter nomina di Remo Morzenti Pellegrini presidente Anac",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/il-cdm-avvia-iter-nomina-di-remo-morzenti-pellegrini-presidente-anac_72862ca5-0ffd-4b05-a1e9-2565028ae543.html",
-     "time": "2026-11-18T17:44:47Z"
+     "title": "Atp Finals: Cobolli in lacrime 'è la partita che mi rende più triste della carriera'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/atp-finals-cobolli-in-lacrime-e-la-partita-che-mi-rende-piu-triste-della_ee482a18-8a54-46fc-ac79-6f8076be2d16.html",
+     "time": "2026-11-18T22:40:32Z"
     },
     {
-     "title": "Schlein, un maxicondono vergognoso di un governo disperato",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/schlein-un-maxicondono-vergognoso-di-un-governo-disperato_bed5ed87-0e12-46b4-9ff3-51aa61224bea.html",
-     "time": "2026-11-18T17:44:29Z"
+     "title": "Principe Harry, 'Russia minaccia preoccupante, pronto a tornare nelle Forze Armate'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/principe-harry-russia-minaccia-preoccupante-pronto-a-tornare-nelle-forze-armate_b0df02ee-d6f5-4a95-b60f-fa6d8604bc9d.html",
+     "time": "2026-11-18T22:18:11Z"
     },
     {
-     "title": "Meloni ha ricevuto de Cos, il candidato spagnolo alla presidenza Bce",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/meloni-ha-ricevuto-de-cos-il-candidato-spagnolo-alla-presidenza-bce_d50ef477-f0b3-45f7-bfdb-20ed7e00c2f0.html",
-     "time": "2026-11-18T17:44:01Z"
+     "title": "Quasi tutti all'interno della Fed favorevoli a un rialzo dei tassi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/quasi-tutti-allinterno-della-fed-favorevoli-a-un-rialzo-dei-tassi_345a5e9c-7b93-45f3-b946-62f6982e4ff7.html",
+     "time": "2026-11-18T19:09:41Z"
     },
     {
-     "title": "Emendamento su libri digitali accantonato in commissione, lavori sospesi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/emendamento-su-libri-digitali-accantonato-in-commissione-lavori-sospesi_734203aa-7bcd-48ec-a466-2ea144c1b064.html",
-     "time": "2026-11-18T17:43:20Z"
+     "title": "Manovra: FI, per pmi spalmatura dei crediti del Superbonus dimezzata su 5 anni",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/manovra-fi-per-pmi-spalmatura-dei-crediti-del-superbonus-dimezzata-su-5-anni_3f7582a6-0c5c-43d3-a636-dde824f714c5.html",
+     "time": "2026-11-18T18:58:18Z"
     },
     {
-     "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_60c84099-f30a-4a07-8e81-6de47cb5020f.html",
-     "time": "2026-11-18T17:32:24Z"
+     "title": "Channel 12, 'Israele valuta attacco all'Iran nei prossimi giorni'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/channel-12-israele-valuta-attacco-alliran-nei-prossimi-giorni_74b4bb9d-6213-4322-b1a0-e94a6a3562df.html",
+     "time": "2026-11-18T18:27:16Z"
     },
     {
-     "title": "Il gas scende scende ancora e si avvicina a 81 euro sulla piazza Ttf di Amsterdam",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/il-gas-scende-scende-ancora-e-si-avvicina-a-81-euro-sulla-piazza-ttf-di-amsterdam_1d509c27-c007-40af-9c6e-72b5c413b5e5.html",
-     "time": "2026-11-18T17:12:23Z"
+     "title": "Cpi, 'Almasri in Libia è libero, non affronta la giustizia'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/cpi-almasri-in-libia-e-libero-non-affronta-la-giustizia_6b251fd5-9262-414c-a7f2-4b14cc226614.html",
+     "time": "2026-11-18T18:16:46Z"
     },
     {
-     "title": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 105,8 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-1058-punti_0a2f64eb-fe60-4c56-8c1a-60ac1f8adfed.html",
-     "time": "2026-11-18T17:06:47Z"
+     "title": "Arriva pensione dedicata per forze dell'ordine, calcolo con fino a 4 anni in più",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/arriva-pensione-dedicata-per-forze-dellordine-calcolo-con-fino-a-4-anni_9ae5274d-cb8b-4e53-854d-3a29eadea5d3.html",
+     "time": "2026-11-18T17:58:54Z"
     },
     {
-     "title": "Borsa: Milano chiude a -1,32%, pesano Leonardo, Tenaris e Bper",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/borsa-milano-chiude-a-132-pesano-leonardo-tenaris-e-bper_12e9f9d2-881e-4cac-927e-e05c3ba127ce.html",
-     "time": "2026-11-18T17:04:43Z"
+     "title": "Da FdI 7 emendamenti sul condono,anche per piccole opere finite entro settembre 2025",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/da-fdi-7-emendamenti-sul-condonoanche-per-piccole-opere-finite-entro-settembre_e47f1f9d-022e-4f2f-a490-c4a745505e03.html",
+     "time": "2026-11-18T17:55:30Z"
     }
    ]
   },
@@ -215,19 +215,54 @@
    "countries": [],
    "items": [
     {
-     "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-     "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T17:51:47Z"
+     "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T23:44:27Z"
     },
     {
-     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-     "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T17:34:25Z"
+     "title": "The seven Anthropic founders who are about to become multi-billionaires",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T23:42:07Z"
+    },
+    {
+     "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T23:28:03Z"
+    },
+    {
+     "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+     "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T23:04:06Z"
+    },
+    {
+     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T22:34:56Z"
+    },
+    {
+     "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+     "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T22:32:47Z"
+    },
+    {
+     "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+     "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T21:28:08Z"
     },
     {
      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T17:34:23Z"
+     "time": "2026-11-18T21:13:06Z"
+    },
+    {
+     "title": "William and Kate meet PM Modi as they wrap up India tour",
+     "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T20:07:08Z"
+    },
+    {
+     "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+     "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-18T17:09:43Z"
     },
     {
      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
@@ -238,41 +273,6 @@
      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-18T17:00:04Z"
-    },
-    {
-     "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-     "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T16:33:16Z"
-    },
-    {
-     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-     "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T16:10:44Z"
-    },
-    {
-     "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
-     "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T16:05:26Z"
-    },
-    {
-     "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-     "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T15:39:57Z"
-    },
-    {
-     "title": "The seven Anthropic founders who are about to become multi-billionaires",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T13:55:14Z"
-    },
-    {
-     "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-     "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T13:04:48Z"
-    },
-    {
-     "title": "Who to watch in Spain's election race",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-18T11:44:25Z"
     }
    ]
   }
