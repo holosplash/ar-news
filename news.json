@@ -1,6 +1,6 @@
 {
- "version": 209,
- "updated": "2026-11-20T22:36:41Z",
+ "version": 210,
+ "updated": "2026-11-21T03:26:49Z",
  "fallback": "en",
  "regions": [
   {
@@ -14,6 +14,21 @@
     "LU"
    ],
    "items": [
+    {
+     "title": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
+     "time": "2026-11-21T02:39:59Z"
+    },
+    {
+     "title": "Jugendliche erneut zu Tausenden auf den Straßen",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+     "time": "2026-11-21T02:38:36Z"
+    },
+    {
+     "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
+     "url": "https://www.sportschau.de/fussball/bundesliga/harry-kane-erleidet-syndesmoseriss,kane-verletzung-100.html",
+     "time": "2026-11-20T22:24:47Z"
+    },
     {
      "title": "Bei Remis gegen Köln: Kane und Olise verletzt ausgewechselt",
      "url": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
@@ -58,21 +73,6 @@
      "title": "Britischer Premier Burnham in Brüssel - der Versuch einer EU-Annäherung",
      "url": "https://www.tagesschau.de/tagesthemen/video-1687350.html",
      "time": "2026-11-20T21:02:02Z"
-    },
-    {
-     "title": "Zweiter bundesweiter Protesttag - Schülerdemos kämpfen um Aufmerksamkeit",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1687342.html",
-     "time": "2026-11-20T20:53:12Z"
-    },
-    {
-     "title": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
-     "url": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
-     "time": "2026-11-20T20:25:44Z"
-    },
-    {
-     "title": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
-     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
-     "time": "2026-11-20T19:58:08Z"
     }
    ]
   },
@@ -84,6 +84,16 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "National League am Freitag – Bern und Langnau mit Heimsiegen – Zug im Torrausch",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-bern-und-langnau-mit-heimsiegen-zug-im-torrausch",
+     "time": "2026-11-20T22:45:47Z"
+    },
+    {
+     "title": "Europaweite Demonstrationen – Von Prag bis London: Die Jugend geht auf die Strasse",
+     "url": "https://www.srf.ch/news/international/europaweite-demonstrationen-von-prag-bis-london-die-jugend-geht-auf-die-strasse",
+     "time": "2026-11-20T22:44:52Z"
+    },
     {
      "title": "«Arena» zu Klima – Bundesrat Rösti: «Ich würde dieser Konferenz die Note 4,5 geben»",
      "url": "https://www.srf.ch/news/schweiz/arena-zu-klima-bundesrat-roesti-ich-wuerde-dieser-konferenz-die-note-4-5-geben",
@@ -120,11 +130,6 @@
      "time": "2026-11-20T21:35:29Z"
     },
     {
-     "title": "National League am Freitag – Bern und Langnau mit Heimsiegen – Zug im Torrausch",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-bern-und-langnau-mit-heimsiegen-zug-im-torrausch",
-     "time": "2026-11-20T21:15:40Z"
-    },
-    {
      "title": "– Graber und Aeschi auf SVP-Ticket gewählt – Ticker zum Nachlesen",
      "url": "https://www.srf.ch/news/schweiz/nachfolger-von-guy-parmelin-graber-und-aeschi-auf-svp-ticket-gewaehlt-ticker-zum-nachlesen",
      "time": "2026-11-20T21:04:04Z"
@@ -138,11 +143,6 @@
      "title": "EU-Deal mit Grossbritannien – Ein kleiner Schritt für Brüssel, ein grosser für London",
      "url": "https://www.srf.ch/news/international/eu-deal-mit-grossbritannien-ein-kleiner-schritt-fuer-bruessel-ein-grosser-fuer-london",
      "time": "2026-11-20T20:23:14Z"
-    },
-    {
-     "title": "COP31 – Albert Röstis Versprechen an der Klimakonferenz",
-     "url": "https://www.srf.ch/news/schweiz/cop31-albert-roestis-versprechen-an-der-klimakonferenz",
-     "time": "2026-11-20T20:01:55Z"
     }
    ]
   },
@@ -156,6 +156,31 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Cnn, 'nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_9eb51b6b-4217-46c4-bed4-11e35d613963.html",
+     "time": "2026-11-21T02:55:40Z"
+    },
+    {
+     "title": "F1: in prove libere Las Vegas miglior tempo per Russell, poi Antonelli",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/f1-in-prove-libere-las-vegas-miglior-tempo-per-russell-poi-antonelli_8430fe4c-9d64-4e2c-9cae-00e9fed97f1c.html",
+     "time": "2026-11-21T02:11:24Z"
+    },
+    {
+     "title": "Terremoto di magnitudo 6.7 colpisce il centro del Perù, gente in strada a Lima",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/terremoto-di-magnitudo-6.7-colpisce-il-centro-del-peru-gente-in-strada-a-lima_8d76c1b6-b034-4a65-b70c-ccc6f252af0c.html",
+     "time": "2026-11-21T00:57:41Z"
+    },
+    {
+     "title": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_ee4a5a94-1f99-4407-a8dd-14bd6adbdcec.html",
+     "time": "2026-11-20T22:35:27Z"
+    },
+    {
+     "title": "Gli Usa annunciano nuove sanzioni contro l'Iran, colpiti '4 fiduciari del petrolio'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/gli-usa-annunciano-nuove-sanzioni-contro-liran-colpiti-4-fiduciari-del_d18e2414-8888-4bb9-8434-b2e353a2f64b.html",
+     "time": "2026-11-20T22:30:40Z"
+    },
     {
      "title": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2603c36d-1094-48af-b17a-590d5705aa0b.html",
@@ -180,31 +205,6 @@
      "title": "Trump, 'io e Xi abbiamo concordato di mettere dei paletti comuni sull'Ia'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/trump-io-e-xi-abbiamo-concordato-di-mettere-dei-paletti-comuni-sullia_98b15f3c-b56e-4e57-893f-3f88ebc1c654.html",
      "time": "2026-11-20T17:45:34Z"
-    },
-    {
-     "title": "La Danimarca vuole sospendere il rilascio di visti Schengen ai russi",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/la-danimarca-vuole-sospendere-il-rilascio-di-visti-schengen-ai-russi_c8188152-d43f-420e-a556-3b0efbb8654c.html",
-     "time": "2026-11-20T17:30:54Z"
-    },
-    {
-     "title": "Melania Trump, intorno a Donald troppi 'yes people'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/melania-trump-intorno-a-donald-troppi-yes-people_5af66d8d-8c0d-4a95-a745-1644fd1b6eef.html",
-     "time": "2026-11-20T17:25:49Z"
-    },
-    {
-     "title": "Il gas sale ancora e supera gli 88 euro sulla piazza Ttf di Amsterdam",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/il-gas-sale-ancora-e-supera-gli-88-euro-sulla-piazza-ttf-di-amsterdam_93821648-fb27-4dbe-91b8-07f15bb95d79.html",
-     "time": "2026-11-20T17:12:32Z"
-    },
-    {
-     "title": "Lo spread tra Btp e Bund tedeschi chiude in rialzo a 109,9 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-1099-punti_8b048704-a65d-4994-8ffe-8b5db6185c3a.html",
-     "time": "2026-11-20T17:05:06Z"
-    },
-    {
-     "title": "Borsa: Milano chiude in forte ribasso, pesano Stm e Technoprobe",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/20/borsa-milano-chiude-in-forte-ribasso-pesano-stm-e-technoprobe_52b7f2d5-e5a5-4db8-8b1d-99cb42312881.html",
-     "time": "2026-11-20T17:00:21Z"
     }
    ]
   },
@@ -215,6 +215,56 @@
    "countries": [],
    "items": [
     {
+     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-21T02:09:46Z"
+    },
+    {
+     "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+     "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-21T01:02:39Z"
+    },
+    {
+     "title": "ANC fights to keep control of South Africa's key cities after election setback",
+     "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-21T00:34:51Z"
+    },
+    {
+     "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+     "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-21T00:01:39Z"
+    },
+    {
+     "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+     "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-20T23:28:17Z"
+    },
+    {
+     "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+     "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-20T23:20:33Z"
+    },
+    {
+     "title": "US declassifies more UFO footage filmed in the Middle East",
+     "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-20T23:15:20Z"
+    },
+    {
+     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+     "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-20T23:08:57Z"
+    },
+    {
+     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-20T22:42:47Z"
+    },
+    {
+     "title": "French police officers sentenced for beating of music producer Michel Zecler",
+     "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-20T22:37:09Z"
+    },
+    {
      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-20T22:14:17Z"
@@ -223,56 +273,6 @@
      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-20T21:57:07Z"
-    },
-    {
-     "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-     "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T21:43:22Z"
-    },
-    {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T20:54:12Z"
-    },
-    {
-     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T20:00:53Z"
-    },
-    {
-     "title": "Gérard Depardieu and French author investigated over sexual allegations",
-     "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T19:45:20Z"
-    },
-    {
-     "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-     "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T19:27:49Z"
-    },
-    {
-     "title": "White House removes cyber-security chief after series of tech outages",
-     "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T19:03:56Z"
-    },
-    {
-     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-     "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T17:49:48Z"
-    },
-    {
-     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T16:54:29Z"
-    },
-    {
-     "title": "Cost of living protests sweep across Europe",
-     "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T16:45:34Z"
-    },
-    {
-     "title": "Nearly 600 women killed in South Africa within three months",
-     "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T15:55:16Z"
     }
    ]
   }
