@@ -1,6 +1,6 @@
 {
- "version": 211,
- "updated": "2026-11-21T11:40:03Z",
+ "version": 212,
+ "updated": "2026-11-21T19:04:21Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Bagger in München, Winter in China, Eisschnelllauf in Südkorea",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10580.html",
-     "time": "2026-11-21T11:23:37Z"
+     "title": "BVB holt sich mit 1:0-Sieg in Mönchengladbach die Tabellenführung",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
+     "time": "2026-11-21T18:00:00Z"
     },
     {
-     "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
-     "url": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
-     "time": "2026-11-21T11:22:23Z"
+     "title": "Bayer Leverkusen schießt Paderborn ab",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
+     "time": "2026-11-21T17:59:00Z"
     },
     {
-     "title": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
-     "url": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html",
-     "time": "2026-11-21T11:19:36Z"
+     "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+     "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+     "time": "2026-11-21T17:43:51Z"
     },
     {
-     "title": "Benjamin Weber, ARD Istanbul, zzt. Antalya, zum aktuellen Stand des Weltklimagipfels",
-     "url": "https://www.tagesschau.de/video/video-1687516.html",
-     "time": "2026-11-21T11:08:53Z"
+     "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+     "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+     "time": "2026-11-21T17:32:19Z"
     },
     {
-     "title": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
-     "time": "2026-11-21T10:20:52Z"
+     "title": "Dominic Hebestreit, ARD Istanbul, zzt. in Antalya, erklärt, warum es noch keine Abschlusserklärung beim Weltklimagipfel gibt",
+     "url": "https://www.tagesschau.de/video/video-1687608.html",
+     "time": "2026-11-21T16:45:16Z"
     },
     {
-     "title": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
-     "time": "2026-11-21T10:16:17Z"
+     "title": "Scheitert die UN-Klimakonferenz in Antalya?",
+     "url": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
+     "time": "2026-11-21T16:29:15Z"
     },
     {
-     "title": "Erdbeben erschüttert Perus Andenregion",
-     "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
-     "time": "2026-11-21T09:51:28Z"
+     "title": "Leipzigs Offensive rollt auch bei Union Berlin",
+     "url": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
+     "time": "2026-11-21T16:29:09Z"
     },
     {
-     "title": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
-     "time": "2026-11-21T09:39:17Z"
+     "title": "Länder und Kommunen müssen sich auf mehr Extremwetterlagen einstellen",
+     "url": "https://www.tagesschau.de/video/video-1687600.html",
+     "time": "2026-11-21T16:18:02Z"
     },
     {
-     "title": "Auch Rummenigge zweifelt an Musiala-Rückkehr auf Topniveau",
+     "title": "Zahl der Schweinebauern in Deutschland sinkt seit Jahren",
+     "url": "https://www.tagesschau.de/video/video-1687602.html",
+     "time": "2026-11-21T16:16:40Z"
+    },
+    {
+     "title": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+     "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+     "time": "2026-11-21T15:55:59Z"
+    },
+    {
+     "title": "Auch Rummenigge zweifelt an Musiala - und erntet Kritik von FIFPRO",
      "url": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
-     "time": "2026-11-21T08:57:11Z"
+     "time": "2026-11-21T15:45:03Z"
     },
     {
-     "title": "Gemischte Bilanz nach einem Jahr Social-Media-Verbot für Jugendliche in Australien",
-     "url": "https://www.tagesschau.de/video/video-1687456.html",
-     "time": "2026-11-21T08:37:40Z"
-    },
-    {
-     "title": "Welttag des Fernsehens",
-     "url": "https://www.tagesschau.de/video/video-1687458.html",
-     "time": "2026-11-21T08:32:46Z"
-    },
-    {
-     "title": "Südafrikas vermeidbare Wasserkrise",
-     "url": "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
-     "time": "2026-11-21T08:27:21Z"
+     "title": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
+     "url": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
+     "time": "2026-11-21T15:36:57Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Die etwas anderen News – Big Tech ganz klein: Von Honigfallen und Softwarepannen",
-     "url": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-big-tech-ganz-klein-von-honigfallen-und-softwarepannen",
-     "time": "2026-11-21T10:59:07Z"
+     "title": "Südafrikas CO₂‑Bauern – Der Speckbaum als Hoffnungsträger für Natur und Klima",
+     "url": "https://www.srf.ch/news/international/suedafrikas-co2-bauern-der-speckbaum-als-hoffnungstraeger-fuer-natur-und-klima",
+     "time": "2026-11-21T18:52:59Z"
     },
     {
-     "title": "Newsquiz der Woche – Wer wird der neue James Bond?",
-     "url": "https://www.srf.ch/news/gesellschaft/newsquiz-der-woche-wer-wird-der-neue-james-bond",
-     "time": "2026-11-21T10:55:58Z"
+     "title": "Demonstration in Bern – Medienschaffende protestieren für Journalismus und Demokratie",
+     "url": "https://www.srf.ch/news/schweiz/demonstration-in-bern-medienschaffende-protestieren-fuer-journalismus-und-demokratie",
+     "time": "2026-11-21T18:50:52Z"
     },
     {
-     "title": "Salzskandal um Maldon – Britischer Salzhersteller in der Kritik: Was ist passiert?",
-     "url": "https://www.srf.ch/radio-srf-1/kochen/salzskandal-um-maldon-britischer-salzhersteller-in-der-kritik-was-ist-passiert",
-     "time": "2026-11-21T10:46:49Z"
+     "title": "Kampf gegen Banden – «Die Lage in Haiti wurde wegen Bukele noch komplizierter»",
+     "url": "https://www.srf.ch/news/international/kampf-gegen-banden-die-lage-in-haiti-wurde-wegen-bukele-noch-komplizierter",
+     "time": "2026-11-21T18:30:49Z"
     },
     {
-     "title": "Tabakfabrik in Dagmersellen – Wo 32 Millionen Zigaretten am Tag vom Band rollen",
-     "url": "https://www.srf.ch/news/wirtschaft/tabakfabrik-in-dagmersellen-wo-32-millionen-zigaretten-am-tag-vom-band-rollen",
-     "time": "2026-11-21T10:44:40Z"
+     "title": "Weltcup-Auftakt im Skispringen – Imhof bei österreichischen Festspielen in den Top 10",
+     "url": "https://www.srf.ch/sport/mehr-sport/skispringen/weltcup-auftakt-im-skispringen-imhof-bei-oesterreichischen-festspielen-in-den-top-10",
+     "time": "2026-11-21T18:14:17Z"
     },
     {
-     "title": "Kritik an SVP-Bundesratsticket – Wahl von Aeschi und Graber sorgt parteiübergreifend für Unmut",
-     "url": "https://www.srf.ch/news/schweiz/kritik-an-svp-bundesratsticket-wahl-von-aeschi-und-graber-sorgt-parteiuebergreifend-fuer-unmut",
-     "time": "2026-11-21T10:36:50Z"
+     "title": "Weihnachten im Tessin – Wie sind Weihnachtsmärkte unter Palmen?",
+     "url": "https://www.srf.ch/news/gesellschaft/weihnachten-im-tessin-wie-sind-weihnachtsmaerkte-unter-palmen",
+     "time": "2026-11-21T17:17:46Z"
     },
     {
-     "title": "Ihre Anfragen im Faktencheck – Der russische Atomkoffer am APEC-Gipfel – das steckt dahinter",
-     "url": "https://www.srf.ch/news/srf-faktenchecks/ihre-anfragen-im-faktencheck-der-russische-atomkoffer-am-apec-gipfel-das-steckt-dahinter",
-     "time": "2026-11-21T09:14:41Z"
+     "title": "Bundesliga am Samstag – Union geht trotz Aebischer-Tor unter – Dortmund neuer Leader",
+     "url": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-am-samstag-union-geht-trotz-aebischer-tor-unter-dortmund-neuer-leader",
+     "time": "2026-11-21T16:47:52Z"
     },
     {
-     "title": "Berufsmesse Zürich – «In der Pflege würde man nie die KI fragen»",
-     "url": "https://www.srf.ch/news/schweiz/berufsmesse-zuerich-in-der-pflege-wuerde-man-nie-die-ki-fragen",
-     "time": "2026-11-21T08:41:34Z"
+     "title": "Das System Katar – Ein Land voller Gäste auf Zeit",
+     "url": "https://www.srf.ch/news/international/nahost/das-system-katar-ein-land-voller-gaeste-auf-zeit",
+     "time": "2026-11-21T16:13:57Z"
     },
     {
-     "title": "Tochterrolle damals und heute – Welche Tochter solltest du sein, welche bist du geworden?",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/tochterrolle-damals-und-heute-welche-tochter-solltest-du-sein-welche-bist-du-geworden",
-     "time": "2026-11-21T08:30:16Z"
+     "title": "Schloss Wildenstein – Bei der Baselbieter Hügelburg drohen die Läden runterzugehen",
+     "url": "https://www.srf.ch/news/schweiz/schloss-wildenstein-bei-der-baselbieter-huegelburg-drohen-die-laeden-runterzugehen",
+     "time": "2026-11-21T15:54:35Z"
     },
     {
-     "title": "Ausstellung über Pino Rauti – Wie viel Faschismus darf man in Italiens Parlament zeigen?",
-     "url": "https://www.srf.ch/news/international/ausstellung-ueber-pino-rauti-wie-viel-faschismus-darf-man-in-italiens-parlament-zeigen",
-     "time": "2026-11-21T08:00:05Z"
+     "title": "ATP Finals: Halbfinals – Für einmal kein Schaulaufen: Alcaraz kämpft sich in den Final",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-halbfinals-fuer-einmal-kein-schaulaufen-alcaraz-kaempft-sich-in-den-final",
+     "time": "2026-11-21T15:52:50Z"
     },
     {
-     "title": "UNO-Konferenz in Genf – Regeln für Killerroboter: Gespräche enden mit Minimalkonsens",
-     "url": "https://www.srf.ch/news/international/uno-konferenz-in-genf-regeln-fuer-killerroboter-gespraeche-enden-mit-minimalkonsens",
-     "time": "2026-11-21T07:42:43Z"
+     "title": "«Weltgeschichte der Schweiz» – Warum die Schweiz doch keine Insel ist",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/weltgeschichte-der-schweiz-warum-die-schweiz-doch-keine-insel-ist",
+     "time": "2026-11-21T15:31:17Z"
     },
     {
-     "title": "Seit rund 100 Tagen im Amt – Thun-Sportchef Rapp: «Plötzlich brannte das Telefon jeden Tag»",
-     "url": "https://www.srf.ch/sport/fussball/super-league/seit-rund-100-tagen-im-amt-thun-sportchef-rapp-ploetzlich-brannte-das-telefon-jeden-tag",
-     "time": "2026-11-21T07:30:15Z"
+     "title": "Killerroboter – Die Technologie ist schneller als die Diplomatie",
+     "url": "https://www.srf.ch/news/international/killerroboter-die-technologie-ist-schneller-als-die-diplomatie",
+     "time": "2026-11-21T15:25:35Z"
     },
     {
-     "title": "Neuer Zuger Rekordtorschütze – Martschini: «Das wird mir für immer im Herzen bleiben»",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/neuer-zuger-rekordtorschuetze-martschini-das-wird-mir-fuer-immer-im-herzen-bleiben",
-     "time": "2026-11-21T07:18:36Z"
+     "title": "MotoGP in Portugal – Drama in Portimao: Marquez stürzt auf dem Weg zum Titel",
+     "url": "https://www.srf.ch/sport/motorsport/motorrad/motogp-in-portugal-drama-in-portimao-marquez-stuerzt-auf-dem-weg-zum-titel",
+     "time": "2026-11-21T15:11:31Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/tajani-sconvolto-da-morte-de-gennaro-vittima-di-un-processo-fuori-dal-tribunale_83df300f-c10d-4731-94e9-f863ea8007b1.html",
-     "time": "2026-11-21T11:06:59Z"
+     "title": "L'ex presidente del Brasile Jair Bolsonaro ricoverato in terapia intensiva",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/lex-presidente-del-brasile-jair-bolsonaro-ricoverato-in-terapia-intensiva_57205f4c-3098-4281-8612-9a5e4133f600.html",
+     "time": "2026-11-21T18:54:25Z"
     },
     {
-     "title": "Meloni, profondamente scioccata dalla tragica scomparsa di De Gennaro",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/meloni-profondamente-scioccata-dalla-tragica-scomparsa-di-de-gennaro_3bf25eec-24d3-4bc2-8ad9-cdcef0978c06.html",
-     "time": "2026-11-21T11:01:39Z"
+     "title": "Trump, 'Vance e Rubio fantastici ma per il 2028 potrebbero esserci sorprese'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/trump-vance-e-rubio-fantastici-ma-per-il-2028-potrebbero-esserci-sorprese_fe15ec2d-fe07-4121-973b-e9e96eb1831f.html",
+     "time": "2026-11-21T18:49:54Z"
     },
     {
-     "title": "Mosca, 'nave cargo attaccata nelle acque internazionali del Golfo di Finlandia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/mosca-nave-cargo-attaccata-nelle-acque-internazionali-del-golfo-di-finlandia_bcd9a850-81fc-43ce-850e-4d5a4a866c26.html",
-     "time": "2026-11-21T10:51:02Z"
+     "title": "Oltre 82.000 ai cortei in Francia, tensioni a Parigi e fermi a Lione e Bordeaux",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/oltre-82.000-ai-cortei-in-francia-tensioni-a-parigi-e-fermi-a-lione-e-bordeaux_09819e1d-8c34-4383-bbd7-b53c92bba7be.html",
+     "time": "2026-11-21T18:33:11Z"
     },
     {
-     "title": "L'ex capo della Polizia De Gennaro si è ucciso con un colpo di pistola",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-con-un-colpo-di-pistola_04a26e98-642b-427a-bd51-577e0a7d7ad3.html",
-     "time": "2026-11-21T10:32:19Z"
+     "title": "Gatto a spasso in cabina, volo della Delta bloccato a Boston",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/gatto-a-spasso-in-cabina-volo-della-delta-bloccato-a-boston_46901c91-9690-43a2-a37d-3715df70a45e.html",
+     "time": "2026-11-21T17:48:05Z"
     },
     {
-     "title": "Mantovano, sconvolto per De Gennaro, era un servitore dello Stato",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/mantovano-sconvolto-per-de-gennaro-era-un-servitore-dello-stato_3b272163-b9f4-47ab-b0a7-999aae3e8ca4.html",
-     "time": "2026-11-21T09:53:54Z"
+     "title": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_6a176c2c-a468-4b63-9dad-6b03d4ae2408.html",
+     "time": "2026-11-21T16:46:13Z"
     },
     {
-     "title": "Morta la stilista Raffaella Curiel",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/morta-la-stilista-raffaella-curiel_e89128b5-11eb-4019-8641-3e844d5ef397.html",
-     "time": "2026-11-21T09:46:38Z"
+     "title": "FdI riscrive la flat tax 1% per giovani, arriva la detassazione al 50% per neoassunti",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/fdi-riscrive-la-flat-tax-1-per-giovani-arriva-la-detassazione-al-50-per-neoassunti_c01a19b3-6a72-4489-8ad8-604a62b4c23d.html",
+     "time": "2026-11-21T16:27:19Z"
     },
     {
-     "title": "Schettino lascia il carcere dopo 9 anni, va ai servizi sociali",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/schettino-lascia-il-carcere-dopo-9-anni-va-ai-servizi-sociali_c451f874-c17c-4cca-b5eb-921c03cf4d61.html",
-     "time": "2026-11-21T08:24:53Z"
+     "title": "La Russa su De Gennaro, 'a volte il suicidio è anche coraggio'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/la-russa-su-de-gennaro-a-volte-il-suicidio-e-anche-coraggio_eb62f061-3ecb-4fca-838f-9cf13055a087.html",
+     "time": "2026-11-21T16:26:12Z"
     },
     {
-     "title": "Media, 'arrestato in Messico capo cartello narco Meza-Flores'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/media-arrestato-in-messico-capo-cartello-narco-meza-flores_e63b98b5-07e9-478b-a649-17afeaf1ba23.html",
-     "time": "2026-11-21T08:08:39Z"
+     "title": "Schettino, fine pena anticipato a luglio 2030 per buona condotta",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/schettino-fine-pena-anticipato-a-luglio-2030-per-buona-condotta_41e62fb7-6073-458f-80af-15cb638909bc.html",
+     "time": "2026-11-21T15:36:23Z"
     },
     {
-     "title": "F1: Verstappen in pole a Las Vegas, Antonelli il più veloce ma parte 6°'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/f1-verstappen-in-pole-a-las-vegas-antonelli-il-piu-veloce-ma-parte-6_71f6d319-4547-44cf-b9d2-7a1d77566995.html",
-     "time": "2026-11-21T05:32:18Z"
+     "title": "Trump, 'attacco all'Fbi? Non è una cosa buona'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/trump-attacco-allfbi-non-e-una-cosa-buona_5e532ac0-4aa4-42fd-a14b-d098564b4f65.html",
+     "time": "2026-11-21T15:30:26Z"
     },
     {
-     "title": "Cnn, 'nuovo attacco hacker all'Fbi, violato l'archivio criminale'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_9eb51b6b-4217-46c4-bed4-11e35d613963.html",
-     "time": "2026-11-21T02:55:40Z"
+     "title": "La telefonata di cordoglio di Mattarella al fratello di De Gennaro",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/la-telefonata-di-cordoglio-di-mattarella-al-fratello-di-de-gennaro_488d2146-df7b-4607-9c7f-9d12ad02f407.html",
+     "time": "2026-11-21T15:01:52Z"
     }
    ]
   },
@@ -215,24 +215,39 @@
    "countries": [],
    "items": [
     {
+     "title": "Russia-bound ship attacked in Gulf of Finland",
+     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-21T18:22:09Z"
+    },
+    {
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-21T16:35:15Z"
+    },
+    {
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-21T14:54:24Z"
+    },
+    {
+     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-21T13:17:38Z"
+    },
+    {
+     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-21T13:15:21Z"
+    },
+    {
      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-21T10:26:36Z"
     },
     {
-     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T09:52:11Z"
-    },
-    {
      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-21T09:40:55Z"
-    },
-    {
-     "title": "FBI reportedly investigating apparent hack of its criminal database",
-     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T09:34:20Z"
     },
     {
      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
@@ -258,21 +273,6 @@
      "title": "ANC fights to keep control of South Africa's key cities after election setback",
      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-21T00:34:51Z"
-    },
-    {
-     "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-     "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T00:01:39Z"
-    },
-    {
-     "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-     "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T23:28:17Z"
-    },
-    {
-     "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-     "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-20T23:20:33Z"
     }
    ]
   }
