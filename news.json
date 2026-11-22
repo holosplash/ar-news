@@ -1,6 +1,6 @@
 {
- "version": 215,
- "updated": "2026-11-22T14:51:06Z",
+ "version": 216,
+ "updated": "2026-11-22T21:00:02Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "19 Verletzte nach Kohlenmonoxid-Austritt in Kirche im Allgäu",
-     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/kohlenmonoxid-vergiftung-kirche-allgaeu-100.html",
-     "time": "2026-11-22T14:43:17Z"
+     "title": "Bremen schlägt den HSV im Nordderby klar",
+     "url": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
+     "time": "2026-11-22T20:07:14Z"
     },
     {
-     "title": "Türkischer Sender Sözcü TV: Journalismus unter Zwangsverwaltung",
-     "url": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
-     "time": "2026-11-22T14:21:45Z"
+     "title": "tagesschau",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82192.html",
+     "time": "2026-11-22T20:02:28Z"
     },
     {
-     "title": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
-     "url": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
-     "time": "2026-11-22T14:12:03Z"
+     "title": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
+     "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
+     "time": "2026-11-22T19:58:18Z"
     },
     {
-     "title": "Friedwald in Brandenburg, Riesenrad in Lausanne, Nebel in Kronberg",
-     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10582.html",
-     "time": "2026-11-22T14:10:50Z"
+     "title": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
+     "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
+     "time": "2026-11-22T19:53:03Z"
     },
     {
-     "title": "Katharina Willinger, ARD Istanbul, zu Protesten gegen Einschränkungen der Pressefreiheit",
-     "url": "https://www.tagesschau.de/video/video-1687946.html",
-     "time": "2026-11-22T13:38:47Z"
+     "title": "Tennis: Alcaraz zu stark - Zverev verpasst Titel bei ATP Finals",
+     "url": "https://www.sportschau.de/tennis/atp/zverev-verpasst-finals-titel,finale-zverev-alcaraz-100.html",
+     "time": "2026-11-22T19:31:47Z"
     },
     {
-     "title": "Benjamin Weber, ARD Istanbul, zzt. Antalya, zur fehlenden Einigung bei der Weltklimakonferenz",
-     "url": "https://www.tagesschau.de/video/video-1687942.html",
-     "time": "2026-11-22T13:23:08Z"
+     "title": "tagesschau mit Gebärdensprache",
+     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12388.html",
+     "time": "2026-11-22T19:30:04Z"
     },
     {
-     "title": "Wieder Absence bei Musiala - starke Kritik an Umgang des FCB",
-     "url": "https://www.sportschau.de/regional/br/br-wieder-absence-bei-musiala-starke-kritik-an-umgang-des-fcb-102.html",
-     "time": "2026-11-22T13:16:54Z"
+     "title": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
+     "time": "2026-11-22T19:24:22Z"
     },
     {
-     "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
-     "time": "2026-11-22T12:00:00Z"
+     "title": "Tausende demonstrieren in der Türkei gegen Einschränkungen der Pressefreiheit",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688174.html",
+     "time": "2026-11-22T19:16:42Z"
     },
     {
-     "title": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
-     "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
-     "time": "2026-11-22T11:41:16Z"
+     "title": "Russischer Frachter brennt in der Ostsee nach Drohnenangriff",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688172.html",
+     "time": "2026-11-22T19:13:38Z"
     },
     {
-     "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
-     "url": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
-     "time": "2026-11-22T11:19:54Z"
+     "title": "Justizministerin Hubig will Mordparagrafen verschärfen und Femizide als Mord erfassen",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688168.html",
+     "time": "2026-11-22T19:11:53Z"
     },
     {
-     "title": "Nach Drohnenangriff auf russischen Frachter in der Ostsee wächst Sorge vor weiteren Spannungen mit Moskau",
-     "url": "https://www.tagesschau.de/video/video-1687910.html",
-     "time": "2026-11-22T11:05:53Z"
+     "title": "Kritik am Vorschlag um Selbstzahler-Termine bei Fachärzten für Kassenpatienten",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688170.html",
+     "time": "2026-11-22T19:11:27Z"
     },
     {
-     "title": "Eva Eichmann, BR, zum Treffen der Jungen Union Bayern mit CSU-Chef Söder in Berchtesgaden",
-     "url": "https://www.tagesschau.de/video/video-1687900.html",
-     "time": "2026-11-22T10:27:57Z"
+     "title": "Keine Einigung auf Abschlusserklärung auf der Weltklimakonferenz COP31",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688162.html",
+     "time": "2026-11-22T19:07:22Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Bundesratsticket der SVP – Michael Herrmann: «Dieses SVP-Ticket stellt Konkordanz infrage»",
-     "url": "https://www.srf.ch/news/schweiz/bundesratsticket-der-svp-michael-herrmann-dieses-svp-ticket-stellt-konkordanz-infrage",
-     "time": "2026-11-22T14:43:18Z"
+     "title": "US-Zwischenwahlen – US-Demokraten sichern sich historische Mehrheit im Kongress",
+     "url": "https://www.srf.ch/news/international/usa/us-zwischenwahlen-us-demokraten-sichern-sich-historische-mehrheit-im-kongress",
+     "time": "2026-11-22T19:31:56Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Siedler attackieren erneut Dörfer im Westjordanland",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-siedler-attackieren-erneut-doerfer-im-westjordanland",
-     "time": "2026-11-22T14:26:26Z"
+     "title": "Italien – Mitte-Links will Meloni schlagen – aber mit wem an der Spitze?",
+     "url": "https://www.srf.ch/news/international/italien-mitte-links-will-meloni-schlagen-aber-mit-wem-an-der-spitze",
+     "time": "2026-11-22T18:46:36Z"
     },
     {
-     "title": "Krieg in der Ukraine – Brand auf russischem Frachter in Ostsee dauert die ganze Nacht",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-brand-auf-russischem-frachter-in-ostsee-dauert-die-ganze-nacht",
-     "time": "2026-11-22T14:25:02Z"
+     "title": "Digitales Trauern – Avatare von Verstorbenen: Wie KI täuschen kann",
+     "url": "https://www.srf.ch/news/dialog/digitales-trauern-avatare-von-verstorbenen-wie-ki-taeuschen-kann",
+     "time": "2026-11-22T18:35:19Z"
     },
     {
-     "title": "Imam-Weiterbildung – «Dieses Angebot ist ein wichtiges Signal»",
-     "url": "https://www.srf.ch/news/schweiz/imam-weiterbildung-dieses-angebot-ist-ein-wichtiges-signal",
-     "time": "2026-11-22T14:07:22Z"
+     "title": "Krieg in der Ukraine – Frachter soll nach Russland geschleppt werden",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-frachter-soll-nach-russland-geschleppt-werden",
+     "time": "2026-11-22T18:22:47Z"
     },
     {
-     "title": "Total 10. WM-Titel für Spanier – Marc Marquez zum Achten: MotoGP-Rekordmann Agostini ist eingeholt",
-     "url": "https://www.srf.ch/sport/motorsport/motorrad/total-10-wm-titel-fuer-spanier-marc-marquez-zum-achten-motogp-rekordmann-agostini-ist-eingeholt",
-     "time": "2026-11-22T13:45:05Z"
+     "title": "KI-Aktien im Sinkflug – KI-Börsenkorrektur: Hype vorbei oder gesunde Bereinigung?",
+     "url": "https://www.srf.ch/news/wirtschaft/ki-aktien-im-sinkflug-ki-boersenkorrektur-hype-vorbei-oder-gesunde-bereinigung",
+     "time": "2026-11-22T18:21:14Z"
     },
     {
-     "title": "Männer-Slalom in Gurgl – Nef steht bei norwegischem Doppelsieg erstmals auf dem Podest",
-     "url": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/maenner-slalom-in-gurgl-nef-steht-bei-norwegischem-doppelsieg-erstmals-auf-dem-podest",
-     "time": "2026-11-22T13:38:39Z"
+     "title": "Rendez-vous Bundesplatz – 400'000 Besucher verfolgen Lichtshow an Bundeshausfassade",
+     "url": "https://www.srf.ch/news/schweiz/rendez-vous-bundesplatz-400-000-besucher-verfolgen-lichtshow-an-bundeshausfassade",
+     "time": "2026-11-22T18:04:46Z"
     },
     {
-     "title": "Schweizer Museen schwitzen – Der Klimawandel bedroht das kulturelle Gedächtnis der Schweiz",
-     "url": "https://www.srf.ch/news/schweiz/schweizer-museen-schwitzen-der-klimawandel-bedroht-das-kulturelle-gedaechtnis-der-schweiz",
-     "time": "2026-11-22T13:29:27Z"
+     "title": "Luzern siegt hochverdient – Shaqiri zur Pause ausgewechselt: Basel nach 0:2 weiter im Loch",
+     "url": "https://www.srf.ch/sport/fussball/super-league/luzern-siegt-hochverdient-shaqiri-zur-pause-ausgewechselt-basel-nach-0-2-weiter-im-loch",
+     "time": "2026-11-22T17:40:38Z"
     },
     {
-     "title": "Streaming-Highlight – «Lost in Translation»: Zwei Fremde, eine Hotelbar",
-     "url": "https://www.srf.ch/streaming-highlight-lost-in-translation-zwei-fremde-eine-hotelbar",
-     "time": "2026-11-22T12:42:30Z"
+     "title": "Weltcup in Lillehammer (NOR) – Einen Tag nach Imhof fliegt Hauswirth in die Top 10",
+     "url": "https://www.srf.ch/sport/mehr-sport/skispringen/weltcup-in-lillehammer-nor-einen-tag-nach-imhof-fliegt-hauswirth-in-die-top-10",
+     "time": "2026-11-22T17:20:16Z"
     },
     {
-     "title": "Klimakonferenz in der Türkei – Keine Einigung bei Weltklimakonferenz – auch Schweiz lehnt ab",
-     "url": "https://www.srf.ch/news/international/klimakonferenz-in-der-tuerkei-keine-einigung-bei-weltklimakonferenz-auch-schweiz-lehnt-ab",
-     "time": "2026-11-22T12:35:15Z"
+     "title": "Zahnarztpraxis auf Rädern – Mobiles Zahnarztzimmer rollt an die Berner Schulen",
+     "url": "https://www.srf.ch/news/schweiz/zahnarztpraxis-auf-raedern-mobiles-zahnarztzimmer-rollt-an-die-berner-schulen",
+     "time": "2026-11-22T17:02:37Z"
     },
     {
-     "title": "«El Chapo Isidro» – Spektakulärer Zugriff auf FBI-gesuchten Drogenboss",
-     "url": "https://www.srf.ch/news/international/el-chapo-isidro-spektakulaerer-zugriff-auf-fbi-gesuchten-drogenboss",
-     "time": "2026-11-22T12:23:05Z"
+     "title": "50 Jahre «Persönlich» – Lektionen fürs Leben gibt es auch in der Jubiläumssendung",
+     "url": "https://www.srf.ch/radio-srf-1/50-jahre-persoenlich-lektionen-fuers-leben-gibt-es-auch-in-der-jubilaeumssendung",
+     "time": "2026-11-22T17:01:24Z"
     },
     {
-     "title": "Deponie statt Recycling – Spanien – Drehscheibe des illegalen Abfallhandels in Europa",
-     "url": "https://www.srf.ch/news/dialog/deponie-statt-recycling-spanien-drehscheibe-des-illegalen-abfallhandels-in-europa",
-     "time": "2026-11-22T11:53:21Z"
+     "title": "Forschung in Archiven – Der Drang, auf dunkle Flecken der Vergangenheit zu blicken",
+     "url": "https://www.srf.ch/news/dialog/forschung-in-archiven-der-drang-auf-dunkle-flecken-der-vergangenheit-zu-blicken",
+     "time": "2026-11-22T16:55:52Z"
     },
     {
-     "title": "Billie Jean King Cup – Waltert/Karamoko verlieren Doppel – die Schweiz steigt ab",
-     "url": "https://www.srf.ch/sport/tennis/billie-jean-king-cup/billie-jean-king-cup-waltert-karamoko-verlieren-doppel-die-schweiz-steigt-ab",
-     "time": "2026-11-22T11:51:58Z"
+     "title": "Italienische Spuren – Wie italienische Einwanderer den Thurgau geprägt haben",
+     "url": "https://www.srf.ch/news/schweiz/italienische-spuren-wie-italienische-einwanderer-den-thurgau-gepraegt-haben",
+     "time": "2026-11-22T16:55:18Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Emendamento FdI, alla Polizia marcatori colorati per identificare violenti nei cortei",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/emendamento-fdi-alla-polizia-marcatori-colorati-per-identificare-violenti-nei_4e9b6a3b-1ca0-4550-be09-01305f8c9881.html",
-     "time": "2026-11-22T12:44:54Z"
+     "title": "Grillo, se il giudice dice che il Movimento è mio me lo prendo",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/grillo-se-il-giudice-dice-che-il-movimento-e-mio-me-lo-prendo_cae5c617-c713-4d74-a7a8-6a4cdbd78926.html",
+     "time": "2026-11-22T20:30:52Z"
     },
     {
-     "title": "Proposta Lega, 6 mesi ai Comuni per evadere le vecchie domande o scatta il condono",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/proposta-lega-6-mesi-ai-comuni-per-evadere-le-vecchie-domande-o-scatta-il-condono_675e4d3d-a494-4c2a-b32e-edc1f15f1dce.html",
-     "time": "2026-11-22T12:39:55Z"
+     "title": "La cena del Thanksgiving costerà cara, il tacchino è aumentato del 10%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/la-cena-del-thanksgiving-costera-cara-il-tacchino-e-aumentato-del-10_5d3d5d39-0531-4886-90d8-2088eb34c3da.html",
+     "time": "2026-11-22T20:02:16Z"
     },
     {
-     "title": "Sport e Salute, a Colle Oppio Natale è sul ghiaccio con pista di pattinaggio e curling",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/sport-e-salute-a-colle-oppio-natale-e-sul-ghiaccio-con-pista-di-pattinaggio_85687c68-1fb3-4b85-af27-2a0ffaae3fd8.html",
-     "time": "2026-11-22T09:56:56Z"
+     "title": "Trump su Truth chiama Putin 'My Friend', scattano le polemiche",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/trump-su-truth-chiama-putin-my-friend-scattano-le-polemiche_c582bee9-d5f6-427b-94f2-4645afd7973b.html",
+     "time": "2026-11-22T19:44:54Z"
     },
     {
-     "title": "Cop31: la presidenza turca vuole far votare la bozza senza modifiche, l'Ue voterà no",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/cop31-la-presidenza-turca-vuole-far-votare-la-bozza-senza-modifiche-lue_ba483cc3-bf7b-4792-bac3-77482db277dc.html",
-     "time": "2026-11-22T09:23:52Z"
+     "title": "Media, 'William pensa di togliere il titolo di principe al fratello Harry'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/media-william-pensa-di-togliere-il-titolo-di-principe-al-fratello-harry_b407cb58-6496-4f5b-8bcf-2defdbb26083.html",
+     "time": "2026-11-22T19:42:47Z"
     },
     {
-     "title": "F1:Hamilton'battaglia non sia tra me e Leclerc, ma ad esempio tra Ferrari e McLaren'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/f1hamiltonbattaglia-non-sia-tra-me-e-leclerc-ma-ad-esempio-tra-ferrari-e-mclaren_0409985b-c746-466d-b4aa-d0ea127a53bf.html",
-     "time": "2026-11-22T07:17:09Z"
+     "title": "L'ex premier britannica May esorta Burnham ad 'accettare' la Brexit",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/lex-premier-britannica-may-esorta-burnham-ad-accettare-la-brexit_02a51865-cdb5-4b9c-852e-4f68d961a953.html",
+     "time": "2026-11-22T19:37:23Z"
     },
     {
-     "title": "F1: Las Vegas; Verstappen 'gara surreale, che finale di stagione per noi'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/f1-las-vegas-verstappen-gara-surreale-che-finale-di-stagione-per-noi_eb186b7b-0938-4704-abc3-64378a9f7fcf.html",
-     "time": "2026-11-22T06:33:25Z"
+     "title": "Zelensky, 'a Dymer morte 4 persone, altre 3 a Vyshneve'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/zelensky-a-dymer-morte-4-persone-altre-3-a-vyshneve_cf2eabca-31b3-42d7-bac3-dc7773afcb12.html",
+     "time": "2026-11-22T19:32:13Z"
     },
     {
-     "title": "F1:Las Vegas;autoscontro Ferrari; Vasseur fuorioso'inaccettabile,Leclerc ha sbagliato'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/f1las-vegasautoscontro-ferrari-vasseur-fuoriosoinaccettabileleclerc-ha-sbagliato_961b0aa3-92d6-4656-974b-e1387d7f44b5.html",
-     "time": "2026-11-22T06:21:35Z"
+     "title": "Ultima settimana di campagna elettorale in Spagna, i sondaggi oggi premiano i Popolari",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/ultima-settimana-di-campagna-elettorale-in-spagna-i-sondaggi-oggi-premiano-i-popolari_c54f1840-94b8-4a23-bd4b-940f3d43f504.html",
+     "time": "2026-11-22T19:30:20Z"
     },
     {
-     "title": "F1: Las Vegas; vince Verstappen, quarto Antonelli, settima Ferrari Hamilton",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/f1-las-vegas-vince-verstappen-quarto-antonelli-settima-ferrari-hamilton_ad0b9807-e50f-495d-88f9-e7950cface27.html",
-     "time": "2026-11-22T05:35:58Z"
+     "title": "L'ex leader brasiliano Jair Bolsonaro in terapia intensiva in 'condizioni stabili'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/lex-leader-brasiliano-jair-bolsonaro-in-terapia-intensiva-in-condizioni-stabili_5d31c5df-230b-4e77-8707-78966267a439.html",
+     "time": "2026-11-22T19:07:23Z"
     },
     {
-     "title": "Cop 31, nella bozza nessuna menzione dei combustibili fossili",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/cop-31-nella-bozza-nessuna-menzione-dei-combustibili-fossili_d55cbfd6-68e9-4052-9e81-c9f6b18797be.html",
-     "time": "2026-11-22T02:44:08Z"
+     "title": "I dem conquistano il 258esimo seggio alla Camera, battuto il record del 2008",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/i-dem-conquistano-il-258esimo-seggio-alla-camera-battuto-il-record-del-2008_af05d61a-adf4-4770-ba5b-eab4cf5b6753.html",
+     "time": "2026-11-22T18:55:19Z"
     },
     {
-     "title": "Zelensky ringrazia Melania Trump per il cessate il fuoco di Oleshky",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/zelensky-ringrazia-melania-trump-per-il-cessate-il-fuoco-di-oleshky_3db0c4ee-2bdb-4b05-9d2a-49b164f28ae0.html",
-     "time": "2026-11-21T23:04:17Z"
+     "title": "Trump ribadisce, 'senza accordo riprendo gli attacchi contro l'Iran a inizio anno'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/trump-ribadisce-senza-accordo-riprendo-gli-attacchi-contro-liran-a-inizio_d608824d-3be0-4859-a045-815284ca2ff8.html",
+     "time": "2026-11-22T18:39:41Z"
     }
    ]
   },
@@ -215,19 +215,54 @@
    "countries": [],
    "items": [
     {
+     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T20:28:09Z"
+    },
+    {
+     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+     "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T20:26:24Z"
+    },
+    {
+     "title": "What's next after no deal at COP31 climate talks?",
+     "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T18:57:24Z"
+    },
+    {
+     "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+     "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T18:29:46Z"
+    },
+    {
+     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T18:17:59Z"
+    },
+    {
+     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T17:57:43Z"
+    },
+    {
+     "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T17:18:26Z"
+    },
+    {
      "title": "Three killed and dozens missing after fire at Indonesian factory",
      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-22T14:05:20Z"
     },
     {
-     "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-22T11:25:14Z"
-    },
-    {
      "title": "South Korea education minister resigns over exam cheating scandal",
      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-22T09:20:45Z"
+    },
+    {
+     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+     "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T08:46:28Z"
     },
     {
      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
@@ -238,41 +273,6 @@
      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-22T01:25:03Z"
-    },
-    {
-     "title": "FBI reportedly investigating apparent hack of its criminal database",
-     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-22T00:10:44Z"
-    },
-    {
-     "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-     "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-22T00:10:37Z"
-    },
-    {
-     "title": "How a teen gamer and his mother helped rescue a missing girl",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-22T00:09:58Z"
-    },
-    {
-     "title": "Lock of former US President George Washington's hair sells for $4,000",
-     "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T22:01:19Z"
-    },
-    {
-     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T13:17:38Z"
-    },
-    {
-     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-     "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T10:26:36Z"
-    },
-    {
-     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-     "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T09:40:55Z"
     }
    ]
   }
