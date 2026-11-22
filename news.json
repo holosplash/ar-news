@@ -1,6 +1,6 @@
 {
- "version": 213,
- "updated": "2026-11-21T23:45:16Z",
+ "version": 214,
+ "updated": "2026-11-22T06:30:12Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,21 @@
    ],
    "items": [
     {
+     "title": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+     "time": "2026-11-22T05:47:26Z"
+    },
+    {
+     "title": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
+     "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+     "time": "2026-11-22T05:21:04Z"
+    },
+    {
+     "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+     "time": "2026-11-22T03:50:01Z"
+    },
+    {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-12990.html",
      "time": "2026-11-21T22:33:06Z"
@@ -23,11 +38,6 @@
      "title": "Kolumbien: UNICEF besorgt über die anhaltende Rekrutierung von Kindern als Guerillasoldaten",
      "url": "https://www.tagesschau.de/tagesthemen/video-1687820.html",
      "time": "2026-11-21T22:29:42Z"
-    },
-    {
-     "title": "Münchner Autobahn A99 wegen Brückenabriss gesperrt",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1687818.html",
-     "time": "2026-11-21T22:26:50Z"
     },
     {
      "title": "Weltklimakonferenz in Antalya: Noch keine Einigung auf Abschlusserklärung",
@@ -50,8 +60,8 @@
      "time": "2026-11-21T20:17:57Z"
     },
     {
-     "title": "Wie verhext: Schalke trifft auch gegen Stuttgart zuhause das Tor nicht",
-     "url": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+     "title": "Wie verhext: Schalke trifft auch gegen Stuttgart zu Hause das Tor nicht",
+     "url": "https://www.sportschau.de/fussball/bundesliga/wie-verhext-schalke-trifft-zu-hause-tor-nicht,spielbericht-schalke-04-vfb-stuttgart-100.html",
      "time": "2026-11-21T20:16:39Z"
     },
     {
@@ -60,19 +70,9 @@
      "time": "2026-11-21T19:54:06Z"
     },
     {
-     "title": "Schweinebauern in Existenznot aufgrund sinkender Nachfrage",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687784.html",
-     "time": "2026-11-21T19:25:31Z"
-    },
-    {
-     "title": "Bundesverkehrsministerium erwägt streckenbezogene Pkw-Maut für alle",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687766.html",
-     "time": "2026-11-21T19:23:31Z"
-    },
-    {
-     "title": "Alters-Vorsorgedepot kommt erst Mitte 2027",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687764.html",
-     "time": "2026-11-21T19:21:35Z"
+     "title": "Russische Armee greift südukrainische Industriestadt Krywyj Rih an",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1687772.html",
+     "time": "2026-11-21T19:29:44Z"
     }
    ]
   },
@@ -85,19 +85,39 @@
    ],
    "items": [
     {
+     "title": "Bilder der Woche – Ein neuer Bond, ein neues Game und weitere Fotohighlights",
+     "url": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-ein-neuer-bond-ein-neues-game-und-weitere-fotohighlights",
+     "time": "2026-11-22T06:02:16Z"
+    },
+    {
+     "title": "Formel 1: GP Las Vegas – Verstappen kontert sich beim Überholfest zum Sieg",
+     "url": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-gp-las-vegas-verstappen-kontert-sich-beim-ueberholfest-zum-sieg",
+     "time": "2026-11-22T05:47:14Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Russischer Frachter nahe Finnland von Drohnen getroffen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russischer-frachter-nahe-finnland-von-drohnen-getroffen",
+     "time": "2026-11-22T05:40:21Z"
+    },
+    {
+     "title": "Krieg im Nahen Osten – Bahrain: Erneut Angriffe aus dem Iran abgewehrt",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-bahrain-erneut-angriffe-aus-dem-iran-abgewehrt",
+     "time": "2026-11-22T05:38:05Z"
+    },
+    {
+     "title": "Klimakonferenz in der Türkei – Neuer Textentwurf erwähnt Öl und Gas nicht",
+     "url": "https://www.srf.ch/news/international/klimakonferenz-in-der-tuerkei-neuer-textentwurf-erwaehnt-oel-und-gas-nicht",
+     "time": "2026-11-22T04:37:53Z"
+    },
+    {
      "title": "National League am Samstag – SCB nach 14-Tore-Spektakel weiter im Hoch – Kloten besiegt HCD",
      "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-scb-nach-14-tore-spektakel-weiter-im-hoch-kloten-besiegt-hcd",
-     "time": "2026-11-21T21:25:45Z"
+     "time": "2026-11-21T23:46:50Z"
     },
     {
      "title": "ATP Finals: Halbfinals – Alcaraz und Zverev spielen um den Titel in Turin",
      "url": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-halbfinals-alcaraz-und-zverev-spielen-um-den-titel-in-turin",
      "time": "2026-11-21T21:16:45Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Russischer Frachter nahe Finnland von Drohnen getroffen",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russischer-frachter-nahe-finnland-von-drohnen-getroffen",
-     "time": "2026-11-21T20:17:16Z"
     },
     {
      "title": "Demonstration in Bern – Medienschaffende protestieren für Journalismus und Demokratie",
@@ -123,26 +143,6 @@
      "title": "14. Runde in der Super League – Ohne Zittern geht nicht: YB feiert Derbysieg gegen Thun",
      "url": "https://www.srf.ch/sport/fussball/super-league/14-runde-in-der-super-league-ohne-zittern-geht-nicht-yb-feiert-derbysieg-gegen-thun",
      "time": "2026-11-21T19:07:43Z"
-    },
-    {
-     "title": "Südafrikas CO₂‑Bauern – Der Speckbaum als Hoffnungsträger für Natur und Klima",
-     "url": "https://www.srf.ch/news/international/suedafrikas-co2-bauern-der-speckbaum-als-hoffnungstraeger-fuer-natur-und-klima",
-     "time": "2026-11-21T18:52:59Z"
-    },
-    {
-     "title": "Kampf gegen Banden – «Die Lage in Haiti wurde wegen Bukele noch komplizierter»",
-     "url": "https://www.srf.ch/news/international/kampf-gegen-banden-die-lage-in-haiti-wurde-wegen-bukele-noch-komplizierter",
-     "time": "2026-11-21T18:30:49Z"
-    },
-    {
-     "title": "Weltcup-Auftakt im Skispringen – Imhof bei österreichischen Festspielen in den Top 10",
-     "url": "https://www.srf.ch/sport/mehr-sport/skispringen/weltcup-auftakt-im-skispringen-imhof-bei-oesterreichischen-festspielen-in-den-top-10",
-     "time": "2026-11-21T18:14:17Z"
-    },
-    {
-     "title": "Weihnachten im Tessin – Wie sind Weihnachtsmärkte unter Palmen?",
-     "url": "https://www.srf.ch/news/gesellschaft/weihnachten-im-tessin-wie-sind-weihnachtsmaerkte-unter-palmen",
-     "time": "2026-11-21T17:17:46Z"
     }
    ]
   },
@@ -156,6 +156,26 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "F1:Las Vegas;autoscontro Ferrari; Vasseur fuorioso'inaccettabile,Leclerc ha sbagliato'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/f1las-vegasautoscontro-ferrari-vasseur-fuoriosoinaccettabileleclerc-ha-sbagliato_961b0aa3-92d6-4656-974b-e1387d7f44b5.html",
+     "time": "2026-11-22T06:21:35Z"
+    },
+    {
+     "title": "F1: Las Vegas; vince Verstappen, quarto Antonelli, settima Ferrari Hamilton",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/f1-las-vegas-vince-verstappen-quarto-antonelli-settima-ferrari-hamilton_ad0b9807-e50f-495d-88f9-e7950cface27.html",
+     "time": "2026-11-22T05:35:58Z"
+    },
+    {
+     "title": "Cop31, nuova bozza con riferimento indiretto a uscita da fossili",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/cop31-nuova-bozza-con-riferimento-indiretto-a-uscita-da-fossili_ba483cc3-bf7b-4792-bac3-77482db277dc.html",
+     "time": "2026-11-22T05:06:05Z"
+    },
+    {
+     "title": "Cop 31, nella bozza nessuna menzione dei combustibili fossili",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/cop-31-nella-bozza-nessuna-menzione-dei-combustibili-fossili_d55cbfd6-68e9-4052-9e81-c9f6b18797be.html",
+     "time": "2026-11-22T02:44:08Z"
+    },
     {
      "title": "Zelensky ringrazia Melania Trump per il cessate il fuoco di Oleshky",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/zelensky-ringrazia-melania-trump-per-il-cessate-il-fuoco-di-oleshky_3db0c4ee-2bdb-4b05-9d2a-49b164f28ae0.html",
@@ -185,26 +205,6 @@
      "title": "L'ex presidente del Brasile Jair Bolsonaro ricoverato in terapia intensiva",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/lex-presidente-del-brasile-jair-bolsonaro-ricoverato-in-terapia-intensiva_57205f4c-3098-4281-8612-9a5e4133f600.html",
      "time": "2026-11-21T18:54:25Z"
-    },
-    {
-     "title": "Trump, 'Vance e Rubio fantastici ma per il 2028 potrebbero esserci sorprese'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/trump-vance-e-rubio-fantastici-ma-per-il-2028-potrebbero-esserci-sorprese_fe15ec2d-fe07-4121-973b-e9e96eb1831f.html",
-     "time": "2026-11-21T18:49:54Z"
-    },
-    {
-     "title": "Oltre 82.000 ai cortei in Francia, tensioni a Parigi e fermi a Lione e Bordeaux",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/oltre-82.000-ai-cortei-in-francia-tensioni-a-parigi-e-fermi-a-lione-e-bordeaux_09819e1d-8c34-4383-bbd7-b53c92bba7be.html",
-     "time": "2026-11-21T18:33:11Z"
-    },
-    {
-     "title": "Gatto a spasso in cabina, volo della Delta bloccato a Boston",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/gatto-a-spasso-in-cabina-volo-della-delta-bloccato-a-boston_46901c91-9690-43a2-a37d-3715df70a45e.html",
-     "time": "2026-11-21T17:48:05Z"
-    },
-    {
-     "title": "Mosca, 'colpita nel Mar Nero nave cargo usata da Kiev per scopi militari'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/21/mosca-colpita-nel-mar-nero-nave-cargo-usata-da-kiev-per_6a176c2c-a468-4b63-9dad-6b03d4ae2408.html",
-     "time": "2026-11-21T16:46:13Z"
     }
    ]
   },
@@ -215,14 +215,34 @@
    "countries": [],
    "items": [
     {
-     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-     "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T23:31:17Z"
+     "title": "Dozens missing after fire at Indonesian factory",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T06:05:00Z"
     },
     {
-     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T22:19:43Z"
+     "title": "New draft deal aims to avert collapse of talks at climate summit",
+     "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T05:26:10Z"
+    },
+    {
+     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T01:25:03Z"
+    },
+    {
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T00:10:44Z"
+    },
+    {
+     "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+     "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T00:10:37Z"
+    },
+    {
+     "title": "How a teen gamer and his mother helped rescue a missing girl",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T00:09:58Z"
     },
     {
      "title": "Lock of former US President George Washington's hair sells for $4,000",
@@ -233,11 +253,6 @@
      "title": "Russia-bound ship attacked in Gulf of Finland",
      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-21T19:20:22Z"
-    },
-    {
-     "title": "FBI reportedly investigating apparent hack of its criminal database",
-     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T16:35:15Z"
     },
     {
      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -258,21 +273,6 @@
      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-21T08:10:25Z"
-    },
-    {
-     "title": "Trafalgar Square Christmas tree felled in Norway",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T08:10:03Z"
-    },
-    {
-     "title": "Man convicted of starting Palisades fire in Los Angeles",
-     "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T04:34:00Z"
-    },
-    {
-     "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-     "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-21T01:02:39Z"
     }
    ]
   }
