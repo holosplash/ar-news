@@ -1,6 +1,6 @@
 {
- "version": 216,
- "updated": "2026-11-22T21:00:02Z",
+ "version": 217,
+ "updated": "2026-11-23T01:33:18Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,49 @@
    ],
    "items": [
     {
+     "title": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
+     "url": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
+     "time": "2026-11-23T00:55:05Z"
+    },
+    {
+     "title": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
+     "url": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+     "time": "2026-11-23T00:51:02Z"
+    },
+    {
+     "title": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05",
+     "url": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
+     "time": "2026-11-22T23:00:09Z"
+    },
+    {
+     "title": "BVB holt sich mit 1:0-Sieg in Mönchengladbach die Tabellenführung",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
+     "time": "2026-11-22T23:00:08Z"
+    },
+    {
      "title": "Bremen schlägt den HSV im Nordderby klar",
      "url": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
-     "time": "2026-11-22T20:07:14Z"
+     "time": "2026-11-22T23:00:04Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-12996.html",
+     "time": "2026-11-22T22:25:44Z"
+    },
+    {
+     "title": "Regierungskoalition diskutiert weiterhin über die Rentenreform",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1688220.html",
+     "time": "2026-11-22T22:01:22Z"
+    },
+    {
+     "title": "Die Meinung von Janina Schreiber, SWR, zum Scheitern der Weltklimakonferenz",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1688218.html",
+     "time": "2026-11-22T21:57:58Z"
+    },
+    {
+     "title": "COP31 ohne Abschlusserklärung: Was haben die Klimakonferenzen seit 2015 gebracht?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1688216.html",
+     "time": "2026-11-22T21:56:45Z"
     },
     {
      "title": "tagesschau",
@@ -33,46 +73,6 @@
      "title": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
      "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
      "time": "2026-11-22T19:53:03Z"
-    },
-    {
-     "title": "Tennis: Alcaraz zu stark - Zverev verpasst Titel bei ATP Finals",
-     "url": "https://www.sportschau.de/tennis/atp/zverev-verpasst-finals-titel,finale-zverev-alcaraz-100.html",
-     "time": "2026-11-22T19:31:47Z"
-    },
-    {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12388.html",
-     "time": "2026-11-22T19:30:04Z"
-    },
-    {
-     "title": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
-     "time": "2026-11-22T19:24:22Z"
-    },
-    {
-     "title": "Tausende demonstrieren in der Türkei gegen Einschränkungen der Pressefreiheit",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688174.html",
-     "time": "2026-11-22T19:16:42Z"
-    },
-    {
-     "title": "Russischer Frachter brennt in der Ostsee nach Drohnenangriff",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688172.html",
-     "time": "2026-11-22T19:13:38Z"
-    },
-    {
-     "title": "Justizministerin Hubig will Mordparagrafen verschärfen und Femizide als Mord erfassen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688168.html",
-     "time": "2026-11-22T19:11:53Z"
-    },
-    {
-     "title": "Kritik am Vorschlag um Selbstzahler-Termine bei Fachärzten für Kassenpatienten",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688170.html",
-     "time": "2026-11-22T19:11:27Z"
-    },
-    {
-     "title": "Keine Einigung auf Abschlusserklärung auf der Weltklimakonferenz COP31",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688162.html",
-     "time": "2026-11-22T19:07:22Z"
     }
    ]
   },
@@ -84,6 +84,26 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Krieg in der Ukraine – Russisches Kriegsschiff sinkt nach Explosion in libyschem Hafen",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russisches-kriegsschiff-sinkt-nach-explosion-in-libyschem-hafen",
+     "time": "2026-11-23T00:53:42Z"
+    },
+    {
+     "title": "Basler Talfahrt geht weiter – Ratloser Omlin schlägt Alarm: «So kannst du nicht spielen!»",
+     "url": "https://www.srf.ch/sport/fussball/super-league/basler-talfahrt-geht-weiter-ratloser-omlin-schlaegt-alarm-so-kannst-du-nicht-spielen",
+     "time": "2026-11-22T21:11:54Z"
+    },
+    {
+     "title": "COP31 in Antalya – Das sind die Reaktionen auf die gescheiterte Klimakonferenz",
+     "url": "https://www.srf.ch/news/international/cop31-in-antalya-das-sind-die-reaktionen-auf-die-gescheiterte-klimakonferenz",
+     "time": "2026-11-22T21:09:28Z"
+    },
+    {
+     "title": "ATP Finals: Final – Alcaraz bezwingt Zverev und gewinnt zum 1. Mal die ATP Finals",
+     "url": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-final-alcaraz-bezwingt-zverev-und-gewinnt-zum-1-mal-die-atp-finals",
+     "time": "2026-11-22T19:42:39Z"
+    },
     {
      "title": "US-Zwischenwahlen – US-Demokraten sichern sich historische Mehrheit im Kongress",
      "url": "https://www.srf.ch/news/international/usa/us-zwischenwahlen-us-demokraten-sichern-sich-historische-mehrheit-im-kongress",
@@ -98,11 +118,6 @@
      "title": "Digitales Trauern – Avatare von Verstorbenen: Wie KI täuschen kann",
      "url": "https://www.srf.ch/news/dialog/digitales-trauern-avatare-von-verstorbenen-wie-ki-taeuschen-kann",
      "time": "2026-11-22T18:35:19Z"
-    },
-    {
-     "title": "Krieg in der Ukraine – Frachter soll nach Russland geschleppt werden",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-frachter-soll-nach-russland-geschleppt-werden",
-     "time": "2026-11-22T18:22:47Z"
     },
     {
      "title": "KI-Aktien im Sinkflug – KI-Börsenkorrektur: Hype vorbei oder gesunde Bereinigung?",
@@ -120,11 +135,6 @@
      "time": "2026-11-22T17:40:38Z"
     },
     {
-     "title": "Weltcup in Lillehammer (NOR) – Einen Tag nach Imhof fliegt Hauswirth in die Top 10",
-     "url": "https://www.srf.ch/sport/mehr-sport/skispringen/weltcup-in-lillehammer-nor-einen-tag-nach-imhof-fliegt-hauswirth-in-die-top-10",
-     "time": "2026-11-22T17:20:16Z"
-    },
-    {
      "title": "Zahnarztpraxis auf Rädern – Mobiles Zahnarztzimmer rollt an die Berner Schulen",
      "url": "https://www.srf.ch/news/schweiz/zahnarztpraxis-auf-raedern-mobiles-zahnarztzimmer-rollt-an-die-berner-schulen",
      "time": "2026-11-22T17:02:37Z"
@@ -133,16 +143,6 @@
      "title": "50 Jahre «Persönlich» – Lektionen fürs Leben gibt es auch in der Jubiläumssendung",
      "url": "https://www.srf.ch/radio-srf-1/50-jahre-persoenlich-lektionen-fuers-leben-gibt-es-auch-in-der-jubilaeumssendung",
      "time": "2026-11-22T17:01:24Z"
-    },
-    {
-     "title": "Forschung in Archiven – Der Drang, auf dunkle Flecken der Vergangenheit zu blicken",
-     "url": "https://www.srf.ch/news/dialog/forschung-in-archiven-der-drang-auf-dunkle-flecken-der-vergangenheit-zu-blicken",
-     "time": "2026-11-22T16:55:52Z"
-    },
-    {
-     "title": "Italienische Spuren – Wie italienische Einwanderer den Thurgau geprägt haben",
-     "url": "https://www.srf.ch/news/schweiz/italienische-spuren-wie-italienische-einwanderer-den-thurgau-gepraegt-haben",
-     "time": "2026-11-22T16:55:18Z"
     }
    ]
   },
@@ -156,6 +156,36 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Kiev, 'il bilancio dell'attacco russo a Dymer è salito a sei morti'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/23/kiev-il-bilancio-dellattacco-russo-a-dymer-e-salito-a-sei-morti_ece2eae5-6885-41de-a97d-23a92cd0019e.html",
+     "time": "2026-11-22T23:24:05Z"
+    },
+    {
+     "title": "Mosca, 'Putin e Trump non hanno discusso della nomina di un ambasciatore a Washington'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/23/mosca-putin-e-trump-non-hanno-discusso-della-nomina-di-un-ambasciatore-a-washington_9d29ac90-30fb-4129-9438-18f5d601eaef.html",
+     "time": "2026-11-22T23:06:19Z"
+    },
+    {
+     "title": "Media, 'il ministro degli Esteri israeliano condanna le violenze dei coloni'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/media-il-ministro-degli-esteri-israeliano-condanna-le-violenze-dei-coloni_743ef2a1-a9bb-420d-a223-00018702ad3f.html",
+     "time": "2026-11-22T22:35:17Z"
+    },
+    {
+     "title": "Delta ha risolto il problema che ha fermato i voli ad Atlanta",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/delta-ha-risolto-il-problema-che-ha-fermato-i-voli-ad-atlanta_0b848ac9-4fb3-4099-97a5-a464d04896e3.html",
+     "time": "2026-11-22T22:24:35Z"
+    },
+    {
+     "title": "Trump, 'con la vittoria dei dem alle midterm, l'Iran è diventato più aggressivo'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/trump-con-la-vittoria-dei-dem-alle-midterm-liran-e-diventato-piu_d5d5a2aa-878e-481f-b942-8f53e9442059.html",
+     "time": "2026-11-22T22:21:58Z"
+    },
+    {
+     "title": "Zelensky, 'Mosca vuole isolare le regioni di Odessa e Dnipro dalle fonti energetiche'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/zelensky-mosca-vuole-isolare-le-regioni-di-odessa-e-dnipro-dalle-fonti-energetiche_b576bcbd-e184-4e91-b8ce-14484cd56776.html",
+     "time": "2026-11-22T22:04:43Z"
+    },
     {
      "title": "Grillo, se il giudice dice che il Movimento è mio me lo prendo",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/grillo-se-il-giudice-dice-che-il-movimento-e-mio-me-lo-prendo_cae5c617-c713-4d74-a7a8-6a4cdbd78926.html",
@@ -175,36 +205,6 @@
      "title": "Media, 'William pensa di togliere il titolo di principe al fratello Harry'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/media-william-pensa-di-togliere-il-titolo-di-principe-al-fratello-harry_b407cb58-6496-4f5b-8bcf-2defdbb26083.html",
      "time": "2026-11-22T19:42:47Z"
-    },
-    {
-     "title": "L'ex premier britannica May esorta Burnham ad 'accettare' la Brexit",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/lex-premier-britannica-may-esorta-burnham-ad-accettare-la-brexit_02a51865-cdb5-4b9c-852e-4f68d961a953.html",
-     "time": "2026-11-22T19:37:23Z"
-    },
-    {
-     "title": "Zelensky, 'a Dymer morte 4 persone, altre 3 a Vyshneve'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/zelensky-a-dymer-morte-4-persone-altre-3-a-vyshneve_cf2eabca-31b3-42d7-bac3-dc7773afcb12.html",
-     "time": "2026-11-22T19:32:13Z"
-    },
-    {
-     "title": "Ultima settimana di campagna elettorale in Spagna, i sondaggi oggi premiano i Popolari",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/ultima-settimana-di-campagna-elettorale-in-spagna-i-sondaggi-oggi-premiano-i-popolari_c54f1840-94b8-4a23-bd4b-940f3d43f504.html",
-     "time": "2026-11-22T19:30:20Z"
-    },
-    {
-     "title": "L'ex leader brasiliano Jair Bolsonaro in terapia intensiva in 'condizioni stabili'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/lex-leader-brasiliano-jair-bolsonaro-in-terapia-intensiva-in-condizioni-stabili_5d31c5df-230b-4e77-8707-78966267a439.html",
-     "time": "2026-11-22T19:07:23Z"
-    },
-    {
-     "title": "I dem conquistano il 258esimo seggio alla Camera, battuto il record del 2008",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/i-dem-conquistano-il-258esimo-seggio-alla-camera-battuto-il-record-del-2008_af05d61a-adf4-4770-ba5b-eab4cf5b6753.html",
-     "time": "2026-11-22T18:55:19Z"
-    },
-    {
-     "title": "Trump ribadisce, 'senza accordo riprendo gli attacchi contro l'Iran a inizio anno'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/22/trump-ribadisce-senza-accordo-riprendo-gli-attacchi-contro-liran-a-inizio_d608824d-3be0-4859-a045-815284ca2ff8.html",
-     "time": "2026-11-22T18:39:41Z"
     }
    ]
   },
@@ -215,14 +215,34 @@
    "countries": [],
    "items": [
     {
+     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+     "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-23T01:23:43Z"
+    },
+    {
+     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-23T00:50:35Z"
+    },
+    {
+     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+     "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-23T00:33:36Z"
+    },
+    {
+     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T22:37:43Z"
+    },
+    {
+     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+     "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-22T21:22:40Z"
+    },
+    {
      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-22T20:28:09Z"
-    },
-    {
-     "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-     "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-22T20:26:24Z"
     },
     {
      "title": "What's next after no deal at COP31 climate talks?",
@@ -233,16 +253,6 @@
      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-22T18:29:46Z"
-    },
-    {
-     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-22T18:17:59Z"
-    },
-    {
-     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-     "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-22T17:57:43Z"
     },
     {
      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
@@ -258,16 +268,6 @@
      "title": "South Korea education minister resigns over exam cheating scandal",
      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-22T09:20:45Z"
-    },
-    {
-     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-     "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-22T08:46:28Z"
-    },
-    {
-     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-     "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-22T07:12:41Z"
     },
     {
      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
