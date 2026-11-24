@@ -1,6 +1,6 @@
 {
- "version": 219,
- "updated": "2026-11-23T21:59:22Z",
+ "version": 220,
+ "updated": "2026-11-24T05:54:33Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
+     "title": "Arbeitskampf hinter dem größten Videospiel der Welt",
+     "url": "https://www.tagesschau.de/kultur/gta-6-104.html",
+     "time": "2026-11-24T05:35:28Z"
+    },
+    {
+     "title": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
+     "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
+     "time": "2026-11-24T05:28:47Z"
+    },
+    {
+     "title": "VW-Tarifrunde beginnt in Emden - wo die Streitpunkte liegen",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
+     "time": "2026-11-24T05:04:12Z"
+    },
+    {
+     "title": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+     "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+     "time": "2026-11-24T04:23:38Z"
+    },
+    {
+     "title": "Kriegsfolgen im Gazastreifen: Verschmutztes Wasser, Asbest in den Trümmern",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html",
+     "time": "2026-11-24T04:09:27Z"
+    },
+    {
+     "title": "Deutsche Dokumentarfilmer gewinnen Internationalen Emmy",
+     "url": "https://www.tagesschau.de/kultur/internationaler-emmy-mrf-ard-100.html",
+     "time": "2026-11-24T03:23:18Z"
+    },
+    {
+     "title": "Deutschland baut künftig ukrainische Drohnen",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+     "time": "2026-11-24T01:46:30Z"
+    },
+    {
+     "title": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
+     "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+     "time": "2026-11-24T00:53:40Z"
+    },
+    {
+     "title": "Nordrhein-Westfalen: Angriff auf Grünen-Politiker während Fraktionssitzung",
+     "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/gruene-angriff-nrw-schwerte-100.html",
+     "time": "2026-11-23T23:28:00Z"
+    },
+    {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-13002.html",
      "time": "2026-11-23T21:54:42Z"
     },
     {
-     "title": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
-     "time": "2026-11-23T20:11:45Z"
+     "title": "Christian Mölling, Think Tanks Edina, zum Ukraine-Krieg und einer gefährlichen Eskalation in Europa",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1688802.html",
+     "time": "2026-11-23T21:43:07Z"
     },
     {
-     "title": "Nvidia holt Jensen Huang zurück an die Firmenspitze",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688746.html",
-     "time": "2026-11-23T19:40:01Z"
-    },
-    {
-     "title": "Ukrainisches Militär versenkt zwei russische Schiffe mit Waffenlieferungen vor Libyen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688728.html",
-     "time": "2026-11-23T19:37:49Z"
-    },
-    {
-     "title": "Dokumentation \"Krieg im Weltraum\": Plant Russland einen Atomsprengkopf im All?",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688732.html",
-     "time": "2026-11-23T19:35:25Z"
-    },
-    {
-     "title": "NATO-Chef Rutte und Kanzler Merz beraten über russische Marschflugkörper in Polen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688726.html",
-     "time": "2026-11-23T19:20:28Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82252.html",
-     "time": "2026-11-23T19:18:40Z"
-    },
-    {
-     "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
-     "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
-     "time": "2026-11-23T19:07:24Z"
-    },
-    {
-     "title": "Wie der Klimawandel den Winterschlaf der Tiere verändert",
-     "url": "https://www.tagesschau.de/wissen/winterschlaf-klimawandel-tiere-100.html",
-     "time": "2026-11-23T19:07:13Z"
-    },
-    {
-     "title": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
-     "url": "https://www.tagesschau.de/ukraine-angriffe-ostsee-libyen-100.html",
-     "time": "2026-11-23T17:59:22Z"
-    },
-    {
-     "title": "Nachfolge von Hubert Aiwanger: Freie Wähler stellen sich breiter auf",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-freie-waehler-100.html",
-     "time": "2026-11-23T17:47:10Z"
-    },
-    {
-     "title": "Sanktionspaket: Keine Athleten mehr unter russischer Flagge",
-     "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
-     "time": "2026-11-23T17:23:33Z"
+     "title": "Russische Atomwaffe im Weltall: Wie reagiert die NATO?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1688800.html",
+     "time": "2026-11-23T21:37:33Z"
     }
    ]
   },
@@ -85,14 +85,49 @@
    ],
    "items": [
     {
-     "title": "Krieg im Nahen Osten – USA verhängen Sanktionen gegen Irans Schattenbankensystem",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-usa-verhaengen-sanktionen-gegen-irans-schattenbankensystem",
-     "time": "2026-11-23T21:52:20Z"
+     "title": "Krieg im Nahen Osten – Oxfam warnt vor jahrzehntelanger Verseuchung Gazas",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-oxfam-warnt-vor-jahrzehntelanger-verseuchung-gazas",
+     "time": "2026-11-24T05:42:25Z"
     },
     {
-     "title": "Krieg in der Ukraine – Russland-Flagge soll bei Sportevents in der EU verboten werden",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russland-flagge-soll-bei-sportevents-in-der-eu-verboten-werden",
-     "time": "2026-11-23T21:52:10Z"
+     "title": "US-Chiphersteller Nvidia – Trump drängte auf Huangs Rückkehr und erzürnt damit den Kongress",
+     "url": "https://www.srf.ch/news/wirtschaft/us-chiphersteller-nvidia-trump-draengte-auf-huangs-rueckkehr-und-erzuernt-damit-den-kongress",
+     "time": "2026-11-24T05:35:20Z"
+    },
+    {
+     "title": "Krieg in der Ukraine – Fast eine halbe Million russische Tote laut gehackten Daten",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-fast-eine-halbe-million-russische-tote-laut-gehackten-daten",
+     "time": "2026-11-24T05:15:26Z"
+    },
+    {
+     "title": "Streaming-Tipp – So enormer Druck, dass selbst die eigene Identität weichen muss",
+     "url": "https://www.srf.ch/streaming-tipp-so-enormer-druck-dass-selbst-die-eigene-identitaet-weichen-muss",
+     "time": "2026-11-24T05:14:09Z"
+    },
+    {
+     "title": "Quellen liefern kein Wasser – Autowaschen verboten: Luzerner Gemeinden drosseln Wasserverbrauch",
+     "url": "https://www.srf.ch/news/schweiz/quellen-liefern-kein-wasser-autowaschen-verboten-luzerner-gemeinden-drosseln-wasserverbrauch",
+     "time": "2026-11-24T04:57:40Z"
+    },
+    {
+     "title": "Lohnverhandlungen – So klappt es mit der Lohnerhöhung",
+     "url": "https://www.srf.ch/news/wirtschaft/lohnverhandlungen-so-klappt-es-mit-der-lohnerhoehung",
+     "time": "2026-11-24T04:53:40Z"
+    },
+    {
+     "title": "Bundesratskandidaten Mandate – Die wirtschaftlichen Verflechtungen von Aeschi und Graber",
+     "url": "https://www.srf.ch/news/wirtschaft/bundesratskandidaten-mandate-die-wirtschaftlichen-verflechtungen-von-aeschi-und-graber",
+     "time": "2026-11-24T04:51:10Z"
+    },
+    {
+     "title": "Schweizer Büro in Nordkorea – Kim Yo Jong droht mit Schliessung von diplomatischem Büro",
+     "url": "https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-kim-yo-jong-droht-mit-schliessung-von-diplomatischem-buero",
+     "time": "2026-11-24T02:58:50Z"
+    },
+    {
+     "title": "Q&A Hypnose – «Kann ich durch Hypnose manipuliert oder ausgenutzt werden?»",
+     "url": "https://www.srf.ch/wissen/wissens-chats/q-a-hypnose-kann-ich-durch-hypnose-manipuliert-oder-ausgenutzt-werden",
+     "time": "2026-11-23T22:11:17Z"
     },
     {
      "title": "Lust auf Abkühlung – Schweiz schleckte im Sommer 17 Millionen Liter Glace",
@@ -108,41 +143,6 @@
      "title": "Nach jahrelangem Schweigen – 30 Westschweizer Frauen werfen Heilern sexuellen Missbrauch vor",
      "url": "https://www.srf.ch/news/dialog/nach-jahrelangem-schweigen-30-westschweizer-frauen-werfen-heilern-sexuellen-missbrauch-vor",
      "time": "2026-11-23T20:03:31Z"
-    },
-    {
-     "title": "Auf dem Sprung zum Weltstar? – SZA und Erykah Badu feiern diese Zürcher Musikerin",
-     "url": "https://www.srf.ch/radio-srf-3/musik/auf-dem-sprung-zum-weltstar-sza-und-erykah-badu-feiern-diese-zuercher-musikerin",
-     "time": "2026-11-23T19:30:10Z"
-    },
-    {
-     "title": "Nach SVP-Bundesratsticket – Grüne schicken Sprengkandidatin ins Rennen",
-     "url": "https://www.srf.ch/news/schweiz/nach-svp-bundesratsticket-gruene-schicken-sprengkandidatin-ins-rennen",
-     "time": "2026-11-23T19:13:57Z"
-    },
-    {
-     "title": "Trotz Affären – Nvidia holt Huang an die Spitze zurück – das müssen Sie wissen",
-     "url": "https://www.srf.ch/news/wirtschaft/trotz-affaeren-nvidia-holt-huang-an-die-spitze-zurueck-das-muessen-sie-wissen",
-     "time": "2026-11-23T19:13:38Z"
-    },
-    {
-     "title": "Geschasster Nvidia-Chef – Kaum weg, schon zurück: Warum Jensen Huang sein Comeback gibt",
-     "url": "https://www.srf.ch/news/wirtschaft/geschasster-nvidia-chef-kaum-weg-schon-zurueck-warum-jensen-huang-sein-comeback-gibt",
-     "time": "2026-11-23T19:13:14Z"
-    },
-    {
-     "title": "Bundesratskandidatur – Stresstest Hearing: Worauf sich die SVP-Kandidaten vorbereiten",
-     "url": "https://www.srf.ch/news/schweiz/bundesratskandidatur-stresstest-hearing-worauf-sich-die-svp-kandidaten-vorbereiten",
-     "time": "2026-11-23T18:50:04Z"
-    },
-    {
-     "title": "Stiftungen in der Schweiz – Das diffuse Geschäft mit der Wohltätigkeit",
-     "url": "https://www.srf.ch/news/dialog/stiftungen-in-der-schweiz-das-diffuse-geschaeft-mit-der-wohltaetigkeit",
-     "time": "2026-11-23T18:48:35Z"
-    },
-    {
-     "title": "Urteil zu Arzneimittelbericht – Bundesgericht erlaubt Medikamentenvergleiche in den Medien",
-     "url": "https://www.srf.ch/news/schweiz/urteil-zu-arzneimittelbericht-bundesgericht-erlaubt-medikamentenvergleiche-in-den-medien",
-     "time": "2026-11-23T18:19:57Z"
     }
    ]
   },
@@ -156,6 +156,16 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Donne vittime di violenza, in Italia una su tre ha figli",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/donne-vittime-di-violenza-in-italia-una-su-tre-ha-figli_7e8f2f05-8620-4ff7-a38d-6b05ff13f8fe.html",
+     "time": "2026-11-24T05:42:02Z"
+    },
+    {
+     "title": "Borsa: Tokyo, apertura in forte rialzo (+3,05%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/borsa-tokyo-apertura-in-forte-rialzo-305_caca4692-772c-4f8d-b425-713ce698e15e.html",
+     "time": "2026-11-24T00:24:38Z"
+    },
     {
      "title": "Usa inseriscono Megaspeed nella lista nera commerciale",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/23/usa-inseriscono-megaspeed-nella-lista-nera-commerciale_2c25052f-6464-4b5c-b22b-09b9012b6b3b.html",
@@ -195,16 +205,6 @@
      "title": "Ivass, boom dei reclami alle assicurazioni, +10% nel primo semestre",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/23/ivass-boom-dei-reclami-alle-assicurazioni-10-nel-primo-semestre_4dcb0fa0-b724-4639-b58c-4a878bb87cb8.html",
      "time": "2026-11-23T12:24:38Z"
-    },
-    {
-     "title": "Accoltella la convivente durante una lite, lei è grave in ospedale",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/23/accoltella-la-convivente-durante-una-lite-lei-e-grave-in-ospedale_5286075c-678f-4730-b55c-dcebd11599fa.html",
-     "time": "2026-11-23T12:13:52Z"
-    },
-    {
-     "title": "Pichetto, entro dieci giorni la proposta dei decreti attuativi sul nucleare",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/23/pichetto-entro-dieci-giorni-la-proposta-dei-decreti-attuativi-sul-nucleare_427547fa-4ead-4fd1-a84b-105204904174.html",
-     "time": "2026-11-23T12:13:45Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
+     "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-24T05:33:07Z"
+    },
+    {
+     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-24T04:36:31Z"
+    },
+    {
+     "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+     "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-24T02:15:59Z"
+    },
+    {
+     "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+     "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-24T01:21:41Z"
+    },
+    {
+     "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+     "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-24T00:23:25Z"
+    },
+    {
+     "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+     "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-24T00:02:15Z"
+    },
+    {
+     "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+     "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-23T23:16:08Z"
+    },
+    {
+     "title": "Outrage after ICE arrest father and daughter at Seattle airport",
+     "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-23T22:59:07Z"
+    },
+    {
+     "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+     "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-23T21:24:47Z"
+    },
+    {
+     "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-23T21:03:34Z"
+    },
+    {
      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-23T20:48:35Z"
     },
     {
-     "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-     "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T18:04:20Z"
-    },
-    {
-     "title": "What failure of COP31 reveals about a divided world",
-     "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T17:24:25Z"
-    },
-    {
-     "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-     "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T17:14:50Z"
-    },
-    {
-     "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-     "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T17:07:25Z"
-    },
-    {
-     "title": "The rise and fall and rise again of Jensen Huang",
-     "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T15:49:52Z"
-    },
-    {
-     "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T15:41:23Z"
-    },
-    {
-     "title": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-     "url": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T14:55:14Z"
-    },
-    {
-     "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-     "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T14:54:03Z"
-    },
-    {
-     "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
-     "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T14:26:33Z"
-    },
-    {
-     "title": "India pledges $1.6bn to Nepal in reset of ties",
-     "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T13:39:30Z"
-    },
-    {
-     "title": "Flights cancelled in Belgium due to cost-of-living strike",
-     "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-23T13:34:02Z"
+     "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+     "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-23T18:49:19Z"
     }
    ]
   }
