@@ -1,6 +1,6 @@
 {
- "version": 222,
- "updated": "2026-11-25T01:32:58Z",
+ "version": 223,
+ "updated": "2026-11-25T10:23:08Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
-     "url": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
-     "time": "2026-11-25T00:06:58Z"
+     "title": "AfD fordert Klage gegen Haushalt - Merz nennt Etat \"vertretbar\"",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html",
+     "time": "2026-11-25T10:15:04Z"
     },
     {
-     "title": "RB Leipzig hält dem Druck gegen RC Lens stand",
-     "url": "https://www.sportschau.de/fussball/championsleague/rb-leipzig-haelt-dem-druck-gegen-rc-lens-stand,spielbericht-leipzig-lens-100.html",
-     "time": "2026-11-24T22:48:33Z"
+     "title": "\"Frauenhäuser abgeschafft\", Franziska Amler, ARD Neu-Delhi, zu Gewalt an Frauen in Afghanistan",
+     "url": "https://www.tagesschau.de/video/video-1689584.html",
+     "time": "2026-11-25T09:54:28Z"
     },
     {
-     "title": "Champions League: BVB liefert FC Arsenal einen großen Kampf",
-     "url": "https://www.sportschau.de/fussball/championsleague/bvb-liefert-dem-fc-arsenal-einen-grossen-kampf,spielbericht-arsenal-dortmund-100.html",
-     "time": "2026-11-24T22:18:46Z"
+     "title": "Höhepunkt der Haushaltswoche: Generaldebatte im Bundestag",
+     "url": "https://www.tagesschau.de/video/video-1689590.html",
+     "time": "2026-11-25T09:51:33Z"
     },
     {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-13008.html",
-     "time": "2026-11-24T22:18:38Z"
+     "title": "Razzia bei rechtsextremistischer Gruppe \"Terror 18\"",
+     "url": "https://www.tagesschau.de/eilmeldung/razzia-terror-18-100.html",
+     "time": "2026-11-25T09:47:17Z"
     },
     {
-     "title": "Stefanie Hubig, SPD/Bundesjustizministerin, zu häuslicher Gewalt",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1689342.html",
-     "time": "2026-11-24T21:38:20Z"
+     "title": "Kerzen dürften deutlich teurer werden",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
+     "time": "2026-11-25T09:40:38Z"
     },
     {
-     "title": "Das unterschätzte Problem? Gewalt gegen Männer",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1689340.html",
-     "time": "2026-11-24T21:30:35Z"
+     "title": "Marktbericht: Neuer Aufreger am Horizont",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
+     "time": "2026-11-25T09:22:54Z"
     },
     {
-     "title": "Lagebild häusliche Gewalt: Zahl der erfassten Straftaten gegen Frauen erneut gestiegen",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1689338.html",
-     "time": "2026-11-24T21:29:00Z"
+     "title": "Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
+     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html",
+     "time": "2026-11-25T08:49:01Z"
     },
     {
-     "title": "Linksfraktion in Berlin schließt umstrittene Abgeordnete Vanessa Emde aus",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1689336.html",
-     "time": "2026-11-24T21:25:58Z"
+     "title": "US-Gericht spricht Huawei wegen Betrugs schuldig",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/huawei-geldwaesche-us-gericht-urteil-100.html",
+     "time": "2026-11-25T08:25:40Z"
     },
     {
-     "title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
-     "time": "2026-11-24T20:17:10Z"
+     "title": "EU will Versorgung mit Arzneimitteln sicherstellen",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
+     "time": "2026-11-25T08:24:12Z"
     },
     {
-     "title": "tagesschau mit Gebärdensprache",
-     "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12398.html",
-     "time": "2026-11-24T19:38:36Z"
+     "title": "Europas größte Satellitenfabrik eröffnet",
+     "url": "https://www.tagesschau.de/ausland/satellitenfabrik-100.html",
+     "time": "2026-11-25T08:06:22Z"
     },
     {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82304.html",
-     "time": "2026-11-24T19:28:41Z"
+     "title": "Livestream: Die Nachrichten auf tagesschau24",
+     "url": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
+     "time": "2026-11-25T08:03:20Z"
     },
     {
-     "title": "Verbraucherschützer haben die smarte Brille im Blick",
-     "url": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
-     "time": "2026-11-24T19:06:34Z"
+     "title": "Springflut in Kalifornien, Ausstellung \"The Art of the Brick\", Damavand",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10588.html",
+     "time": "2026-11-25T07:09:43Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "Kulturnews in Kurzform – Schweizer Kabarett-Preis Cornichon 2027 geht an Michael Elsener",
-     "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-schweizer-kabarett-preis-cornichon-2027-geht-an-michael-elsener",
-     "time": "2026-11-24T23:01:41Z"
+     "title": "WHO schlägt Alarm – Kubanische Bevölkerung leidet massiv unter US-Blockade",
+     "url": "https://www.srf.ch/news/international/who-schlaegt-alarm-kubanische-bevoelkerung-leidet-massiv-unter-us-blockade",
+     "time": "2026-11-25T10:11:48Z"
     },
     {
-     "title": "Champions League: Round-up – Real mit Wende gegen PSV – Citys Befreiungsschlag bleibt aus",
-     "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-real-mit-wende-gegen-psv-citys-befreiungsschlag-bleibt-aus",
-     "time": "2026-11-24T22:27:18Z"
+     "title": "Moderne Krebstherapien – Kassen-Willkür bei Krebsmedikamenten löst Unverständnis aus",
+     "url": "https://www.srf.ch/news/dialog/moderne-krebstherapien-kassen-willkuer-bei-krebsmedikamenten-loest-unverstaendnis-aus",
+     "time": "2026-11-25T10:09:04Z"
     },
     {
-     "title": "5. Runde der Champions League – BVB bietet Arsenal die Stirn und nimmt einen Punkt mit",
-     "url": "https://www.srf.ch/sport/fussball/champions-league/5-runde-der-champions-league-bvb-bietet-arsenal-die-stirn-und-nimmt-einen-punkt-mit",
-     "time": "2026-11-24T21:56:27Z"
+     "title": "Krieg in der Ukraine – Von der Leyen: Europa steht der Ukraine zur Seite",
+     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-von-der-leyen-europa-steht-der-ukraine-zur-seite",
+     "time": "2026-11-25T10:00:39Z"
     },
     {
-     "title": "Krieg in der Ukraine – Selenski: USA setzen Ukraine unter Druck für Frieden bis Januar",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-usa-setzen-ukraine-unter-druck-fuer-frieden-bis-januar",
-     "time": "2026-11-24T21:55:07Z"
+     "title": "Jodeln, Schwingen & Alpaufzug – Traditionen und Bräuche in der Schweiz",
+     "url": "https://www.srf.ch/sendungen/school/jodeln-schwingen-alpaufzug-traditionen-und-braeuche-in-der-schweiz",
+     "time": "2026-11-25T09:30:15Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Jemen: Huthi-Miliz greift höchsten Wolkenkratzer in Riad an",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-jemen-huthi-miliz-greift-hoechsten-wolkenkratzer-in-riad-an",
-     "time": "2026-11-24T21:54:56Z"
+     "title": "Abstimmung zur Atomkraft – Rösti: «Bei Nein müssten wir alles aus der Natur rauspressen»",
+     "url": "https://www.srf.ch/news/schweiz/abstimmung-zur-atomkraft-roesti-bei-nein-muessten-wir-alles-aus-der-natur-rauspressen",
+     "time": "2026-11-25T09:17:08Z"
     },
     {
-     "title": "National League am Dienstag – Der Leader schlägt den Meister – SCB-Hoch hält an",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-der-leader-schlaegt-den-meister-scb-hoch-haelt-an",
-     "time": "2026-11-24T21:19:16Z"
+     "title": "Neuer Heidi-Abel-Bildband – Die öffentliche und die verborgene Seite einer Moderatorin",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/neuer-heidi-abel-bildband-die-oeffentliche-und-die-verborgene-seite-einer-moderatorin",
+     "time": "2026-11-25T09:13:33Z"
     },
     {
-     "title": "Antisemitismusvorwürfe – Berliner Linke wirft Vanessa Emde aus der Fraktion",
-     "url": "https://www.srf.ch/news/international/antisemitismusvorwuerfe-berliner-linke-wirft-vanessa-emde-aus-der-fraktion",
-     "time": "2026-11-24T20:57:30Z"
+     "title": "Spektakel am Himmel – Supermond: Ein Himmelsschauspiel rund um die Welt",
+     "url": "https://www.srf.ch/news/international/spektakel-am-himmel-supermond-ein-himmelsschauspiel-rund-um-die-welt",
+     "time": "2026-11-25T09:11:42Z"
     },
     {
-     "title": "Dietikon ZH – Auto schleudert über Spielplatz und verletzt Fussgängerin",
-     "url": "https://www.srf.ch/news/schweiz/dietikon-zh-auto-schleudert-ueber-spielplatz-und-verletzt-fussgaengerin",
-     "time": "2026-11-24T20:00:56Z"
+     "title": "Atomwaffen im Orbit – «Im schlimmsten Fall droht das vordigitale Zeitalter»",
+     "url": "https://www.srf.ch/news/international/atomwaffen-im-orbit-im-schlimmsten-fall-droht-das-vordigitale-zeitalter",
+     "time": "2026-11-25T08:26:42Z"
     },
     {
-     "title": "Bald Atombombe im All? – Russland sorgt mit Nuklearplänen für Nervosität",
-     "url": "https://www.srf.ch/news/international/bald-atombombe-im-all-russland-sorgt-mit-nuklearplaenen-fuer-nervositaet",
-     "time": "2026-11-24T19:52:48Z"
+     "title": "Jensen Huang ist zurück – Donald Trump, die Milliarden und die Macht des Genies",
+     "url": "https://www.srf.ch/news/international/jensen-huang-ist-zurueck-donald-trump-die-milliarden-und-die-macht-des-genies",
+     "time": "2026-11-25T07:50:47Z"
     },
     {
-     "title": "Beweis in 17 Millionen Zeilen – KI soll berühmtestes Problem der Mathematik gelöst haben",
-     "url": "https://www.srf.ch/news/beweis-in-17-millionen-zeilen-ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben",
-     "time": "2026-11-24T19:52:27Z"
+     "title": "Er spielte für Inter und VfB – Kuzmanovic: «Mit einem Unentschieden wäre ich glücklich»",
+     "url": "https://www.srf.ch/sport/fussball/champions-league/er-spielte-fuer-inter-und-vfb-kuzmanovic-mit-einem-unentschieden-waere-ich-gluecklich",
+     "time": "2026-11-25T07:38:36Z"
     },
     {
-     "title": "Entspannung auf Rohölmärkten – Benzinpreise in der Schweiz sinken weiter",
-     "url": "https://www.srf.ch/news/schweiz/entspannung-auf-rohoelmaerkten-benzinpreise-in-der-schweiz-sinken-weiter",
-     "time": "2026-11-24T19:47:34Z"
+     "title": "Weihnachtsessen-Frust – Firmen buchen Fondue-Chalet, das es nicht gibt",
+     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/weihnachtsessen-frust-firmen-buchen-fondue-chalet-das-es-nicht-gibt",
+     "time": "2026-11-25T07:27:18Z"
     },
     {
-     "title": "Erreichbarkeit im Notfall – E-Banking-Hotlines: Banken oft nicht rund um die Uhr erreichbar",
-     "url": "https://www.srf.ch/sendungen/kassensturz-espresso/tests/finanzen-versicherungen/erreichbarkeit-im-notfall-e-banking-hotlines-banken-oft-nicht-rund-um-die-uhr-erreichbar",
-     "time": "2026-11-24T19:27:18Z"
+     "title": "Literarische Glückspillen – 5 Bücher, die den November freundlicher machen",
+     "url": "https://www.srf.ch/kultur/literatur/literarische-glueckspillen-5-buecher-die-den-november-freundlicher-machen",
+     "time": "2026-11-25T07:20:44Z"
     }
    ]
   },
@@ -157,54 +157,54 @@
    ],
    "items": [
     {
-     "title": "Borsa: Tokyo, apertura in calo (-0,36%)",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/borsa-tokyo-apertura-in-calo-036_49b11439-00b2-49de-b1b0-c741655a6acf.html",
-     "time": "2026-11-25T00:17:10Z"
+     "title": "Cremlino, 'la Libia ha il diritto di rispondere all'aggressione a Bengasi'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/cremlino-la-libia-ha-il-diritto-di-rispondere-allaggressione-a-bengasi_b230a565-0083-48be-8517-66f29f0b4325.html",
+     "time": "2026-11-25T10:11:23Z"
     },
     {
-     "title": "Abrego Garcia lascerà volontariamente gli Usa per evitare la deportazione",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/abrego-garcia-lascera-volontariamente-gli-usa-per-evitare-la-deportazione_6eb62363-c88c-486b-a609-a0cf04cc95e7.html",
-     "time": "2026-11-24T22:43:28Z"
+     "title": "Mimit, prezzo medio self benzina cala a 1,935 euro al litro, gasolio a 2,194",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/mimit-prezzo-medio-self-benzina-cala-a-1935-euro-al-litro-gasolio_e01c09e6-3828-4261-b42d-c2c5ad33054b.html",
+     "time": "2026-11-25T10:11:04Z"
     },
     {
-     "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_439be299-c155-46b2-9946-2a9189720278.html",
-     "time": "2026-11-24T22:03:11Z"
+     "title": "Inps, 2,34 milioni beneficiari di politiche attive del lavoro, -29%",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/inps-234-milioni-beneficiari-di-politiche-attive-del-lavoro-29_c7ea7c3f-62df-46bc-be69-8abde850c04d.html",
+     "time": "2026-11-25T09:55:45Z"
     },
     {
-     "title": "We Do It Together suona la campanella a Wall Street nel segno delle donne",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/we-do-it-together-suona-la-campanella-a-wall-street-nel-segno-delle-donne_d2a50767-aff0-40b5-a2aa-275f405a6d31.html",
-     "time": "2026-11-24T21:24:13Z"
+     "title": "Il Papa, 'preoccupa che la Cop31 si sia chiusa senza impegni'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/il-papa-preoccupa-che-la-cop31-si-sia-chiusa-senza-impegni_f1787b76-3e95-4244-a0f6-3d7a82710a23.html",
+     "time": "2026-11-25T09:55:39Z"
     },
     {
-     "title": "Wall Street chiude contrastata, Nvidia perde il 7%, giù Nasdaq e S500",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/wall-street-chiude-contrastata-nvidia-perde-il-7-giu-nasdaq-e-s500_e9955b04-21bb-4c5d-adcb-f8222f57a348.html",
-     "time": "2026-11-24T21:11:09Z"
+     "title": "Confindustria: 'Manifattura, l'Italia non arretra. Ma è allarme produttività'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/confindustria-manifattura-litalia-non-arretra.-ma-e-allarme-produttivita_5cff126b-ec2a-4a13-9054-9f0795f0ea53.html",
+     "time": "2026-11-25T09:52:43Z"
     },
     {
-     "title": "Huawei colpevole di 'aver rubato segreti industriali e frode bancaria' in Usa",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/huawei-colpevole-di-aver-rubato-segreti-industriali-e-frode-bancaria-in-usa_e29f36e6-ad4e-4d9f-9c0d-51a750500abc.html",
-     "time": "2026-11-24T20:52:15Z"
+     "title": "Via libera a impennata del 26% delle bollette energetiche in Gb, pesa la guerra",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/via-libera-a-impennata-del-26-delle-bollette-energetiche-in-gb-pesa-la-guerra_e7b543ec-4071-4dd1-9280-e1957eb9cbae.html",
+     "time": "2026-11-25T09:41:20Z"
     },
     {
-     "title": "Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_de799794-4084-4643-853d-6969b6c04b11.html",
-     "time": "2026-11-24T20:17:21Z"
+     "title": "Istat, 'una donna su 3 ha subito almeno una violenza nella vita'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/istat-una-donna-su-3-ha-subito-almeno-una-violenza-nella-vita_227064ac-6dfc-46ad-a072-b8cb942ba2cc.html",
+     "time": "2026-11-25T09:35:37Z"
     },
     {
-     "title": "Jensen Huang chiede scusa, 'sto andando in terapia'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/jensen-huang-chiede-scusa-sto-andando-in-terapia_1c25cef1-98ea-419d-bc83-29696760d768.html",
-     "time": "2026-11-24T20:13:31Z"
+     "title": "Ft, Trump accantona accordi commerciali con Mosca come incentivo per fine guerra",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/ft-trump-accantona-accordi-commerciali-con-mosca-come-incentivo-per-fine_14ab2bad-95f9-427b-9d54-57851355838c.html",
+     "time": "2026-11-25T09:33:49Z"
     },
     {
-     "title": "\"Grandi passi in avanti\" sulla patrimoniale al tavolo progressista",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/grandi-passi-in-avanti-sulla-patrimoniale-al-tavolo-progressista_abc93b0e-ecef-406e-a28b-96ed6d22e5c5.html",
-     "time": "2026-11-24T17:38:52Z"
+     "title": "Il Papa, 'guerre visibili e ibride, conflitti sempre più disumani'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/il-papa-guerre-visibili-e-ibride-conflitti-sempre-piu-disumani_f2c95643-f617-4b2e-89af-7ac24689722f.html",
+     "time": "2026-11-25T09:31:21Z"
     },
     {
-     "title": "Odg maggioranza su ebook, \"stop per elementari, differimento per medie e superiori\"",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/24/odg-maggioranza-su-ebook-stop-per-elementari-differimento-per-medie-e-superiori_20b80b1f-f01b-42e8-a978-4f11ddd32f40.html",
-     "time": "2026-11-24T17:31:23Z"
+     "title": "Jarvis (easyJet), 'fiducioso del potenziale di crescita per i prossimi anni'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/25/jarvis-easyjet-fiducioso-del-potenziale-di-crescita-per-i-prossimi-anni_6fa469dd-bdb3-474e-9874-b97f44165bf2.html",
+     "time": "2026-11-25T09:27:29Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
-     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-25T01:11:57Z"
+     "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+     "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T07:26:54Z"
+    },
+    {
+     "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+     "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T06:36:00Z"
+    },
+    {
+     "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T06:00:36Z"
     },
     {
      "title": "US attorney general dodges questions about Nvidia investigation",
      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T21:19:42Z"
+     "time": "2026-11-25T03:44:07Z"
     },
     {
-     "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-     "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T19:27:23Z"
+     "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+     "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T03:28:37Z"
     },
     {
-     "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-     "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T19:10:31Z"
+     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T02:59:27Z"
     },
     {
-     "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-     "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T18:07:46Z"
+     "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
+     "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T01:51:43Z"
     },
     {
-     "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T17:04:00Z"
+     "title": "Thomas Markle charged in US for possessing child sex abuse images",
+     "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T01:40:42Z"
     },
     {
-     "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-     "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T16:49:07Z"
+     "title": "Trump's rescue of Nvidia's Huang brings political risks",
+     "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T01:03:05Z"
     },
     {
-     "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-     "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T15:35:53Z"
+     "title": "The rising cost of putting food on the table in India",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T01:02:13Z"
     },
     {
-     "title": "Land mine casualties soar in Syria, two years after war",
-     "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T15:17:28Z"
+     "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+     "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T01:00:36Z"
     },
     {
-     "title": "Russian governor detained in rare criminal case against regional leader",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T12:45:43Z"
-    },
-    {
-     "title": "Car bomb tears through Colombian city wounding more than 20",
-     "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T11:45:52Z"
-    },
-    {
-     "title": "Pope Francis' diary reveals claims he saw the devil three times",
-     "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-24T11:10:57Z"
+     "title": "Clashing political visions reflect a divided Spain ahead of election",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-25T00:58:34Z"
     }
    ]
   }
