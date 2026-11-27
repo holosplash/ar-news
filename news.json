@@ -1,6 +1,6 @@
 {
- "version": 227,
- "updated": "2026-11-26T21:52:32Z",
+ "version": 228,
+ "updated": "2026-11-27T04:05:40Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,6 +15,56 @@
    ],
    "items": [
     {
+     "title": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
+     "url": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
+     "time": "2026-11-27T01:29:29Z"
+    },
+    {
+     "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+     "time": "2026-11-27T00:02:22Z"
+    },
+    {
+     "title": "Diskussion in der AfD über Abschiebungen und \"Remigration\"",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1690684.html",
+     "time": "2026-11-26T22:35:29Z"
+    },
+    {
+     "title": "EU-Mitgliedstaaten ringen um Kompromiss für künftigen Haushalt",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1690682.html",
+     "time": "2026-11-26T22:34:24Z"
+    },
+    {
+     "title": "Philipp Köster, Chefredakteur des Fußballmagazins 11FREUNDE, zur Diskussion nach Erkrankung von Musiala",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1690680.html",
+     "time": "2026-11-26T22:32:16Z"
+    },
+    {
+     "title": "Festnahmen wegen mutmaßlichen Anschlagsplänen auf Synagoge in Köln: Welche Rolle spielt der Iran?",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1690678.html",
+     "time": "2026-11-26T22:31:27Z"
+    },
+    {
+     "title": "Conference League: SC Freiburg jubelt gegen Twente Enschede",
+     "url": "https://www.sportschau.de/regional/swr/swr-traumtor-und-spaetes-drama-sc-freiburg-jubelt-gegen-twente-enschede-100.html",
+     "time": "2026-11-26T22:25:00Z"
+    },
+    {
+     "title": "Hoffenheim bekommt Graz mit Mühe in den Griff",
+     "url": "https://www.sportschau.de/regional/swr/swr-sieg-nach-rueckstand-hoffenheim-bekommt-graz-mit-muehe-in-den-griff-100.html",
+     "time": "2026-11-26T22:00:58Z"
+    },
+    {
+     "title": "Wintereinbruch: Schneefall behindert Autoverkehr in Bayern",
+     "url": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
+     "time": "2026-11-26T21:54:39Z"
+    },
+    {
+     "title": "tagesthemen",
+     "url": "https://www.tagesschau.de/tagesthemen/tt-13006.html",
+     "time": "2026-11-26T21:53:38Z"
+    },
+    {
      "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
      "time": "2026-11-26T21:37:41Z"
@@ -23,56 +73,6 @@
      "title": "Souveräne Leverkusener feiern glanzlosen Sieg in Zagreb",
      "url": "https://www.sportschau.de/regional/wdr/wdr-souveraene-leverkusener-feiern-glanzlosen-sieg-in-zagreb-100.html",
      "time": "2026-11-26T20:38:32Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82280.html",
-     "time": "2026-11-26T19:18:35Z"
-    },
-    {
-     "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
-     "time": "2026-11-26T19:16:09Z"
-    },
-    {
-     "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
-     "url": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
-     "time": "2026-11-26T19:15:35Z"
-    },
-    {
-     "title": "Richtungsstreit über Migration: AfD diskutiert über Abschiebungszahlen",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1690626.html",
-     "time": "2026-11-26T19:14:48Z"
-    },
-    {
-     "title": "Zwei Personen in Untersuchungshaft wegen der mutmaßlichen Mitgliedschaft in pro-iranischer Terrorgruppe",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1690632.html",
-     "time": "2026-11-26T19:14:47Z"
-    },
-    {
-     "title": "Pablo Hernández de Cos soll neuer EZB-Chef nach Christine Lagarde werden",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1690620.html",
-     "time": "2026-11-26T19:11:03Z"
-    },
-    {
-     "title": "Bundeskanzler Merz fordert Verknüpfung des EU-Haushalts mit Ukraine-Hilfe",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1690622.html",
-     "time": "2026-11-26T19:10:04Z"
-    },
-    {
-     "title": "Tarifeinigung für die Metall- und Elektroindustrie in der vierten Verhandlungsrunde",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1690616.html",
-     "time": "2026-11-26T19:07:58Z"
-    },
-    {
-     "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
-     "url": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
-     "time": "2026-11-26T18:08:12Z"
-    },
-    {
-     "title": "Warum die Bundeswehr im Senegal trainiert",
-     "url": "https://www.tagesschau.de/ausland/afrika/senegal-uebung-bundeswehr-100.html",
-     "time": "2026-11-26T17:59:05Z"
     }
    ]
   },
@@ -85,14 +85,24 @@
    ],
    "items": [
     {
+     "title": "«Unterwanderungs-Vorwürfe» – Junge SVP Schweiz schliesst zehn Luzerner aus",
+     "url": "https://www.srf.ch/news/schweiz/unterwanderungs-vorwuerfe-junge-svp-schweiz-schliesst-zehn-luzerner-aus",
+     "time": "2026-11-27T03:02:09Z"
+    },
+    {
+     "title": "EU-Finanzplanung bis 2034 – Sondergipfel wird vorzeitig beendet",
+     "url": "https://www.srf.ch/news/international/eu-finanzplanung-bis-2034-sondergipfel-wird-vorzeitig-beendet",
+     "time": "2026-11-27T01:10:05Z"
+    },
+    {
      "title": "«Bilanz»-Ranking – Das sind die 300 reichsten Menschen in der Schweiz",
      "url": "https://www.srf.ch/news/wirtschaft/bilanz-ranking-das-sind-die-300-reichsten-menschen-in-der-schweiz",
      "time": "2026-11-26T21:40:57Z"
     },
     {
-     "title": "«Unterwanderungs-Vorwürfe» – Junge SVP Schweiz schliesst zehn Luzerner aus",
-     "url": "https://www.srf.ch/news/schweiz/unterwanderungs-vorwuerfe-junge-svp-schweiz-schliesst-zehn-luzerner-aus",
-     "time": "2026-11-26T20:57:13Z"
+     "title": "National League am Donnerstag – Ausgerechnet! Carr schiesst Ajoie gegen Biel zum Overtime-Sieg",
+     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-donnerstag-ausgerechnet-carr-schiesst-ajoie-gegen-biel-zum-overtime-sieg",
+     "time": "2026-11-26T21:09:31Z"
     },
     {
      "title": "Conference League: 4. Runde – Lugano muss gegen Jablonec erstmals als Verlierer vom Platz",
@@ -133,16 +143,6 @@
      "title": "Kurzer Aufenthalt, hohe Preise – Stadt Zürich zählt immer mehr Business-Wohnungen",
      "url": "https://www.srf.ch/news/schweiz/kurzer-aufenthalt-hohe-preise-stadt-zuerich-zaehlt-immer-mehr-business-wohnungen",
      "time": "2026-11-26T19:17:20Z"
-    },
-    {
-     "title": "Spaniens Rechte im Aufwind – Steht Pedro Sánchez' migrationsfreundliches Modell vor dem Aus?",
-     "url": "https://www.srf.ch/news/international/spaniens-rechte-im-aufwind-steht-pedro-sanchez-migrationsfreundliches-modell-vor-dem-aus",
-     "time": "2026-11-26T19:16:25Z"
-    },
-    {
-     "title": "Biografie eines Kriminellen – «Ich entscheide mich oft fürs Falsche»: Ein Leben hinter Gittern",
-     "url": "https://www.srf.ch/sendungen/dok/biografie-eines-kriminellen-ich-entscheide-mich-oft-fuers-falsche-ein-leben-hinter-gittern",
-     "time": "2026-11-26T18:00:02Z"
     }
    ]
   },
@@ -157,6 +157,41 @@
    ],
    "items": [
     {
+     "title": "Spagna, Sanchez e Colau in tandem credono nella rimonta sul consorzio Feijoo e Abascal",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/spagna-sanchez-e-colau-in-tandem-credono-nella-rimonta-sul-consorzio-feijoo_60e7f406-a9ee-4d7f-826d-1d807e68413e.html",
+     "time": "2026-11-27T02:19:56Z"
+    },
+    {
+     "title": "Il bilancio spacca l'Europa ma Costa insiste: 'Serve un'intesa a dicembre'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/il-bilancio-spacca-leuropa-ma-costa-insiste-serve-unintesa-a-dicembre_8efd2071-60cc-4a6d-9da5-9029afc0c108.html",
+     "time": "2026-11-27T00:51:55Z"
+    },
+    {
+     "title": "Borsa: Tokyo, apertura in aumento (+0,39%)",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/borsa-tokyo-apertura-in-aumento-039_3434dbd9-3b84-4da7-adec-893c9fe27c01.html",
+     "time": "2026-11-27T00:10:10Z"
+    },
+    {
+     "title": "Venezuela, Onu chiede indipendenza e criteri di merito per nuovi giudici Corte suprema",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/venezuela-onu-chiede-indipendenza-e-criteri-di-merito-per-nuovi-giudici-corte_2942c2d9-e6bb-429c-9734-9bc56c2cdc2e.html",
+     "time": "2026-11-27T00:08:01Z"
+    },
+    {
+     "title": "Costa: '24 Paesi Ue sostengono l'extra prestito per l'Ucraina'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/costa-24-paesi-ue-sostengono-lextra-prestito-per-lucraina_bec4b9c7-2c83-40ea-9671-3426eaf6a02e.html",
+     "time": "2026-11-26T23:53:56Z"
+    },
+    {
+     "title": "Trump, 'la vittoria è a portata di mano in Iran'",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/trump-la-vittoria-e-a-portata-di-mano-in-iran_edbae226-c82f-419b-8251-0d67493dc391.html",
+     "time": "2026-11-26T23:17:51Z"
+    },
+    {
+     "title": "Venezuela abrogherà la legge che vieta agli oppositori di ricoprire cariche pubbliche",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/venezuela-abroghera-la-legge-che-vieta-agli-oppositori-di-ricoprire-cariche-pubbliche_fbbc02f6-db9e-41cb-98f6-ef595c9fc047.html",
+     "time": "2026-11-26T21:59:24Z"
+    },
+    {
      "title": "Merz, 'niente summit domani, fiducioso sull'intesa sul bilancio entro l'anno'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/merz-niente-summit-domani-fiducioso-sullintesa-sul-bilancio-entro-lanno_3c96e7ba-6c51-4c67-8acf-8f4777f0bf61.html",
      "time": "2026-11-26T21:06:05Z"
@@ -170,41 +205,6 @@
      "title": "Orsini, sul Superbonus rassicurazioni da Giorgetti che si torna a quello che era",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/orsini-sul-superbonus-rassicurazioni-da-giorgetti-che-si-torna-a-quello-che-era_451da975-a47a-42a8-961c-d37d83d57bc3.html",
      "time": "2026-11-26T19:40:37Z"
-    },
-    {
-     "title": "Macron, 'non ci sarà accordo sul bilancio Ue a questo vertice'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/macron-non-ci-sara-accordo-sul-bilancio-ue-a-questo-vertice_99a72d97-2cb8-46d8-8f11-c40ca0b98de4.html",
-     "time": "2026-11-26T19:22:46Z"
-    },
-    {
-     "title": "Tra emendamenti FdI non c'è quello sulla sanatoria per le irregolarità sismiche",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/tra-emendamenti-fdi-non-ce-quello-sulla-sanatoria-per-le-irregolarita-sismiche_31224450-3dd6-4633-bd6d-112fb42bfa16.html",
-     "time": "2026-11-26T18:57:55Z"
-    },
-    {
-     "title": "Araghchi a Tajani, 'cordoglio per vittime dell'attacco in Kuwait'",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/araghchi-a-tajani-cordoglio-per-vittime-dellattacco-in-kuwait_c968e4de-8058-4c88-b125-2d5310d096ea.html",
-     "time": "2026-11-26T18:43:41Z"
-    },
-    {
-     "title": "Tajani sente Araghchi, 'Iran nega, é pronto a commissione d'inchiesta congiunta",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/tajani-sente-araghchi-iran-nega-e-pronto-a-commissione-dinchiesta-congiunta_11e82e4f-275c-4cdf-8d4c-9c67c925cb1f.html",
-     "time": "2026-11-26T18:42:15Z"
-    },
-    {
-     "title": "L'ex candidato alla presidenza dell'opposizione annuncia il ritorno in Venezuela",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/lex-candidato-alla-presidenza-dellopposizione-annuncia-il-ritorno-in-venezuela_ef0dd159-aaee-49f7-aa45-12657e632b0a.html",
-     "time": "2026-11-26T17:42:16Z"
-    },
-    {
-     "title": "Famiglia De Gennaro, rendere pubblica integralmente la sua lettera aperta",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/famiglia-de-gennaro-rendere-pubblica-integralmente-la-sua-lettera-aperta_5b2f8968-f565-4de1-b394-14bd18814890.html",
-     "time": "2026-11-26T17:09:31Z"
-    },
-    {
-     "title": "Lo spread tra Btp e Bund tedeschi chiude in ribasso a 107 punti",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-ribasso-a-107-punti_7f7dfd13-11ce-410e-91ef-8b229616a6cb.html",
-     "time": "2026-11-26T17:03:00Z"
     }
    ]
   },
@@ -214,6 +214,46 @@
    "lang": "en",
    "countries": [],
    "items": [
+    {
+     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T03:28:15Z"
+    },
+    {
+     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+     "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T00:52:11Z"
+    },
+    {
+     "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T00:48:11Z"
+    },
+    {
+     "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+     "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T00:47:43Z"
+    },
+    {
+     "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+     "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-26T23:03:16Z"
+    },
+    {
+     "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-26T22:49:27Z"
+    },
+    {
+     "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+     "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-26T22:06:20Z"
+    },
+    {
+     "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+     "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-26T22:01:22Z"
+    },
     {
      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
@@ -230,49 +270,9 @@
      "time": "2026-11-26T15:23:17Z"
     },
     {
-     "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-     "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T15:17:18Z"
-    },
-    {
      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-26T14:44:26Z"
-    },
-    {
-     "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-     "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T14:35:22Z"
-    },
-    {
-     "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-     "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T12:33:23Z"
-    },
-    {
-     "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-     "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T12:16:06Z"
-    },
-    {
-     "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-     "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T11:00:39Z"
-    },
-    {
-     "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-     "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T10:25:51Z"
-    },
-    {
-     "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T10:14:08Z"
-    },
-    {
-     "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-     "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T09:49:42Z"
     }
    ]
   }
