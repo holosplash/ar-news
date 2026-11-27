@@ -1,6 +1,6 @@
 {
- "version": 228,
- "updated": "2026-11-27T04:05:40Z",
+ "version": 229,
+ "updated": "2026-11-27T13:45:24Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,64 +15,64 @@
    ],
    "items": [
     {
-     "title": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
-     "url": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
-     "time": "2026-11-27T01:29:29Z"
+     "title": "Serbiens Studenten nominieren Professor als Staatsoberhaupt",
+     "url": "https://www.tagesschau.de/ausland/europa/serbien-praesidentschaftswahl-professor-100.html",
+     "time": "2026-11-27T13:37:34Z"
     },
     {
-     "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
-     "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
-     "time": "2026-11-27T00:02:22Z"
+     "title": "Was die Neubesetzung der EZB-Spitze bedeutet",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
+     "time": "2026-11-27T13:20:03Z"
     },
     {
-     "title": "Diskussion in der AfD über Abschiebungen und \"Remigration\"",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1690684.html",
-     "time": "2026-11-26T22:35:29Z"
+     "title": "Helge Schneider sagt Tschüss - vielleicht",
+     "url": "https://www.tagesschau.de/kultur/helge-schneider-abschiedstournee-100.html",
+     "time": "2026-11-27T13:18:57Z"
     },
     {
-     "title": "EU-Mitgliedstaaten ringen um Kompromiss für künftigen Haushalt",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1690682.html",
-     "time": "2026-11-26T22:34:24Z"
+     "title": "Ursachensuche: EU streitet weiter ums Geld",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html",
+     "time": "2026-11-27T13:18:17Z"
     },
     {
-     "title": "Philipp Köster, Chefredakteur des Fußballmagazins 11FREUNDE, zur Diskussion nach Erkrankung von Musiala",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1690680.html",
-     "time": "2026-11-26T22:32:16Z"
+     "title": "\"Historisch auf Kante genäht\", Philip Kuntschner, ARD Berlin, zum Abschluss der Haushaltswoche",
+     "url": "https://www.tagesschau.de/video/video-1690942.html",
+     "time": "2026-11-27T13:13:34Z"
     },
     {
-     "title": "Festnahmen wegen mutmaßlichen Anschlagsplänen auf Synagoge in Köln: Welche Rolle spielt der Iran?",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1690678.html",
-     "time": "2026-11-26T22:31:27Z"
+     "title": "Endspurt der Haushaltswoche im Bundestag",
+     "url": "https://www.tagesschau.de/video/video-1690932.html",
+     "time": "2026-11-27T13:09:18Z"
     },
     {
-     "title": "Conference League: SC Freiburg jubelt gegen Twente Enschede",
-     "url": "https://www.sportschau.de/regional/swr/swr-traumtor-und-spaetes-drama-sc-freiburg-jubelt-gegen-twente-enschede-100.html",
-     "time": "2026-11-26T22:25:00Z"
+     "title": "Sondergipfel zum EU-Haushalt vorzeitig beendet",
+     "url": "https://www.tagesschau.de/video/video-1690926.html",
+     "time": "2026-11-27T13:07:35Z"
     },
     {
-     "title": "Hoffenheim bekommt Graz mit Mühe in den Griff",
-     "url": "https://www.sportschau.de/regional/swr/swr-sieg-nach-rueckstand-hoffenheim-bekommt-graz-mit-muehe-in-den-griff-100.html",
-     "time": "2026-11-26T22:00:58Z"
+     "title": "Schmetterling des Jahres, Islandpferde, Weihnachtsmarkt in der Ravennaschlucht",
+     "url": "https://www.tagesschau.de/multimedia/bilder/blickpunkte-10592.html",
+     "time": "2026-11-27T12:43:27Z"
     },
     {
-     "title": "Wintereinbruch: Schneefall behindert Autoverkehr in Bayern",
+     "title": "\"Kampagne der Angst\" - Verdi schildert Einschüchterungsversuche vor Amazon-Streik",
+     "url": "https://www.tagesschau.de/inland/regional/amazon-verdi-arbeitsbedingungen-mitarbeiter-druck-einschuechterung-gera-leipzig,streiks-168.html",
+     "time": "2026-11-27T12:25:02Z"
+    },
+    {
+     "title": "UN sieht fünf \"Hunger-Hotspots\": Ernährungskrisen verschärfen sich",
+     "url": "https://www.tagesschau.de/ausland/afrika/vereinte-nationen-hunger-hotspots-100.html",
+     "time": "2026-11-27T12:09:57Z"
+    },
+    {
+     "title": "DFB warnt vor Folgen für die 3. Liga",
+     "url": "https://www.sportschau.de/fussball/amateurfussball/fernsehvertraege-schadenersatz-und-juristische-fragen,regionalliga-reform-190.html",
+     "time": "2026-11-27T12:01:50Z"
+    },
+    {
+     "title": "Wintereinbruch: Mehr als 400 Unfälle im Süden Bayerns",
      "url": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
-     "time": "2026-11-26T21:54:39Z"
-    },
-    {
-     "title": "tagesthemen",
-     "url": "https://www.tagesschau.de/tagesthemen/tt-13006.html",
-     "time": "2026-11-26T21:53:38Z"
-    },
-    {
-     "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
-     "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
-     "time": "2026-11-26T21:37:41Z"
-    },
-    {
-     "title": "Souveräne Leverkusener feiern glanzlosen Sieg in Zagreb",
-     "url": "https://www.sportschau.de/regional/wdr/wdr-souveraene-leverkusener-feiern-glanzlosen-sieg-in-zagreb-100.html",
-     "time": "2026-11-26T20:38:32Z"
+     "time": "2026-11-27T11:33:25Z"
     }
    ]
   },
@@ -85,64 +85,64 @@
    ],
    "items": [
     {
-     "title": "«Unterwanderungs-Vorwürfe» – Junge SVP Schweiz schliesst zehn Luzerner aus",
-     "url": "https://www.srf.ch/news/schweiz/unterwanderungs-vorwuerfe-junge-svp-schweiz-schliesst-zehn-luzerner-aus",
-     "time": "2026-11-27T03:02:09Z"
+     "title": "«Schönheitsfehler» – Blocher kritisiert SVP-Ticket und bringt Schnegg zurück ins Spiel",
+     "url": "https://www.srf.ch/news/schweiz/schoenheitsfehler-blocher-kritisiert-svp-ticket-und-bringt-schnegg-zurueck-ins-spiel",
+     "time": "2026-11-27T13:35:15Z"
     },
     {
-     "title": "EU-Finanzplanung bis 2034 – Sondergipfel wird vorzeitig beendet",
-     "url": "https://www.srf.ch/news/international/eu-finanzplanung-bis-2034-sondergipfel-wird-vorzeitig-beendet",
-     "time": "2026-11-27T01:10:05Z"
+     "title": "Kontrollverlust auf Kanaren – Warum kommen gerade jetzt so viele Menschen in El Hierro an?",
+     "url": "https://www.srf.ch/news/international/kontrollverlust-auf-kanaren-warum-kommen-gerade-jetzt-so-viele-menschen-in-el-hierro-an",
+     "time": "2026-11-27T13:31:44Z"
     },
     {
-     "title": "«Bilanz»-Ranking – Das sind die 300 reichsten Menschen in der Schweiz",
-     "url": "https://www.srf.ch/news/wirtschaft/bilanz-ranking-das-sind-die-300-reichsten-menschen-in-der-schweiz",
-     "time": "2026-11-26T21:40:57Z"
+     "title": "Persönlichkeitskult bei Nvidia – Jensen Huang ist unantastbar – und das ist ein Risiko",
+     "url": "https://www.srf.ch/news/wirtschaft/persoenlichkeitskult-bei-nvidia-jensen-huang-ist-unantastbar-und-das-ist-ein-risiko",
+     "time": "2026-11-27T13:27:13Z"
     },
     {
-     "title": "National League am Donnerstag – Ausgerechnet! Carr schiesst Ajoie gegen Biel zum Overtime-Sieg",
-     "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-donnerstag-ausgerechnet-carr-schiesst-ajoie-gegen-biel-zum-overtime-sieg",
-     "time": "2026-11-26T21:09:31Z"
+     "title": "Langlauf-Auftakt in Kuusamo – Andersson und Nyenget gewinnen – Schweizer Exploit bleibt aus",
+     "url": "https://www.srf.ch/sport/mehr-sport/langlauf/langlauf-auftakt-in-kuusamo-andersson-und-nyenget-gewinnen-schweizer-exploit-bleibt-aus",
+     "time": "2026-11-27T13:20:15Z"
     },
     {
-     "title": "Conference League: 4. Runde – Lugano muss gegen Jablonec erstmals als Verlierer vom Platz",
-     "url": "https://www.srf.ch/sport/fussball/conference-league/conference-league-4-runde-lugano-muss-gegen-jablonec-erstmals-als-verlierer-vom-platz",
-     "time": "2026-11-26T19:59:36Z"
+     "title": "Ärztin am Bildschirm – Gesundheitszentrum Laufen: Nachts mit Online-Fachärztin",
+     "url": "https://www.srf.ch/news/schweiz/aerztin-am-bildschirm-gesundheitszentrum-laufen-nachts-mit-online-fachaerztin",
+     "time": "2026-11-27T12:55:42Z"
     },
     {
-     "title": "Conference League: 4. Runde – Ajax eine Nummer zu gross für den FC Thun",
-     "url": "https://www.srf.ch/sport/fussball/conference-league/conference-league-4-runde-ajax-eine-nummer-zu-gross-fuer-den-fc-thun",
-     "time": "2026-11-26T19:59:16Z"
+     "title": "Israel – Arabische Parteien in Israel: Erst umworben, jetzt verteufelt",
+     "url": "https://www.srf.ch/news/international/nahost/israel-arabische-parteien-in-israel-erst-umworben-jetzt-verteufelt",
+     "time": "2026-11-27T12:25:30Z"
     },
     {
-     "title": "Hybrider Krieg – Wie Russland Europa immer stärker unter Druck setzt",
-     "url": "https://www.srf.ch/news/international/hybrider-krieg-wie-russland-europa-immer-staerker-unter-druck-setzt",
-     "time": "2026-11-26T19:44:25Z"
+     "title": "Autobahn im Kanton Zürich – Unfall mit 37 Fahrzeugen: Zehn Verletzte, A1-Abschnitt gesperrt",
+     "url": "https://www.srf.ch/news/schweiz/autobahn-im-kanton-zuerich-unfall-mit-37-fahrzeugen-zehn-verletzte-a1-abschnitt-gesperrt",
+     "time": "2026-11-27T12:14:23Z"
     },
     {
-     "title": "Krieg in der Ukraine – Nach Angriffen: Tote und Verletzte auf beiden Seiten",
-     "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-nach-angriffen-tote-und-verletzte-auf-beiden-seiten",
-     "time": "2026-11-26T19:27:09Z"
+     "title": "40 Jahre Café Bar Mokka Thun – Meine Jugend ohne Mokka? Schwer vorstellbar",
+     "url": "https://www.srf.ch/radio-srf-3/musik/40-jahre-cafe-bar-mokka-thun-meine-jugend-ohne-mokka-schwer-vorstellbar",
+     "time": "2026-11-27T11:56:38Z"
     },
     {
-     "title": "Krieg im Nahen Osten – Israel: Mitte-Partei bildet Koalitionsvertrag mit Linksliberalen",
-     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-mitte-partei-bildet-koalitionsvertrag-mit-linksliberalen",
-     "time": "2026-11-26T19:26:52Z"
+     "title": "«Bilanz»-Ranking – Sie gehören zu den Top Ten der reichsten Schweizer",
+     "url": "https://www.srf.ch/news/wirtschaft/bilanz-ranking-sie-gehoeren-zu-den-top-ten-der-reichsten-schweizer",
+     "time": "2026-11-27T11:34:12Z"
     },
     {
-     "title": "Mutmasslicher Kriegsverbrecher – Welche Lehren zieht die Schweiz aus dem Fall Kabuga?",
-     "url": "https://www.srf.ch/news/schweiz/mutmasslicher-kriegsverbrecher-welche-lehren-zieht-die-schweiz-aus-dem-fall-kabuga",
-     "time": "2026-11-26T19:23:22Z"
+     "title": "«Star Wars» in der Realität – Atomwaffen sind im All verboten, aber Krieg ist erlaubt",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/star-wars-in-der-realitaet-atomwaffen-sind-im-all-verboten-aber-krieg-ist-erlaubt",
+     "time": "2026-11-27T11:13:07Z"
     },
     {
-     "title": "EU-Gipfel – Spanier Hernández de Cos soll EZB-Chef werden",
-     "url": "https://www.srf.ch/news/wirtschaft/eu-gipfel-spanier-hernandez-de-cos-soll-ezb-chef-werden",
-     "time": "2026-11-26T19:17:48Z"
+     "title": "Zwei Schweizer Wetten – «Wetten, dass..?»: Das ist die Gästeliste",
+     "url": "https://www.srf.ch/sendungen/unterhaltungssendungen/zwei-schweizer-wetten-wetten-dass-das-ist-die-gaesteliste",
+     "time": "2026-11-27T11:03:20Z"
     },
     {
-     "title": "Kurzer Aufenthalt, hohe Preise – Stadt Zürich zählt immer mehr Business-Wohnungen",
-     "url": "https://www.srf.ch/news/schweiz/kurzer-aufenthalt-hohe-preise-stadt-zuerich-zaehlt-immer-mehr-business-wohnungen",
-     "time": "2026-11-26T19:17:20Z"
+     "title": "UBS-Sorgenbarometer 2026 – Krankenkasse und Co.: Die grössten Sorgen der Schweizer",
+     "url": "https://www.srf.ch/news/schweiz/ubs-sorgenbarometer-2026-krankenkasse-und-co-die-groessten-sorgen-der-schweizer",
+     "time": "2026-11-27T10:55:28Z"
     }
    ]
   },
@@ -156,6 +156,11 @@
     "VA"
    ],
    "items": [
+    {
+     "title": "Il Costa Rica respinge Francesca Albanese, relatrice Onu per i territori palestinesi",
+     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/il-costa-rica-respinge-francesca-albanese-relatrice-onu-per-i-territori-palestinesi_a0141ef9-3859-4dc0-9239-7546d2798330.html",
+     "time": "2026-11-27T05:11:34Z"
+    },
     {
      "title": "Spagna, Sanchez e Colau in tandem credono nella rimonta sul consorzio Feijoo e Abascal",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/27/spagna-sanchez-e-colau-in-tandem-credono-nella-rimonta-sul-consorzio-feijoo_60e7f406-a9ee-4d7f-826d-1d807e68413e.html",
@@ -200,11 +205,6 @@
      "title": "Kiev, 'non abbiamo alcuna intenzione di estendere la guerra alla Libia'",
      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/kiev-non-abbiamo-alcuna-intenzione-di-estendere-la-guerra-alla-libia_182a77d9-1f40-4109-9c3c-c10df22e6d7f.html",
      "time": "2026-11-26T20:48:25Z"
-    },
-    {
-     "title": "Orsini, sul Superbonus rassicurazioni da Giorgetti che si torna a quello che era",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/orsini-sul-superbonus-rassicurazioni-da-giorgetti-che-si-torna-a-quello-che-era_451da975-a47a-42a8-961c-d37d83d57bc3.html",
-     "time": "2026-11-26T19:40:37Z"
     }
    ]
   },
@@ -215,64 +215,64 @@
    "countries": [],
    "items": [
     {
-     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T03:28:15Z"
+     "title": "Rare turtles found inside baggage at Amsterdam airport",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T13:38:07Z"
     },
     {
-     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-     "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T00:52:11Z"
+     "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+     "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T11:44:40Z"
     },
     {
-     "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T00:48:11Z"
+     "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+     "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T11:22:02Z"
     },
     {
-     "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-     "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T00:47:43Z"
+     "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+     "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T10:39:31Z"
     },
     {
-     "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-     "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T23:03:16Z"
+     "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+     "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T10:26:28Z"
     },
     {
-     "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+     "title": "Clashes mar European games as Macron condemns violence",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T10:24:24Z"
+    },
+    {
+     "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T22:49:27Z"
+     "time": "2026-11-27T09:07:48Z"
     },
     {
-     "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-     "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T22:06:20Z"
+     "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+     "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T08:58:08Z"
     },
     {
-     "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-     "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T22:01:22Z"
+     "title": "Millions of wives in South Asia unprotected from marital rape - study",
+     "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T08:13:43Z"
     },
     {
-     "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T21:17:53Z"
+     "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+     "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T07:28:10Z"
     },
     {
-     "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-     "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T16:21:19Z"
+     "title": "EU leaders fail to bridge budget splits as talks stall",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T06:11:55Z"
     },
     {
-     "title": "New UK-EU treaty has 10-year termination clause",
-     "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T15:23:17Z"
-    },
-    {
-     "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-     "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-26T14:44:26Z"
+     "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+     "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T06:09:31Z"
     }
    ]
   }
