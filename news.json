@@ -1,6 +1,6 @@
 {
- "version": 230,
- "updated": "2026-11-27T22:37:54Z",
+ "version": 231,
+ "updated": "2026-11-28T04:40:40Z",
  "fallback": "en",
  "regions": [
   {
@@ -15,9 +15,29 @@
    ],
    "items": [
     {
+     "title": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
+     "url": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
+     "time": "2026-11-28T03:34:41Z"
+    },
+    {
+     "title": "US-Militär beschießt Frachter im Golf von Oman",
+     "url": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html",
+     "time": "2026-11-28T03:27:38Z"
+    },
+    {
+     "title": "Durchsuchung bei Le Pens früherem Bürochef",
+     "url": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
+     "time": "2026-11-28T01:41:50Z"
+    },
+    {
+     "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+     "time": "2026-11-27T23:35:35Z"
+    },
+    {
      "title": "Gladbach und Bremen mit spektakulärem Remis",
      "url": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
-     "time": "2026-11-27T22:33:55Z"
+     "time": "2026-11-27T22:37:07Z"
     },
     {
      "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
@@ -25,54 +45,34 @@
      "time": "2026-11-27T22:10:29Z"
     },
     {
+     "title": "Unterschiedliche Reaktionen auf Kompromiss zur vorgeschlagenen Rentenreform",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1691370.html",
+     "time": "2026-11-27T21:38:51Z"
+    },
+    {
      "title": "tagesthemen",
      "url": "https://www.tagesschau.de/tagesthemen/tt-13012.html",
      "time": "2026-11-27T21:23:36Z"
     },
     {
-     "title": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
-     "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
-     "time": "2026-11-27T19:45:49Z"
+     "title": "Zentralrat der Juden weist Vorwürfe von AfD-Chefin Weidel deutlich zurück",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1691330.html",
+     "time": "2026-11-27T21:14:28Z"
     },
     {
-     "title": "Wahlkampf um neues Parlament in Spanien geht in den Endspurt",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691266.html",
-     "time": "2026-11-27T19:29:45Z"
+     "title": "Spanien vor der Parlamentswahlen: Sánchez gegen Feijóo",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1691336.html",
+     "time": "2026-11-27T21:12:33Z"
     },
     {
-     "title": "\"Black Friday\" lockt mit Rabatten und Sonderangeboten",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691260.html",
-     "time": "2026-11-27T19:27:37Z"
+     "title": "Arbeitslosenzahl sinkt im November nur leicht",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1691328.html",
+     "time": "2026-11-27T21:10:42Z"
     },
     {
-     "title": "EU-Gipfel ohne Ergebnisse beendet",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691256.html",
-     "time": "2026-11-27T19:26:05Z"
-    },
-    {
-     "title": "Bundestag beschließt Haushalt 2027 mit zweithöchster Neuverschuldung",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691254.html",
-     "time": "2026-11-27T19:24:35Z"
-    },
-    {
-     "title": "Gemischte Reaktionen auf Entwurf für Rentenreform",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691252.html",
-     "time": "2026-11-27T19:22:01Z"
-    },
-    {
-     "title": "Markus Preiß, ARD Berlin, spricht mit Arbeitsminister Schweitzer über Entwurf zur Rentenreform",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691248.html",
-     "time": "2026-11-27T19:20:36Z"
-    },
-    {
-     "title": "tagesschau",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82322.html",
-     "time": "2026-11-27T19:18:43Z"
-    },
-    {
-     "title": "Bundesarbeits- und Sozialministerium legt Entwurf zur Rentenreform vor",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691242.html",
-     "time": "2026-11-27T19:18:05Z"
+     "title": "Die Meinung von Philip Kuntschner, BR, zu den Plänen des Bundesarbeitsministers",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1691320.html",
+     "time": "2026-11-27T21:06:48Z"
     }
    ]
   },
@@ -84,6 +84,11 @@
     "CH"
    ],
    "items": [
+    {
+     "title": "Krieg im Nahen Osten – Ärzte ohne Grenzen: Mitarbeiter bei israelischem Angriff getötet",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-aerzte-ohne-grenzen-mitarbeiter-bei-israelischem-angriff-getoetet",
+     "time": "2026-11-28T01:31:22Z"
+    },
     {
      "title": "Arena zu Bundesbudget 2027 – Schon vor dem Showdown im Parlament fliegen die Fetzen",
      "url": "https://www.srf.ch/news/schweiz/arena-zu-bundesbudget-2027-schon-vor-dem-showdown-im-parlament-fliegen-die-fetzen",
@@ -138,11 +143,6 @@
      "title": "Budgetdebatte in Deutschland – Deutscher Bundestag beschliesst Haushalt für 2027",
      "url": "https://www.srf.ch/news/international/budgetdebatte-in-deutschland-deutscher-bundestag-beschliesst-haushalt-fuer-2027",
      "time": "2026-11-27T18:39:09Z"
-    },
-    {
-     "title": "Problematische Lieferketten – Schweizer Rohstoffhändler profitieren von Handel mit Skandalfirma",
-     "url": "https://www.srf.ch/news/schweiz/problematische-lieferketten-schweizer-rohstoffhaendler-profitieren-von-handel-mit-skandalfirma",
-     "time": "2026-11-27T18:00:30Z"
     }
    ]
   },
@@ -215,19 +215,44 @@
    "countries": [],
    "items": [
     {
-     "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+     "title": "Eight killed in Peruvian military helicopter crash",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-28T04:19:16Z"
+    },
+    {
+     "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-28T04:13:45Z"
+    },
+    {
+     "title": "Nigeria's 'ultimate hard man' who become an online meme",
+     "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-28T01:20:35Z"
+    },
+    {
+     "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T22:03:46Z"
+     "time": "2026-11-28T00:56:55Z"
+    },
+    {
+     "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+     "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-28T00:50:11Z"
+    },
+    {
+     "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+     "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-28T00:05:17Z"
+    },
+    {
+     "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+     "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+     "time": "2026-11-27T23:02:35Z"
     },
     {
      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-27T21:55:53Z"
-    },
-    {
-     "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-     "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T20:34:45Z"
     },
     {
      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
@@ -248,31 +273,6 @@
      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
      "time": "2026-11-27T17:19:31Z"
-    },
-    {
-     "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-     "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T16:53:46Z"
-    },
-    {
-     "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
-     "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T16:46:47Z"
-    },
-    {
-     "title": "Brazil pushes back on Macron calling its meat 'doped'",
-     "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T15:54:15Z"
-    },
-    {
-     "title": "Rare turtles found inside baggage at Amsterdam airport",
-     "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T13:38:07Z"
-    },
-    {
-     "title": "Millions of wives in South Asia unprotected from marital rape - study",
-     "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
-     "time": "2026-11-27T08:13:43Z"
     }
    ]
   }
